@@ -1,0 +1,4 @@
+#This file was created by the CookieSwap extension...see cookieswap.mozdev.org
+#NOTE: if this file's extension is 'tx1' then this is an
+# active profile and the cookies in here are old and will be overwritten by the 
+# cookies being managed by the browser

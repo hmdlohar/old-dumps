@@ -1,0 +1,14 @@
+#This file was created by the CookieSwap extension...see cookieswap.mozdev.org
+#NOTE: if this file's extension is 'tx1' then this is an
+# active profile and the cookies in here are old and will be overwritten by the 
+# cookies being managed by the browser
+.google.com	TRUE	/	FALSE	1497791385	PREF	ID=99aa8a49e2975d31:TM=1434719385:LM=1434719385:V=1:S=JDrWdmWd2W87t8da
+.google.com	TRUE	/	FALSE	1450530585	NID	68=fFyrE5lLCvpQwzZX_lXYynL6v-j_2tc_c0IPcMv2TZIV0jPDRqF-Zvgpsp-9nwW-32Y52OQnSNycuxEIsewt_wZPkGPGc6TRMpuNrvcbGS9PvCgpRXXxLCqnhr_bqTgc
+.facebook.com	TRUE	/	TRUE	1497791387	lu	RhjV8F3sCbqBOwpi3-eOB6aw
+.facebook.com	TRUE	/	FALSE	1497791387	datr	lxSEVSvM3DAO-rIliJy-Gg_8
+.facebook.com	TRUE	/	FALSE	1442495387	m_user	0%3A0%3A0%3A0%3Av_1%2Cajax_0%2Cwidth_0%2Cpxr_0%2Cgps_0%3A1434719387%3A2
+.facebook.com	TRUE	/	TRUE	1446435406	c_user	100002337939445
+.facebook.com	TRUE	/	FALSE	1446435406	fr	0ViS3MZA2PeHuz2hk.AWU_CEPfZmNBl5_1CJvu1Io5aOk.BVhBSb.eJ.AAA.0.AWW-sc6-
+.facebook.com	TRUE	/	TRUE	1446435406	xs	212%3A0axf8FNY4zG5ZQ%3A2%3A1434719387%3A3318
+.facebook.com	TRUE	/	FALSE	1446435406	csm	2
+.facebook.com	TRUE	/	TRUE	1446435406	s	Aa5mcRQwuNLA5lWG.BVhBSb

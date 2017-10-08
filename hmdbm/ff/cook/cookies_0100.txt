@@ -1,0 +1,21 @@
+#This file was created by the CookieSwap extension...see cookieswap.mozdev.org
+#NOTE: if this file's extension is 'tx1' then this is an
+# active profile and the cookies in here are old and will be overwritten by the 
+# cookies being managed by the browser
+fonegames.wapka.mobi	FALSE	/	FALSE	1743599556	__utmnemowapka	0x38a561cb1ebf6541
+fonegames.wapka.mobi	FALSE	/	FALSE	1491311557	__utmmobile	0xb0197e8bf205c90e
+.adiquity.com	TRUE	/	FALSE	1459775124	ucookie	8566a275-9293-40ca-8f2d-62f6a461d983
+.google.com	TRUE	/	FALSE	1451603141	NID	69=A5NSYvEK83PJtqBrputvTnlqXM4b1l93nrrrjWhqKkAKW5AeDcA21PR60w1lIOniw6n02qgAdZjjQNZ_Rt0FBl3P0FHOgqwktS506gq_MpUrnDV7ciA9952fig8kLyjQ
+.google.com	TRUE	/	FALSE	1491311524	PREF	ID=325e980b5a6c9417:TM=1428239524:LM=1428239524:S=Dpy5nWnxVHQ3wFeP
+.google.co.in	TRUE	/	FALSE	1444050317	NID	67=lHfTDWFWginMPQEU-35OOc_d9rlJMAnCKBArQHXD7TVFB6lFNJD7CNgzD_6-DKdB3Gqc9ForSHXBWfX2Ay6lUY9nEWxSGyKnIOJag1tih3MFEwJ2JRbVs2oj_Z3Kc-25
+.google.co.in	TRUE	/	FALSE	1491311552	PREF	ID=49e31263cd72ce10:U=204eb562bcaa8db0:FF=0:TM=1428239117:LM=1428239552:S=VyHwiZAMSKjsgez2
+.addmefast.com	TRUE	/	FALSE	1498863985	_ga	GA1.2.1329763531.1435791986
+.facebook.com	TRUE	/	FALSE	1447397772	m_user	0%3A0%3A0%3A0%3Av_1%2Cajax_0%2Cwidth_0%2Cpxr_0%2Cgps_0%3A1439621771%3A2
+.facebook.com	TRUE	/	FALSE	1502693772	datr	kawgVZUewr3IYVAYyS6vb5Kk
+.facebook.com	TRUE	/	TRUE	1502693772	lu	RwaNaad45EJDqhObSh49yMpQ
+.facebook.com	TRUE	/	TRUE	1448109489	c_user	100007489965287
+.facebook.com	TRUE	/	FALSE	1448109489	fr	0ulih3sLRiqTwqEQP.AWWbWXNHkXHxIsJcqCNNOiZ2KhI.BVzuJq.q3.FXO.0.AWVfnvgF
+.facebook.com	TRUE	/	TRUE	1448109489	xs	111%3AC1odDN9cbiTRIw%3A2%3A1439621771%3A12816
+.facebook.com	TRUE	/	FALSE	1448109489	csm	2
+.facebook.com	TRUE	/	TRUE	1448109489	s	Aa4umGi67rt4PBc0.BVzuKL
+ga.wapka.me	FALSE	/	FALSE	1491311556	__utmmobile3	0xa650629e61d2efd3

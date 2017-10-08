@@ -1,0 +1,16 @@
+<?php
+include '../db.php';
+$sql = "CREATE TABLE menu( ".
+       "menu_id INT NOT NULL AUTO_INCREMENT, ".
+       "menu_name TEXT NOT NULL, ".
+       "menu_link TEXT NOT NULL, ".
+       "PRIMARY KEY ( menu_id )); ";
+mysql_select_db( $dbname );
+$retval = mysql_query( $sql, $conn );
+if(! $retval )
+{
+  die('Could not create table: ' . mysql_error());
+}
+echo "Table created successfully\n";
+mysql_close($conn);
+?>

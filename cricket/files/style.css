@@ -1,0 +1,161 @@
+html, body, address, blockquote, div, dl, form, h1, h2, h3, h4, h5, h6, ol, p, pre, table, ul,
+dd, dt, li, tbody, td, tfoot, th, thead, tr, button, del, ins, map, object,
+a, abbr, acronym, b, bdo, big, br, cite, code, dfn, em, i, img, kbd, q, samp, small, span,
+strong, sub, sup, tt, var, legend, fieldset {
+   margin: 0;
+   padding: 0;
+}
+html,body
+{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+#wholeBody{
+	width:350px;
+}
+body{
+	background-color:#EFF0F1;
+	width:350px;
+}
+.header{
+	float:left;
+	width:350px;
+	background-color:#7CB2F5;
+	padding:5px;
+}
+.statusLine{
+	padding:5px;
+}
+.position{
+	color:#0C1B54;
+	margin-left:5px;
+}
+.person{
+	color:blue;
+}
+
+
+.tdwidth{
+	max-width:100px;
+}
+table{
+   table-layout: fixed;
+}
+.ballList{
+  
+}
+.ball{
+   display:inline-block;
+   height:50px;
+   width:50px;
+   background-image:url("../img/ball.png");
+   font-size:40px;
+   text-align:center;
+   font-weight: bold;
+   color:#71E88C;
+}
+.ballType{
+	color:blue;
+	font-size:25px;
+}
+.run{
+	height:70px;
+	width:70px;
+	font-size:35px;
+	margin:10px;
+}
+.wicket{
+	height:70px;
+	width:70px;
+	font-size:15px;
+	margin:10px;
+}
+#manageTeams{
+	color:white;
+	font-size:20px;
+	margin-left:0px;
+	float:left;
+}
+#newTeam{
+	color:blue;
+	font-size:20px;
+	margin-left:0px;
+	float:right;
+	margin-left:50px;
+}
+#teamList{
+	
+}
+.teamName{
+	display:block;	
+	background-color:#94C58C;
+	height:30px;
+	float:left;	
+	margin:2px;
+	width:330px;
+	border-radius: 5px;
+	padding-left:10px;
+	font-size:25px;
+}
+.playerName{
+	display:block;	
+	background-color:#94C58C;
+	height:30px;
+	float:left;	
+	margin:2px;
+	width:330px;
+	border-radius: 5px;
+	padding-left:10px;
+	font-size:25px;
+}
+.editPlayer{
+	margin-right:10px;
+	float:right;	
+}
+.deletePlayer{
+	margin-right:10px;
+	float:right;	
+}
+#teamNames{
+	background-color:#BBAFFF;
+	color:#323165;
+	font-size:30px;
+}
+#screanBlocker{
+	background-color:#BBAFFF;
+	color:#323165;
+	font-size:30px;
+	height:100%;
+	width:350px;
+	position:fixed;
+	top:0px;
+	left:0px;
+	opacity:0.9;
+	display:none;
+}
+.runOut{
+	opacity:1;
+	height:70px;
+	width:70px;
+	font-size:35px;
+	margin:10px;
+}
+tr{
+	padding:5px;
+	height:30px;
+}
+tr{
+	text-align:center;
+}
+table { border-collapse: collapse; }
+
+tr:nth-child(odd) { 
+	border-bottom: 1px solid green;
+	background-color:#ebf5ff;
+	
+ }
+tr:nth-child(even) { 
+	border-bottom: 1px solid red; 
+	background-color:#c8e4ff;
+}

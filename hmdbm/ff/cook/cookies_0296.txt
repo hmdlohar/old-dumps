@@ -1,0 +1,14 @@
+#This file was created by the CookieSwap extension...see cookieswap.mozdev.org
+#NOTE: if this file's extension is 'tx1' then this is an
+# active profile and the cookies in here are old and will be overwritten by the 
+# cookies being managed by the browser
+.google.com	TRUE	/	FALSE	1498973578	PREF	ID=1111111111111111:TM=1435901578:LM=1435901578:V=1:S=be-Vd5_OoXJqvTsa
+.google.com	TRUE	/	FALSE	1451712778	NID	69=Fx5GH8Y7jIrKitRiZMfVtqTAZESLG_XUR2I-hbTpy0olB1Webw1l7rRmPySAKkVw33v3MNsRdOWiOemXPQSRMCVTvsDb3S8bgQ0KmGtZkKmOndO3zWXOH7jPpYeHcRJf
+.facebook.com	TRUE	/	TRUE	1502713847	lu	SgZJEw76Tg0o_P8so_POBQyw
+.facebook.com	TRUE	/	FALSE	1502713847	datr	NZxUVYuA4E4KWV-j5r_Bz3MS
+.facebook.com	TRUE	/	TRUE	1447417847	c_user	100008098654242
+.facebook.com	TRUE	/	FALSE	1447417847	fr	0QW0t6k2Us0jjJ7YY.AWXl2Ij4TTb_gQYfyp6P7iK4yHM.BVzzD2.g8.AAA.0.AWWXhGFR
+.facebook.com	TRUE	/	TRUE	1447417847	xs	126%3AWs4lXTcVgJHuNg%3A2%3A1439641846%3A14218
+.facebook.com	TRUE	/	FALSE	1447417847	csm	2
+.facebook.com	TRUE	/	TRUE	1447417847	s	Aa4BIJN7VVFGaz_z.BVzzD2
+.facebook.com	TRUE	/	FALSE	1447417847	m_user	0%3A0%3A0%3A0%3Av_1%2Cajax_0%2Cwidth_0%2Cpxr_0%2Cgps_0%3A1439641846%3A2

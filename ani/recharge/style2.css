@@ -1,0 +1,24 @@
+body {margin:0px auto;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:10px;color: #000000;background-color:#FFFFFF;max-width: 400px;}
+a:link { text-decoration: none; color : #0000FF;}
+a:active { text-decoration: none; color : #0000FF;}
+a:visited { text-decoration: none; color : #0000FF;}
+a:hover { text-decoration: none; color : #B40404;}
+a.white {color:#ffffff}
+a.white:visited{color:#ffffff}
+a.white:hover { text-decoration: none; color : #F5D0A9 }
+div {margin:1px 0px 1px 0px; padding: 3px 3px 3px 3px;}  
+.header{background-color:#fffff margin-top:1px;font-size:20px;font-weight:bold;text-align:center;color:#088A08; padding: 2px 2px 2px 2px;}
+//.footer1{background-color: #088A08;margin-top:1px;font-size:15px;text-align:left;color:#ffffff; padding: 2px 2px 2px 2px;}
+.headerAd1{margin-top:0px;text-align:left;background:E3FBE9;color:#610BOB;font-size:20px padding: 2px 2px 2px 2px;}
+.headerAd{margin-top:3px;text-align:left; color:red; padding: 2px 2px 2px 2px;}
+.hdng{padding:2px 2px 3px;color:#FFFFFF;background-color:#088A08;border-top:1px solid #82D4AD;border-bottom:1px solid #4E4E4E;}
+.footer{padding:2px 2px 3px;color:#FFFFFF;background-color:#088A08;text-align:center;border-top:1px solid #82D4AD;border-bottom:1px solid #4E4E4E;}
+.footer1{margin-top:3px;text-align:left; color:red; padding: 2px 2px 2px 2px;}
+.a {background-color: #ffffff;  text-align:left;  color: #7E8EB9; border-left:1px solid #FFFFFF; border-right:1px solid #FFFFFF; border-bottom:1px solid #FFFFFF; border-top:1px solid #FFFFFF;}
+.dir,.file {background-color: #ffffff;border-top: 1px dashed #bbb; padding: 1px; vertical-align: middle;}
+.ads1 {margin:0px;background-color: #E6E6E6;text-align: left;color: #000000;}
+.ads2{margin:0px;background-color: #E6E6E6;text-align: left;color: #000000;}
+.msg{background-color: #ffffff;text-align: left;font-size:11px;color: #000000;border-top: 1px dashed #bbb;}
+.next{background-color: #ffffff;text-align: left;color: #000000;border-top: 1px dashed #bbb;}
+.bdr{border:1px solid #088A08;margin:0px;padding: 0px;}
+.center{text-align:center;}

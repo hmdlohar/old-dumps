@@ -1,0 +1,22 @@
+#This file was created by the CookieSwap extension...see cookieswap.mozdev.org
+#NOTE: if this file's extension is 'tx1' then this is an
+# active profile and the cookies in here are old and will be overwritten by the 
+# cookies being managed by the browser
+185.27.134.10	FALSE	/	FALSE	1444486026	pma_lang	en
+185.27.134.10	FALSE	/	FALSE	1444486026	pma_collation_connection	utf8_general_ci
+185.27.134.10	FALSE	/	FALSE	0	SignonSession	eh6qqs76r1dp1tj81on850cs87
+185.27.134.10	FALSE	/	FALSE	0	phpMyAdmin	uu0grvq5ld2gro8jn4ndedsjegv7r4pp
+panel.byethost.com	FALSE	/	FALSE	0	PHPSESSID	o2g6e7fr81asi3em8dmn8tr870
+panel.byethost.com	FALSE	/panel/	FALSE	0	didgettingstarted	1
+panel.byethost.com	FALSE	/panel/	FALSE	1441894015	icFAA	0
+.statcounter.com	TRUE	/	FALSE	1599574024	is_unique	sc2288747.1441894023.0
+mbasic.facebook.com	FALSE	/	FALSE	0	nowfbloged	
+mbasic.facebook.com	FALSE	/login/	FALSE	0	nowfbloged	9910145020
+.facebook.com	TRUE	/	TRUE	1504966283	lu	RwO5rauPQfPcjsEZwo1oXpcA
+.facebook.com	TRUE	/	FALSE	1504966283	datr	RC5QVX_1jQUo_kMY6xBukY_e
+.facebook.com	TRUE	/	TRUE	1449670283	c_user	100000480497259
+.facebook.com	TRUE	/	FALSE	1449670283	fr	0dhgSEAGALvqbLLII.AWXItb2ztYyKxoRjfocrup27giE.BV8Y-L.Cn.AAA.0.AWXP8D6x
+.facebook.com	TRUE	/	TRUE	1449670283	xs	104%3AXLXp3U-fPGKQ-Q%3A2%3A1441894283%3A4060
+.facebook.com	TRUE	/	FALSE	1449670283	csm	2
+.facebook.com	TRUE	/	TRUE	1449670283	s	Aa5jHrXGQQzycMkT.BV8Y-L
+.facebook.com	TRUE	/	FALSE	1449670283	m_user	0%3A0%3A0%3A0%3Av_1%2Cajax_0%2Cwidth_0%2Cpxr_0%2Cgps_0%3A1441894283%3A2

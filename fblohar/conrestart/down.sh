@@ -1,0 +1,1 @@
+nmcli c down uuid e0bafaf9-389c-4c86-915f-fa22f9fdad92

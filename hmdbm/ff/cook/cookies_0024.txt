@@ -1,0 +1,13 @@
+#This file was created by the CookieSwap extension...see cookieswap.mozdev.org
+#NOTE: if this file's extension is 'tx1' then this is an
+# active profile and the cookies in here are old and will be overwritten by the 
+# cookies being managed by the browser
+.google.com	TRUE	/	FALSE	1455804918	NID	68=GXRKeaGstPJii0Y8odGoDZnUFL57rMtK1iZFAXXbGWm3usXI7_11Hay0picrSmkc1ISgNuWPzYAUjwxbI-uJFlV6uXFKvMh1wl9rSd0K8DkdIjg2JJjKh_COUDUJZY2d
+.google.com	TRUE	/	FALSE	1503065718	PREF	ID=1111111111111111:TM=1434719550:LM=1434719550:V=1:S=0ts3jmGS2NyeBWAW
+.google.co.in	TRUE	/	FALSE	1503065718	PREF	ID=1111111111111111:FF=0:TM=1439993718:LM=1439993718:V=1:S=hEuiSF9vY4CUEeck
+.google.co.in	TRUE	/	FALSE	1455804918	NID	70=hQvA9a2Kwcex1JWcXRe4EdpTnf3A28Y7o5RvlFTQ0JpfvblegJvDlg9ZCRYw-wEDru9s6E4y_dAiN094SjwdOSo9dPn-A3jEe1WcUbRlusLVeXzrQ_pBWUEAsr56M5PH
+.facebook.com	TRUE	/	TRUE	1497791559	lu	RQiRHlXMmotmZFxCl_EmVjaw
+.facebook.com	TRUE	/	FALSE	1447769729	fr	0gDiS8m1uHVe9mOKB.AWVVlgzAWCfy38Kq4TNrIMXrK9w.BVhBVG.Cv.AAA.0.AWVeYGUT
+.facebook.com	TRUE	/	FALSE	1503065730	datr	PhWEVV6pttCHbcyi_NOLBoP3
+.facebook.com	TRUE	/	FALSE	0	reg_fb_ref	https%3A%2F%2Fmbasic.facebook.com%2Fphoto.php%3Ffbid%3D988057997902049
+.facebook.com	TRUE	/	FALSE	0	reg_fb_gate	https%3A%2F%2Fmbasic.facebook.com%2Fphoto.php%3Ffbid%3D988057997902049
