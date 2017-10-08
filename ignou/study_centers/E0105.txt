@@ -1,0 +1,232 @@
+
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    1
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0105                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+    1 MP-081244006    0105        RAMPALLY MEENAKSHI              MS04 MS07      
+    2 MP-081244353    0105        SIDDA RAMMURTHY                 MS63      
+    3 MP-083332066    0105        BANDARI KRISHNA MOHAN           MS45 MS94      
+    4 MP-083405096    0105        RAVIKANTI SANTOSH KUMAR         MS01 MS02 MS03 MS04      
+    5 MP-083451434    0105        MDSAMIUDDIN                     MS25 MS91 MS95 MS97      
+    6 MP-091519116    0105        KURA RAVI KUMAR                 MS52 MS91 MS92      
+    7 MP-091575003    0105        ANJUM SHABBANA                  MS08      
+    8 MCA-092105591   0105        GANTI NAGESH                    MCS041 MCS042 MCS043 MCS051    
+    9 MP-093873169    0105        KALLEPALLY KAVITHA              MS45 MS96      
+   10 MCA-094024316   0105        NIKHAT FATIMA                   MCS031 MCS053    
+   11 MCA-095649233   0105        RALLABANDI NARENDAR RAJU        MCS041 MCS042 MCS043 MCS051 MCS053    
+                                                                  MCSE003   
+   12 MCA-100073079   0105        SINGAM RAJINI                   CS60 MCS011 MCS014 MCS031 MCS032    
+                                                                  MCS033 MCS034 MCS035 MCS041 MCS042 MCS043 MCS051 MCS053 MCSE003 MCSE004 MCSE011   
+   13 MP-101864807    0105        SANDEEP KUMAR KANIGANTI         MS92      
+   14 MP-101953261    0105        BONAGIRI BALA RAJU              MS26 MS94      
+   15 MEG-102275408   0105        KAVVAMPELLY SOUJANYA            MEG02 MEG14     
+   16 MEG-102275409   0105        R  VAMSHI KRISHNA               MEG07     
+   17 MEG-102275414   0105        RAFIA NOOR SIDDIQUI             MEG01 MEG05 MEG06 MEG07 MEG14     
+   18 MP-102509080    0105        KANUJA AVINASH KOUR             MS07 MS08      
+   19 BDP-105074530   0105        VIKAS INDURKAR                  BHDE108 EHD04 FST01     
+   20 MAPC-105075603  0105        BHEEMANATH PURNA CHANDRA MOHAN  MPCE023   
+   21 MAPC-105075633  0105        SHRAVAN SHEELAM                 MPC006    
+   22 MEG-105575416   0105        PADMA DEVI KURIKYALA            MEG14     
+   23 MCOM-105575426  0105        CH BHARGAVI                     IBO05 IBO06     
+   24 BSCHOT-1055790110105        SANTHOSH KENCHA                 BOS011 BOS012 BOS013    
+   25 BSCHOT-1055790150105        BHARGAV KAMPALLY                BOS008 BOS011 BOS012 BOS013    
+   26 BSCHOT-1055790240105        PUSPAKAR GOLI                   BOS011 BOS012 BOS013    
+   27 BSCHOT-1055790250105        BODA VENKATA RATNAM             BOS011 BOS012 BOS013    
+   28 MP-110008246    0105        MEKALA RAJENDRA PRASAD          MS05 MS08 MS41 MS42 MS92      
+   29 MP-110008260    0105        KANDAKATLA RAJESH               MS07      
+   30 MEG-110010378   0105        MOHAMMAD SYDUL PASHA            MEG01 MEG02 MEG05 MEG07 MEG10     
+                                                                  MEG14     
+   31 MP-111209908    0105        YADAVALLI SYAM PRASAD           MS06 MS08 MS44 MS45 MS46 MS494     
+                                                                  MS495 MS95      
+   32 BLS-114047145   0105        ANJANEYULU MEKALA               BLS4P     
+   33 MEG-114047231   0105        ASRA THARANNUM                  MEG01 MEG05 MEG06 MEG07 MEG14     
+   34 MEG-114047295   0105        GANGADHAR MARRIPALLI            MEG05     
+   35 MEG-114047335   0105        BANDI SWAPNA                    MEG01 MEG02     
+   36 MEG-114047367   0105        VADLOORI SWARNA LATHA           MEG01 MEG02 MEG05 MEG07 MEG14     
+   37 MEG-114064553   0105        SUSHMA RAVULA                   MEG01 MEG02 MEG14     
+   38 MEG-114072679   0105        RENUKA BOLLAVENI                MEG05 MEG07 MEG14     
+   39 MEG-114072765   0105        RANJITH KUMAR PACHIMATLA        MEG01 MEG02 MEG05 MEG07 MEG14     
+   40 MP-115973998    0105        ODIPIL SHABAZ                   MS41 MS42 MS91 MS93      
+   41 MP-115974001    0105        CHANDRA SHEKHAR KARRE           MS21 MS25 MS27      
+   42 MP-115974968    0105        VAKULABHARANAM ARUNKUMAR        MS25      
+   43 MP-115975683    0105        RAMAKRISHNA KUDIKALA            MS21 MS25 MS27      
+   44 BDP-115978657   0105        FEULA .G                        ANC01 FST01     
+   45 MCA-115981393   0105        BHASKAR GONDA                   MCS013 MCS014 MCS021 MCS022 MCS023    
+                                                                  MCS024 MCS031 MCS032 MCS033 MCS041 MCS042 MCS043 MCS051 MCS052 MCS053 MCSL045   
+   46 MEG-115981877   0105        ENDLA SRIDEVI                   MEG02 MEG04     
+   47 MEG-115982030   0105        RAJAMOULI MUTHYALA              MEG01 MEG02 MEG04 MEG06 MEG07     
+   48 MAPC-115982300  0105        MOHD SHOUKATH                   MPCE023   
+   49 MAH-115984439   0105        JOBY CHACKO                     MHI06 MHI08     
+   50 MAPC-115988103  0105        MOHAMMED.SABIR                  MPCE023   
+   51 MSDFSM-1175373930105        RANITHA POLUSANI                MFN001 MFN004 MFN005 MFN007 MFN008    
+                                                                  MFN009 MFN010    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    2
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0105                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+   52 MP-117724176    0105        MADHUSUDHAN KATUKOJWALA         MS09 MS10 MS11 MS21 MS22 MS23      
+   53 MEG-119024102   0105        SWAPNA R                        MEG01 MEG02 MEG03 MEG05 MEG06     
+                                                                  MEG07 MEG14     
+   54 MEG-119026106   0105        FRANCIS V J                     MEG01 MEG02 MEG03 MEG04 MEG05     
+                                                                  MEG06 MEG07 MEG14     
+   55 MEG-119026191   0105        PRAKASH P V                     MEG01 MEG02 MEG03 MEG04 MEG05     
+                                                                  MEG06 MEG07 MEG14     
+   56 MEG-119026270   0105        JIGY K K                        MEG01 MEG02 MEG03 MEG04 MEG05     
+                                                                  MEG06 MEG07 MEG14     
+   57 MEG-119026453   0105        SITHI MATHEW                    MEG01 MEG02 MEG03 MEG04 MEG05     
+                                                                  MEG06 MEG07 MEG14     
+   58 BSCHOT-1191150510105        RAMABOINA BRAHMAM               BOS004 BOS005 BOS007 BOS008 BOS009    
+                                                                  BOS010    
+   59 MEG-119168653   0105        SURESH MALKA                    MEG02     
+   60 MP-120435993    0105        BABUKRISHNA BHUKYA              MS21      
+   61 MP-121164335    0105        MANDALA RATHAN KUMAR            MS04 MS25 MS91 MS95 MS97      
+   62 MP-121164675    0105        R SURESH KUMAR                  MS22 MS23 MS24 MS27 MS91 MS95      
+                                                                  MS97      
+   63 MP-121165090    0105        MANDALA HARINI                  MS22 MS23 MS24 MS25 MS29 MS91      
+                                                                  MS97      
+   64 MP-121169373    0105        SINDHURA GUNDA                  MS93      
+   65 MP-121169438    0105        VALABHOJU VENUGOPAL             MS10 MS25 MS26 MS91 MS97      
+   66 MP-121169531    0105        SATTU SRAVANTHI MATHA           MS07 MS08 MS09 MS10 MS11 MS91      
+                                                                  MS95      
+   67 MP-121171971    0105        KALPANA ENUMULA                 MS23      
+   68 MP-121172103    0105        ANITHA                          MS62 MS63 MS97      
+   69 MP-121172167    0105        KALYANI CHELLOJU                MS09 MS10 MS91      
+   70 DDT-121177016   0105        VANI MACHARLA                   BPVI011 BPVI012   
+   71 DDT-121177023   0105        KAVITHA ILY                     BPVI011 BPVI012 BPVI013 BPVI015   
+   72 DDT-121177048   0105        MANGA NAGELLY                   BPVI012 BPVI013 BPVI015   
+   73 MEG-124526177   0105        VEMULA KUMARASWAMY              MEG07 MEG14     
+   74 BLS-124526270   0105        MAMATHA ADLA                    BLS3P BLS4P     
+   75 MEG-124532970   0105        KANNAM SNEHALATHA               MEG02 MEG07 MEG14     
+   76 MEG-124543388   0105        EEDUNOORI  BHARATHI             MEG01 MEG02 MEG04     
+   77 BLS-124590290   0105        THUMUGANTI NAGASREE             BLS3P BLS4P     
+   78 MP-125450359    0105        RAJESH GUGULOTHU                MS23 MS26 MS27 MS96      
+   79 MP-125450366    0105        A BIXAPATHI                     MS26 MS27 MS96      
+   80 MAPC-125458077  0105        AMIREDDY SWATHI                 MPCE016   
+   81 BDP-125460439   0105        PEESU MANISHEKAR REDDY          BECE002 BECE214 ECO05 ECO07 EEC11     
+                                                                  FST01     
+   82 BSW-125460951   0105        DONTHU HIMABINDU                BSWE001   
+   83 MCOM-125465674  0105        RAJESH GONE                     IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06 MCO03 MCO04 MCO05 MCO06 MCO07     
+   84 MAPC-126308284  0105        RAJI  XAVIER                    MPC004 MPC005 MPCE022 MPCE023   
+   85 MP-130237502    0105        ASHWIN KUMAR SANA               MS01 MS03 MS05 MS06      
+   86 MP-130237510    0105        RAJKUMAR ARKALA                 MS10 MS25 MS27 MS94      
+   87 MP-130237527    0105        RAJYALAKSHMI TELIKICHERLA       MS10 MS25 MS27 MS94      
+   88 MP-130237770    0105        MOHD JAWEEDUDDIN AHMED          MS44 MS46      
+   89 BED-130238299   0105        MAHAMMAD RAFI SHAIK             BESE065 BESE066 ES334 ES335 ES361     
+   90 BED-130238812   0105        SRIKANTH REDDY MADA             BESE065 BESE066 ES334 ES335 ES362     
+   91 BED-130239140   0105        MAMIDI JAYANTHI                 BESE065 BESE066 ES334 ES335 ES362     
+   92 BED-130239309   0105        SHAINY MOL V S                  BESE065 BESE066 ES334 ES335 ES364     
+   93 BED-130239957   0105        BANDA RAMESH                    BESE065 BESE066 ES334 ES335 ES362     
+   94 MPA-130241700   0105        SUDEEP SHANTI KIRAN BODDU       MPA015 MPA016 MPA017 MPA018 MPS003    
+   95 MAPC-130241756  0105        P LOVELY SEBASTIAN              MPC003 MPC005 MPC006    
+   96 MEG-130245968   0105        HEERAKAR MADHURI                MEG01 MEG02 MEG03 MEG05 MEG07     
+                                                                  MEG08 MEG10     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    3
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0105                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+   97 MEG-130246810   0105        SRINIVAS AITHA                  MEG05 MEG07 MEG10 MEG14     
+   98 MEG-130246827   0105        SHANKARAIAH NARAYANADASU        MEG03 MEG05 MEG07 MEG10 MEG14     
+   99 MEG-130246866   0105        SRINIVAS MOTE                   MEG05 MEG07 MEG10 MEG14     
+  100 CAFE-130247187  0105        SHASHI KIRAN AMBALA             BFEE104   
+  101 MEG-130249546   0105        RAMILLA DHARANI                 MEG01 MEG02 MEG03 MEG04     
+  102 MED-130249901   0105        MOHAMMED SABIR                  MES054 MES055 MES056 MESE064 MESP068   
+  103 MED-130249980   0105        VAIDYA SUDHA RANI               MES055 MES056 MESE066 MESP068   
+  104 MED-130250042   0105        MENNENI NEELIMA                 MES053 MES055 MES056 MESE066 MESP068   
+  105 MED-130250099   0105        MD SHOUKATH                     MES055 MES056 MESE064   
+  106 MED-130250146   0105        RAJITHA MAREPALLI               MES055 MES056 MESE060   
+  107 MED-130250153   0105        TUMMANAPALLY SREENIVASARAO      MES055 MES056 MESE060   
+  108 MED-130250192   0105        APARNA POTHULA                  MES051 MES052 MES053 MES054 MESE059   
+  109 MED-130250200   0105        PERUMANDLA SHANKARAIAH          MES055 MES056 MESE060   
+  110 MED-130250271   0105        BALAJI GANGADHAR AKKALDEVI      MES055 MES056 MESE066   
+  111 MED-130250329   0105        DHARAM DEEP PATIL               MES055 MES056 MESE066   
+  112 MED-130250415   0105        ESLAVATH SWA MY                 MES055 MES056 MESE066   
+  113 MED-130250597   0105        VYAMSANI VENU GOPAL             MES055 MES056 MESE060   
+  114 MED-130250605   0105        NAVEEN KUMAR KACHARLA           MES055 MES056 MESE067   
+  115 MP-135726786    0105        PANDAVULA VINAYKUMAR            MS41 MS42 MS43 MS45      
+  116 DDT-135729853   0105        HARI VENKATACHAITHANYA          BPVI011 BPVI012 BPVI013 BPVI014   
+                                                                  BPVI015 BPVI018   
+  117 CAFE-135730540  0105        VEERALAKSHMI K                  BFE101 BFE102 BFEE102 BFEE104   
+  118 DDT-135732496   0105        JATOTH CHANDRAMOULI             BPVI011 BPVI012 BPVI014 BPVI015   
+  119 DDT-135732511   0105        HECHU RAJESH                    BPVI014 BPVI015   
+  120 DDT-135732615   0105        DAMERA NAGARAJU                 BPVI012 BPVI013 BPVI014 BPVI015   
+                                                                  BPVI017   
+  121 DDT-135732622   0105        DURGAM THIRUPATHI               BPVI011 BPVI012 BPVI013 BPVI014   
+                                                                  BPVI015 BPVI016 BPVI017 BPVI018   
+  122 DDT-135732733   0105        MOTHE JAYASIMHAREDDY            BPVI011 BPVI012 BPVI013 BPVI014   
+                                                                  BPVI015 BPVI016 BPVI017 OSS101 PCO       
+  123 DDT-135732772   0105        PALAMAKULA YADAGIRI             BPVI011 BPVI012 BPVI014 BPVI015   
+                                                                  BPVI016 BPVI017 OSS101    
+  124 DDT-135732812   0105        PATTA NAVEENKUMAR               BPVI011 BPVI012 BPVI013 BPVI014   
+                                                                  BPVI015 BPVI016 BPVI017 BPVI018   
+  125 DDT-135732837   0105        BEERUKURI KRISHNA               BPVI011 BPVI012 BPVI013 BPVI014   
+                                                                  BPVI015 BPVI016 BPVI017 BPVI018 OSS101    
+  126 DDT-135732851   0105        CHAGANTI ANJANEYULU             BPVI011 BPVI012 BPVI014 BPVI015   
+                                                                  BPVI017 BPVI018   
+  127 DDT-135732869   0105        NANABALA SATHISH                BPVI011 BPVI012 BPVI013 BPVI014   
+                                                                  BPVI015 BPVI016 BPVI017   
+  128 DDT-135733212   0105        PALLA VENKATREDDY               BPVI011 BPVI012 BPVI013 BPVI014   
+                                                                  BPVI015 BPVI017 BPVI018 OSS101    
+  129 DWM-135733695   0105        VADDE VERA VENKATA SATYANARAYA  BNRI101 BNRI102 BNRI103 BNRI104   
+                                                                  BNRI105 BNRI106 BNRI107   
+  130 DNHE-135737692  0105        MANGA MUTYALA                   DNHE01 DNHE02 DNHE03    
+  131 MCOM-135737947  0105        KHATIZA JALALUDDIN BUDHWANI     IBO06     
+  132 MCOM-135737954  0105        UZMA TABASSUM                   IBO06     
+  133 DNHE-135740787  0105        T ROHINI SINDURI                DNHE01 DNHE02    
+  134 PGCCL-135740794 0105        BLABATHULA CHAKRAPANI           MIR011 MIR012 MIR013 MIR014    
+  135 BCA-135741116   0105        AADERLA SRINIVASA RAO           BCS012 BCSL013   
+  136 BDP-135741280   0105        PAKALA SUSHMA                   EHI02     
+  137 MCOM-135741732  0105        RADHIKA DODDIPATI               IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  138 MP-140000186    0105        FRANCIS XAVIER V X              MS04 MS05 MS06 MS07 MS08      
+  139 MCOM-140003049  0105        PANDAVULA VINAY KUMAR           IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  140 BDP-140005669   0105        JANARDHAN AKKALA                BEGE101 BEGE102 BSHF101 FEG01     
+                                                                  FEG02     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    4
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0105                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  141 BDP-140005676   0105        SODARI NIRANJAN                 BPAE102 BSHF101 EHI01 FEG01 FEG02     
+  142 MEG-140005952   0105        PUNNAMACHARY P                  MEG01 MEG02 MEG03 MEG04     
+  143 MEG-140005960   0105        I JYOTHI                        MEG01 MEG02 MEG03 MEG04     
+  144 MEG-140005977   0105        T VENKATARAMANA                 MEG01 MEG02 MEG03 MEG04     
+  145 MEG-140005984   0105        JYOTHI O                        MEG01 MEG02 MEG03 MEG04     
+  146 CAFE-140006227  0105        SANDEEP KUMAR T                 BFE101 BFE102 BFEE103 BFEE104   
+  147 DNHE-140006234  0105        SUNITHA N                       DNHE01 DNHE02 DNHE03    
+  148 PGDRD-140006298 0105        PODDUTURI JAGADISHAR            MRD101 MRD102 MRD103 RDD06     
+  149 DECE-140006685  0105        KANDAGATLA VENKATESHWARLU       DECE01 DECE02 DECE03    
+  150 MEC-140007576   0105        MAHIPAL MADASU                  MEC001 MEC002 MEC003 MEC004 MEC105    
+  151 MARD-140007630  0105        VENKATA SHIVA N                 MRD004 MRD101 MRD102 MRD103    
+  152 BDP-140007924   0105        VADICHARLA SRIKANTH             CHE01 FEG01 FEG02 FST01 MTE01     
+  153 BED-140008671   0105        JACOB JOSEPH                    ES331 ES332 ES333 ES343 ES344     
+  154 MPA-140009760   0105        SAI SWAROOP THATI               MPA011 MPA012 MPA013 MPA014    
+  155 MAPC-140009800  0105        RUPA S PILLAI                   MPC001 MPC002 MPC003 MPC004 MPC005    
+                                                                  MPC006 MPCL007   
+  156 ACPDM-140010298 0105        PRADEEP KANDUKURI               BEE001 BEE002 BEE003    
+  157 MED-140012370   0105        GATTU RAJESHWARI                MES051 MES052 MES053 MES054 MESE057   
+  158 BCOMAF-1421434550105        PININTI AJAY                    AED01 BEGE104 ECO13 FEG01 FEG02     
+                                                                  FST01     
+  159 MSDFSM-1421453090105        N SWAMY                         MFN001 MFN002 MFN003 MFN006 MFN008    
+                                                                  MFN010    
+  160 MP-145000577    0105        SHANMUKHA RAO KANURU            MS01 MS02 MS03 MS04      
+  161 BPP-145001658   0105        SIMRAN                          OMT101 OSS101    
+  162 CNCC-145010300  0105        JYOTHI MAMIDI                   CNCC01 CNCC02    
+  163 BCA-145011397   0105        KEERTI REDDY GANGASANI          BCS011 BCS012 BCSL013 ECO01 FEG02     
+  164 CDM-145014772   0105        SHASHI KIRANAMBALA              CDM01 CDM02     
+        

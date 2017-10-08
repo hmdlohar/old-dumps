@@ -1,0 +1,1808 @@
+
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    1
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0408                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+    1 MCA-050095049   0408        JUWEL BARUAH                    MCS034 MCS052 MCSE004 MCSL054   
+    2 MCA-050095221   0408        PINAKI NAG                      MCSL054   
+    3 MCA-050095246   0408        RUPJYOTI DAS                    MCS052 MCSE011 MCSL045 MCSL054   
+    4 MCA-050095515   0408        JIM BAYAN                       MCS035 MCS041 MCS051 MCSL036   
+    5 MCA-060068585   0408        HRISHIKESH SHARMA               MCSE004 MCSL045   
+    6 MCA-063654707   0408        ANJAN BORAH                     MCSL045 MCSL054   
+    7 MCA-070072463   0408        PRANAY KUMAR CHETRI             MCS043    
+    8 MCA-070073970   0408        UZZAL GOSWAMI                   CS60      
+    9 MCA-070074030   0408        MANJIL KUMAR BORGOHAIN          MCS021 MCS022 MCS035 MCS053    
+   10 MCA-070088171   0408        GITIMA SARMA                    MCS035    
+   11 BCA-070089370   0408        HIMANGKA KALITA                 CS71      
+   12 BCA-070089467   0408        ANJAN JYOTI SARMA               CS72P CS74P     
+   13 MP-070089578    0408        SUBRATA BHATTACHARJEE           MS94      
+   14 MCA-070767151   0408        VIKRAM KUMAR SINGH              MCS031 MCS033 MCS035 MCS051 MCS052    
+                                                                  MCS053 MCSE003   
+   15 MCA-072102024   0408        AMIT KUMAR                      MCS021 MCS024 MCS031 MCS041 MCS051    
+                                                                  MCS052 MCSE003 MCSE004 MCSE011 MCSL045   
+   16 BTS-075570027   0408        GOLAP CH SARMA                  TS04 TS06 TS07      
+   17 BTS-075570034   0408        BIMAL SARMA                     TS05      
+   18 BTS-075570066   0408        SUSHMITA BORA                   TS03      
+   19 BDP-076537828   0408        ANINDITA DAS                    BEGE101   
+   20 BDP-076598491   0408        KUMAR CHANDRA BASUMATARY        BEGE101 FHS01     
+   21 MP-081000193    0408        SUDIPTA RAJKHOWA                MS44 MS91 MS95 MS97      
+   22 MP-081095302    0408        SHYAMAL JYOTI BORAH             MS04 MS05 MS06 MS08 MS09      
+   23 MCA-082018937   0408        ROBIN KALITA                    MCS042 MCS051 MCS053 MCSE004 MCSE011   
+                                                                  MCSL036 MCSL045   
+   24 MSO-082305288   0408        DIPANJALI CHOUDHURY             MSO001    
+   25 BDP-082305328   0408        KAKALI BAISHYA                  ESO13     
+   26 MP-083269840    0408        BHAGVAN DAS                     MS08      
+   27 MP-083345070    0408        A.R. PRATHAP                    MS08 MS23 MS24 MS95      
+   28 MP-083396764    0408        DILIP KUKMAR MAHTO              MS01 MS04 MS07 MS09 MS25 MS27      
+   29 MP-083425747    0408        SMRITI KALITA                   MS05 MS07 MS09 MS95      
+   30 MCA-083570422   0408        PRANJAL KUMAR BARUAH            MCS031 MCS032 MCS033 MCS041 MCS042    
+                                                                  MCS043 MCS052 MCSL036   
+   31 MCA-083576448   0408        BANASMITA DAS                   MCS035 MCS051 MCS052 MCS053 MCSE003   
+                                                                  MCSE004 MCSL036 MCSL045 MCSL054   
+   32 MCA-083576470   0408        BASABI GOGOI                    CS05 CS06 CS611P CS62P CS64 CS71      
+                                                                  CS72P CS73 CS74P MCS035 MCS042 MCS053    
+   33 MCA-083576534   0408        DEBRAJ BARMAN                   MCS035 MCS041 MCS042 MCS043 MCS052    
+                                                                  MCS053 MCSE003   
+   34 BCA-084173260   0408        PINKU SHARMA                    BCS061P CS60 CS62P CS63P CS71      
+                                                                  CS72P CS74P     
+   35 MCA-084176090   0408        AMAR NATH PANJIYAR              MCS051 MCSL036 MCSL045 MCSL054   
+   36 MCA-084176352   0408        RANJIT KUMAR SINGH              MCS031 MCSE003 MCSE004 MCSL054   
+   37 MCA-084176400   0408        MISS FARIDA BEGUM               MCS035 MCSE011 MCSL036 MCSL045 MCSL054   
+   38 MSO-084176868   0408        SHABNAM SAHANAJ BEGUM           MSOE002 MSOE004   
+   39 MCA-084177125   0408        JYOTSHNA KAKATI                 MCS035 MCS053 MCSE003 MCSE004 MCSE011   
+                                                                  MCSL036 MCSL045 MCSL054   
+   40 MP-084177393    0408        MOUSUMI GOGOI                   MS08      
+   41 MCA-084179530   0408        NIJWM MACHAHARY                 MCS042 MCSE004 MCSL045 MCSL054   
+   42 MCA-084181623   0408        JUPITARA ROY                    MCS035 MCSL036 MCSL054   
+   43 MCA-085860130   0408        BHIM LAL SAPKOTA                MCS031 MCS034 MCS035 MCS041 MCS042    
+                                                                  MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL036 MCSL045 MCSL054   
+   44 MP-091327950    0408        MANOJ KUMAR                     MS01 MS02 MS03 MS04      
+   45 MP-091347035    0408        MINAKSHI CHOUDHURY              MS04 MS05 MS93      
+   46 MP-091356041    0408        JEEVAN KUMAR SINHA              MS08 MS95      
+   47 MP-091390377    0408        CHAMAN AFRUZA JAHAN             MS08      
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    2
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0408                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+   48 MP-091517800    0408        HIMASHREE SAHARIA               MS08      
+   49 MCA-091713700   0408        RAJEEV SHARMA                   MCSE004 MCSL054   
+   50 MCA-091713789   0408        SRI PANKAJ BHUYAN               MCSE003 MCSE004 MCSE011 MCSL045   
+                                                                  MCSL054   
+   51 MCA-091713796   0408        ABHIJIT BAR TAMULI              MCS031 MCS032 MCS034 MCS052 MCS053    
+   52 MCA-091713804   0408        GOPAL CHETTRI                   MCS031 MCS034 MCS035 MCS041 MCS042    
+                                                                  MCS043 MCS051 MCS052 MCS053 MCSE003 MCSE011 MCSL036 MCSL045 MCSL054   
+   53 BDP-091722272   0408        MOMI CHETRY                     AMT01 ESO13     
+   54 BDP-091722369   0408        ARUNA DHARIKAR                  EEG04 ERD01     
+   55 BDP-091723883   0408        BLINDA SYNGKLI                  ANC01     
+   56 BDP-091724885   0408        MAMONI DAS                      EHD01 FEG01 FEG02 FHS01     
+   57 BDP-091749260   0408        ANJELA MOSHAHARY                ANC01     
+   58 BDP-091749618   0408        MANISHA RAO                     ANC01 ERD01 ESO13 ESO16     
+   59 BDP-091750350   0408        MINAKSHI GOGOI                  EPS11 EPS12     
+   60 BDP-091750368   0408        MINAKSHI SHARMA                 BEGE108 EEG03     
+   61 MCA-091751700   0408        KAMAL DEKA                      MCS031 MCS034 MCS041 MCS042 MCS051    
+                                                                  MCS053 MCSE003 MCSE004 MCSE011   
+   62 BDP-091754071   0408        BINA DEVI                       BHDA101 BRPA101 BSHF101 EEC11     
+                                                                  EPS12 FST01     
+   63 BTS-091754555   0408        BARNALI DAS                     FST01 TS03 TS06 TS07      
+   64 MSO-091755106   0408        NIRMAL CHANDRA DEKA             MPS003 MSO001    
+   65 BCA-091755833   0408        MILAN KUMAR BORO                CS73      
+   66 MCA-091755951   0408        LOKNATH ROY                     MCS042 MCSL045 MCSL054   
+   67 MCA-091755976   0408        HEMANT SONI                     MCS042 MCS043 MCS051 MCSE003 MCSE004   
+                                                                  MCSL054   
+   68 MCA-091756075   0408        BORNALEE PAUL                   MCS042 MCSE004 MCSL054   
+   69 BCA-091756090   0408        RITUPARNA BORAH                 CS610 CS611 CS612 FHS01     
+   70 BCA-091756122   0408        KAMAL NATH                      BCS061 BCS061P CS63P CS64 CS72      
+                                                                  CS72P CS73 CS74 CS74P     
+   71 BCA-092640515   0408        SUMIT SEN                       CS71      
+   72 BCA-092846040   0408        NEERAJ SHARMA                   CS65 CS72P CS74P     
+   73 MHD-094021010   0408        POOJA CHAKRABORTY               MHD05 MHD06 MHD14     
+   74 BDP-094094598   0408        CHANDRA SEKHAR BARUAH           ACS01 BSHF101 EPS03 EPS07 EPS09     
+                                                                  EPS11 EPS15 FST01     
+   75 BDP-094095378   0408        PALLAVI DAS                     ANC01     
+   76 BCA-094095851   0408        SUMAN DAS                       CS68 CS71 CS74 FST01     
+   77 MCA-094095869   0408        MD. MATIUR RAHMAN               MCS042 MCS052 MCS053 MCSE003 MCSE011   
+                                                                  MCSL045 MCSL054   
+   78 MCA-094095923   0408        DHRUBAJYOTI DUTTA               MCS031 MCS032 MCS035 MCS041 MCS042    
+                                                                  MCS043 MCS051 MCS053 MCSE003 MCSE004 MCSE011 MCSL036 MCSL045 MCSL054   
+   79 MCA-094099486   0408        SULTAN MAHMUD                   MCS035 MCS042 MCS043 MCS052 MCS053    
+                                                                  MCSE003 MCSE004 MCSE011 MCSL036 MCSL045   
+   80 BCA-094099605   0408        MANASHJYOTI DEKA                CS62      
+   81 BDP-094100810   0408        RISHIKA DAS                     ANC01     
+   82 BDP-094102079   0408        NYALIT WANGNO                   ACC01 ESO15     
+   83 BDP-094102276   0408        RAKHI SEN GUPTA                 ANC01     
+   84 BSW-094102860   0408        CHANDAMITA DAS                  BSWE001 BSWE006   
+   85 BDP-094107092   0408        SHEETAL SWARGIARY               AEC01 CHE05 CHE06     
+   86 BDP-094108260   0408        SUSAMA JATUA                    ACC01 BSWE005 ECO08 ECO10 ECO14     
+   87 BDP-094109040   0408        MRIDULA DAIMARI                 EHD03     
+   88 BDP-094109222   0408        LILAWATI BASFORE                ANC01     
+   89 BDP-094111196   0408        DALIMI RONGPI                   ACS01     
+   90 BCA-094113000   0408        RAKESH RAY                      CS05 CS06 CS73 CS74 CS75      
+   91 BDP-094113870   0408        LOV DUTTA                       ANC01     
+   92 BDP-094113888   0408        CHAMPA DUTTA                    ANC01     
+   93 BDP-094114540   0408        A LEELA PUSHPAM                 ANC01 EPS12     
+   94 BDP-094789849   0408        VISETUONUO FLORENCE BELHO       ANC01 ESO12     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    3
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0408                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+   95 BDP-094790431   0408        VIMESH_NUO SOPHIE               ANC01 BSWE004 ERD01 ESO15 ESO16     
+   96 BTS-095011376   0408        SANGEETA SARMA                  TS05      
+   97 MCA-096118542   0408        MUKESH KUMAR SAINI              MCS051 MCSL054   
+   98 MCA-098214134   0408        RIMJIM BORUAH                   MCS031 MCS034 MCS041 MCS042 MCS043    
+                                                                  MCS051 MCS052 MCSE003 MCSE004 MCSL045 MCSL054   
+   99 BCA-098827940   0408        DIPEN NATH                      BCS061 BCS061P CS05 CS63P CS65      
+                                                                  CS71 CS72 CS72P CS74P     
+  100 BSCN-100070973  0408        JITU DAS                        BNS109 BNS110 BNS111    
+  101 BDP-100071071   0408        BOBBY BAISHYA                   ANC01     
+  102 MSW-100071235   0408        JACINTA TOPNO                   MSW005 MSW007 MSW008 MSW009 MSWE002   
+                                                                  MSWE003   
+  103 BDP-100071286   0408        RATUL DUTTA                     AMK01     
+  104 MCA-100071338   0408        DIPAK DAS                       MCSE003   
+  105 BDP-100071468   0408        MISS RUPALI GOGOI               EEC11     
+  106 BDP-100071469   0408        SHUBHADEEP BISWAS               EEC07 EPA04     
+  107 BDP-100071471   0408        SYED SAFIQUL HAQUE              ESO12     
+  108 BDP-100071474   0408        MILI DUTTA                      ESO15     
+  109 BCA-100071617   0408        PRASENJIT DEB                   CS60 CS71 CS73 CS74      
+  110 BCA-100071653   0408        AMIT KUMAR RAM                  CS64 CS74P MTE03     
+  111 BDP-100071672   0408        BHARATI SINGH                   EHD06 ESO12 FST01     
+  112 BDP-100072297   0408        BHARATI MEDHI DAS               ASP01 ATR01 BECE015 EEC11     
+  113 BDP-100072306   0408        APARNA KALITA                   BSHF101 ESO11 ESO12 ESO13 FEG01     
+                                                                  FEG02 FST01     
+  114 BCA-100105338   0408        CHANDAN KUMAR SINGH             CS63 CS68 CS73 CS74      
+  115 MCA-100829587   0408        NAYANMONI SARMA                 MCS035 MCS041 MCS043 MCSE011 MCSL054   
+  116 MCA-100830298   0408        NAVAJIT BORUAH                  MCS031 MCS034 MCS035 MCS041 MCS042    
+                                                                  MCS043 MCS051 MCS053 MCSE003 MCSE011 MCSL054   
+  117 BDP-100830449   0408        ABHIJIT SARKAR                  ECO11     
+  118 BDP-100830495   0408        SHATABDI GHOSH                  ECO09 ECO11     
+  119 BTS-100830740   0408        PURNIMA MAHANTA                 TS05      
+  120 MP-101814350    0408        GANESH MAJUMDER                 MS44 MS46 MS92      
+  121 MP-101877470    0408        RANIDEEPA SAIKIA                MS05 MS23      
+  122 MP-101894903    0408        DIPANKAR DAS                    MS92      
+  123 MP-101931503    0408        NITUL DAS                       MS05 MS23      
+  124 MP-102500181    0408        BILLOL SANAKR DEB               MS57 MS91 MS94 MS95      
+  125 MP-102502049    0408        MEHBUB ISLAM AHMED              MS08 MS55 MS57 MS58      
+  126 MP-102506140    0408        PRASANTA PRATIM TAMULY          MS04      
+  127 MP-102509373    0408        BARUN KUMAR GIRI                MS04      
+  128 MP-102512535    0408        NETRA KAMAL BORAH               MS03 MS05 MS08      
+  129 MP-102512543    0408        PRATEEKSHA BARMAN               MS03 MS05 MS08      
+  130 MP-102512918    0408        PARAG SARMA                     MS09 MS27 MS28 MS96      
+  131 BDP-105039003   0408        BHANITA KALITA M                BEGE103 FST01     
+  132 MCOM-105056953  0408        AVELINE HARIE CAIDO             IBO01 IBO02 IBO03 IBO05 IBO06     
+  133 MCA-105068224   0408        BISWAJIT DEKA                   MCSE011   
+  134 MCA-105068227   0408        KANGKON BHATTACHARJEE           MCS032 MCS035 MCS041 MCS042 MCS043    
+                                                                  MCSE011 MCSL036   
+  135 BDP-105068329   0408        SUMITRA KEOT                    AMK01 BEGE101 ECO07 ECO08 ECO09     
+                                                                  ECO11 ECO12 ECO13 ECO14 FST01     
+  136 BCA-105068408   0408        CHINMOY GOSWAMI                 CS06 CS64 CS67 CS69 CS71 CS72      
+                                                                  CS72P CS73 CS74 CS74P CS75      
+  137 MCA-105068479   0408        MOMI DAS                        MCSL054   
+  138 MCOM-105068507  0408        SHINY MITTAL                    MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  139 BCA-105068534   0408        PARTHA PRATIM DEKA              BCS061 CS06 CS68 CS70 CS72 CS73      
+                                                                  CS74 CS74P CS75 FHS01     
+  140 MCA-105068536   0408        SANTANU BARMAN                  CS06 CS64 CS73 MCS031 MCS032 MCS033    
+                                                                  MCS034 MCS035 MCS042 MCS043    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    4
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0408                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  141 BDP-105068564   0408        SUKMAYA SUBBA                   ANC01 EPS03 ESO11 ESO13 ESO14     
+                                                                  ESO15 ESO16 FST01     
+  142 BDP-105068565   0408        TULSI SUBBA                     ANC01 EPS03 ESO13 ESO14 ESO15     
+                                                                  ESO16 FST01     
+  143 BDP-105068625   0408        MANJU CHAUHAN                   ERD01     
+  144 BDP-105068630   0408        KASHMIRI BORA                   CHE01 CHE02     
+  145 BDP-105068641   0408        AJIT PRADHAN                    BPCE014   
+  146 BDP-105068662   0408        SEEMA KAKATI                    BECE016 EEG06     
+  147 MHD-105068820   0408        DEBANJANA ROY CHOUDHURY         MHD01 MHD06 MHD07     
+  148 BDP-105068873   0408        PRITI KESHARI                   ECO08 ECO09     
+  149 MSO-105069143   0408        BABITA BEGUM CHOUDHURY          MPS003 MSOE001 MSOE003 MSOE004   
+  150 MARD-105069419  0408        RASHMI DUTTA                    MRDE002   
+  151 BDP-105072619   0408        SUZANNA TARIANG                 ANC01 ESO12 ESO13 FST01     
+  152 BDP-105072627   0408        EJUMONI DAS                     ACC01 BEGE101 BSHF101 ESO15     
+  153 BDP-105072671   0408        DHEERAJ KR MISHRA               ECO08 ECO09 ECO11     
+  154 BDP-105072672   0408        MUMTAZ AALAM                    BEGE102 ECO03 ECO10 ECO12 FST01     
+  155 BDP-105072694   0408        AKHILESH KUMAR DUBEY            AMK01 AOM01 ECO08 ECO10 ECO11     
+                                                                  EEC10 FST01     
+  156 MPA-105072777   0408        ANJAL BEZBARUA                  MSO002    
+  157 MCA-105073017   0408        SHYAM SUNDAR                    MCSL054   
+  158 MCA-105073025   0408        DIPANKAR SARMA                  MCS014 MCS022 MCS023    
+  159 MCA-105073026   0408        MITALI HAZARIKA                 MCS014 MCS022 MCS023    
+  160 BTS-105073103   0408        ABHIJIT CHOUDHURY               TS03 TS05 TS06 TS07      
+  161 BDP-105073138   0408        JNANASHREE PUJARI               EHD01 EHD06 EPS03 EPS08 EPS09     
+                                                                  EPS11 EPS15 FST01     
+  162 BDP-105073203   0408        DHARITRI KUMARI NATH            ECO08     
+  163 BDP-105073206   0408        POOJA BRAHMA                    ANC01 FST01     
+  164 BCA-105073290   0408        SANJIT SINHA                    CS611 CS612 CS68      
+  165 BCA-105073294   0408        PRASHANTA MAJUMDER              BCS061P CS05 CS06 CS60 CS63P CS68      
+                                                                  CS68P CS72 CS73 CS74 CS75 MTE03     
+  166 BCA-105073297   0408        SYEDA SHABNAM SULTANA AHMED     BCS061 CS64 CS74P FST01     
+  167 MCA-105073304   0408        ARUP SARMA                      BSHF101 CS71 CS73 CS75 FST01 MCS032    
+                                                                  MCS034 MCSL036   
+  168 MP-105073399    0408        ABHINANDAN GOSWAMI              MS04 MS05 MS08 MS10 MS11      
+  169 BTS-105073437   0408        SUNTIA SINGH                    AOM01 TS03 TS04 TS06 TS07      
+  170 BCA-105073463   0408        RIJU AHMED                      CS05 CS06 CS60 CS612 CS65      
+  171 BDP-105073527   0408        BIKIRAN BORDOLOI                AST01 BPAE102 EPS06 EPS15     
+  172 MSO-105073761   0408        TANIA AZMI                      MSO004 MSOE002 MSOE003 MSOE004   
+  173 BSW-105073898   0408        TULU DAS                        BSHF101 BSWE001 BSWE002   
+  174 BDP-105073919   0408        NIRMALA KUMARI PRAJAPATI        ACS01     
+  175 BCA-105073968   0408        ANUKUL MANDAL                   BCS061 BSHF101 CS06 CS62 CS63      
+                                                                  CS63P CS68 CS70 CS72P CS73 CS74P     
+  176 BCA-105073969   0408        PRASANJIT ROY                   BSHF101 CS611 CS612 CS63 CS63P     
+                                                                  CS66 CS68 CS71 CS73 CS74P     
+  177 BDP-105073978   0408        SUNITA SHARMA                   ACC01 ESO13     
+  178 BDP-105074084   0408        PINKY CHETRY                    EHD03     
+  179 BDP-105074089   0408        PAPORI DEKA                     ANC01     
+  180 BDP-105074124   0408        NAZMEEN BEGUM                   ANC01     
+  181 MHD-105119572   0408        JAHANARA BEGUM                  MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD16     
+  182 BCA-105518413   0408        DOLLY SINGHA                    CS60 CS62 CS62P CS63P CS64 CS70      
+                                                                  CS71 CS74P CS75      
+  183 BDP-110047911   0408        SHYAM RAJ SHARMA DHITAL         AFW01 AOM01 BEGE103 ESO12     
+  184 MCA-110048461   0408        ADITYA PRASAD BHATTACHARYYA     MCS035 MCSE004 MCSL025 MCSL036 MCSL045   
+  185 MCA-110048479   0408        BARNALI KALITA                  MCS035 MCSE004 MCSL025 MCSL036 MCSL045   
+  186 MHD-110048519   0408        BHANITA CHOUDHURY               MHD05 MHD14     
+  187 BDP-110048920   0408        PRIYANKA BARUAH                 ECO11     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    5
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0408                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  188 MPA-110049005   0408        MONDIRA SHARMA                  MPA012 MPA013 MPS003    
+  189 BDP-110049424   0408        RUPANJALI TOPPO                 ESO14     
+  190 BDP-110049550   0408        SANJEEV KUMAR                   ANC01     
+  191 BDP-110050593   0408        JYOTSNA BHATTACHARJEE           AHE01 BECE015 EEC07 EEC11 EEC13     
+                                                                  EPS12 FST01     
+  192 BDP-110050601   0408        OLLY BHATTA                     AHE01 BECE015 EEC13     
+  193 BDP-110050855   0408        SANDHYATARA KALITA              ERD01     
+  194 BDP-110050973   0408        MOMI DAS                        EEC07 EEC11 ERD01     
+  195 BDP-110050980   0408        MADHUMITA SEN                   ACS01 BEGE104 EEG06 EPS12     
+  196 BDP-110051151   0408        SHIV KUMAR DAS                  ANC01 BEGE103 EEC14 EHI01 EHI05     
+  197 BDP-110051183   0408        SURABHI DEKA                    BSWE004 ERD01     
+  198 BDP-110051310   0408        RIYA BHATTACHARJEE              ACC01 BEGE102   
+  199 MP-110052382    0408        DR. ANUJ DUTTA                  MS09 MS11 MS28 MS93 MS95      
+  200 BTS-110052651   0408        RISHIKA CHAKI                   AOM01 FST01 TS03 TS05 TS06 TS07      
+  201 BCA-110052676   0408        RAMNATH DOLEY                   CS06 CS612 CS64 CS73 CS74 CS74P     
+                                                                  CS75      
+  202 BCA-110052723   0408        MAINAW DAIMARY                  CS06 CS60 CS610 CS62P CS63 CS64      
+                                                                  CS71 CS73 CS74P MCS032    
+  203 BDP-110056548   0408        CHANDAN KUMAR RAY               ESO13     
+  204 BDP-110056587   0408        HITESH HAZARIKA                 BPC001 BPC002 CTE03 CTE04     
+  205 BDP-110056928   0408        NIBEDITA DAS                    ESO13 ESO14     
+  206 MP-110058240    0408        MONI KANTA BORAH                MS41      
+  207 MP-110058272    0408        BISHOP PAUL CHOWDHURY           MS01 MS08 MS09 MS10      
+  208 MP-110058351    0408        PRASANTA KUMAR KONWAR           MS04 MS08 MS09 MS41      
+  209 MP-110058430    0408        SANDEEP KUMAR DAS               MS04      
+  210 MP-110058455    0408        SUSHANTA SAHA                   MS95 MS96      
+  211 MP-110058527    0408        MISS RUMI ULLAH                 MS95      
+  212 MP-110058684    0408        PANKAJ KUMAR THAKUR             MS41 MS43 MS95 MS97      
+  213 BDP-110061460   0408        SUSHMA GAUTAM                   AOM01 BEGE107 EEG06 ESO12     
+  214 BDP-110061880   0408        UPENDRA CHOUDHARY               AOM01 BHDA101 BSHF101 ECO07 ECO08     
+                                                                  ECO09 ECO10 ECO11 ECO12 ECO14 EEC10 FST01     
+  215 BDP-110062179   0408        BIKASH DEY                      ACS01 AOM01 ECO08 ECO09 ECO11     
+  216 MCA-110062383   0408        ARUNDEEP CHOUDHURY              MCS013 MCS014 MCS021 MCS024    
+  217 MCA-110062423   0408        HARPREET KAUR                   MCSE004 MCSL054   
+  218 BDP-110063228   0408        NIRANJANA SINGH                 ACC01 EHI05     
+  219 MHD-110063797   0408        HEM CHHETRI                     MHD05 MHD14     
+  220 MP-110063955    0408        PRINCE GOSWAMI                  MS02 MS03 MS04 MS07      
+  221 MP-110064119    0408        GAUTAM HAZARIKA                 MS06      
+  222 BDP-110065128   0408        LEENA EKKA                      PHE02     
+  223 MSO-110067827   0408        SHIBANI MISRA                   MSO002    
+  224 BSCN-110068202  0408        MINA BORUAH                     BNS111    
+  225 MPA-110069924   0408        MOHAMMAD WAHIDUR RAHMAN         MPA011 MPA012 MPA013 MPA014    
+  226 MEG-110139658   0408        PALLAVI DAS                     MEG01 MEG05 MEG06 MEG08     
+  227 BDP-110154374   0408        SHYAM LAL VISHNOI               ANC01 EHD02 EHI05 EHI06     
+  228 MP-110684120    0408        AVIJIT DEV                      MS04 MS08      
+  229 MP-110837541    0408        SUBRATA DEB                     MS04 MS41 MS95      
+  230 BCA-110911702   0408        RABIN SAW                       BSHF101 CS05 CS73 CS74 FST01     
+  231 MCA-110930949   0408        SRABANI PAUL                    MCSL036 MCSL045 MCSL054   
+  232 BCA-110966175   0408        LAXMI SAH                       BSHF101 CS06 CS611P CS62 CS62P     
+                                                                  CS64 CS66 CS72P CS74P     
+  233 MPS-111459680   0408        BIKASH SHARMA                   MED008 MPSE006 MPSE012   
+  234 MTM-114057802   0408        AMAN TAYANG                     MTM03 MTM05 MTM07     
+  235 BCA-114057938   0408        NAYAN BAISHYA                   BCS061P CS64 CS68 CS68P CS71      
+  236 BDP-115213955   0408        DEBOJANI HAZARIKA               BPCE011 BPCE015   
+  237 BDP-115224553   0408        SHAHEEN PAUL CHOWDHURY          ANC01 BEGE107 BEGE108 EHI05     
+  238 MPA-115670047   0408        PREM JYOTI                      MPA011 MPA012 MPA014    
+  239 BDP-115924520   0408        RAVI SHANKAR YADAV              ESO13     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    6
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0408                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  240 MCA-115924798   0408        CHANDAMITA BARMAN               MCSE004 MCSL054   
+  241 MSDFSM-1159248910408        BARNALI KUMARI                  MFN002 MFN005 MFN009    
+  242 BDP-115924931   0408        KAVITA KUMARI SINGH             AMT01 EHD07 ESO16     
+  243 MSO-115925578   0408        SWAPNA HAZARIKA                 MSOE004   
+  244 BDP-115925790   0408        LAXMI ACHARYA                   BSHF101 FST01     
+  245 BDP-115925822   0408        PRIYANKA CHETRY                 ESO12 ESO13 ESO14     
+  246 BDP-115925901   0408        DIBAKAR DAS                     ERD01     
+  247 BDP-115925919   0408        RIMI MONDAL                     ANC01 ERD01 ESO13     
+  248 BDP-115925933   0408        MINU DEB                        EHD01 EHD02 EHD04 EHD06 ESO12     
+                                                                  FST01     
+  249 BDP-115926000   0408        ANJALI BRAHMA                   LSE06 LSE09 LSE10     
+  250 MCA-115926190   0408        DULUMANI BAISHYA                MCS035 MCS041 MCS043 MCS051 MCS053    
+                                                                  MCSE003 MCSE004 MCSE011 MCSL036 MCSL054   
+  251 BDP-115926319   0408        BORNALI DEORI                   BECE002 BECE015 BECE214 FST01     
+  252 BDP-115926380   0408        PRABHAT KOTHARI                 BEGE108 EPS11 ESO14     
+  253 BDP-115926420   0408        TILAK RAJ                       BECE002 BSHF101 EEC11 EPA01 EPA03     
+                                                                  EPA04     
+  254 BDP-115926444   0408        PUSHPA PRASAD                   ERD01     
+  255 BDP-115926562   0408        PRIYANKA KASHYAP                BECE015   
+  256 BDP-115926594   0408        ANAMIKA MAHATO                  BEGE101 BEGE103 BEGE105 BHDF101   
+  257 BDP-115926935   0408        SUNANDA SINHA                   BEGE101 ESO12 ESO15 FST01     
+  258 BDP-115927027   0408        NEELAKSHI DEY                   AMT01 BEGE107   
+  259 BDP-115937139   0408        AJOY KR SAHA                    ANC01 EPS11 ERD01 ESO14 ESO15     
+                                                                  ESO16     
+  260 MCA-115938202   0408        NABA JYOTI DAS                  MCS035 MCS043 MCS051 MCSL036   
+  261 BDP-115939118   0408        MRIDULA MARMAY                  ACC01 BECE015   
+  262 MEG-115939537   0408        AMRITA BORO                     MEG01     
+  263 MEG-115940287   0408        NISHA RANI KUMAR                MEG06 MEG07 MEG14     
+  264 MCA-115940359   0408        SARMILA KEOT                    MCS022 MCS034 MCS041 MCS042 MCS051    
+                                                                  MCSE003 MCSE004 MCSE011 MCSL045 MCSL054   
+  265 MTM-115941099   0408        DIVYA TANTI                     MTM02 MTM09     
+  266 BCA-115941185   0408        SUJIT BHOWMICK                  BCS011 BCS012 BCSL021 BCSL022 MCS011    
+                                                                  MCS012    
+  267 BCA-115941240   0408        BALBINDER SINGH                 BCS051 BCS052 BCS054 BCSL032 BCSL045   
+                                                                  BCSL056 BCSL058 BCSL062 BCSL063 MCS012 MCS022    
+  268 MCA-115941755   0408        UTPAL BORAH                     MCS051 MCS053 MCSE003 MCSE004 MCSE011   
+                                                                  MCSL054   
+  269 MCA-115941794   0408        NISHA AGARWAL                   MCS031 MCS032 MCS034 MCS035 MCS041    
+                                                                  MCS042 MCS043 MCSL025 MCSL045   
+  270 MPS-115941802   0408        DOLLY BARUAH                    MPS002 MPS004    
+  271 MCA-115942202   0408        ISRAT JAHAN                     MCS041 MCS042 MCSE004 MCSL054   
+  272 MSW-115942210   0408        PARAMITA DAS                    MSW007 MSWE003   
+  273 MSO-115942535   0408        ARCHANA KALITA                  MSO001    
+  274 BDP-115943014   0408        MADOWNA KHUNDRAKPAM             ESO14     
+  275 MEC-115943282   0408        RASHMI TIMUNGPI                 MEC001 MEC002 MEC003 MEC004 MEC005    
+  276 MCA-115943354   0408        DHRUBA JYOTI DEKA               MCS042 MCSE004   
+  277 MCA-115943379   0408        KANKARAJ SARMA                  MCS023 MCS034 MCS041 MCS042 MCS043    
+                                                                  MCS051 MCS053 MCSE003 MCSE004 MCSE011 MCSL025 MCSL036 MCSL045 MCSL054   
+  278 MCA-115943393   0408        JUMI KALITA                     MCSE004 MCSL054   
+  279 BDP-115943520   0408        SWAPNA MAZUMDAR                 ANC01 BSHF101 EHD02 EHD05     
+  280 BDP-115943583   0408        BHABESH THAKURIA                BPY002    
+  281 BDP-115943694   0408        BABLI GOGOI                     EPS03     
+  282 BDP-115943780   0408        NILAKHI CHAKRAVARTY             AFW01 AOM01 ASP01 BCOA001 BEGE104   
+                                                                  ESO15     
+  283 BDP-115943900   0408        A.ROBIN KUMAR SINGHA            BPY002    
+  284 BDP-115944245   0408        POMPY RANI BAISHYA              BPC005 BPC006 FST01     
+  285 BDP-115944410   0408        ARCHANA BAISHYA                 ANC01 BSHF101 ESO13 ESO14     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    7
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0408                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  286 BDP-115945111   0408        PINKY KERKETTA                  BEGE103   
+  287 BDP-115945333   0408        SUPRIYA SONOWAL                 AOM01 ASP01 EPA04 EPA05 EPA06     
+  288 BDP-115945437   0408        RINI MARGREAT SANGMA            ACC01     
+  289 BDP-115945451   0408        SUNEETHA MOLUGUMATI             BEGE101   
+  290 BDP-115945523   0408        POMPI SINGHA                    EPS03 EPS12 ESO13 ESO15     
+  291 BDP-115945634   0408        JAHNABI SARKAR                  ACC01 BPC003 BPC004 BPC005 BPC006    
+                                                                  BPCE014 BPCE019 FST01     
+  292 BDP-115945666   0408        MOMITA THAKUR                   ANC01 ESO13 ESO15 ESO16     
+  293 MEG-115946113   0408        ANKITA CHOWDHURY                MEG01 MEG07 MEG10     
+  294 MSO-115946328   0408        GENAVAFA BEHPHAT                MPA016 MPS003 MSO001 MSO003 MSOE003   
+                                                                  MSOE004   
+  295 MSO-115946407   0408        DHARITRI DEKA                   MSO003 MSOE001 MSOE002 MSOE003 MSOE004   
+  296 MCOM-115947090  0408        MINAKSHI SAIKIA                 IBO01 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+  297 MHD-115947320   0408        BIJOYSHREE KALITA               MHD05 MHD13     
+  298 MSO-115947541   0408        CHRISTINA DAIMARY               MPS003 MSO001 MSOE001 MSOE003   
+  299 MSO-115947598   0408        RISHTA TIWARI                   MSO001    
+  300 BDP-115948504   0408        MOASUNUP BRAHMA                 ANC01 BEGE103 EPA05 EPA06 ERD01     
+  301 MSO-115948693   0408        RESHMA CHETTRI                  MSOE001 MSOE002 MSOE003 MSOE004   
+  302 BDP-115948780   0408        SABINA AKHTARA RAHMAN           BPAE102 ECO03 ECO05 ECO07 ECO08     
+                                                                  ECO09 ECO12 ECO13 FST01     
+  303 BDP-115949079   0408        LAISHRAM BANDANA SINGHA         ACC01 BSHF101 EPS09     
+  304 BDP-115949093   0408        RAJ KUMARI RAI                  ERD01     
+  305 BDP-115949158   0408        POLY DEY                        ANC01 BPSE212 EPS11 ERD01 ESO13     
+                                                                  ESO15 ESO16     
+  306 BDP-115949506   0408        BHIMA DEVI                      ACC01 BHDE107 EHD03 EHD04 EHD05     
+  307 MCOM-115950747  0408        RANJANA HARLALKA                MCO05     
+  308 BDP-115950801   0408        NISHANT KUMAR                   ACC01 EPS08 EPS09 EPS15 FST01     
+  309 MSO-115951011   0408        SMITA DEKA                      MSO001    
+  310 MSO-115951043   0408        MRIDUSMITA BARMAN               MPA016 MSO001 MSOE001   
+  311 BDP-115951455   0408        MANJU DEVI                      ESO13     
+  312 MCA-115951598   0408        JYOTIRMOY GOSWAMI               MCS035 MCS042 MCS053 MCSE004 MCSE011   
+  313 MCA-115951606   0408        DEVAJIT CHAKRABORTY             MCS035    
+  314 BDP-115951638   0408        MOMEE SHARMA                    AED01 AMK01 AOM01 ECO08 ECO14     
+                                                                  EEC11     
+  315 MP-115951985    0408        BHARGAB BORAH                   MS24      
+  316 BDP-115952156   0408        ROHINA YASMIN                   ACC01 ANC01 CHE01 CHE02 LSE06     
+                                                                  LSE09 LSE10     
+  317 BDP-115952740   0408        GAURAV SHARMA                   ANC01 EPA03 EPA04 EPA05 EPA06     
+                                                                  FST01     
+  318 BDP-115952780   0408        MRIDULA KALITA                  ACS01 EPS09 ERD01 FST01     
+  319 BDP-115952955   0408        KUSH DUTTA                      BECE002 ECO01 ECO03 ECO05 ECO08     
+                                                                  ECO10 ECO12 ECO14 FST01     
+  320 BDP-115953251   0408        MONDIRA NARZARY                 BEGE101 BSHF101 ESO12     
+  321 BDP-115955270   0408        JAYASHREE BANIA                 ACC01 ERD01 ESO12 ESO14 ESO15     
+                                                                  ESO16     
+  322 MP-115956003    0408        SUMAN SUGANDHI MAHANTA          MS08 MS27 MS95      
+  323 MP-115956114    0408        JITU KALITA                     MS04      
+  324 MP-115956160    0408        DIGANTA KUMAR SARMAH            MS95 MS96      
+  325 MP-115956218    0408        DULAL CHANDRA SAHA              MS45 MS92 MS95      
+  326 MP-115956540    0408        NISHA TALUKDAR                  MS08 MS25 MS27      
+  327 MP-115956580    0408        HARAMOHAN NATH                  MS25 MS26 MS27 MS28      
+  328 MP-115956730    0408        PRAMOD KUMAR PATOWARY           MS11 MS28 MS93 MS95      
+  329 BDP-115957020   0408        SRISTI SHARMA                   BSHF101 ECO11     
+  330 BDP-115957234   0408        BABY SINGHA                     AMK01 AOM01 ECO02 ECO05 ECO09     
+                                                                  ECO11 ECO13 ECO14     
+  331 MSW-115957320   0408        SRADHANJALI THAKURIA            MSW007 MSWE001   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    8
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0408                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  332 BDP-115957930   0408        MANIKA KALITA                   AHE01 CHE04 MTE02 PHE07 PHE11     
+                                                                  PHE13 PHE14     
+  333 BDP-115958282   0408        SHATABDI BISWAS                 ACC01 MTE03 MTE11 MTE12 MTE13     
+                                                                  MTE14 PHE10     
+  334 BDP-115958537   0408        ASIFA BANO                      AOM01 ECO08 EPA05     
+  335 BDP-115958544   0408        SHAISTHA PARWEEN                AOM01 ECO11 EPA05     
+  336 MCA-115958648   0408        JYOTI PRASAD SARMA              MCS034 MCS041 MCS042 MCS053 MCSE003   
+                                                                  MCSE004 MCSL045 MCSL054   
+  337 MCA-115958662   0408        SAMARJIT TAMULI                 MCS035 MCSE003 MCSE011 MCSL036 MCSL045   
+                                                                  MCSL054   
+  338 MCA-115958702   0408        AMANUL HAQUE                    MCS041 MCSE004 MCSL054   
+  339 BSW-115958766   0408        MIRMILY DERAPI                  BSWE003 BSWE005 BSWE006 FST01     
+  340 BLS-115959062   0408        BABITA MAHANTA                  BLS07     
+  341 MPA-115959134   0408        PARTHA HAZARIKA                 MPA011 MPA012 MPA013 MPA014    
+  342 BDP-115960042   0408        REKHA KUMARI JAISWAL            ATR01 EPS11 ESO15 ESO16     
+  343 MPA-115960289   0408        MEHJABEEN RAHMAN                MPA011 MPA012 MPA013 MPA014 MPA015    
+                                                                  MPA016 MPA017 MPA018 MPS003    
+  344 BCA-115960880   0408        KUTUBUDDIN AHMED                BCS012 BCS031 BCS040 BCS054 BCSL022   
+                                                                  BCSL033 BCSL043 BCSL044 BCSL045 ECO02 MCS012 MCS013 MCS014 MCS023 MCS024 MCSL016   
+  345 BCA-115960898   0408        AMIT KUMAR SARKAR               BCS012 BCS031 BCS053 BCS062 BCSL032   
+                                                                  BCSL043 MCS012 MCS014 MCS021 MCS024    
+  346 MCA-115960906   0408        SAPAM SONIA DEVI                BCS054 BCSL063 MCS031 MCS032 MCS033    
+                                                                  MCS034 MCS035 MCSL016 MCSL036   
+  347 MSO-115961954   0408        RASHMI KHARIGAPSA               MSO001 MSO002 MSOE001 MSOE003 MSOE004   
+  348 BCA-115964516   0408        SHASHI BHUSHAN SINGH            BCS011 BCS012 BCS041 BCS055 BCS062    
+                                                                  BCSL063 MCS011 MCS012 MCS013 MCS014 MCS024    
+  349 BSW-115964999   0408        RASHMI REKHA DEKA               BSWE003 BSWE005 BSWE006   
+  350 MEG-115965041   0408        CHINU ARA BEGUM                 MEG02     
+  351 MCA-115965073   0408        NAIMUDDIN AHMED                 MCS024 MCS031 MCS041 MCS042 MCSL025   
+  352 BDP-115966297   0408        ROSELIN TIMUNGPI                ERD01     
+  353 BDP-115966369   0408        RITA KUMARI SHARMA              ACC01 EHD04 EHD07 ESO14     
+  354 MCA-115966645   0408        LOKNATH DAS                     MCS042 MCS052 MCSE003 MCSE004 MCSL036   
+                                                                  MCSL045 MCSL054   
+  355 BDP-115966874   0408        SANGITA KUMARI                  ACC01 ESO13     
+  356 BDP-115966960   0408        FARIDA BEGUM                    ECO11     
+  357 BDP-115967006   0408        SEEMA KUMARI SAH                EHD05     
+  358 BDP-115967543   0408        JAYA BASUMATARY                 BPC003 BPC004    
+  359 BDP-115968617   0408        RASHMI DEKA                     ACC01 EPS11 ESO15 FST01     
+  360 BDP-115968670   0408        DIPIKA ROY                      ANC01 BHDE108 EHD04 FST01     
+  361 BCA-115968989   0408        TITAN BENERJEE                  BCS040 BCS051 BCS052 BCS054 BCS062    
+                                                                  BCSL058 BCSL063 MCS014 MCS022    
+  362 BSW-115969561   0408        RESHAM KHAN                     BSWE005 BSWE006   
+  363 MCA-115969619   0408        ABHIJEET CHETIA                 MCS051 MCSE003 MCSE004 MCSE011   
+  364 MSO-115969870   0408        JWNGMA BRAHMA                   MSO001 MSO002 MSO003    
+  365 BTS-115969934   0408        TANIMA PAUL                     TS03      
+  366 MSW-115969941   0408        HIMA RANI BAISHYA               MSW001 MSW002 MSW003 MSW006    
+  367 MSW-115969959   0408        PERINE CHRISTOPHER              MSW006 MSW007 MSW008 MSW009    
+  368 MSW-115970050   0408        PALLABI BORDOLOI                MSW001 MSW004 MSW005 MSW006    
+  369 BDP-115970580   0408        PAPIYA CHAKRABORTY              ACC01 ANC01     
+  370 BDP-115970788   0408        KIRAN JIT KAUR                  AMK01 AOM01 ECO09 ECO12 EPA05     
+  371 BCA-115971281   0408        PURNIMA KEOT                    BCS040 BCS051 BCS052 BCS054 BCSL057   
+                                                                  BCSL058 BCSL063 MCS022    
+  372 BDP-115971987   0408        SOHINI GHOSH                    ACS01 MTE01 MTE02 MTE04 MTE05     
+                                                                  MTE06 MTE07 MTE08 MTE09 MTE10 MTE11 MTE12     
+  373 BDP-115972015   0408        DIPA MANI GOSWAMI SHARMA        EHD05     
+  374 BDP-115972047   0408        SURNIKA GOGOI                   ESO15 ESO16     
+  375 MCA-115972180   0408        KAMAL DEV BHUYAN                MCSE003 MCSE004 MCSE011   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    9
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0408                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  376 MP-115972269    0408        RUPAK SHARMA                    MS62 MS63 MS65 MS66 MS68 MS95      
+  377 BDP-115972735   0408        BHANITA PATHAK                  AOM01 ECO03 ECO10 ECO11 ECO14     
+                                                                  ESO11 FST01     
+  378 BCA-116053778   0408        KUMAM KAVITA DEVI               BCS054    
+  379 MP-116334172    0408        SHRABANTI BERA                  MS27 MS91 MS95 MS97      
+  380 MPA-117063109   0408        SHAILENDRA KUMAR                MPA013 MPA015 MPA017 MPA018 MPS003    
+  381 MP-117722885    0408        MUKESH KUMAR KHAIRWAL           MS09 MS10 MS11 MS25 MS26 MS27      
+                                                                  MS28 MS91      
+  382 MSW-119054223   0408        PURABI DAS                      MSW007    
+  383 MSW-119054294   0408        SUBHANEETA BORUAH               MSW009 MSWE001   
+  384 MSW-119069151   0408        MANOJ KUMAR NATH                MSW007 MSW009    
+  385 MCA-119128746   0408        ROSEUDDIN AHMED                 MCS021 MCS031 MCS032 MCSL025 MCSL036   
+  386 MTM-119130885   0408        DOLISRI ROY                     MTM14     
+  387 MSW-119135268   0408        JUMI HAZARIKA                   MSW007 MSW008 MSWE001   
+  388 MSW-119168986   0408        KHANJANA PATHAK                 MSW001 MSW002 MSW003 MSW004 MSW005    
+  389 MHD-119196899   0408        PUJA KUMARI JHA                 MHD05     
+  390 MCA-119216249   0408        NABA KUMAR MEDHI                MCS021 MCS022 MCS031 MCS032 MCS034    
+                                                                  MCS035 MCSL025 MCSL036   
+  391 MSW-119226160   0408        SHRADHA GOSWAMI                 MSW009    
+  392 MCA-119240082   0408        CHANDANA CHAMUAH                MCS021 MCS032 MCS034 MCSL025 MCSL036   
+  393 BDP-121028627   0408        RAVINDRA KUMAR                  AMT01 BECE214 EHI05 EPA06     
+  394 MP-121585688    0408        DHRUBAJYOTI SARMA               MS611 MS612 MS66 MS68 MS93 MS95      
+  395 MSO-121587760   0408        BINI YEME                       MSO002 MSO003 MSOE001 MSOE003 MSOE004   
+  396 BDP-121588200   0408        DEVLAXMI DEORI                  ACC01 ANC01 BEGE101 EEC07 ESO15     
+  397 BDP-121588225   0408        DURGA DEVI                      ACC01 BHDE107 EHD04 ESO14     
+  398 BDP-121588240   0408        JWANGMA RANI BORO               ANC01 EPS03 EPS09 EPS15 ESO12     
+  399 MP-121589947    0408        ABHIJIT KALITA                  MS09 MS11 MS91 MS95      
+  400 MP-121589979    0408        FARAH M A RAHMAN                MS09      
+  401 MP-121589986    0408        DAISY LATA KUMAR                MS26 MS28 MS94 MS95      
+  402 MP-121590017    0408        ARUNJEET KHAUND                 MS612 MS66 MS91      
+  403 MP-121590371    0408        SHAILEN CHAKRABORTY             MS52 MS53 MS56      
+  404 BDP-121590705   0408        BIJOYLAKSHMI ADHIKARI           AMK01 BCOA001 ECO08 ECO09 ECO10     
+                                                                  ECO11 ECO12 EEC11 EHI01 FST01     
+  405 MP-121591080    0408        RUPAM KALITA                    MS01 MS04 MS08 MS25 MS27      
+  406 MP-121591398    0408        DHIRESWAR DAIMARY               MS95      
+  407 MP-121591484    0408        DEEPSIKHA KALITA                MS21 MS25 MS27 MS91 MS97      
+  408 MP-121591491    0408        JOYDEEP GHOSH                   MS09 MS10 MS25      
+  409 MHD-121591889   0408        DEEPA SHARMA                    MHD05     
+  410 MSO-121591968   0408        JAYA DAS                        MSOE003 MSOE004   
+  411 MEG-121592225   0408        USHA DADHEECH                   MEG01 MEG05 MEG06 MEG07 MEG10     
+  412 MEC-121592336   0408        KANGKANA BAISHYA                MEC001 MEC003    
+  413 BCA-121592415   0408        CHIRANJIT RABHA                 BCS040 BCS041 BCS051 BCS052 BCS055    
+                                                                  BCS062 BCSL032 BCSL033 BCSL034 BCSL045 BCSL056 BCSL057 BCSL058 BCSL063 MCS022 MCS024    
+  414 BDP-121592447   0408        NISHIRANJAN KUMAR TIWARI        CHE02 MTE06 MTE07 MTE08 MTE09     
+                                                                  MTE10     
+  415 MP-121592866    0408        TAKHELLAMBAM THABA CHANU        MS04      
+  416 BDP-121593400   0408        KUNDAL DAS                      ECO01 ECO05 ECO11 ECO12 ECO14     
+                                                                  FST01     
+  417 MHD-121593692   0408        PALLAVI NATH                    MHD05     
+  418 BDP-121593764   0408        SHEKHARJIT SAIKAI               ATR01 EHI05 EHI06 EPS03 EPS11     
+  419 BDP-121593789   0408        AZMIARA AHMED                   FST01     
+  420 BDP-121593804   0408        KABITA MANTA                    BEGE101 BEGE102 ERD01 ESO13 ESO14     
+  421 MP-121595198    0408        RAKESH KUMAR RAY                MS42 MS43 MS46 MS91 MS92 MS95      
+  422 MSO-121595245   0408        RANJITA ROY                     MSO001 MSO003 MSO004    
+  423 BDP-121596903   0408        PAPARI BHATTACHARYYA            ACC01 BEGE104 BEGE108 EEG06     
+  424 MP-121597066    0408        ANJANA BHOWMIK                  MS04 MS08 MS94      
+  425 MP-121597604    0408        SEEMA SARMA BORAH               MS25 MS27 MS97      
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   10
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0408                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  426 MP-121597611    0408        PALLABI DHOLUA                  MS25 MS27 MS97      
+  427 MP-121597629    0408        DEEPAK DEY                      MS95      
+  428 MP-121597636    0408        MADHUSMITA BARMAN               MS04 MS11 MS41 MS43 MS44 MS45      
+                                                                  MS46 MS91      
+  429 MP-121597675    0408        HITESH HATKHOWA                 MS55 MS57 MS58 MS91 MS95      
+  430 MP-121597793    0408        MARRA RAMA KRISHNA              MS08 MS25 MS26 MS27 MS28      
+  431 MCA-121598320   0408        SHWETA BHARATI                  MCS041 MCSE004 MCSL054   
+  432 MPA-121598573   0408        JUBIN FIROZA                    MPA015 MPA016 MPA017 MPA018    
+  433 MCA-121600900   0408        RASHMI REKHA DAS                MCS034 MCS035 MCS041 MCS042 MCS043    
+                                                                  MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+  434 MCA-121600917   0408        JAYA THADANI                    MCS012 MCS013 MCS021 MCS031 MCS032    
+                                                                  MCS033 MCS041 MCS042 MCS043 MCS051 MCS052 MCSL016 MCSL025 MCSL036 MCSL045   
+  435 MCA-121600949   0408        AMIT MISHRA                     MCS042 MCSE004 MCSE011   
+  436 MCA-121600970   0408        GIRINDRA DAS                    MCS012 MCS021 MCS022 MCS023 MCS024    
+                                                                  MCSL016 MCSL017 MCSL025   
+  437 MCA-121600988   0408        ARUP KALITA                     CS60 MCS011 MCS012 MCS014 MCS021    
+                                                                  MCS022 MCS023 MCS024 MCS031 MCS032 MCS033 MCS034 MCS035 MCS042 MCSL036 MCSL045   
+  438 MCA-121601016   0408        MAINAWSHREE BAGLARI             MCS011 MCS021 MCS024 MCS032 MCS034    
+                                                                  MCS035 MCS042 MCS043 MCS052 MCSE003 MCSE004 MCSE011 MCSL036 MCSL045 MCSL054   
+  439 MCA-121601023   0408        DIPANJALEE NATH                 MCS011 MCS012 MCS014 MCS031 MCS032    
+                                                                  MCS034 MCS035 MCS042 MCS043 MCSE004 MCSE011 MCSL025 MCSL036 MCSL045 MCSL054   
+  440 BDP-121601062   0408        BABITA CHOUDHARY                ANC01 BEGE103 BEGE104 EHI04 EHI05     
+                                                                  FST01     
+  441 BDP-121601284   0408        AKANSHA SHARMA                  AFW01 AHE01 AOM01 EEC07 EEG06     
+  442 BDP-121601410   0408        SHARMILA MAHANTA                BEGE101 EHI03 EHI04 FST01     
+  443 BDP-121601481   0408        KRISHNA SHARMA                  ACC01 EHD04 EHD06 EHI05 ESO14     
+  444 BDP-121601514   0408        SEWALI DAS                      AOM01 BCOA001 BEGE103 BEGE104 BPC001    
+                                                                  BPC002 BPC005 BPC006 BSHF101 EEG06 FST01     
+  445 MSO-121601578   0408        PUBALI GOSWAMI                  MSO002 MSO003 MSO004    
+  446 MHD-121601822   0408        KARABI DEVI                     MHD05     
+  447 MEC-121602476   0408        OLI DAS                         MEC006 MEC007 MEC008 MEC009 MECE001   
+                                                                  MECE004   
+  448 BDP-121602738   0408        DIPANKAR BHATTACHARJEE          MTE06 MTE08 MTE10     
+  449 MCA-121603249   0408        MAKIM UDDIN                     MCS042 MCS043 MCS051 MCS052 MCS053    
+                                                                  MCSE003 MCSE004 MCSE011 MCSL017 MCSL025 MCSL036 MCSL045 MCSL054   
+  450 BCA-121603295   0408        PRADEEP KR.SINGHA               BCS040 BCS042 BCSL033 BCSL043 BCSL044   
+                                                                  BCSL045 MCS021 MCS024 MCSL016   
+  451 MCOMFT-1216033350408        BIKRAM KUMAR GAUR               IBO06 MCO01 MCO03 MCO04 MCO06     
+  452 MCA-121603342   0408        DEEP KUMAR SARMA                MCS021 MCS022 MCS024 MCS041 MCS043    
+  453 MCA-121612500   0408        SIKHA BORDOLOI                  MCS012 MCS013 MCS021 MCS034 MCS035    
+                                                                  MCS041 MCS042 MCS043 MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+  454 MP-121612818    0408        NUZHAT NAAZ                     MS95      
+  455 MP-121612832    0408        BANASHREE DAS                   MS04      
+  456 MAPC-121922277  0408        PALLAVI BARTHAKUR               MPCE011 MPCE012 MPCE013   
+  457 MP-124526604    0408        SUBHAJIT DAS                    MS02 MS05 MS10 MS65      
+  458 MSW-124572285   0408        NURUN NAHAR                     MSW007 MSW009 MSWE001   
+  459 MPA-125350203   0408        SANJEEV KUMAR                   MPA013 MPA015 MPA016 MPA017 MPA018    
+                                                                  MPS003    
+  460 BDP-125481038   0408        RUBY SANGMA                     BEGE101 BSWE004   
+  461 BDP-125481077   0408        MARIJINA BEGUM                  BHDE108 EHD03 FST01     
+  462 BDP-125482180   0408        MONIKA CHOUDHURY                ERD01 ESO13 ESO14 FST01     
+  463 BDP-125482205   0408        D JANKI  DAS                    BSHF101   
+  464 BDP-125482402   0408        SANGEETA HAZARIKA               BEGE105 BEGE108 ESO11     
+  465 BDP-125482513   0408        ARUN KUMAR RAI                  EHD02 EHD06 FHD02 FST01     
+  466 BDP-125482538   0408        DITILIKA BORSAIKIA              BEGE102 ESO12 ESO14     
+  467 BDP-125482545   0408        ANITA KUMARI                    BHDE108 EPS03 FST01     
+  468 BDP-125483626   0408        SARITA SINGH                    ERD01     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   11
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0408                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  469 BDP-125484065   0408        RAKESH SINGH BHANDARI           BEGE105 BSWE004 FST01     
+  470 BDP-125484681   0408        SARITA KUMARI                   EHD03 EHD06 EPA01 FST01     
+  471 MEG-125486882   0408        NILANJANA CHOUDHURY             MEG01 MEG02 MEG03 MEG04     
+  472 MEG-125486954   0408        HASINA BEGUM                    MEG01 MEG02 MEG05 MEG07     
+  473 BDP-125487196   0408        SNIGDHA GOGOI                   BSHF101 FST01 LSE01 LSE02 PHE07     
+                                                                  PHE09     
+  474 BDP-125487229   0408        SHIBA PRASAD CHATTERJEE         BSHF101 MTE01 MTE02 MTE06 PHE09     
+  475 MAH-125487845   0408        PRIYANKA BARUAH                 MHI01 MHI02 MHI04 MHI05     
+  476 MSO-125488173   0408        ANAMIKA KALITA                  MPA016 MPS003 MSO001 MSOE001 MSOE003   
+  477 MSO-125488238   0408        NAZIMA AHMED                    MSO001    
+  478 MSO-125488245   0408        LILY SOHPDANG                   MSO001 MSO002 MSO003 MSO004    
+  479 MSO-125488252   0408        SABITRI LAPANG                  MSOE004   
+  480 MSO-125488291   0408        AMIT UPADHYAY                   MPS003 MSO001 MSO002 MSOE001 MSOE003   
+                                                                  MSOE004   
+  481 MSO-125488300   0408        ARCHANA KUMARI                  MSO001 MSO002 MSO003 MSO004    
+  482 MSO-125488356   0408        BHASKAR KALITA                  MSO001 MSO002 MSO003 MSO004 MSOE001   
+                                                                  MSOE002 MSOE004   
+  483 BDP-125488919   0408        AJIT SINGH                      BPSE212 EPA03 EPA04 FST01     
+  484 BDP-125488933   0408        ROHIT JOSHI                     BPSE212 EPA03 EPA04 FST01     
+  485 MCA-125488997   0408        SAYEDA BEGUM                    MCS011 MCS014 MCS021 MCS022 MCS023    
+                                                                  MCS024    
+  486 MLS-125489071   0408        MEGHALI SARMA ADHIKARY          MLI101 MLI102 MLII101 MLII104   
+  487 BDP-125489208   0408        JHUMA BHATTACHARJEE             BECE214 EEC10 ERD01     
+  488 BCA-125489247   0408        BASANT SAHU                     BCS011 BCS012 BCS031 BCSL021 ECO02     
+                                                                  MCS011 MCS013 MCS014    
+  489 MP-125489610    0408        PANKAJ KUMAR PRASAD             MS95 MS97      
+  490 MP-125489634    0408        SANKAR CHAKRABORTY              MS08 MS10      
+  491 MP-125489673    0408        BISWAJIT SARMA                  MS04 MS611 MS68      
+  492 MP-125489680    0408        DIPSIKHA GOGOI                  MS04 MS09 MS91 MS95 MS97      
+  493 MP-125489720    0408        GAYATRI BARUAH                  MS09 MS66 MS91 MS94      
+  494 MP-125489738    0408        TANIQSHA BHATTACHARJEE          MS08 MS27 MS28 MS91      
+  495 BCA-125490090   0408        BANASREE DEBNATH                BCS040 BCS053 BCS054 BCS055 BCSL022   
+                                                                  BCSL045 BCSL057 BCSL058 MCS023 MCSL016   
+  496 BDP-125490109   0408        DINESH SAH                      BSHF101 FST01 MTE07 MTE08 PHE01     
+                                                                  PHE02 PHE06     
+  497 MSDFSM-1254901230408        LEENA BHAGAWATI                 MFN004 MFN005 MFN007 MFN009    
+  498 MP-125490170    0408        VANDANA GUPTA                   MS03 MS07 MS09      
+  499 MP-125490273    0408        NABASMITTA BORDOLOI             MS46 MS91 MS97      
+  500 BDP-125490320   0408        TASMINA KHANAM                  CHE05 FST01 LSE01 LSE02     
+  501 MP-125490646    0408        DEEPSHIKHA BAISHYA              MS03 MS06 MS24 MS26 MS27 MS94      
+                                                                  MS95      
+  502 MAH-125491820   0408        ASHISH KUMAR                    MHI01 MHI03 MHI05 MHI06 MHI08     
+                                                                  MPSE003 MPSE004   
+  503 BDP-125492127   0408        HIRENDRA CH.ROY                 BEGE101 FST01     
+  504 BDP-125492198   0408        NABANITA DEY                    BPC001 BPC005 BPC006 EPS11 ESO14     
+                                                                  FST01     
+  505 BDP-125492260   0408        SARITA TIWARI                   BECE002 BSHF101 EEC11 FST01     
+  506 BDP-125492331   0408        RATNA CHETRI                    EHD02 EHD06     
+  507 MP-125492474    0408        JIAYUR RAHMAN                   MS04 MS08 MS10 MS11 MS95      
+  508 MCA-125492539   0408        MANOJ KUMAR NATH                MCS021 MCS024 MCS031 MCS035 MCS043    
+                                                                  MCSL036 MCSL045   
+  509 MCA-125492546   0408        PRITY DEY                       MCS041 MCS042 MCS043 MCS051 MCS052    
+                                                                  MCSE011 MCSL017 MCSL025 MCSL036 MCSL045   
+  510 MSW-125492632   0408        SATABDI KAKOTY                  MSW004 MSW005 MSW006    
+  511 MSW-125492640   0408        PRIYAM SRI KAKOTY               MSW003 MSW005 MSW006    
+  512 MSO-125492768   0408        ISWANI THAKUR                   MSOE001 MSOE002 MSOE003 MSOE004   
+  513 MSO-125492782   0408        SANJIVINI THAKUR                MSOE001 MSOE002 MSOE003 MSOE004   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   12
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0408                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  514 BCA-125492847   0408        LOBIN DUSAD                     BCS031 BCS042 BCSL021 BCSL022 BCSL033   
+                                                                  BCSL043 MCS012 MCS023 MCS024    
+  515 BCA-125492854   0408        AMAR JYOTI BARMAN               BCS031 BCSL013 ECO01 FEG02 MCS011    
+                                                                  MCS013 MCS014 MCS015 MCS021 MCS023    
+  516 BDP-125493032   0408        MADHUMITA GOSWAMI               BSWE006   
+  517 BDP-125493064   0408        BISWAJIT DAS                    BEGE102 EEC11 EHI04 EPS03 FST01     
+  518 MHD-125493641   0408        QUEEN BORAH                     MHD02 MHD04     
+  519 MP-125494407    0408        MINAKSHI GOGOI                  MS04 MS05 MS91 MS95      
+  520 MP-125494492    0408        AMIT DIPTA BHARALI              MS612 MS91 MS95 MS96      
+  521 MP-125494518    0408        NAMITA DEV                      MS04 MS27 MS28 MS91      
+  522 MP-125494557    0408        AMRITA DAS                      MS08 MS91 MS95 MS97      
+  523 MEG-125494786   0408        PUJA KANOI                      MEG01 MEG07     
+  524 BDP-125494944   0408        WAPANGJUNGLA LONGCHAR           BEGE102 EPA03 EPA04 FST01     
+  525 MPA-125494969   0408        MANABENDRA DEKA                 MPA011 MPA012 MPA013 MPA014    
+  526 MHD-125495448   0408        PUNAM PANDEY                    MHD05     
+  527 BDP-125495534   0408        MOROMI NATH                     ESO12 ESO13     
+  528 MCA-125495763   0408        DEBLINA ROY CHOWDHURY           MCS033 MCS041 MCS042 MCS043 MCS051    
+                                                                  MCS052 MCSL025 MCSL036 MCSL045   
+  529 BDP-125495788   0408        SIMI BORGOHAIN                  ERD01 ESO13 ESO14 FST01     
+  530 MSO-125496013   0408        KRISHNA LAXMI BORO              MPA016 MPS003 MSO001 MSO004 MSOE001   
+                                                                  MSOE004   
+  531 BDP-125496045   0408        VANDANA YADAV                   EHI01 ESO12 ESO13 ESO14 FST01     
+  532 BCA-125496195   0408        NUR MUHAMMED                    BCS012 BCS051 BCS052 BCS053 BCS054    
+                                                                  BCS055 BCSL056 BCSL057 BCSL058 MCS012 MCS013 MCS021 MCS023    
+  533 BCA-125496440   0408        WEPEE PARASAR                   BCS051 BCS052 BCS053 BCS054 BCS055    
+                                                                  BCSL056 BCSL057 BCSL058   
+  534 BCA-125496844   0408        NOMI BARO                       BCS040 BCS041 BCS042 BCSL043 BCSL044   
+                                                                  BCSL045 MCS012 MCS023 MCS024 MCSL016   
+  535 BDP-125497498   0408        BABILI BATHARISA                BEGE101 BEGE102 BEGE103 BEGE105   
+                                                                  BSHF101 ESO11 FST01     
+  536 BDP-125497538   0408        RADHA SHARMA                    BEGE101 ESO13 ESO14     
+  537 MSW-125497703   0408        PARISMITA SAIKIA                MSW007 MSW008 MSW009    
+  538 MSW-125497735   0408        UPASANA GOGOI                   MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006 MSW007 MSW008 MSW009 MSWE001 MSWE003   
+  539 BDP-125497996   0408        BIKASH BRAHMA                   BEGE102 EEC11 EHI04 EPS03 FST01     
+  540 MEG-125498150   0408        DOROTHIE BURAGOHAIN             MEG02 MEG03 MEG04     
+  541 MSW-125498601   0408        MAUSUMI RABHA                   MSW007 MSW008 MSW009 MSWE001   
+  542 BDP-125498783   0408        BARNALI HAZARIKA                BEGE103 ESO11 FST01     
+  543 BDP-125498809   0408        GEETASHREE THAKURIA BORO        BSHF101   
+  544 MSW-125498848   0408        SANCHITA BORA RONGPIPI          MSW002 MSW003 MSW004 MSW005 MSW006    
+                                                                  MSW007 MSW008 MSW009 MSWE001 MSWE002   
+  545 MHD-125499588   0408        SUMILA BORO                     MHD05 MHD07 MHD13 MHD14 MHD15     
+                                                                  MHD16     
+  546 MSO-125606206   0408        TANDRA SARMA                    MSOE001 MSOE002 MSOE003 MSOE004   
+  547 MHD-125606356   0408        REENA KUMARI SINGH              MHD05     
+  548 MPS-125606507   0408        TAGAR RANI SAHA                 MED002 MED008 MPS002 MPSE001 MPSE003   
+                                                                  MPSE004 MPSE006 MPSE007 MPSE008   
+  549 MCOM-125607129  0408        SRISTI MALAKAR                  IBO06     
+  550 MSO-125607208   0408        NAMRATA VERMA                   MPS003 MSOE001 MSOE003 MSOE004   
+  551 MPA-125607437   0408        RASHMI REKHA BORAH              MPA011 MPA012 MPA013 MPA014    
+  552 MSW-125607483   0408        YUGSIKHA DEKA                   MSW007 MSW008 MSW009 MSWE001 MSWE002   
+  553 BDP-125607548   0408        DULUMANI DUTTA                  BECE002 BECE214   
+  554 BDP-125607673   0408        PRANAB JYOTI DEKA               BSHF101 CHE02 LSE05 LSE06 LSE07     
+  555 MHD-125607895   0408        DIMPI DEVI                      MHD01 MHD06 MHD07 MHD14 MHD16     
+  556 MSO-125607935   0408        PRIYANKA KALITA                 MSO001 MSO003    
+  557 BTS-125608152   0408        BHUMIKA SHARMA                  BSHF101 FST01 TS01 TS04      
+  558 BDP-125608200   0408        UMASHREE MEDHI                  BEGE108 FEG02     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   13
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0408                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  559 MSW-125608518   0408        SASHANKA BORI                   MSW001 MSW003 MSW005    
+  560 BDP-125608730   0408        JAHANARA KHATUN                 EPS03 EPS07 ERD01     
+  561 MSDFSM-1256095410408        PINKI MONI KALITA               MFN002 MFN004 MFN005 MFN007 MFN009    
+  562 BDP-125610102   0408        CHANDMAHAMMAD ALI               BSHF101 CHE01 CHE09 FST01 LSE05     
+                                                                  LSE06 LSE07     
+  563 BCOMAF-1256104670408        KIRTI SHARMA                    FST01     
+  564 MSO-125610790   0408        GITASHREE KALITA                MPS003 MSOE004   
+  565 MCOM-125610901  0408        BINITA BORA                     MCO05     
+  566 MTM-125611064   0408        HEMA SONOWAL                    MTM05     
+  567 BLS-125611301   0408        RANJU MONI GOGOI                BLS01 BLS02     
+  568 MSW-125611319   0408        JUNTI GOGOI                     MSW003 MSW004 MSW005 MSW007    
+  569 MCA-125611405   0408        ARPANA DAS                      MCS022 MCS024 MCS041 MCS042 MCS043    
+                                                                  MCSL016 MCSL017 MCSL025 MCSL045   
+  570 MTM-125611516   0408        KARISHMA SARMAH                 MTM13 MTM14 MTM15     
+  571 MSW-125611610   0408        OLY SARMAH                      MSW007 MSWE002   
+  572 MSW-125611824   0408        BHUCHITRA DEVEE                 MSW007 MSWE002   
+  573 MSW-125612145   0408        POMPI GOGOI                     MSW007 MSW008 MSW009    
+  574 MSO-125612191   0408        SUMI DAS                        MSO001 MSO002    
+  575 BDP-125612604   0408        MUKTI SARITA XESS               BEGE102 BEGE103 BEGE105 EHI01     
+                                                                  FST01     
+  576 BDP-125612629   0408        LAXMI KUMARI                    BSHF101 EHD03 EHD05 EHD06 FST01     
+  577 MCOM-125613108  0408        TRISHNA KALITA                  MCO01 MCO03 MCO04 MCO05 MCO06     
+  578 BDP-125613201   0408        MRIDUSMITA DUTTA                EEC11 ESO13 ESO14 FST01     
+  579 MHD-125613351   0408        JANKI DEVI                      MHD01 MHD06 MHD13 MHD15     
+  580 BDP-125613376   0408        SUSHMA DAS                      BECE002 BSHF101 ECO01 ECO02 FEG01     
+                                                                  FEG02     
+  581 BDP-125613462   0408        NAYANMONI DAS                   BSHF101 LSE02     
+  582 MSO-125613470   0408        RUPNANDA SAIKIA                 MSO001 MSO002 MSO003 MSO004    
+  583 MHD-125613487   0408        SARASWATI KUMARI SARMA          MHD01 MHD13 MHD14 MHD15 MHD16     
+  584 MHD-125613756   0408        PAPIYA BHATTACHARYA             MHD01 MHD05 MHD06 MHD07     
+  585 MSO-125613770   0408        NABANITA SHARMA                 MPA016 MSOE001 MSOE004   
+  586 MCA-125614281   0408        ASHISH SAIKIA                   MCS022 MCS031 MCS032 MCS035 MCS041    
+                                                                  MCS042 MCS043 MCSL025 MCSL036 MCSL045   
+  587 MEG-125614346   0408        MEENA KUMARI SHARMA             MEG05     
+  588 MHD-125614489   0408        DIPTI DEVI                      MHD01 MHD02 MHD05 MHD06 MHD07     
+                                                                  MHD13 MHD14 MHD15 MHD16     
+  589 BDP-125614536   0408        SUNITA KAUR DEKA                BSHF101   
+  590 MTM-125614608   0408        HEEMA BORAH                     MTM03 MTM05 MTM06 MTM07 MTM08     
+                                                                  MTM09 MTM10     
+  591 MCA-125614647   0408        NILOTPAL GOSWAMI                MCS011 MCS021 MCS022 MCS023 MCS024    
+                                                                  MCSL016 MCSL017 MCSL025   
+  592 MEG-125615957   0408        MEGHALI CHAKRABORTY             MEG01     
+  593 BDP-125618074   0408        JARJINA AKTHARA AHMED           BSHF101 CHE09 FST01 LSE06     
+  594 MCA-125619510   0408        PRANJAL KALITA                  MCS031 MCS032 MCS033 MCS034 MCS035    
+                                                                  MCSL017 MCSL036   
+  595 MSO-125619581   0408        SUNITA BASUMATARY               MPS003 MSOE001 MSOE004   
+  596 MAH-125619740   0408        GARIMA BARMAN                   MHI03 MHI06 MHI08 MPSE003 MPSE004   
+  597 MSW-125620927   0408        SABITA BARWA                    MSW007 MSW008 MSW009 MSWE001 MSWE002   
+  598 BCA-125621398   0408        MD IMTIAZ ALI                   BCS012 BCS031 BCS040 BCS042 BCS055    
+                                                                  MCS012 MCS024 MCSL016   
+  599 MSW-125621420   0408        RUPSHREE BORUAH                 MSW007 MSW009    
+  600 BDP-125622185   0408        TARA THAPA                      EHI01     
+  601 MCA-125622200   0408        KHIROD DAS                      MCS014 MCS022 MCS024    
+  602 BDP-125622257   0408        RITA CHERMAKO                   ESO12 FEG02 FST01     
+  603 BDP-125622565   0408        PARBATI                         BHDF101 BSHF101 ESO11 ESO12 FHD02     
+  604 BDP-125622984   0408        BIKASH KALITA                   BSHF101 FEG01     
+  605 MSW-125623109   0408        URMILA GOGOI                    MSW005 MSW007 MSW008    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   14
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0408                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  606 MSO-125623116   0408        RUTH RAI                        MPA016 MPS003 MSOE001 MSOE003   
+  607 MAH-125623162   0408        SUMAN MOYONG                    MHI03 MHI06 MHI08 MPSE003 MPSE004   
+  608 BCA-125623241   0408        MADHUYYA KALITA                 BCS012 BCS031 BCS040 BCSL021 BCSL034   
+                                                                  MCS012 MCS013 MCS021 MCS024    
+  609 MSW-125623352   0408        DARATHI BORAH                   MSW007 MSW008 MSW009    
+  610 MSW-125623599   0408        JNYANADEEP GOGOI                MSW007 MSW009 MSWE001   
+  611 MPA-125623678   0408        KUNDAN MEHRA                    MPA012 MPA013    
+  612 BDP-125623804   0408        PALLAVI BORO                    BSHF101 ERD01 ESO13 ESO14 FST01     
+  613 MSO-125623811   0408        NILAM BARUAH                    MSO001 MSO002 MSO003 MSO004    
+  614 BDP-125624520   0408        RANI TIWARI                     BHDE108 EHD06 FST01     
+  615 MCA-125624838   0408        MRIGANGKA BARMAN                MCS021 MCS022 MCS024 MCS031 MCS034    
+                                                                  MCS041 MCS042 MCS043 MCSL045   
+  616 BDP-125624995   0408        RITU SHARMA                     BEGE105 EEC10 EHI01 FST01     
+  617 MSO-125625030   0408        SUBASANA DUTTA                  MSO001    
+  618 MCA-125625134   0408        HEMLATA BORO                    MCS012 MCS021 MCS022 MCS023 MCS024    
+  619 BDP-125625173   0408        DIGANTA DAIMARI                 BEGE103 BPAE102   
+  620 BDP-125625213   0408        GEETA RAI                       BSHF101 ERD01 ESO12 ESO13     
+  621 BDP-125625291   0408        JAYSHREE BHURA                  BEGE105 BEGE108 ESO11 FST01     
+  622 MSO-125625356   0408        GAYATRI DEVI                    MSO004 MSOE001 MSOE003   
+  623 BDP-125625664   0408        SHIVANI PEGU                    BEGE101 BEGE102 BEGE103 BSHF101   
+                                                                  FEG01 FST01     
+  624 MCA-125625704   0408        DEEPANKAR DAS                   MCS021 MCS035 MCS041 MCS042 MCS043    
+                                                                  MCS051 MCS052 MCSL016 MCSL017 MCSL036 MCSL045   
+  625 BCA-125626548   0408        KULDIP TALUKDAR                 BCS011 BCS031 BCS051 BCS053 BCS055    
+                                                                  FEG02 MCS011 MCS012 MCS014 MCS021 MCS023 MCS024    
+  626 BDP-125626587   0408        GAYATRI GOSWAMI                 BSHF101 ERD01 ESO11 ESO12 ESO13     
+                                                                  ESO14 FST01     
+  627 BDP-125626760   0408        PRANIL KUMAR BASUMATARY         BEGE103 BEGE105 BSHF101 ERD01     
+  628 MCOM-125626831  0408        PUNNU KUMARI                    IBO01 IBO03 IBO04 IBO06     
+  629 BDP-125627256   0408        SONIA DAS                       BECE214 BSHF101 FEG02 FST01     
+  630 MSW-125627872   0408        BANASHREE DAS                   MSW007 MSW008    
+  631 BDP-125628090   0408        MANISH MEHRA                    BPSE212 EPA03 EPA04 FST01     
+  632 BDP-125628320   0408        SNIGDHA SAIKIA                  BSHF101 EPS11 ESO12     
+  633 MSW-125628541   0408        DEEPA MONI DEVI                 MSW007 MSW008 MSW009 MSWE001   
+  634 BCA-125628573   0408        RUCHI KONWAR                    BCS040 BCS041 BCS042 BCSL043 BCSL044   
+                                                                  BCSL045 MCS024 MCSL016   
+  635 MCA-125628691   0408        RANJIT CHUTIA                   MCS041 MCS042 MCS043 MCS051 MCS052    
+                                                                  MCSL017 MCSL025 MCSL045   
+  636 BDP-125628850   0408        PARAMITA DUTTA DEB              BEGE102 BPY005 BPY006 BPY007 BPY008    
+                                                                  FBG01 FST01     
+  637 MCOM-126222390  0408        SHAHEEN MUSRIKIN                IBO05 IBO06 MCO04 MCO05     
+  638 MPA-126368985   0408        DHIRAJ KUMAR                    MPA015 MPA016 MPA017 MPA018 MPS003    
+  639 BDP-126405331   0408        TUTUN PRAMANIK                  BEGE102 BPC005 BPC006 BPCL007 BPCL008   
+                                                                  FST01     
+  640 BDP-126888153   0408        JYOTI THAPA                     ECO06 ECO14     
+  641 MARD-126954704  0408        SYEDA ARIFA RAHMAN              MRD101 MRD102    
+  642 MPS-127348227   0408        SANDIP KUMAR PANDEY             MED008 MPSE001 MPSE003 MPSE004 MPSE005   
+                                                                  MPSE006 MPSE007 MPSE008   
+  643 MCOM-127607045  0408        POLY BIKOMIYA DEORI             MCO01     
+  644 MHD-128046964   0408        KHOSNA ARA BEGUM                MHD01 MHD07 MHD13 MHD15 MHD16     
+  645 MSO-128047199   0408        MONUMA BORO                     MPS003 MSOE001 MSOE003 MSOE004   
+  646 BCA-128047530   0408        BABITA DAS                      BCS011 BCS040 BCS041 BCS042 BCSL043   
+                                                                  BCSL044 BCSL045 MCS012 MCS023 MCS024 MCSL016   
+  647 BDP-128047769   0408        JAYAMONI BORO                   ERD01     
+  648 MEG-128047776   0408        PINKY JYOTI BORAH               MEG06 MEG10     
+  649 MEG-128048169   0408        GONGOTRI BORAH                  MEG06 MEG10     
+  650 MSO-128048341   0408        NIJU MEDHI                      MPA016 MPS003    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   15
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0408                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  651 MSW-128048484   0408        LOVITA BARUAH                   MSW007 MSW008 MSW009 MSWE001 MSWE002   
+  652 MHD-128048721   0408        PALLAVI SHARMA                  MHD01 MHD03 MHD05 MHD07 MHD13     
+                                                                  MHD14 MHD15 MHD16     
+  653 MSO-128049003   0408        MANJU DEY                       MSO001    
+  654 BDP-128049114   0408        SARITA SHARMA                   BEGE102 BEGE103 BEGE105 ESO11     
+                                                                  FST01     
+  655 BDP-128049683   0408        JONALI BARMAN                   BSHF101 LSE05 LSE07     
+  656 MSO-128049730   0408        HRISHIKA BORA                   MSO001 MSO002 MSO003    
+  657 MSO-128049762   0408        SUMAN JHA                       MPA016 MPS003 MSO001 MSO002 MSO003    
+                                                                  MSO004 MSOE001 MSOE004   
+  658 MEG-128050205   0408        AZMINA BEGUM                    MEG01 MEG02 MEG03 MEG04 MEG05     
+                                                                  MEG10 MEG11 MEG12     
+  659 MSO-128050212   0408        RASHMI REKHA GOSWAMI            MPS003 MSOE001 MSOE003 MSOE004   
+  660 MCA-128050251   0408        MD IMDADUL ISLAM                MCS013 MCS041 MCS043 MCSL017 MCSL025   
+                                                                  MCSL036 MCSL045   
+  661 MSO-128050309   0408        PONKHEE GOGOI                   MSO003 MSO004    
+  662 DTS-128050370   0408        SANGITA NATH                    TS01 TS02 TS03 TS05      
+  663 BDP-128050577   0408        MONA DUTTA                      BSHF101 ERD01 ESO12 ESO13 ESO14     
+                                                                  FST01     
+  664 MCA-128050728   0408        HIFZUL ISLAM                    MCS035 MCS041 MCS043 MCS051 MCS052    
+                                                                  MCS053 MCSE003 MCSE011 MCSL017 MCSL025 MCSL036 MCSL045 MCSL054   
+  665 MCA-128051207   0408        MAYURI NEOG                     MCS035 MCS041 MCS042 MCS043 MCS051    
+                                                                  MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL017 MCSL025 MCSL036 MCSL045 MCSL054   
+  666 MHD-128051260   0408        SONI KUMARI PRASAD              MHD05 MHD07     
+  667 MSO-128052040   0408        HEMI KULI                       MPA016 MPS003 MSOE001 MSOE003   
+  668 MPS-128052058   0408        PUSPALATA SINGH                 MPSE013   
+  669 MSW-128052065   0408        PRIYANKA DEVI                   MSW005 MSW006 MSW007 MSW008 MSW009    
+  670 MSO-128052137   0408        BANDITA PATOWARY                MPS003 MSO003 MSO004 MSOE001   
+  671 MSW-128052183   0408        PRIYANKA DEKA                   MSW007 MSW008 MSW009 MSWE001   
+  672 BDP-128052209   0408        ASHA KIRAN BARWA                ERD01     
+  673 MSDFSM-1280522160408        BANDITA BARMAN                  MFN002 MFN004 MFN005 MFN006 MFN007    
+                                                                  MFN009 MFN010    
+  674 BDP-128052420   0408        ANISHA DEVI                     BSHF101 ESO13 ESO14 FEG01 FST01     
+  675 BDP-128052438   0408        FARIA YASMIN                    ERD01     
+  676 MCA-128052753   0408        NILUTPAL SARMAH                 MCS041 MCS043 MCS051 MCS052 MCS053    
+                                                                  MCSE003 MCSE011 MCSL017 MCSL025 MCSL036 MCSL045 MCSL054   
+  677 MAEDU-128052832 0408        SEWALI SARMA                    MES013    
+  678 MSW-128053289   0408        PANKAJ BORUAH                   MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+  679 MHD-128053415   0408        MAMTA KUMARI TIWARI             MHD05     
+  680 MSO-128053422   0408        PRIYANKA TIWARI                 MSO001    
+  681 MSO-128054130   0408        SIKHA DEVI                      MPA016 MPS003 MSOE003 MSOE004   
+  682 BDP-128054345   0408        RIMPA KALITA                    BSHF101 EPS11 ESO12     
+  683 MSO-128054456   0408        SUMONA CHAKRABORTY              MSO001 MSO002 MSOE001   
+  684 MPS-130274310   0408        BALRAM KUMAR                    MED002 MGP004 MGPE008 MGPE010 MGPE011   
+                                                                  MPS004 MPSE004 MPSE006 MPSE008   
+  685 MHD-130274350   0408        BIJAYA BALA DEVI                MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  686 BCA-130274983   0408        SEEMA JHA                       BCS040 BCS041 BCS042 BCSL043 BCSL044   
+                                                                  BCSL045 MCS024 MCSL016   
+  687 MSO-130275233   0408        SABANA YASMIN                   MPS003 MSOE001 MSOE003 MSOE004   
+  688 MSO-130275240   0408        MISS RUMI BAISHYA               MSO001 MSOE001 MSOE002 MSOE003 MSOE004   
+  689 MEG-130275416   0408        GHANASHYAM KHADAKA              MEG05 MEG06 MEG07 MEG11     
+  690 BDP-130275850   0408        RUBI KUMARI                     BSHF101 EHD01 FST01     
+  691 MP-130275899    0408        SANJIV KUMAR NATH               MS45 MS46      
+  692 BDP-130276242   0408        SARASWTI DHAKAL                 EPS03 ESO12 ESO14 FST01     
+  693 MEG-130276299   0408        MIR AYAT HUSSAIN                MEG01 MEG05 MEG07 MEG08 MEG10     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   16
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0408                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  694 MP-130277244    0408        SANJEEB DAS                     MS03 MS05 MS06 MS07 MS08      
+  695 BDP-130277283   0408        E BIMAL SINGHA                  BSHF101 CHE02 CHE04 LSE01 LSE02     
+                                                                  PHE07 PHE10     
+  696 MPA-130277309   0408        SHAMIM HASINA BEGUM             MPA011 MPA015 MPA016 MPA017 MPA018    
+                                                                  MPS003    
+  697 MP-130278260    0408        TABASSUM HAZARIKA               MS03 MS05 MS07 MS09      
+  698 MSO-130278285   0408        JUTIKA GOSWAMI                  MSO001 MSOE001 MSOE002 MSOE003 MSOE004   
+  699 MP-130278325    0408        PRANITA KAKATI                  MS04 MS05 MS06 MS09 MS11      
+  700 MPA-130278744   0408        MRS SHARMILA DUTTA              MPA011 MPA012 MPA013    
+  701 MEG-130278769   0408        VIOLEENA DEKA                   MEG01 MEG02 MEG04 MEG05 MEG10     
+  702 MP-130278855    0408        MADHURJYA DUTTA                 MS56 MS57 MS91 MS95      
+  703 MSW-130278934   0408        SUPARNA ROY CHOUDHURY           MSW002 MSW003 MSW007 MSW008 MSW009    
+  704 BDP-130278966   0408        PRIYANKA KUMARI                 BECE214 BEGE101 BEGE103 FST01     
+  705 BDP-130278980   0408        SIRAWUNG A SHIMRAY              BPSE212 BSHF101 EEG01 FEG01 FEG02     
+  706 MHD-130279026   0408        SAMBIVA DHANUK                  MHD02 MHD04 MHD05 MHD06 MHD07     
+                                                                  MHD14 MHD15     
+  707 MSO-130279033   0408        PHULKUMARI SHARMA               MPS003 MSO001 MSOE001 MSOE003   
+  708 MSO-130279327   0408        DIPANWITA DAS                   MSO001 MSOE001 MSOE002 MSOE003 MSOE004   
+  709 BDP-130279610   0408        SHABANA CHOUDHURY               BEGE103 BEGE105 ESO11 FST01     
+  710 BDP-130279628   0408        DIKSHITA PURKAYASTHA            BEGE103 BEGE105 ESO11 FST01     
+  711 MP-130279832    0408        ANGONJAM LOLIBALA CHANU         MS04 MS08 MS10 MS24 MS26 MS29      
+                                                                  MS95      
+  712 MP-130280250    0408        NAYAN TALUKDAR                  MS611 MS612 MS68 MS97      
+  713 MSO-130280440   0408        SURAVI DAS                      MSO001 MSOE001 MSOE002 MSOE003 MSOE004   
+  714 MP-130280844    0408        DHRUBAJYOTI BARUA               MS01 MS04 MS11 MS91      
+  715 MSDFSM-1302817740408        RUBI BORA                       MFN001 MFN002 MFN010    
+  716 MSO-130282142   0408        NANDA SHYAM AHMED               MPS003 MSOE001 MSOE003 MSOE004   
+  717 MP-130282278    0408        JAIMINI MOHAN BORA              MS04 MS07 MS09 MS11      
+  718 MAGD-130282894  0408        ANUPAM SHARMA                   MGS001 MGS002 MGS003 MGS004 MGS005    
+  719 MCA-130283033   0408        AZIZ KHAN                       MCS023 MCS035 MCS041 MCS042 MCS043    
+                                                                  MCSL036 MCSL045   
+  720 BDP-130283058   0408        KERDALYNE MARY KHARSOHTUN       LSE03     
+  721 MP-130283105    0408        RAKESH BARUAH                   MS01 MS07      
+  722 MP-130283120    0408        MITUL BASUMATARY                MS91 MS95 MS96      
+  723 MP-130283484    0408        SUJOY DAS                       MS44 MS45 MS91 MS95      
+  724 MP-130283707    0408        BISWAJIT DEB                    MS04 MS08 MS09 MS10 MS11 MS56      
+  725 MPS-130283714   0408        RUNUMI CHUTIA                   MPS002 MPSE002 MPSE003 MPSE005 MPSE008   
+  726 BED-130286053   0408        RONILLA CHERAN MOMIN            ES331 ES332 ES333 ES343 ES344     
+  727 MSW-130287578   0408        BINITA DEKA                     MSW006 MSW007 MSW008 MSW009 MSW010    
+                                                                  MSWE002   
+  728 BDP-130287632   0408        HUKUM BDR K C                   BPAE102 BSHF101 EPA01 FEG01     
+  729 MAH-130287790   0408        KUMKUM KUMARI                   MHI03 MHI06 MHI08 MPSE003 MPSE004   
+  730 MSDFSM-1302878790408        SANGEETA KALITA                 MFN004 MFN005 MFN007 MFN009    
+  731 DNHE-130287893  0408        CHARU MONI SONOWAL              DNHE01 DNHE02 DNHE03    
+  732 MEG-130288000   0408        POOJA BHATTACHARYA              MEG01 MEG03 MEG05 MEG06 MEG07     
+                                                                  MEG08     
+  733 MP-130288018    0408        MONISHA CHOUDHURY               MS05 MS06      
+  734 MEG-130288333   0408        SUPRIYA GOGOI                   MEG01 MEG04 MEG05 MEG07 MEG10     
+                                                                  MEG11     
+  735 MSO-130288365   0408        RANJEETA CHANDI                 MSO001 MSO002 MSO003 MSO004    
+  736 BDP-130288516   0408        ANIRVA GOGOI                    ESO13 FST01     
+  737 BDP-130288634   0408        DEWAN MOKIBUL HUSSAIN           FST01     
+  738 MEC-130288967   0408        SONU ADITYA                     MEC002 MEC008 MPA017    
+  739 MCA-130288999   0408        ARPAN HAZARIKA                  MCS014 MCS022 MCS023 MCS031 MCS032    
+                                                                  MCS033 MCS034 MCS041 MCS042 MCS043 MCSL025 MCSL036 MCSL045   
+  740 MCA-130289041   0408        ANIMESH MEDHI                   MCS023 MCS031 MCS034 MCS041 MCS042    
+                                                                  MCS043 MCSL025 MCSL036 MCSL045   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   17
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0408                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  741 BDP-130289611   0408        CAROL ATSAHHAM                  BEGE105 BEGE108 ESO12 FST01     
+  742 MTM-130289668   0408        MOITRYEE BASUMATARY             MTM02 MTM09 MTM10 MTM11 MTM12     
+                                                                  MTM13 MTM14 MTM15     
+  743 CHR-130289682   0408        UPESH CHAKRAVARTTY              CHR11     
+  744 MAH-130289865   0408        RASHMIN JAHAN                   MHI01 MHI02 MHI04 MHI05     
+  745 BDP-130289872   0408        ANITA NONGRUM                   BEGE101 BEGE102 BSHF101 FEG01     
+                                                                  FEG02     
+  746 MPS-130290053   0408        DOLEE KALITA                    MPS001 MPS002    
+  747 MSO-130290100   0408        DIBYAJYOTI SARMAH               MSO001 MSO003    
+  748 BDP-130290196   0408        ASHA PARIYAR                    BPAE102 ESO12 ESO13 ESO14 FST01     
+  749 MP-130290243    0408        PRITI REKHA DEVI                MS04 MS08      
+  750 BTS-130291300   0408        PINKI DOLEY                     TS01 TS02      
+  751 MCA-130291585   0408        MARK MATHEW                     CS60 MCS011 MCS021 MCS023 MCS024    
+                                                                  MCS031 MCS033 MCS035 MCSL017 MCSL025 MCSL036 MCSL045   
+  752 BDP-130292405   0408        NOORJAHAN BEGOM                 BSHF101 ECO03 ECO06 ECO12 ESO11     
+  753 MHD-130292523   0408        VIJAY SHANKAR SINGH             MHD02 MHD06     
+  754 BDP-130292680   0408        DILUMANI DEKA                   BECE214 BEGE101 ESO12 ESO13 FST01     
+  755 MSO-130292745   0408        TASLIMA AHMED                   MPA016 MSOE001 MSOE002 MSOE003   
+  756 MPA-130292849   0408        SUMAN BURAGOHAIN                MPA011 MPA012 MPA013    
+  757 MSO-130292863   0408        PAPARI KALITA                   MSOE001 MSOE002 MSOE003 MSOE004   
+  758 MSDFSM-1302933030408        RUBI ACHARJEE                   MFN002 MFN003 MFN004 MFN005 MFN007    
+                                                                  MFN009    
+  759 BDP-130293596   0408        GAURAV YADAV                    EHI03 EHI04 EHI07 FST01     
+  760 MCOM-130412462  0408        DHANESH JHA                     IBO03 IBO05 IBO06     
+  761 BDP-130458578   0408        JOSTINA NARZARI                 BEGE103 BEGE105 EHI01 FST01     
+  762 MAH-131589491   0408        MANJULA SHARMA                  MHI01 MHI03 MHI06 MHI08 MPSE003   
+                                                                  MPSE004   
+  763 BDP-131589929   0408        KARABI TALUKDAR                 FST01 LSE02 LSE05 LSE07     
+  764 MCOM-131590163  0408        RAKHEE MISHRA                   IBO02 IBO03 IBO04 IBO05 IBO06     
+  765 MCOM-131590228  0408        RUBY KUMARI SIN GH              IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  766 BDP-131590250   0408        ARCHANA BHUYAN                  BPAE102 BSHF101 EPA01     
+  767 BDP-131590353   0408        MEGHALI BORAH                   BSHF101 ESO11 ESO12     
+  768 MPS-131590496   0408        LIPI KUMARI                     MPS002    
+  769 MSO-131644297   0408        CHINGKI BORA                    MSO001 MSOE001 MSOE002   
+  770 MSO-131644448   0408        LUPAMUDRA BOR PATRO GOHAIN SAI  MSO001 MSOE001 MSOE002 MSOE003 MSOE004   
+  771 MSO-131644455   0408        RINKI SHARMA BORPATRA GOHAIN    MSO001 MSOE001 MSOE002 MSOE003 MSOE004   
+  772 MSO-131644470   0408        JURI BHATTACHARYYA              MPA016 MPS003 MSO001 MSO002 MSO003    
+                                                                  MSO004 MSOE003 MSOE004   
+  773 MARD-131644510  0408        NITU RAM DAS                    MRD004 MRDE002 MRDE003 MRDE101 RDD06     
+                                                                  RDD07     
+  774 MP-131644684    0408        RAKIB AHMED                     MS09 MS10 MS11 MS611 MS612 MS91      
+                                                                  MS95 MS97      
+  775 MSO-131644899   0408        RUNTI GOGOI                     MSO001 MSOE001 MSOE002 MSOE003 MSOE004   
+  776 MHD-131645006   0408        JHUMUR CHANDA                   MHD06     
+  777 MSW-131645077   0408        GANGAJYOTI TAYEGAM              MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+  778 BDP-131645274   0408        BHANITA DAS                     FST01 LSE02 LSE05 LSE07     
+  779 BCA-131645307   0408        BIKI KUMAR BARUAH               BCS011 BCS012 BCSL021 BCSL032 BCSL033   
+                                                                  MCS011 MCS012 MCS013 MCS014 MCS015 MCS021 MCS023    
+  780 BDP-131645314   0408        DIPIKA BHARALI                  BSHF101 CHE09 LSE05 LSE06 LSE07     
+  781 MEG-131645536   0408        JAHNAVI BARUA                   MEG05 MEG06 MEG11 MEG14     
+  782 MCOM-131645543  0408        RINKI KUMARI                    IBO04 IBO06 MCO01 MCO03 MCO04     
+                                                                  MCO05 MCO06 MCO07     
+  783 BDP-131645575   0408        ANUJ KUMAR PANDEY               BEGE102 EPA03 EPA04 FST01     
+  784 MHD-131734134   0408        ANJUMONI DEKA BORUAH            MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   18
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0408                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  785 MSO-131816163   0408        SINKI SHARMA                    MSO001 MSO003 MSOE001 MSOE002 MSOE003   
+                                                                  MSOE004   
+  786 BDP-131816582   0408        DANISHA BORA                    ECO03 ECO13 FST01     
+  787 BDP-131816608   0408        RIA HEREH                       BSHF101 EHD01 EHD02 FAS01 FHD02     
+  788 BDP-131816647   0408        CECILIA LAPANG                  BEGE101 BEGE102 BEGE103 BEGE105   
+                                                                  ESO11 FST01     
+  789 BDP-131816686   0408        JENITA JYRWA                    BEGE101 BEGE102 BEGE103 BEGE105   
+                                                                  ESO11 FST01     
+  790 BSCN-131919780  0408        MAINU BORAH DAS                 BNS106 BNS107    
+  791 BSCN-131919838  0408        RINA SHARMA BORO                BNS106 BNS107 BNS108    
+  792 BDP-135666523   0408        SONIYA                          CHE01 CHE02 CHE05     
+  793 MHD-135666800   0408        MAMPI PAUL                      MHD03 MHD06     
+  794 MSW-135667066   0408        NIBEDITA DEVI                   MSW001 MSW002 MSW004 MSW005 MSW006    
+  795 BDP-135667073   0408        RADHIKA BASUMATARY              BEGE102 BSHF101 EPA01 FEG01     
+  796 BDP-135667113   0408        SUNITA DAS                      BPY003 BSHF101 ESO11 FST01     
+  797 BDP-135667217   0408        ANSUMWI BASUMATARY              BPC003 BPC004 BSHF101 EPS11 FEG01     
+                                                                  FEG02     
+  798 BDP-135667310   0408        USHA KUMARI  PANDEY             EHD01     
+  799 BDP-135667350   0408        ANJUM KHATUN                    ESO12 FEG01     
+  800 BDP-135667399   0408        DIANA THAUDEM                   BEGE101 BSHF101   
+  801 MSO-135667414   0408        ALKA THAKUR                     MSO001    
+  802 BDP-135667439   0408        SUJEETA KUMARI                  BSHF101 EHD05     
+  803 BDP-135667650   0408        MITHU DEY ROY                   BSHF101   
+  804 BDP-135667754   0408        TIASHI DAS                      BSHF101 EEC11 EHD02     
+  805 BDP-135667761   0408        PINKI DARJEE                    BSHF101 EEC11 EHD02     
+  806 BDP-135667793   0408        RAMDEO BAITHA                   BEGE102 BSHF101 FEG02     
+  807 BDP-135667880   0408        SARITA KUJUR                    BEGE101 BEGE102 BSHF101 FEG01     
+                                                                  FEG02     
+  808 CFN-135668011   0408        NEELAM KRISHNAN                 CFN01 CFN02 CFN03     
+  809 MSW-135668036   0408        NIBEDITA HAZARIKA               MSW001 MSW002 MSW005 MSW006    
+  810 BDP-135668090   0408        CHETANA CHEKANIDHARA            LSE01 LSE03     
+  811 MCA-135668161   0408        GANESH DAS                      BCS012 MCS011 MCS012    
+  812 MEG-135668240   0408        SALMA SULTANA                   MEG01     
+  813 MEG-135668344   0408        RIMPY TALUKDAR                  MEG01     
+  814 BDP-135668376   0408        REYYA ARUNA                     BSHF101   
+  815 BDP-135668534   0408        LAXMI KUMARI GAUR               BSHF101   
+  816 MEC-135668598   0408        NIMISHA KATAKEE                 MEC001 MEC002 MEC004    
+  817 MP-135668992    0408        SIBANI DEKA                     MS03 MS04 MS05 MS06 MS07 MS08      
+  818 MSO-135669052   0408        PULAMA DAS PATHAK               MSO001 MSO002 MSO003 MSO004    
+  819 BSW-135669418   0408        ARATI SARMAH BORDOLOI           BSHF101 BSWE001   
+  820 MCA-135669471   0408        MRIDUL PATHAK                   MCS012 MCS014 MCS023    
+  821 MP-135669504    0408        PRADEEP BHAGAT                  MS07 MS11 MS25      
+  822 MCA-135669654   0408        BHARATI GOGOI                   MCS031 MCS032 MCS033 MCS034 MCS035    
+                                                                  MCSL036   
+  823 MP-135670096    0408        MANISH KR CHOUDHURY             MS08 MS09 MS10 MS11 MS95      
+  824 BDP-135670451   0408        ANJALI KRI MAJHI                BSHF101   
+  825 MEG-135670738   0408        BARNALI SARMA                   MEG01     
+  826 BDP-135670752   0408        ANOWARA BEGUM                   BEGE101   
+  827 BDP-135670910   0408        ELIZABETH L THIEK               BSHF101 FEG01 FEG02     
+  828 BDP-135670981   0408        POOJA SUNAR                     BSHF101 EHD01 EHD02 FEG01     
+  829 BDP-135671027   0408        KAKOLI BORA                     BSHF101   
+  830 BDP-135671152   0408        MRIDUCHAYA DUTTA                LSE01 LSE03     
+  831 BDP-135671217   0408        SRI SANJAY MALAKAR              FAS01 FST01 LSE01 LSE02 LSE03     
+  832 MSO-135672029   0408        KARABI DAS                      MSO001    
+  833 MSO-135672036   0408        KAKALI BARMAN                   MSO001 MSO002 MSO004    
+  834 MPA-135672219   0408        RUPA SAIKIA                     MPA011 MPA012 MPA013 MPA014    
+  835 MHD-135672376   0408        MONIKA JHA                      MHD03 MHD06     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   19
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0408                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  836 MLS-135672677   0408        SHARMILA SARKAR (KAR)           MLI101 MLI102 MLIE103 MLII101 MLII102   
+                                                                  MLII104   
+  837 MCA-135673060   0408        APURBA KUMAR DAS                MCS012 MCS014 MCS023    
+  838 BCA-135673156   0408        BEDANTA BAYAN                   BCS012 BCSL021 BCSL022 MCS011 MCS012    
+                                                                  MCS013    
+  839 MHD-135673188   0408        MEENAKSHI DAS                   MHD02 MHD03 MHD04 MHD06     
+  840 BDP-135673346   0408        RAJLAKSHMI TALUKDAR             BECE002 BSHF101 EEC11     
+  841 MSW-135673471   0408        TARANNUM FATEMA                 MSW003 MSW004 MSW005    
+  842 BDP-135673575   0408        RESMA BARMAN                    BSHF101 EHD01     
+  843 MEC-135673686   0408        KANKANA NATH                    MEC001 MEC003    
+  844 BCA-135673869   0408        INDRANIL TALUKDAR               BCS031 BCSL032 BCSL033 BCSL034 MCS014    
+                                                                  MCS021 MCS023    
+  845 BDP-135673890   0408        NISHA ROY                       LSE01 LSE02     
+  846 BCA-135674086   0408        PARTHAJIT SARMA                 BCSL032 BCSL033 BCSL034 MCS011    
+                                                                  MCS014 MCS021 MCS023    
+  847 BCA-135674283   0408        BEAUTY SARMA                    BCS031 BCSL032 BCSL033 BCSL034 MCS014    
+                                                                  MCS021 MCS023    
+  848 MSW-135674774   0408        RUPA MAJUMDER                   MSW001 MSW004 MSW005    
+  849 BDP-135675167   0408        MADHURI BISWAS                  BPSE212 BSHF101 EPS11 FEG01     
+  850 MSO-135675246   0408        ARCHANA DAS                     MSO001 MSO002 MSO003 MSO004    
+  851 BCA-135675340   0408        MRINMAY SAHA                    BCS031 BCSL032 BCSL033 BCSL034 MCS014    
+                                                                  MCS021 MCS023    
+  852 MHD-135675357   0408        USHA KUMARI YADAV               MHD02 MHD03 MHD04 MHD06     
+  853 BDP-135675396   0408        ANJU EKKA                       BSHF101 ESO11     
+  854 BDP-135677289   0408        RUNU TALUKDAR                   BSHF101 ESO12     
+  855 BDP-135677415   0408        BHAVNA KUMARI                   BSHF101   
+  856 BDP-135677461   0408        SHAFAQUE SIDDIQUE               BEGE101 BSHF101   
+  857 BDP-135677479   0408        REEBI DAS                       BEGE101 BSHF101 FEG01     
+  858 BDP-135677620   0408        AMLANJYOTI BARUAH               BSHF101 EPS11 ESO12     
+  859 BDP-135677709   0408        HEMKALA CHHETRY                 BSHF101 FEG01     
+  860 BDP-135677787   0408        MINAKSHI MAZUMDER               BPC001 BPC002 BSHF101 ESO12 FEG01     
+                                                                  FEG02     
+  861 BDP-135677810   0408        SABITA MANDAL                   EHD01     
+  862 BDP-135677859   0408        PURNIMA PANDIT                  BSHF101 EHD01 EHD02     
+  863 BDP-135677866   0408        SEEMA DEVI SUNAR                BSHF101 EHD01     
+  864 BDP-135677906   0408        SHANTI RANA                     EHI01 ESO12     
+  865 BDP-135678044   0408        ABHIJIT BHUYAN                  BSHF101 ESO12     
+  866 BDP-135678123   0408        BANDANA DEURI                   BPC001 BPC002 BPC003 BPC004 BSHF101   
+                                                                  FEG01 FEG02     
+  867 BDP-135678241   0408        JANI CHAMPRAMARY                BEGE101 BSHF101   
+  868 BDP-135678678   0408        DOLI DEVI                       BHDF101 BPSE212 BSHF101 EPS11     
+                                                                  FHD02     
+  869 BDP-135678789   0408        NABANITA DAS                    BPSE212 BSHF101 EPS11 FAS01 FEG01     
+  870 BDP-135678922   0408        ANURADHA KUMARI                 BSHF101   
+  871 BDP-135678961   0408        SHABNAM BEGUM                   BSHF101   
+  872 BDP-135678979   0408        SHAMIMARA BEGUM                 BSHF101   
+  873 BTS-135679480   0408        JASMINE TANTI                   BSHF101 TS01 TS02      
+  874 BDP-135679630   0408        PARBIN SULTANA                  BSHF101 FST01     
+  875 BDP-135680072   0408        KONIKA DEBNATH TALUKDER         BECE002 BSHF101 ECO01     
+  876 BDP-135680223   0408        ANGONA BURAGOHAIN               EHI02     
+  877 BDP-135680310   0408        JULKAT KADIR BARUAH             BEGE102 BSHF101 FEG01 FST01     
+  878 BDP-135680327   0408        PINAKHI KALITA                  BSHF101 FST01     
+  879 BDP-135680380   0408        MANOJ KUMAR BHAKAT              BPAE102 BSHF101 EPA01 FEG01 FEG02     
+  880 BDP-135680500   0408        RIKUMONI HAZARIKA DEVI          BSHF101 ESO12     
+  881 BDP-135680739   0408        RUPOLA CHAMPRAMARY              BSHF101 EHI02 FEG01     
+  882 BDP-135680840   0408        JOHN TIRKEY                     BPY004 EPS11     
+  883 BDP-135680864   0408        MEGHALI KARMAKAR                BSHF101 EPS11 ESO12 FEG01     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   20
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0408                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  884 BDP-135680929   0408        DEEPIKA DIHINGIA                BSHF101   
+  885 BDP-135680968   0408        SAGARIKA MONDOL                 FST01 LSE02     
+  886 BDP-135680982   0408        GUNUMA BORO                     LSE01 LSE02     
+  887 BDP-135681042   0408        SRI KRITANJALI DUTTA            FAS01 FEG01 FST01 LSE01 LSE02     
+                                                                  LSE03     
+  888 BDP-135681304   0408        ASHA GIRI                       BSHF101 FEG01     
+  889 BDP-135681454   0408        JINTI KUMARI                    FEG01 FST01 LSE01 LSE02 LSE03     
+  890 MSO-135681676   0408        REEMA DOLEY                     MSO001 MSO002 MSO003 MSO004    
+  891 MSO-135681716   0408        ASHIA KHAN                      MSO001 MSO002 MSO003 MSO004    
+  892 MSO-135681794   0408        POMPI KALITA                    MSO001 MSO002    
+  893 MP-135682051    0408        PAPARI BARMAN                   MS03 MS07 MS08 MS10 MS94      
+  894 MP-135682083    0408        V MURALI MOHAN RAO              MS08 MS10 MS11 MS91      
+  895 MP-135682109    0408        ARUNIMA KALITA                  MS09 MS10 MS11 MS91      
+  896 MP-135682116    0408        PAWAN KUMAR                     MS04 MS05 MS06 MS07 MS08      
+  897 MP-135682148    0408        PHAMDOM NAOBI SINGH             MS04 MS06 MS08      
+  898 MCA-135682187   0408        SOURAV DAS                      MCS012 MCS022 MCS023 MCS031 MCS032    
+                                                                  MCS033 MCS034 MCS035 MCSL017 MCSL036   
+  899 MSW-135682266   0408        BINITA SAIKIA                   MSW001 MSW002 MSW004 MSW005 MSW006    
+  900 MSW-135682345   0408        MANIKA BAISHYA                  MSW001 MSW003 MSW004 MSW006    
+  901 MSO-135682692   0408        BANASHREE PATGIRI               MSO001    
+  902 MSW-135682836   0408        TAMASHA DUTTA                   MSW001    
+  903 MSO-135683085   0408        BIDYUT KR GOGOI                 MSO001 MSO004    
+  904 MPS-135683100   0408        BIJOY KUMAR CHETRY              MPS001 MPS002    
+  905 MSO-135683118   0408        SOMA DAS                        MSO002 MSO003    
+  906 DECE-135683157  0408        JHUMA SHARMA                    DECE01 DECE02 DECE03    
+  907 MSO-135683189   0408        ISHITA DEB                      MSO002 MSO003 MSO004    
+  908 MEC-135683282   0408        RUPOSMITA BARUAH                MEC001 MEC002    
+  909 MSO-135683433   0408        JAHNOBI BHATTACHARYYA           MSO001 MSO002 MSO003 MSO004    
+  910 MSDFSM-1356834970408        POONAM SHARMA                   MFN001 MFN002 MFN003 MFN006 MFN008    
+                                                                  MFN010    
+  911 MSW-135683569   0408        MANASHI SARMA                   MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+  912 MPS-135683583   0408        JYOTI SHARMA                    MPS002 MPS003    
+  913 MPS-135683623   0408        ALPANA MANDAL                   MPS001 MPS002 MPS004    
+  914 MPA-135683710   0408        ANEE TALUKDAR                   MPA013 MPA014    
+  915 MPA-135683877   0408        ABHILASHA   HATIBORUAH          MPA013    
+  916 MSW-135683917   0408        MONIKA KAKOTY BHARALI           MSW001 MSW002 MSW006    
+  917 MEG-135684016   0408        ADAM WANGPAN                    MEG01     
+  918 BCA-135684055   0408        ABHIJIT DEY                     BCS011 BCSL021 BCSL022 ECO02 MCS011    
+                                                                  MCS012 MCS013 MCS015    
+  919 BCA-135684062   0408        HEMANT KUMAR SHARMA             BCS011 BCS031 BCSL013 BCSL032 BCSL033   
+                                                                  BCSL034 MCS011 MCS014 MCS021 MCS023    
+  920 BCA-135684094   0408        ANKUR PRAN BORA                 BCS031 BCSL032 BCSL033 BCSL034 MCS014    
+                                                                  MCS021 MCS023    
+  921 BCA-135684166   0408        PINKI BARMAN                    BCS031 BCSL032 BCSL033 MCS014 MCS021    
+                                                                  MCS023    
+  922 BCA-135684173   0408        MINDER TERON                    BCS011 BCS012 BCSL013 ECO01     
+  923 BCA-135684180   0408        VINAY SINGH                     BCS011 BCS031 BCSL021 BCSL032 BCSL033   
+                                                                  BCSL034 MCS011 MCS014 MCS021 MCS023    
+  924 BCA-135684238   0408        ARJUN BAGLARY                   BCS011 BCS012 BCSL013 BCSL021 BCSL022   
+                                                                  ECO02 MCS011 MCS012 MCS013 MCS015    
+  925 BCA-135684252   0408        SAURAV JYOTI MEDHI              BCS011 BCS012 BCSL013 BCSL021 BCSL022   
+                                                                  ECO02 MCS011 MCS012    
+  926 BCA-135684260   0408        ANJALI BORA                     BCS011 BCS012 BCS031 BCSL013 BCSL032   
+                                                                  BCSL033 BCSL034 MCS014 MCS021 MCS023    
+  927 BCA-135684331   0408        GAUTAM LAHKAR                   BCS031 BCSL032 BCSL033 BCSL034 MCS014    
+                                                                  MCS021 MCS023    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   21
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0408                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  928 MSDFSM-1356844100408        BONDITA BHATTACHARYYA           MFN001 MFN002 MFN003 MFN006 MFN008    
+  929 BDP-135684553   0408        LAL BIAK SANGI THIANGLAI        BECE002   
+  930 MSO-135684711   0408        SEMIMA RAHMAN                   MSO001 MSO002 MSO003 MSO004    
+  931 MSO-135684815   0408        KERILDA MARY TAROPI             MSO001 MSO002 MSO003 MSO004    
+  932 MSW-135685150   0408        MADHUSMITA BORUAH               MSW005 MSW006    
+  933 MSO-135685182   0408        BHASWATI DEKA                   MSO001 MSO002    
+  934 MSO-135685208   0408        ANAMIKA DAS                     MSO001 MSO002 MSO003 MSO004    
+  935 BDP-135685720   0408        RESMIN RUKEYA SULTANA           BSHF101 EHD01 EHI02     
+  936 MSO-135685863   0408        DHRITISHREE DEKA                MSO001 MSO002 MSO003 MSO004    
+  937 MPA-135685903   0408        RUPAM DAS                       MPA011 MPA012 MPA013 MPA014    
+  938 BDP-135686034   0408        LILY ALIMON SATTAR              BSHF101 FEG01     
+  939 BDP-135686073   0408        SITA DEVI                       BSHF101   
+  940 MAWGS-135686160 0408        ANGKITA DUTTA                   MWG005 MWG009    
+  941 BDP-135686303   0408        KANCHAN MATTU                   BECE002 BSHF101   
+  942 MCA-135687193   0408        SRI BIDYUT BIKASH DAS           MCS031 MCS032 MCS033 MCS034 MCS035    
+  943 MSW-135687376   0408        BITU MANI BAISHYA               MSW003 MSW004 MSW005 MSW006    
+  944 MHD-135687390   0408        DHANWANTI KUMARI YADAV          MHD06     
+  945 BDP-135687462   0408        ROSALIN NONGRUM                 BEGE101 BSHF101   
+  946 MAEDU-135687850 0408        MISS KAKALI KALITA              MES011 MES012 MES013 MES014 MES015    
+                                                                  MES016    
+  947 BSW-135688006   0408        ABDUL MALIK                     BSHF101 BSWE001   
+  948 MPS-135688432   0408        SIKHAMONI HAZARIKA              MPS002    
+  949 BCA-135688630   0408        HITESH LAHKAR                   BCS031 BCSL021 BCSL032 BCSL033 BCSL034   
+                                                                  MCS011 MCS012 MCS014 MCS021 MCS023    
+  950 MSO-135688890   0408        PRIYANKA GANGULI                MSO001 MSO002    
+  951 MSO-135688909   0408        POMPY SARKAR                    MSO001 MSO002    
+  952 MPA-135688970   0408        RASHMI REKHA GOSWAMI            MPA012 MPA013 MPA014    
+  953 MSDFSM-1356892370408        SWASWATI DEKA                   MFN001 MFN002 MFN003 MFN006 MFN008    
+  954 MSO-135689402   0408        SAGARIKA DEVI                   MSO001 MSO002    
+  955 MEG-135689473   0408        SWAGOTA BARUAH                  MEG01     
+  956 MSW-135689670   0408        PRANAMIKA BORAH                 MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+  957 MSO-135689710   0408        RAMANANDA BASUMATARY            MSO001    
+  958 MSO-135689989   0408        JOYSHREE DUTTA                  MSO001    
+  959 MSW-135689996   0408        SUMI BHUYAN                     MSW004 MSW005 MSW006    
+  960 BDP-135690138   0408        MISS KULDIPA BARMAN             ECO01 FEG01 FST01     
+  961 BDP-135690145   0408        MISS RUBI SINGHA                BSHF101 FBG01 FEG01     
+  962 MEC-135690270   0408        RAJESH DAIMARI                  MEC001 MEC002 MEC003 MEC004    
+  963 MSW-135690367   0408        RUPALI MINJ                     MSW004 MSW006    
+  964 MSW-135690571   0408        BHAKTIDEEPA HANDIQUE            MSW001 MSW002    
+  965 MSO-135691029   0408        PURNIMA DAS                     MSO001    
+  966 BDP-135691108   0408        CHAYANIKA CHANGKAKOTI           LSE01 LSE02 LSE03     
+  967 MEG-135691312   0408        KUMARI REENAKSHRI MAHANTA       MEG01 MEG02 MEG03 MEG04     
+  968 MSO-135691416   0408        URMILA RABHA                    MSO001 MSO002    
+  969 BDP-135691462   0408        SABITA PRASAD                   BSHF101   
+  970 MSO-135691502   0408        BIKUMONI BEGUM                  MSO001    
+  971 MARD-135691566  0408        HIRIMBA BASUMATARI              MRD004    
+  972 MEG-135691645   0408        NILUFAR KHANAM                  MEG01 MEG02 MEG03 MEG04     
+  973 BDP-135692117   0408        DILTI FANGSHO                   CHE01 CHE02 FST01 LSE03     
+  974 BDP-135692124   0408        REKHA SAIKIA                    BEGE101 BEGE102 BSHF101 EEG02     
+                                                                  FEG01     
+  975 MHD-135692210   0408        BINITA GOSWAMI                  MHD06     
+  976 BDP-135692805   0408        RAJANI BILUNG                   BSHF101   
+  977 BDP-135692923   0408        PINKY ROY                       BSHF101 EPS11 FEG01 FEG02     
+  978 MSO-135693172   0408        NIVA RANI SHARMA                MSO001 MSO002 MSO003 MSO004    
+  979 MSO-135693244   0408        NEERA DEVI                      MSO001 MSO002 MSO003 MSO004    
+  980 MPS-135693309   0408        DONGI NAMPUI                    MPS002 MPS004    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   22
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0408                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  981 MARD-135693441  0408        JUTIKA BARMAN                   MRD004 MRD101 MRD102    
+  982 MCA-135693498   0408        ABHIJIT GOSWAMI                 MCS012 MCS014 MCSL017   
+  983 MSO-135693584   0408        MRIDUSMITA DEKA                 MSO001 MSO002 MSO003    
+  984 MPS-135693624   0408        RABITA DOLOI                    MPS002    
+  985 MHD-135693892   0408        PRONOTI MAHANTA                 MHD02 MHD06     
+  986 MCOM-135693996  0408        JAYASHREE BARMAN                IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  987 BDP-135694246   0408        GANGA KARMAKAR                  BECE002 BSHF101 EEC11 FEG01 FEG02     
+  988 MHD-135694300   0408        MRS SWAPNA SAIKIA               MHD02 MHD06     
+  989 MSW-135694364   0408        PUJA DEKA                       MSW004 MSW005    
+  990 BDP-135694396   0408        REETA RAI                       BSHF101 EHD05 ESO12     
+  991 BDP-135694411   0408        MALIKA MILLIKPI                 FEG02     
+  992 MHD-135694475   0408        DAISY KALITA                    MHD04     
+  993 MHD-135694751   0408        SONAM DREMA                     MHD03 MHD06     
+  994 MSW-135694783   0408        MISS PRIYAKSHI GOGOI            MSW001 MSW002 MSW003 MSW004 MSW005    
+  995 MSO-135694790   0408        ASFIA KHANOM                    MSO001 MSO002 MSO003 MSO004    
+  996 MCOM-135694830  0408        UPASANA KALITA                  IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  997 MPS-135694894   0408        JIKIRANI MAHANTA                MPS001 MPS002 MPS003 MPS004    
+  998 MSO-135694980   0408        MISS RIJUMONI DAS               MSO001 MSO002 MSO003 MSO004    
+  999 MCA-135695080   0408        BISWA JYOTI BATSAVA             MCS011 MCS012 MCS014 MCSL016 MCSL017   
+ 1000 MSW-135695120   0408        BOHAGI RABHA                    MSW001 MSW002 MSW004 MSW005 MSW006    
+ 1001 MSW-135695151   0408        TEJIMALA RABHA                  MSW004    
+ 1002 BDP-135695216   0408        NISHA DEVI                      BPY001 BPY002 FST01     
+ 1003 BDP-135695223   0408        CHAMPA SEAL                     BSHF101 ESO12     
+ 1004 MSW-135695262   0408        CHIMPI KONWAR                   MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+ 1005 BDP-135695310   0408        GARGI ROY                       BSHF101 ESO12     
+ 1006 BCA-135695491   0408        SUBHASH SHARMA                  BCS031 BCSL021 BCSL032 BCSL033 BCSL034   
+                                                                  MCS011 MCS014 MCS021 MCS023    
+ 1007 MSW-135695667   0408        LINI SAIKIA                     MSW001 MSW002 MSW004 MSW005 MSW006    
+ 1008 MSW-135695674   0408        LIZI SAIKIA                     MSW001 MSW002 MSW004 MSW005 MSW006    
+ 1009 MEG-135695857   0408        ALIVIHA BHOWMICK                MEG01 MEG04     
+ 1010 BDP-135696035   0408        MOUSUMI KUMARI                  BSHF101   
+ 1011 MCOM-135696042  0408        NIHA SAIKIA                     IBO04 IBO05     
+ 1012 MSO-135696519   0408        KAKALI DEKA                     MSO001 MSO002 MSO003    
+ 1013 MSO-135696580   0408        FATEMA FARHA ALAH               MSO001 MSO003 MSO004    
+ 1014 MSO-135696605   0408        RIDIP KALITA                    MSO001 MSO002 MSO003 MSO004    
+ 1015 MSO-135696651   0408        PRIYANKA KAKATI                 MSO001 MSO002 MSO003    
+ 1016 MSW-135696787   0408        PALLABI BHARALI                 MSW001 MSW004 MSW005 MSW006    
+ 1017 BDP-135697187   0408        BABITA GUPTA                    BSHF101   
+ 1018 BDP-135697194   0408        SUNITA DAS                      BSHF101   
+ 1019 MSW-135697234   0408        MRIDUSMITA KHANIKAR             MSW004 MSW005 MSW006    
+ 1020 MSO-135697241   0408        SUMIARA BEGUM                   MSO001    
+ 1021 MSO-135697259   0408        HIMA PATOWARY                   MSO001 MSO002 MSO003 MSO004    
+ 1022 MEG-135697384   0408        RIYA DAS                        MEG01 MEG02     
+ 1023 BTS-135697550   0408        MUKUT CHETRY                    BSHF101 FEG01 FEG02 TS01 TS02      
+ 1024 BDP-135697599   0408        SUCHITRA ROY                    BSHF101 ESO11     
+ 1025 MPS-135697725   0408        KARAVI RABHA                    MPS001 MPS002 MPS004    
+ 1026 MSO-135697796   0408        DOLI DEKA                       MSO002 MSO003 MSO004    
+ 1027 MSO-135697804   0408        DARATHI PATOWARY                MSO003 MSO004    
+ 1028 MSO-135697836   0408        NABANITA DEKA                   MSO002 MSO004    
+ 1029 BDP-135698171   0408        PURABI KALITA                   CHE01 CHE02 FAS01 FEG01 FST01     
+ 1030 BDP-135698268   0408        RAS MAYA PUN                    BSHF101   
+ 1031 MP-135698354    0408        PRITAM MEDHI                    MS07      
+ 1032 MP-136070530    0408        SUBHADRA BHATTACHARJEE          MS03 MS04 MS05 MS06      
+ 1033 MPS-136412760   0408        ARUN KUMAR                      MPS001 MPS002 MPS003 MPS004    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   23
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0408                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+ 1034 MAH-136542933   0408        KENE SUNIL WASUDEO              MHI01     
+ 1035 CFN-137396675   0408        LIPIKA BORUAH                   CFN01 CFN02 CFN03     
+ 1036 MSO-137399348   0408        PURABI DEVI                     MSO002 MSO003    
+ 1037 PGDDM-137399900 0408        DITI DIHINGIA                   MED004 MPA001 MPA002 MPA003 MPA004    
+                                                                  MPA005 MPA006 MPA007    
+ 1038 BDP-137741150   0408        YVONNE LOUISE DONG              BPC001 BPC002 BPC003 BPC004 BSHF101   
+                                                                  FEG01 FEG02     
+ 1039 MCOM-137770871  0408        BABITA KUMARI                   IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1040 BDP-140120120   0408        SUMON BORO                      BPSE212 BSHF101 EPS11 FEG01 FEG02     
+ 1041 BDP-140120223   0408        JAINGLU SINGPHO                 BSHF101 ESO11 ESO12 FEG01 FEG02     
+ 1042 BSW-140120248   0408        ASHIMA DUTTA CHOUDHURY          BSHF101 BSWE001 FBG01 FEG01     
+ 1043 MSDFSM-1401202940408        HAFIJA RAHMAN                   MFN001 MFN002 MFN003 MFN006 MFN008    
+                                                                  MFN010    
+ 1044 MSW-140120310   0408        BIBHA DEKA                      MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+ 1045 BDP-140120341   0408        PINKI RAI                       BEGE101 BEGE102 BHDF101 BSHF101   
+                                                                  FHD02     
+ 1046 MSDFSM-1401204450408        SHREYA SARKAR                   MFN001 MFN002 MFN003 MFN006 MFN008    
+                                                                  MFN010    
+ 1047 MHD-140120531   0408        SRI SITA BASUMATARY             MHD02 MHD03 MHD04 MHD06     
+ 1048 MHD-140120549   0408        SUMITA BEGUM                    MHD02 MHD03 MHD04 MHD06     
+ 1049 MHD-140120667   0408        SHIKHA MONI RAJGURU             MHD02 MHD03 MHD04 MHD06     
+ 1050 MPS-140120681   0408        SEVIKA HASNU                    MPS001 MPS002 MPS003 MPS004    
+ 1051 MHD-140120699   0408        MOMI BARUAH                     MHD02 MHD03 MHD04 MHD06     
+ 1052 MHD-140120721   0408        JYOTI SAH                       MHD02 MHD03 MHD04 MHD06     
+ 1053 BDP-140120760   0408        MRS MALABIKA ADHIKARI           BSHF101 FAS01     
+ 1054 MPA-140120857   0408        SARMISTHA CHOUDHURY             MPA011 MPA012 MPA013 MPA014    
+ 1055 MPA-140120864   0408        JASMINE MARIYAM                 MPA011 MPA012 MPA013 MPA014    
+ 1056 MPS-140120968   0408        MOHAMMAD UMAR                   MPS001 MPS002 MPS003 MPS004    
+ 1057 MSDFSM-1401209820408        ARUNA DAI                       MFN001 MFN002 MFN003 MFN006    
+ 1058 BDP-140121160   0408        KASTURI KASHYAP                 BEGE101 BEGE102 BSHF101 FEG01     
+                                                                  FEG02     
+ 1059 MEG-140121185   0408        MAHIMA DEKA                     MEG01 MEG02 MEG03 MEG04     
+ 1060 MSW-140121368   0408        SHENAZ AHMED                    MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+ 1061 BDP-140121415   0408        BJOYEETA BHATTACHARJEE          BEGE102 BSHF101 EPS11 FBG01 FEG01     
+ 1062 BCOMAF-1401214470408        VEDANTI BARTHAKUR               AED01 BEGE104 ECO13 FEG01 FEG02     
+                                                                  FST01     
+ 1063 BDP-140121461   0408        DEEPA SARKAR                    BPSE212 BSHF101 EHD01 FAS01 FEG01     
+ 1064 BDP-140121540   0408        HONEBEE MARAK                   BSHF101   
+ 1065 MSW-140121676   0408        PALLABI SHARMA                  MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+ 1066 MSO-140122037   0408        RABI LALJHAOMI NAMPUI           MSO001 MSO002 MSO003 MSO004    
+ 1067 MPS-140122069   0408        KAIKHOMANG SINGSON              MPS001 MPS002 MPS003 MPS004    
+ 1068 MCA-140122076   0408        SANDIPAN SAHA                   BCS012 MCS011 MCS012 MCS013 MCS014    
+                                                                  MCS015 MCSL016 MCSL017   
+ 1069 MEC-140122170   0408        SHEO SHANKAR TIWARY             MEC001 MEC002 MEC003 MEC004 MEC105    
+ 1070 MHD-140122187   0408        RIMKI BARMAN                    MHD02 MHD03 MHD04 MHD06     
+ 1071 MP-140122202    0408        SIKHANJYOTI BARMAN              MS05 MS06 MS07 MS08      
+ 1072 MHD-140122273   0408        JURI TALUKDAR                   MHD02 MHD03 MHD04 MHD06     
+ 1073 MSO-140122306   0408        MOROMI MOSHAHARI                MSO001 MSO002 MSO003 MSO004    
+ 1074 MP-140122338    0408        JYOTIRMAY DAS                   MS05 MS06 MS07 MS08      
+ 1075 CAFE-140122463  0408        SEEMA BORDOLOI                  BFEE101 BFEE102   
+ 1076 MSO-140122470   0408        BARNALI BARUAH                  MSO001 MSO002 MSO003 MSO004    
+ 1077 MHD-140122528   0408        DEEPALI DAIMARI BORO            MHD02 MHD03 MHD04 MHD06     
+ 1078 MSO-140122646   0408        JOSILA BORO                     MSO001 MSO002 MSO003 MSO004    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   24
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0408                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+ 1079 MCA-140122660   0408        DIPANKAR SARMA                  MCS014 MCSL016 MCSL017   
+ 1080 BDP-140122804   0408        SHAHIDUL ISLAM                  BSHF101 ESO11 ESO12 FEG01 FEG02     
+ 1081 BDP-140122829   0408        PUJA SHARMA                     BSHF101 FAS01 FEG01     
+ 1082 MEG-140122882   0408        RUPANA DAS                      MEG01 MEG02 MEG03 MEG04     
+ 1083 BDP-140122986   0408        MINAKSHI DAS                    BEGE101 BEGE102 BSHF101 FEG01     
+                                                                  FEG02     
+ 1084 BDP-140122993   0408        LUCKY DAS                       BSHF101 FAS01 FEG01     
+ 1085 MSW-140123007   0408        MONMI DAS                       MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+ 1086 BDP-140123132   0408        NANDITA DEKA                    BSHF101 ECO01 ECO02 ESO12 FAS01     
+                                                                  FEG01     
+ 1087 MSO-140123308   0408        NAYAN MANI DAS                  MSO001 MSO002 MSO003 MSO004    
+ 1088 MSO-140123419   0408        BANASHREE DAS                   MSO001 MSO002 MSO003 MSO004    
+ 1089 BTS-140123426   0408        SATYOG KIMARI SINGH             BSHF101 FEG01 FEG02 TS01 TS02      
+ 1090 MSW-140123512   0408        MS RUPA DAS                     MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+ 1091 MCOM-140123623  0408        NANDITA JUHI DAS                IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1092 BDP-140123710   0408        NIKITA DEB                      BEGE101 BEGE102 BSHF101 FEG01     
+                                                                  FEG02     
+ 1093 BDP-140123852   0408        MILI SARKAR                     BEGE101 BEGE102 BSHF101 FEG01     
+                                                                  FEG02     
+ 1094 BDP-140123931   0408        SAGARIKA DHAR                   BSHF101 EPA01 ESO12 FEG01 FEG02     
+ 1095 MLS-140124009   0408        AMRITA BORO                     MLI101 MLI102 MLIE102 MLIE103 MLII101   
+                                                                  MLII102 MLII103 MLII104   
+ 1096 BDP-140124102   0408        MADHUMITA KAR                   BEGE101 BEGE102 BHDF101 BSHF101   
+                                                                  FEG01     
+ 1097 BDP-140124245   0408        GITIKA GOSWAMI                  FAS01 FEG01 FST01 LSE01 LSE02     
+                                                                  LSE03     
+ 1098 MARD-140124356  0408        SUMONTO SINHA                   MRD004 MRD101 MRD102 MRD103    
+ 1099 MSO-140124410   0408        MANISHA KALITA                  MSO001 MSO002 MSO003 MSO004    
+ 1100 MSO-140124450   0408        AMBIKA HANSEPI                  MSO001 MSO002 MSO003 MSO004    
+ 1101 MCA-140124481   0408        BHOLANATH SARKAR                MCS011 MCS024 MCSL017   
+ 1102 MSO-140124514   0408        TABA NEPA                       MSO001 MSO002 MSO003 MSO004    
+ 1103 MARD-140124585  0408        DANISH GOGOI                    MRD004 MRD101 MRD102 MRD103    
+ 1104 BDP-140124768   0408        RUMI NEOG                       BEGE101 BEGE102 BSHF101 FAS01     
+                                                                  FHD02     
+ 1105 BDP-140124782   0408        SANTANA GURUNG                  BHDF101 BSHF101 ESO11 ESO12 FEG01     
+ 1106 BDP-140124830   0408        ALINA GIRISA                    BEGE101 BPSE212 BSHF101 FEG01     
+                                                                  FEG02     
+ 1107 BDP-140124886   0408        NABANITA HALOI                  BPY001 BPY002 BPY003 BPY004 BSHF101   
+                                                                  FAS01 FEG01     
+ 1108 MSO-140124958   0408        MOROMEE BORO                    MSO001 MSO002 MSO003 MSO004    
+ 1109 BDP-140126224   0408        KARISHMA DEKA                   BSHF101 FEG01     
+ 1110 BDP-140126374   0408        SHARMILA BASUMATARY             BECE002 BSHF101 EEC11 FEG01 FEG02     
+ 1111 BDP-140126407   0408        WAHIDA BEGUM LASKAR             BEGE101 BEGE102 BSHF101 FEG01     
+                                                                  FEG02     
+ 1112 MCA-140126478   0408        JITUMONI PATOWARY               MCS011 MCS021 MCS022 MCS023 MCS024    
+                                                                  MCSL025   
+ 1113 BDP-140126596   0408        TRITA MARAK                     BSHF101 EHI01 EHI02 FEG01 FEG02     
+ 1114 BDP-140126611   0408        JOYSHREE CHOUDHURY              BEGE101 BEGE102 BSHF101 FEG01     
+                                                                  FEG02     
+ 1115 BDP-140126668   0408        KULDEEP SINGH MERTIYA           BPAE102 BSHF101 EPA01 FEG01 FEG02     
+ 1116 MEC-140126715   0408        RICHA BARUAH                    MEC001 MEC002 MEC003 MEC004 MEC105    
+ 1117 BSW-140126722   0408        HIMANKAR BEZBARUAH              BSHF101 BSWE001 FAS01 FEG01     
+ 1118 BDP-140126833   0408        PRANITA SARMAH                  FAS01 LSE01     
+ 1119 MCA-140127161   0408        SANGEETA SAIKIA                 MCS011 MCS014 MCS021 MCS022 MCS023    
+                                                                  MCS024 MCSL017 MCSL025   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   25
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0408                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+ 1120 MP-140127226    0408        SAURAV KUMAR JAISWAL            MS06 MS07 MS08 MS09      
+ 1121 MP-140127258    0408        INDRAJIT TAHBILDER              MS06 MS07 MS10 MS11      
+ 1122 MP-140127280    0408        ASIF NASIR                      MS07 MS10 MS11      
+ 1123 MP-140127312    0408        PRIYAMI DUTTA                   MS05 MS06 MS07 MS08      
+ 1124 MP-140127344    0408        SIKHA RANI BAISHYA              MS01 MS03 MS07      
+ 1125 MP-140127369    0408        DEVAJIT PHATOWALY               MS02 MS03 MS05      
+ 1126 MP-140127383    0408        GARGEE MONDAL                   MS04 MS06 MS08 MS10      
+ 1127 MP-140127390    0408        MAYANK BANJARE                  MS04 MS06 MS08 MS10      
+ 1128 MHD-140127430   0408        GITIKA RANI BRAHMA              MHD02 MHD03 MHD04 MHD06     
+ 1129 MP-140127494    0408        PRANJAL TALUKDAR                MS05 MS06 MS94      
+ 1130 MP-140127502    0408        BARSHA BARUAH                   MS07 MS09      
+ 1131 MP-140127510    0408        BIDYUT BIKASH BARUAH            MS04      
+ 1132 MP-140127527    0408        DIGANTA HAZARIKA                MS04 MS06 MS07 MS08      
+ 1133 MP-140127534    0408        BINDU BHARADWAJ                 MS01 MS04 MS10 MS25      
+ 1134 BDP-140127867   0408        SUSHMA PURTY                    BPSE212 BSHF101 EHD05 FAS01 FEG01     
+ 1135 MP-140127914    0408        NILUTPAL GOGOI                  MS01 MS04 MS10 MS25      
+ 1136 BDP-140128100   0408        RAJIB SHARMA                    BEGE101 BEGE102 BHDF101 BSHF101   
+                                                                  FEG01     
+ 1137 BDP-140128686   0408        LEISHIPAM HAORIAH               BPC001 BPC002 BPC003 BPC004 BSHF101   
+                                                                  FEG01 FEG02     
+ 1138 BDP-140128719   0408        TAJUNGMONGLA WALLING            FEG01 FEG02 FST01 MTE01 MTE02     
+                                                                  MTE05     
+ 1139 BDP-140128837   0408        LILLY PUSHPAM                   BSHF101 EPS11 FEG01 FEG02     
+ 1140 BDP-140128930   0408        HARJINDER SINGH                 BECE002 BSHF101 ECO01 ECO02 FEG01     
+                                                                  FEG02     
+ 1141 BDP-140129126   0408        DOLLY BORDOLOI                  BSHF101 ESO11 ESO12 FEG01 FEG02     
+ 1142 BDP-140129140   0408        NAMRATA CHAKRABARTY             BSHF101 ESO11 ESO12 FEG01 FEG02     
+ 1143 BDP-140129197   0408        ASHISH CHATURVEDI               BEGE101 BEGE102 BSHF101 FEG01     
+                                                                  FEG02     
+ 1144 BCA-140129309   0408        SUMAN KALITA                    BCS011 BCS012 BCSL021 BCSL022 ECO01     
+                                                                  ECO02 MCS013 MCS015    
+ 1145 BTS-140129781   0408        DHARITRI RABHA                  BSHF101 FEG01 FEG02 TS01 TS02      
+ 1146 PGDRD-140129860 0408        MADHUMITA SAHA                  MRD101 MRD102 MRD103 MRDE101   
+ 1147 DECE-140130034  0408        SANTANA DEVI                    DECE01 DECE02 DECE03    
+ 1148 MPS-140130200   0408        SIKHA MONI SAIKIA               MPS001 MPS004    
+ 1149 MSO-140130224   0408        JERINA BEYPI                    MSO001 MSO002 MSO003 MSO004    
+ 1150 MARD-140130328  0408        MELORY HRANGKHOL                MRD004 MRD101 MRD102 MRD103    
+ 1151 MTM-140130439   0408        ALMITA BODO                     MTM05 MTM06 MTM07 MTM08     
+ 1152 MSO-140130446   0408        BABITA BAISHYA                  MSO001 MSO002 MSO003 MSO004    
+ 1153 MSW-140130485   0408        JYOTI RAJKHOWA LAMA             MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+ 1154 MPS-140130518   0408        INDRA PRASAD DEKA               MPS001 MPS002 MPS003 MPS004    
+ 1155 MSO-140130525   0408        SMRITIREKHA DAS                 MSO001 MSO002 MSO003 MSO004    
+ 1156 MEG-140130540   0408        ADREETA MAHANTA                 MEG02     
+ 1157 MHD-140130557   0408        BABITA NATH                     MHD02 MHD03 MHD04 MHD06     
+ 1158 MSO-140130571   0408        EKTADEEP SINGH                  MSO001 MSO002 MSO003 MSO004    
+ 1159 MSW-140130589   0408        MONDIRA CHUTIA                  MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+ 1160 MAH-140130629   0408        URSHITA BHUYAN                  MHI01 MHI02 MHI04 MHI05     
+ 1161 MARD-140130636  0408        ANAMIKA BAISHYA                 MRD004 MRD101 MRD102 MRD103    
+ 1162 MEG-140130650   0408        NASIMA KHATOON                  MEG01 MEG02 MEG03 MEG04     
+ 1163 MSO-140130675   0408        JAHNABI BORTHAKUR               MSO001 MSO002 MSO003 MSO004    
+ 1164 BCA-140130944   0408        HITESH DAS                      BCS011 BCS012 BCSL021 BCSL022 ECO01     
+                                                                  ECO02 MCS011 MCS013    
+ 1165 MSO-140131004   0408        AMRITA HANSEPI                  MSO001 MSO002 MSO003 MSO004    
+ 1166 MP-140131147    0408        NASIM RAJ AHMED                 MS04 MS05 MS06 MS07 MS08      
+ 1167 BTS-140131201   0408        KUNAL DUTTA                     BSHF101 FEG01 FEG02 TS01 TS02      
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   26
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0408                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+ 1168 MPS-140131320   0408        NIRMALA PURI                    MPS001 MPS002 MPS003 MPS004    
+ 1169 MHD-140131416   0408        RIMA SONOWAL                    MHD02 MHD03 MHD04 MHD06     
+ 1170 MPA-140131448   0408        BANDANA CHOWDHURY               MPA011 MPA012 MPA013 MPA014    
+ 1171 MSW-140131534   0408        UTTARA HAFLONGBAR               MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+ 1172 MPS-140131559   0408        AASHISH SAIKIA                  MPS001 MPS002 MPS003 MPS004    
+ 1173 MSO-140131573   0408        NIVAMANI BARMAN                 MSO001 MSO002 MSO003 MSO004    
+ 1174 MSO-140131620   0408        NOMI SONOWAL                    MSO001 MSO002 MSO003 MSO004    
+ 1175 MSO-140131660   0408        MAINAOSHREE KACHARY             MSO001 MSO002 MSO003 MSO004    
+ 1176 MSDFSM-1401317240408        HIMASHREE KUMARI                MFN001 MFN002 MFN003 MFN006 MFN008    
+                                                                  MFN010    
+ 1177 MEG-140131756   0408        ALLAN SAIKIA                    MEG01 MEG02 MEG03 MEG04     
+ 1178 MSO-140131763   0408        PRETTY RANI BRAHMA              MSO001 MSO002 MSO003 MSO004    
+ 1179 MEC-140131795   0408        MANASHI BORAH                   MEC002 MEC004 MEC105    
+ 1180 MPS-140131828   0408        SWAHEADA BEGUM                  MPS001 MPS002 MPS003 MPS004    
+ 1181 MEG-140131867   0408        MRS DIMPLE KALITA               MEG01 MEG02 MEG03 MEG04     
+ 1182 MSW-140131946   0408        ANAMIKA TALUKDAR                MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+ 1183 MSW-140131953   0408        BHUSITA TALUKDAR                MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+ 1184 MSW-140132250   0408        NAMITA DAS                      MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+ 1185 MHD-140132281   0408        PARVATI GAUTAM SHARMA           MHD02 MHD03 MHD04 MHD06     
+ 1186 MSW-140132733   0408        RASHMI REKHA HAZARIKA           MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+ 1187 MARD-140133079  0408        SK KHURSHIDA AHMED              MRD004 MRD101 MRD102 MRD103    
+ 1188 MPA-140133119   0408        YORITREKA SUTNGA                MPA011 MPA012 MPA013 MPA014    
+ 1189 MP-140133466    0408        SAJAL DAS                       MS04 MS05 MS07      
+ 1190 MSDFSM-1401336000408        NEELAM KRISHNAN                 MFN001 MFN002 MFN003 MFN006 MFN008    
+                                                                  MFN010    
+ 1191 MSO-140133649   0408        MOMI BORTHAKUR                  MSO001 MSO002 MSO003 MSO004    
+ 1192 BDP-140134998   0408        JYOTI SAPKOTA                   CHE01 CHE02 FEG01 FEG02 FST01     
+                                                                  LSE01 LSE02     
+ 1193 BDP-140135080   0408        RISITA MEDHI                    BEGE102 BPY001 BPY002 BSHF101 FEG01     
+                                                                  FEG02     
+ 1194 BDP-140135294   0408        SAHIDA BEGUM                    BPSE212 BSHF101 EPS11 FEG01 FEG02     
+ 1195 BDP-140135310   0408        JOY PRAKASH KAKATI              BPSE212 BSHF101 EPS11 FAS01 FEG01     
+ 1196 BDP-140135366   0408        VIPIN KUMAR TRIPATHI            BEGE102 BHDF101 BSHF101 EHD05     
+                                                                  FHD02     
+ 1197 BDP-140135373   0408        SANGITA KUMARI                  BHDF101 BSHF101 EHD01 EHD02 FHD02     
+ 1198 BDP-140135413   0408        MANAB SANKAR BORAH              BSHF101 ESO11 ESO12 FEG02     
+ 1199 BDP-140135491   0408        ZAHEEDA TARIANG                 BEGE101 BEGE102 BSHF101 FEG01     
+                                                                  FEG02     
+ 1200 BDP-140135524   0408        PARVATI DEVI                    BHDF101 BSHF101 EHD01 EHD02 FHD02     
+ 1201 BDP-140135667   0408        JAYASHREE MAJUMDAR              BEGE101 BEGE102 BSHF101 FEG01     
+                                                                  FEG02     
+ 1202 BDP-140135699   0408        JAMINI SAIKIA                   BPHE101 FEG01 FEG02 FST01 PHE01     
+                                                                  PHE02     
+ 1203 MSO-140135721   0408        CHETANA SAIKIA                  MSO001 MSO002 MSO003 MSO004    
+ 1204 BDP-140135871   0408        BARNALI TALUKDAR                BEGE102 BSHF101 EPS11 FEG01 FEG02     
+ 1205 MCA-140135889   0408        PARAG JYOTI KALITA              MCS014 MCS024    
+ 1206 MARD-140135904  0408        NOMITA BARUAH                   MRD004 MRD101 MRD102 MRD103    
+ 1207 MHD-140136028   0408        G KAMALAXMI PAUL                MHD02 MHD03 MHD04 MHD06     
+ 1208 MSW-140136035   0408        GULAPI DEB ROY                  MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+ 1209 MHD-140136074   0408        VANDANA SINGH                   MHD02 MHD03 MHD04 MHD06     
+ 1210 MSDFSM-1401361460408        AHONGSHANGBAM JOGEETA DEVI      MFN001 MFN003 MFN006 MFN008    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   27
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0408                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+ 1211 MPS-140136153   0408        KAJARI DAS                      MPS001 MPS003 MPS004    
+ 1212 MSO-140136225   0408        BARNASHREE PATHAK               MSO001 MSO003    
+ 1213 MEG-140136289   0408        NAMITA DAS                      MEG01 MEG02 MEG03 MEG04     
+ 1214 BDP-140136730   0408        SHAHEEN YASMIN                  BSHF101 ESO11 ESO12     
+ 1215 MHD-140136794   0408        PINKI KUMARI SAH                MHD02 MHD03 MHD04 MHD06     
+ 1216 MHD-140136991   0408        PURABI CHAKRAVORTY              MHD02 MHD03 MHD06     
+ 1217 MCOM-140137123  0408        ABHA SAHANI                     IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1218 MSW-140137148   0408        PRIYA BHADRA                    MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+ 1219 MCA-140137170   0408        BHASKAR PAUL                    MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+ 1220 MPS-140137202   0408        MANITA SHARMA                   MPS001 MPS003 MPS004    
+ 1221 MSW-140137234   0408        SAIFUL ISLAM                    MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+ 1222 MPS-140137391   0408        PINKY KUMARI                    MPS001 MPS002 MPS003    
+ 1223 MSO-140137470   0408        JENNIFER MARGARET ANTHONY       MSO001 MSO002 MSO003 MSO004    
+ 1224 MSO-140137567   0408        KALPANA SINGHA KHIROM           MSO001 MSO003    
+ 1225 MPS-140137607   0408        JURI KALITA                     MPS001 MPS002 MPS003 MPS004    
+ 1226 BDP-140137646   0408        JENIUS HUSSAIN                  ESO11 ESO12     
+ 1227 MEG-140137692   0408        MAMOON BARUAH                   MEG01 MEG02 MEG03 MEG04     
+ 1228 MSO-140137789   0408        ASHAMONI SAIKIA                 MSO001 MSO002 MSO003 MSO004    
+ 1229 MEG-140138282   0408        IMRAN HUSSAIN                   MEG01 MEG02 MEG03 MEG04     
+ 1230 BDP-140138315   0408        DEEPAK KUMAR SHARMA             BPSE212 BSHF101 EPS11 FEG01 FEG02     
+ 1231 MARD-140138379  0408        SIBANI BORTHAKUR                MRD004 MRD101 MRD102 MRD103    
+ 1232 MSO-140138884   0408        DHARITRI SHARMAH                MSO001 MSO002 MSO003 MSO004    
+ 1233 MSO-141013375   0408        MAGDALENE RIMAI                 MSO001 MSO002 MSO003 MSO004    
+ 1234 MAPC-141613077  0408        GEETA RANI BHAR                 MPC001 MPC002 MPC003 MPC004 MPC005    
+                                                                  MPC006    
+ 1235 MAH-142321000   0408        NARENDER                        MHI01 MHI02 MHI04 MHI05     
+ 1236 BDP-143041688   0408        SK KAVIRAL ROCKY LAMKANG        BEGE101 BEGE102 BSHF101 FEG01     
+                                                                  FEG02     
+ 1237 BED-143427625   0408        DEBOLINA DAS                    ES331 ES332 ES333 ES343 ES344     
+ 1238 BPP-145155820   0408        GAURANGA BORDOLOI               OSS101 PCO       
+ 1239 MP-145156070    0408        DIPANKAR GOGOI                  MS01 MS02 MS03 MS04      
+ 1240 MCA-145156141   0408        DILIP KUMAR RAY                 BCS012 MCS011 MCS012 MCS013 MCS014    
+                                                                  MCS015 MCSL016 MCSL017   
+ 1241 BCA-145156585   0408        DHRUBAJYOTI MEDHI               BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1242 CFE-145156886   0408        RASHMI KARIGAPSA                BEG004 BEG005 BEG006    
+ 1243 MP-145158002    0408        RAMESH KUMAR K K                MS02 MS04 MS05 MS06      
+ 1244 MP-145158532    0408        ANUP KUMAR DAS                  MS02 MS04 MS06 MS10      
+ 1245 MP-145158540    0408        JITU DAS                        MS01 MS02 MS03 MS04      
+ 1246 MP-145158589    0408        KOUSHIK SARMAH                  MS01 MS02 MS03 MS05      
+ 1247 MP-145158722    0408        NILAMANI SARMA                  MS01 MS02 MS03 MS04      
+ 1248 BCA-145158826   0408        SUSHMITA PAUL MAZUMDER          BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1249 BPP-145161057   0408        ELIZABETH LALNUNTHARI           OSS101    
+ 1250 MP-145162478    0408        PARAGJYOTI KALITA               MS01 MS02 MS03 MS04      
+ 1251 MP-145162492    0408        UDIT NARAYAN MORAL              MS01 MS02 MS03 MS04      
+ 1252 MP-145162500    0408        RAKESH KR SAHA                  MS01 MS02 MS03 MS04      
+ 1253 BCA-145162833   0408        VICKY KUMAR CHOUDHARY           BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1254 BCA-145163337   0408        NABANEETA KUMAR                 BCS011 BCS012 ECO01 FEG02     
+ 1255 BCA-145163423   0408        AMARJEET SINGHA                 BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1256 MCA-145163652   0408        SARASWAT SHARMA                 MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+ 1257 BCA-145165348   0408        GOPAL ROY                       BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1258 BCA-145165370   0408        TANVEE DEY                      BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1259 CHR-145165663   0408        NAZAFI AMIN                     CHR11 CHR12     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   28
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0408                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+ 1260 MCA-145165918   0408        SWARUP DAS                      MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+ 1261 MCA-145166468   0408        NISHA MONI SARMA                MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+ 1262 MCA-145166665   0408        NITA PATRA                      MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+ 1263 BCA-145166980   0408        MADHABI SARKAR                  BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1264 BCA-145167556   0408        SAMIRAN KAKOTY                  BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1265 MCA-145167943   0408        ABHIJIT ROY                     MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+ 1266 BCA-145169298   0408        SIDDHARTHA SHANKAR DEY          BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1267 BCA-145169692   0408        JOYDEEP KAUSHIK                 BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1268 MCA-145170278   0408        SANKAR BHUYAN                   MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+ 1269 BCA-145172028   0408        BHARGAV CH BHAGABATI            BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1270 MCA-145173510   0408        HIRANYA SARMA                   MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+ 1271 BCA-145173550   0408        PRIYANKA DEB                    BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1272 BCA-145174021   0408        GOPAL KUMAR SINGH               BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1273 BCA-145175087   0408        SUBHAM DUTTA                    BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1274 BCA-145175291   0408        RESHMI HAZARIKA                 BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1275 BCA-145175585   0408        DHIRAJ DAS                      BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1276 BCA-145175830   0408        PURABI NATH                     BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1277 BCA-145176040   0408        SABYASACHI DEB                  BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1278 MCA-145178186   0408        FAHMIDUL HAQUE                  MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+ 1279 MAWGS-145178462 0408        DEEPSHIKHA CARPENTER            MWG001 MWG002    
+ 1280 BCA-145179805   0408        RAMEN TALUKDAR                  BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1281 BCA-145181177   0408        TRIHANGKU LAHKAR                BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1282 BCA-145182050   0408        ROHIT CHHETRI                   BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1283 MCA-145182075   0408        ARUP JYOTI BANIA                MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+ 1284 CDM-145182201   0408        INDRA KUMAR HAZARIKA            CDM01 CDM02     
+ 1285 MCA-145182907   0408        NIYOTI ROY                      MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+ 1286 MCA-145184119   0408        ANISUL HAQUE                    BCS012 MCS011 MCS012 MCS013 MCS014    
+                                                                  MCS015 MCSL016 MCSL017   
+ 1287 BPP-145184710   0408        C ZOSANGZUALI                   OMT101 OSS101    
+ 1288 BCA-145184925   0408        SHASANKA DAS                    BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1289 BCA-145185340   0408        MIRDANA ENGLENGPI               BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1290 MCA-145187493   0408        BHAWNA  JHANWAR                 MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+ 1291 BCA-148198494   0408        AVINASH KUMAR SINGH             BCS011 BCS012 BCSL013 ECO01 FEG02     
+        

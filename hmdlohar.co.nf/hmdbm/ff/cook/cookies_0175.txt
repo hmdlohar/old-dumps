@@ -1,0 +1,12 @@
+#This file was created by the CookieSwap extension...see cookieswap.mozdev.org
+#NOTE: if this file's extension is 'tx1' then this is an
+# active profile and the cookies in here are old and will be overwritten by the 
+# cookies being managed by the browser
+.facebook.com	TRUE	/	TRUE	1502695022	lu	Sg4he_aeAkr07A-SFOl5hINA
+.facebook.com	TRUE	/	FALSE	1447399022	fr	0PckgAjJl9IiA54er.AWW1w3gPcgzqSoKBigIjJVIwuek.BVzuds.Y5.AAA.0.AWUM9zqz
+.facebook.com	TRUE	/	FALSE	0	reg_fb_gate	https%3A%2F%2Fmbasic.facebook.com%2Fphoto.php%3Ffbid%3D988242031216979
+mbasic.facebook.com	FALSE	/	FALSE	0	nowfbloged	gautam.kundariya143@gmail.com
+.facebook.com	TRUE	/	FALSE	1504965622	datr	F2lAVZ09cVIAuoKHnVMgTHQe
+.facebook.com	TRUE	/	FALSE	0	sfiu	AYiy-JSwqQP6eRCwql3BclyiC4og0_7dnKNRH_JPgaUcmnBfasrYOlRAx303I54nsWXXPl9vCU1-sZNAdxnFUrrJzXdOhXxCYcVmy8Bsp3N8HTMyQ4ApKUxpcEDjbdL4olQB7joUNotlZE_z5bMYtaK5FFi4WldLHwHgTnwu_aQF5H26Fwl8kL3d_s3nNoGtubk1-spSx6acK9g89EMKjXgm7oVw4nhi-QSd8YG1zDg8WQ
+.facebook.com	TRUE	/	FALSE	0	reg_fb_ref	https%3A%2F%2Fmbasic.facebook.com%2Flogin%2F%3Fcuid%3DAYijzjJbgSYZabSUMhfTpGI2hUo8avUAY-cv5woAfeQ6GEPHPKZknjTANb9j_Wkv14U8jJUQhOybiED6g9XEVljuh3ij9nIxdeGE3N0E0SPX0Bi9OFbjM66BAOCKHL293meCvocnT46RjB08p7NovHIpYXG1nLzUCpw7X_u0yyxWdcwQCi9AeN3Gm2p51vZOUFdDUGruPxvVsbi9KEm4L9qHgdZClGmDTd4tq4E4-Ru5VQ%26li%3D9IzxVSkSubeyL76NNtEf42qO%26email%3Dgautam.kundariya143%2540gmail.com%26e%3D1348060%26refid%3D9%26refsrc%3Dhttps%253A%252F%252Fmbasic.facebook.com%252Fphoto.php
+.facebook.com	TRUE	/	FALSE	0	m_ts	1441893623

@@ -1,0 +1,340 @@
+
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    1
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0959D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+    1 MP-081158481    0959D       YATRIK ANILBHAI DAVE            MS41 MS42 MS43 MS44 MS95 MS97      
+    2 MP-091575422    0959D       CHARNIYA MEGHNA FIROJBHAI       MS27      
+    3 MCA-092923239   0959D       BHAGYESH HARISHKUMAR PANCHOLI   MCS022 MCS041 MCSE004   
+    4 MCA-092924327   0959D       NITA D PARMAR                   CS60      
+    5 MCA-095465781   0959D       BHUMICABEN B.SHUKLA             MCS014 MCS021 MCS031 MCS032 MCS033    
+                                                                  MCS041    
+    6 BDP-095469979   0959D       DIVYA PANCHOLI                  EHI04     
+    7 MCA-095471721   0959D       SHALIN MAHESHWARI               MCS031 MCS032 MCS033 MCS041 MCS042    
+                                                                  MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL045 MCSL054   
+    8 MCA-095473535   0959D       MEHUL VINODRAY VYAS             CS60 MCS031    
+    9 BCA-095475220   0959D       AVANI TRIVEDI                   CS73 CS75 MTE03     
+   10 MCA-095475546   0959D       URMILA MANHARLAL RAVIYA         MCSE004   
+   11 MCA-100134816   0959D       HIRAL N PANCHOLI                MCS033 MCS052 MCSE004   
+   12 MCA-105180625   0959D       SOLANKI BHAVNABEN H             MCS032 MCS041 MCS042 MCS043    
+   13 BCA-105181316   0959D       YOGESHKUMAR P PARMAR            BSHF101 CS610 CS611     
+   14 MARD-105181754  0959D       NARGISBANU HISAMKHAN PATHAN     MRDE002   
+   15 BDP-105181778   0959D       KHAKHKHAR KOMALBEN CHANDRESHBH  ECO09     
+   16 MCA-105181977   0959D       ANERI NITINKUMAR BORADIA        CS60 MCSE004   
+   17 MCA-105182189   0959D       POOJA GHANSHYAMBHAI GAJJAR      MCS041 MCSE004   
+   18 MCA-105182509   0959D       RATHOD SANGITABEN RAJUBHAI      MCS053    
+   19 MCA-105182512   0959D       VASOYA NIKITABEN PRABHUBHAI     MCS041 MCS043 MCS053    
+   20 MCA-111274754   0959D       BHAVIK KUMAR KANTILAL CHAUHAN   CS60 MCS041 MCS043 MCSE004   
+   21 MAH-111278554   0959D       VIJIMOL V J                     MHI06     
+   22 MP-111281093    0959D       RANA DHARMENDRASINH HIMANTSINH  MS27 MS95      
+   23 MCA-115046501   0959D       VIJAYRAJ KHUMANSINH RAOL        CS60 MCS031 MCS032 MCS033 MCS041    
+                                                                  MCS053 MCSE004 MCSE011   
+   24 MP-117067184    0959D       JANI SHETAL CHANDRESHKUMAR      MS25 MS27 MS96      
+   25 MP-117067478    0959D       PATEL JIGNESH NATHUBHAI         MS95      
+   26 MP-117067779    0959D       DHOLAKIYA KRUPALI NARENDRAKUMA  MS66 MS68 MS97      
+   27 MCA-117076230   0959D       SOLANKI JIGNA YASHAVANTBHAI     MCS041    
+   28 MCA-117077945   0959D       DABHI NITIN ISHVARBHAI          MCS014    
+   29 MCA-117077952   0959D       KHOKHARA KRUPA KISHORBHAI       CS60 MCS041 MCS043 MCS052 MCS053    
+   30 MCA-117078194   0959D       GOHIL SARITABEN PARSOTTAMBHAI   MCS041 MCS051 MCS052 MCS053 MCSE003   
+                                                                  MCSE004 MCSE011 MCSL054   
+   31 MCA-117080230   0959D       KHAKHI JALPESH MADHUSUDAN       MCS041 MCSE004   
+   32 MCA-117080248   0959D       JOSHI VAIBHAVI JAGDISHBHAI      CS60 MCSE004   
+   33 MCA-117080556   0959D       BHATT AMI YOGESHBHAI            CS60 MCS031 MCS032 MCS041 MCSE004   
+   34 MCA-117081501   0959D       MENIYA MANCHHABEN BALABHAI      MCS031 MCS032 MCS033 MCS041 MCS043    
+                                                                  MCS052 MCS053 MCSL025   
+   35 MCA-117081519   0959D       PUSHPA KANTILAL PANDYA          MCS031 MCS033 MCS041    
+   36 MCA-117082692   0959D       SHAH BHAVYA DILIPKUMAR          CS60 MCS031 MCS032 MCS033 MCS053    
+                                                                  MCSE004   
+   37 MCA-117082843   0959D       ROJESARA HIRAL VINODRAY         MCS041 MCSE004   
+   38 MCA-117082986   0959D       TANK SUNIL DHIRAJLAL            MCS031 MCS041 MCS053 MCSE004   
+   39 MCA-117083085   0959D       SANGHVI MONIKBHAI BIPINBHAI     CS60 MCS031 MCS032 MCS041 MCS043    
+                                                                  MCS053 MCSE004   
+   40 MCA-117083583   0959D       MOTKA DIPALIBEN VAJUBHAI        MCS014 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCS041 MCS042 MCS043 MCS051 MCS052 MCS053 MCSL045 MCSL054   
+   41 MCA-117083648   0959D       DUBAL JANKI RAJENDRABHAI        MCS031 MCS032 MCS041 MCS051 MCS053    
+                                                                  MCSE004   
+   42 MCA-117084173   0959D       SHAH NIRZARA VIPULKUMAR         MCS041    
+   43 MCA-117084180   0959D       MAVANI AMIBEN UPENDRAKUMAR      CS60 MCS031 MCS033 MCS041 MCS053    
+                                                                  MCSE004   
+   44 MP-120601930    0959D       DAVA NARSHI SHANKARBHAI         MS22 MS23 MS24 MS29 MS91      
+   45 MP-120602781    0959D       MAKWANA DILIP NARSINHBHAI       MS41 MS42 MS43 MS95      
+   46 MP-120604366    0959D       GADHAVI PRAGNA SAMATHDAN        MS41 MS43 MS46 MS97      
+   47 MP-120604500    0959D       KHANDALA DINESH NARSINHBHAI     MS21 MS22 MS23 MS91      
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    2
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0959D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+   48 MP-120604864    0959D       RAVAL RAJENDRAKUMAR MANUBHAI    MS24 MS27      
+   49 MP-120605257    0959D       PADHIYAR HARDEVSINH KHUMANSINH  MS51 MS52 MS54 MS91 MS96      
+   50 MP-120608768    0959D       SAMEJA KRUNAL DILIPKUMAR        MS04 MS27 MS29 MS91 MS97      
+   51 MP-120611250    0959D       SHAH DHARMESH BHARATBHAI        MS41 MS95      
+   52 MCA-125331812   0959D       HIRALBEN MANGALDAS RAMANUJ      CS60 MCS033 MCS051 MCS052 MCS053    
+                                                                  MCSE003 MCSE004 MCSE011 MCSL054   
+   53 MCA-125334721   0959D       KOTAK MANSIBEN VINODKUMAR       CS60 MCS051 MCS052 MCS053 MCSE003   
+                                                                  MCSE004 MCSE011 MCSL054   
+   54 MCA-125335178   0959D       SABHANI KINJALBEN SHANKARBHAI   MCS022 MCS041 MCS051 MCS052 MCS053    
+                                                                  MCSE003 MCSE004 MCSE011 MCSL054   
+   55 MP-125336550    0959D       SATAPARA SNEHA  MAHESHBHAI      MS45 MS46 MS97      
+   56 MP-125336653    0959D       MAHETA FORAM BIPINKUMAR         MS25 MS26 MS95 MS96      
+   57 BDP-125337419   0959D       SOLANKI JAGRUTI RAMESHKUMAR     ECO03 ECO13 ECO14     
+   58 MCA-125337845   0959D       PATEL SMIT BHUPENDRABHAI        MCS051 MCS052 MCS053 MCSE003 MCSE004   
+                                                                  MCSE011 MCSL054   
+   59 MCA-125337852   0959D       SHAH BHAVIKKUMAR BHARATKUMAR    MCS022 MCS023 MCS032 MCS041 MCS042    
+                                                                  MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL036 MCSL045 MCSL054   
+   60 MCA-125338349   0959D       REVAR CHAITALIBA DILIPSINH      MCS051 MCS052 MCS053 MCSE003 MCSE004   
+                                                                  MCSE011 MCSL054   
+   61 MCA-125338356   0959D       MAHESHWARI NAVITABEN GHANSHYAM  MCS034 MCS051 MCS052 MCS053 MCSE003   
+                                                                  MCSE004 MCSE011 MCSL054   
+   62 MCA-125338428   0959D       SHAH DHARA MUKESHBHAI           CS60 MCS041 MCS051 MCS052 MCS053    
+                                                                  MCSE003 MCSE004 MCSE011 MCSL054   
+   63 MCA-125338435   0959D       VANDANA RAMESHCHANDRA MAHESHWA  CS60 MCS041 MCS042 MCS051 MCS052    
+                                                                  MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+   64 MCA-125339032   0959D       SHAH VRUDDHI VIJAYBHAI          CS60 MCS041 MCS042 MCS051 MCS052    
+                                                                  MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+   65 MCA-125339040   0959D       ASMITABA HARDEVSINH ZALA        MCS014 MCS023 MCS024 MCS051 MCS052    
+                                                                  MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+   66 MCA-125339129   0959D       DAVE JUHI BHIKHALAL             MCS012 MCS023 MCS031 MCS032 MCS033    
+                                                                  MCS041 MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+   67 MCA-125339222   0959D       MAHEMUDA AYUBBHAI BELIM         MCS035 MCS041 MCS051 MCS052 MCS053    
+                                                                  MCSE003 MCSE004 MCSE011 MCSL036 MCSL054   
+   68 MCA-125339333   0959D       SHAH MILAN DILIPBHAI            MCS051 MCS052 MCS053 MCSE003 MCSE004   
+                                                                  MCSE011 MCSL054   
+   69 MCA-125339437   0959D       VASAVELIYA MUKESHKUMAR VIRAMBH  CS60 MCS041 MCS051 MCS052 MCS053    
+                                                                  MCSE003 MCSE004 MCSE011 MCSL054   
+   70 MCA-125339738   0959D       SADADIYA  RINKALBEN CHANDUBHAI  MCS011 MCS022 MCS031 MCS033 MCS034    
+                                                                  MCS035 MCS041 MCS042 MCS043 MCSL045   
+   71 MCA-125339856   0959D       GOHIL PALAK RAVINDRABHAI        CS60 MCS051 MCS052 MCS053 MCSE003   
+                                                                  MCSE004 MCSE011 MCSL054   
+   72 MCA-125339910   0959D       CHIHLA NARESHKUMAR HIRABHAI     MCS014 MCS021 MCS022 MCS023 MCS024    
+                                                                  MCSL054   
+   73 MCA-125339999   0959D       RANA VIBHUTIDEVI BALVIRSINH     CS60 MCS041 MCS051 MCS052 MCS053    
+                                                                  MCSE003 MCSE004 MCSE011 MCSL054   
+   74 MCA-125340005   0959D       GOHIL NIRALIBEN GHANSHYAMBHAI   MCS021 MCS022 MCS032 MCS033 MCS034    
+                                                                  MCSL054   
+   75 MCA-125340495   0959D       VIRUMGAMI JAYESHBHAI BALDEVBHA  MCS032 MCS041 MCS042 MCS043 MCS051    
+                                                                  MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL036 MCSL045 MCSL054   
+   76 MCA-125340503   0959D       VASTANI BHAVNABEN RANCHHODBHAI  CS60 MCS041 MCS051 MCS052 MCS053    
+                                                                  MCSE003 MCSE004 MCSE011 MCSL054   
+   77 BDP-125342442   0959D       PARMAR RANJAN KAMLESHKUMAR      ECO07 ECO14     
+   78 MCA-125342664   0959D       SARVAIYA JALPABEN NAGJIBHAI     CS60 MCS051 MCS052 MCS053 MCSE003   
+                                                                  MCSE004 MCSE011 MCSL054   
+   79 MCA-125343293   0959D       LANIYA NEHABEN BHIKHABHAI       MCS032 MCS033 MCS041 MCS051 MCS052    
+                                                                  MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+   80 MCA-125343301   0959D       PATEL JAYESHKUMAR AMBARAMBHAI   MCS051 MCS052 MCS053 MCSE003 MCSE004   
+                                                                  MCSE011 MCSL054   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    3
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0959D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+   81 MCA-125343319   0959D       GOHIL SHILPABEN NAGINDAS        MCS011 MCS023 MCS033 MCS041 MCS042    
+                                                                  MCS043 MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL036 MCSL045 MCSL054   
+   82 MCA-125343326   0959D       PATEL MONIKABEN AMRUTLAL        MCS022 MCS031 MCS032 MCS033 MCS041    
+                                                                  MCS042 MCS043 MCS051 MCS052 MCS053 MCSE004 MCSE011 MCSL025 MCSL036 MCSL045 MCSL054   
+   83 MCA-125343333   0959D       PATEL CHHAYABEN JAGADISHBHAI    MCS022 MCS032 MCS033 MCS041 MCS051    
+                                                                  MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL045 MCSL054   
+   84 MCA-125343784   0959D       KANDIA HEENAKUMARI RASIKLAL     MCS014 MCS031 MCS032 MCS041 MCS042    
+                                                                  MCS043 MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL036 MCSL045 MCSL054   
+   85 MCA-125343791   0959D       SANGHVI HENI PRADIPKUMAR        CS60 MCS033 MCS041 MCS051 MCS052    
+                                                                  MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+   86 MCA-125345795   0959D       SOLANKI HARDIKKUMAR HARSHADKUM  MCS023 MCS041 MCS042 MCS043 MCS051    
+                                                                  MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+   87 MCA-125346045   0959D       VAMJA CHIRAGKUMAR RAMNIKLAL     MCS011 MCS013 MCS014 MCS022 MCS023    
+                                                                  MCS024    
+   88 MCA-125346060   0959D       DESAI SOHIL AHEMADBHAI          CS60 MCS014 MCS032 MCS041 MCS042    
+                                                                  MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+   89 MCA-125346156   0959D       MAKHIJA GHANSHYAM RAMESHBHAI    MCS013 MCS014 MCS021 MCS023 MCS024    
+                                                                  MCSL054   
+   90 MCA-125347624   0959D       SHAH HARDI DHARMENDRA           CS60 MCS011 MCS013 MCS014 MCS022    
+                                                                  MCS023 MCS032 MCS041 MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+   91 MCA-125347735   0959D       PATEL HARSHADKUMAR LAXMANBHAI   MCS051 MCS052 MCS053 MCSE003 MCSE004   
+                                                                  MCSE011 MCSL054   
+   92 MCA-125348665   0959D       DUDHREJIA PRANAV JAGDISHBHAI    MCS022 MCS041 MCS042 MCS043 MCS051    
+                                                                  MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+   93 MCA-125348680   0959D       PRARTHANA RAMANBHAI CHAVDA      MCS021 MCS023 MCS024 MCS051 MCS052    
+                                                                  MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+   94 MCA-125349603   0959D       PATEL LINABEN DEVASHIBHAI       MCS051 MCS052 MCS053 MCSE003 MCSE004   
+                                                                  MCSE011 MCSL054   
+   95 MCA-125349739   0959D       DELIWALA VIDHIBEN BHARATKUMAR   MCS051 MCS052 MCS053 MCSE003 MCSE004   
+                                                                  MCSE011 MCSL054   
+   96 MCA-125349753   0959D       VORA HITAXIBEN PARESHBHAI       MCS041 MCS042 MCS043 MCSL045   
+   97 MCA-125349975   0959D       SHRIMALI JIGNABEN UTTAMKUMAR    CS60 MCS031 MCS051 MCS052 MCS053    
+                                                                  MCSE003 MCSE004 MCSE011 MCSL054   
+   98 MCA-126491665   0959D       JADAV VIPUL DHANJIBHAI          MCS012 MCS033 MCS041 MCS042 MCS051    
+                                                                  MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL036 MCSL054   
+   99 MCA-126491672   0959D       CHAVADA DILIP GOVINDBHAI        MCS012 MCS033 MCS041 MCS042 MCS051    
+                                                                  MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+  100 MCA-127193482   0959D       NEHA JAYESHKUMAR SHUKLA         MCS033 MCS041 MCS051 MCS052 MCS053    
+                                                                  MCSE003 MCSE004 MCSE011 MCSL045 MCSL054   
+  101 MCA-127799200   0959D       EKTA MAHESHBHAI SHUKLA          MCS041 MCS051 MCS052 MCS053 MCSE003   
+                                                                  MCSE004 MCSE011 MCSL054   
+  102 MCA-127874560   0959D       PAREJIYA JATINKUMAR PRAKASHBHA  MCS051 MCS052 MCS053 MCSE003 MCSE004   
+                                                                  MCSE011 MCSL054   
+  103 MCA-127876517   0959D       SUTARSANDHIYA ASMITABEN RAMANI  MCS041 MCS051 MCS052 MCS053 MCSE003   
+                                                                  MCSE004 MCSE011 MCSL045 MCSL054   
+  104 BDP-130415482   0959D       BINITA KUMARI                   BSHF101 EHD01 FEG01     
+  105 MP-130996758    0959D       MANDLAIYA SIDDHIBEN MAHESHBHAI  MS08 MS09 MS10 MS11 MS95      
+  106 MP-130997290    0959D       VYAS ANKITABEN BHAVESHBHAI      MS04 MS25 MS26 MS91 MS95 MS96      
+  107 MP-130998150    0959D       SHAH SHACHI JINESHKUMAR         MS611 MS612 MS66 MS68      
+  108 MP-130998174    0959D       MASANI INDRASINH MANSANGBHAI    MS611 MS612 MS66 MS68 MS95      
+  109 MP-130998207    0959D       PATEL GAYATRIBEN DINESHKUMAR    MS08 MS09 MS10 MS11 MS95      
+  110 MP-130998292    0959D       JOSHI KETANKUMAR HARISHKUMAR    MS611 MS612 MS66 MS68      
+  111 MP-130998318    0959D       SHAH RAHUL ARVINDKUMAR          MS611 MS612 MS66 MS68      
+  112 MP-130998340    0959D       PATEL BHOOMIKABAHEN SHANTILAL   MS45 MS46 MS91 MS95      
+  113 MP-130998364    0959D       SHAH BRINDA JAYESHKUMAR         MS09 MS44 MS46 MS91 MS94      
+  114 MCA-130999588   0959D       SOLANKI MAYUR JAGDISHCHANDRA    MCS011 MCS012 MCS013 MCS022 MCS023    
+                                                                  MCS032 MCS041 MCS042 MCS043 MCSL045   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    4
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0959D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  115 MCA-130999610   0959D       MEGHA DHAMECHA                  MCS033 MCS041 MCS042 MCS043 MCSL045   
+  116 MCA-130999864   0959D       BARAIYA KIRANBEN RAJUBHAI       CS60 MCS033 MCS035 MCS041 MCS042    
+                                                                  MCS043 MCSL045   
+  117 MCA-130999929   0959D       GOSWAMI YOGINGIRI MOJUGIRI      MCS012 MCS022 MCS032 MCS033 MCS034    
+                                                                  MCS041 MCS042 MCS043 MCSL045   
+  118 MCA-131250307   0959D       POOJABEN M SADADIYA             MCS034 MCS041 MCS042 MCS043 MCSL045   
+  119 MP-131251220    0959D       BHALANI NEHALBEN SURESHBHAI     MS611 MS612 MS66 MS68      
+  120 BED-131251892   0959D       POONAM MOHANLAL VARLANI         BESE065 BESE066 ES334 ES335 ES361     
+  121 MP-131252436    0959D       VARMORA NIDHIBEN BHIKHALAL      MS04 MS09 MS611 MS612 MS66 MS68      
+  122 MP-131252848    0959D       DEVAIYA DIMPALBAHEN JASHVANTHB  MS611 MS612 MS66 MS68      
+  123 MP-131258641    0959D       SHAH KRUTI MAHENDRAKUMAR        MS09 MS611 MS612 MS66 MS68      
+  124 MP-131294458    0959D       SHAH MAITRI DIPAKKUMAR          MS611 MS612 MS66 MS68      
+  125 MP-136482734    0959D       VAGHELA JIGNASA DIPAKBHAI       MS04 MS09 MS10 MS11 MS95      
+  126 MP-136484720    0959D       GANDHI SACHITA VINODKUMAR       MS05 MS06 MS07 MS08 MS09 MS10      
+                                                                  MS11 MS95      
+  127 MCA-136492957   0959D       NIKAM  DIPIKABEN ASHOKBHAI      MCS022 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  128 MCA-136492964   0959D       PARMAR MAHESHWARIBA MAHENDRASI  MCS022 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  129 MCA-136497924   0959D       VIRANI BILKEESHBEN SULEMANBHAI  MCS012 MCS013 MCS021 MCS022 MCS024    
+  130 MCA-136502352   0959D       SHAH MANSI DHARMENDRABHAI       MCS012 MCS021 MCS022 MCS023 MCS024    
+  131 MCA-136504553   0959D       DAREDIYA SANJANA UMEDBHAI       MCS031 MCS032 MCS033 MCS034 MCS035    
+                                                                  MCSL036   
+  132 MCA-136504625   0959D       PITHADIYA NIKUNJKUMAR JAYESHBH  MCS012 MCS014 MCS021 MCS022 MCS023    
+                                                                  MCS024 MCSL025 MCSL036   
+  133 MCA-136505089   0959D       MALEK SMITKHAN NASHIBKHAN       MCS021 MCS022 MCS023 MCS024 MCS031    
+                                                                  MCS032 MCS033 MCS034 MCS035 MCSL036   
+  134 MCA-136505182   0959D       PATEL MALATI FARSHUBHAI         MCS013 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  135 MCA-136505230   0959D       SHETH NIDHI VINODCHANDRA        MCS012 MCS014 MCS021 MCS022 MCS023    
+                                                                  MCS024 MCSL025   
+  136 MCA-136506120   0959D       PRITI DILIPBHAI PATEL           MCS011 MCS012 MCS014 MCS015 MCS021    
+                                                                  MCS023 MCS024 MCS031 MCS032 MCS033 MCS034 MCS035 MCSL036   
+  137 MCA-136506191   0959D       PATEL ANKITA VASUDEVBHAI        MCS012 MCS013 MCS014 MCS021 MCS031    
+                                                                  MCS032 MCS033 MCS034 MCS035 MCSL036   
+  138 MCA-136506200   0959D       PATEL SEJAL VASUDEVBHAI         MCS012 MCS021 MCS022 MCS031 MCS032    
+                                                                  MCS033 MCS034 MCS035 MCSL036   
+  139 MCA-136506905   0959D       SHAH MAULIK NITINBHAI           MCS013 MCS014 MCS021 MCS022 MCS031    
+                                                                  MCS032 MCS033 MCS034 MCS035 MCSL036   
+  140 MCA-136507122   0959D       KUKADIYA JYOTIBEN GAMBHIRBHAI   MCS012 MCS021 MCS022 MCS031 MCS032    
+                                                                  MCS033 MCS034 MCS035 MCSL036   
+  141 BPP-136507613   0959D       PARMAR BHUVANESHVARIBA DHARMEN  OSS101 PCO       
+  142 MCA-136508210   0959D       MAVANI KRUPALI SUNILKUMAR       MCS021 MCS022 MCS031 MCS032 MCS033    
+                                                                  MCS034 MCS035 MCSL036   
+  143 MSO-136509560   0959D       ANU JOSEPH                      MSO004    
+  144 MCA-136509996   0959D       KATHEKIYA VIJAYKUMAR PITAMBARB  MCS012 MCS013 MCS014 MCS021 MCS022    
+                                                                  MCS031 MCS032 MCS033 MCS034 MCS035 MCSL025 MCSL036   
+  145 MCA-136511541   0959D       GOHIL KEYURKUMAR HASUBHAI       MCS012 MCS021 MCS023 MCS031 MCS032    
+                                                                  MCS033 MCS034 MCS035 MCSL036   
+  146 BDP-142512911   0959D       JAY KUMAR                       BHDF101 BSHF101 EHI01 EHI02 FHD02     
+  147 BDP-142512929   0959D       ROMI KUMAR                      BHDF101 BSHF101 EHI01 EHI02 FHD02     
+  148 BDP-142513375   0959D       VINOD KUMAR                     BHDF101 BSHF101 EHI01 EHI02 FHD02     
+  149 DECE-142514424  0959D       LAKHANI SHEETAL BAHADURBHAI     DECE01 DECE02 DECE03    
+  150 DECE-142517594  0959D       SURANI SHIRINBEN HASANBHAI      DECE01 DECE02 DECE03    
+  151 MCA-142519416   0959D       PARMAR CHHAYABA ASHVINSINH      MCS011 MCS012 MCS013 MCS014 MCS021    
+                                                                  MCS022 MCS023 MCS024 MCSL016 MCSL025   
+  152 BED-142519867   0959D       UMESHKUMAR JAGJIVANBHAI KAVAR   ES331 ES332 ES333 ES343 ES344     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    5
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0959D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  153 MP-147801410    0959D       JAVIYA JYOTI CHANDULAL          MS01 MS02 MS03 MS04      
+  154 MCA-147804645   0959D       SIPAI SHAHRUKHKHAN NIYAMAT      MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  155 MCA-147804677   0959D       TANK ADILNIZAR NAUSHADBHAI      MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  156 MCA-147809153   0959D       CHOVISI CHETANA DINESHBHAI      MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  157 MCA-147809289   0959D       RANA PUJABA RAJENDRASINH        MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  158 MCA-147809329   0959D       BHATT ANJALI MAHESHBHAI         MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  159 MCA-147809336   0959D       DHADHAL DIVYARAJBHAI RAVUBHAI   MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  160 MCA-147809519   0959D       SADVA VARSHABEN SHANKARBHAI     MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  161 MCA-147809540   0959D       PATEL VILAS VRUJLAL             MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  162 MCA-147809565   0959D       HAKANI PAYAL KISHORBHAI         MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  163 MCA-147809952   0959D       TELAR BHUMIKABEN HASMUKHBHAI    MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  164 MCA-147810165   0959D       KANZARIYA HETAL JEEVRAJBHAI     MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  165 BPP-147811150   0959D       DAVE DHRUTI RAMESHCHANDRA       OSS101 PCO       
+  166 MCA-147813461   0959D       MALAVANIYA NIMISHABEN JAYANTIL  MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  167 MCA-147813558   0959D       GOTHI JALPABEN CHUNILAL         MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  168 MCA-147814510   0959D       KOTHARI HETAL JIGNESHKUMAR      MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  169 MCA-147814528   0959D       SOLANKI LIPIBEN PIYUSHBHAI      MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  170 MCA-147814535   0959D       SHARMA VANISHA VISHNUKUMAR      MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  171 MCA-147815275   0959D       VARMORA DIMPALBEN DALICHANDBHA  MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  172 MCA-147815386   0959D       LAKUM RAHULKUMAR VANJIBHAI      MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  173 MP-147817150    0959D       RANA SHITALBA DIGVIJAYSINH      MS01 MS02 MS03 MS04      
+  174 BPP-147817230   0959D       PARMAR MANSUKHLAL LALJIBHAI     OSS101 PCO       
+  175 MCA-147817476   0959D       MALVANIYA LATABEN GANPATBHAI    MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  176 MCA-147817509   0959D       DAVE KRUPABEN KAUSHIKKUMAR      MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  177 MCA-147817555   0959D       PRAJAPATI DIVYA ARJANBHAI       MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  178 MCA-147817587   0959D       LORIYA DARSHANABAHEN PRAVINBHA  MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  179 MCA-147817627   0959D       BAVLIYA GAURANGBHAI RATILAL     MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  180 MCA-147817720   0959D       LORIYA NISHABEN KANJIBHAI       MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  181 MCA-147819004   0959D       LORIYA KETANKUMAR RATILAL       MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  182 MCA-147822399   0959D       SAKARIYA MILANKUMAR NILESHBHAI  MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  183 MCA-147822793   0959D       PATHAK RUDRESH MAHESHBHAI       MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    6
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0959D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  184 MCA-147822865   0959D       FALDU ANJALI JAGADISHBHAI       MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  185 MCA-147823004   0959D       PATEL ARCHANABEN GOVINDBHAI     MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+        

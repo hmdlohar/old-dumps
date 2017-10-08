@@ -1,0 +1,23 @@
+#This file was created by the CookieSwap extension...see cookieswap.mozdev.org
+#NOTE: if this file's extension is 'tx1' then this is an
+# active profile and the cookies in here are old and will be overwritten by the 
+# cookies being managed by the browser
+.hit4hit.org	TRUE	/	FALSE	1463142830	__cfduid	d4af281e0dd739f3566006004bbeb11b11431606831
+.hit4hit.org	TRUE	/	FALSE	1494732612	__utma	18421152.144260357.1431609503.1431609503.1431660596.2
+.hit4hit.org	TRUE	/	FALSE	1447428612	__utmz	18421152.1431660596.2.2.utmcsr=like4like.org|utmccn=(referral)|utmcmd=referral|utmcct=/user/bonus-page.php
+.cloudflare.com	TRUE	/	FALSE	1463142811	__cfduid	de9df243c0982588318939ee4031d826f1431606811
+.freesocialmediatrends.com	TRUE	/	FALSE	1463142897	__cfduid	d541b77a0ea967de9d9638d92158c328f1431606898
+.like4like.org	TRUE	/	FALSE	1463142810	__cfduid	def144a9374dc52d7fd65ebbc9b7103791431606810
+.like4like.org	TRUE	/	FALSE	1494733069	__utma	33941052.962037731.1431606813.1431609452.1431660570.3
+.like4like.org	TRUE	/	FALSE	1447429069	__utmz	33941052.1431606813.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+.google.com	TRUE	/	FALSE	1494682131	PREF	ID=8ed9bd4dbf60e5ad:TM=1431610132:LM=1431610132:S=q9Mahl76s--FKoXx
+.google.com	TRUE	/	FALSE	1447421331	NID	67=oWjVMw1J7y_0WqaX3m0GRMUlTKSiz80W22Y1A9VgKk2F4KVR089Nvm07SedlreUTglnauXlLJzgzHkEC7cyUnzTphVuDJl97iakL-9tYAADKYqy0V46wUnLGLIs7GzK7
+.seodiesel.com	TRUE	/	FALSE	1463142830	__cfduid	d5c46da8af2471c4267d9b8d4f0800db21431606831
+.facebook.com	TRUE	/	TRUE	1499228752	lu	SgPO17J0oxNcPzx2o7bTg9aw
+.facebook.com	TRUE	/	FALSE	1499228752	datr	FO4fVY8bz0BuE2OqKACpUL3s
+.facebook.com	TRUE	/	TRUE	1443932752	c_user	100002668461902
+.facebook.com	TRUE	/	FALSE	1443932752	fr	0LvcTs0zA0k7bMQXc.AWVP6q6a6hSVwKyCmY5k-3mNWnU.BVmgNQ.w7.AAA.0.AWU8DdHd
+.facebook.com	TRUE	/	TRUE	1443932752	xs	53%3Ahbj6OtmZycLMCw%3A2%3A1436156751%3A3401
+.facebook.com	TRUE	/	FALSE	1443932752	csm	2
+.facebook.com	TRUE	/	TRUE	1443932752	s	Aa6ORTSXpLjhCanG.BVmgNQ
+.facebook.com	TRUE	/	FALSE	1443932752	m_user	0%3A0%3A0%3A0%3Av_1%2Cajax_0%2Cwidth_0%2Cpxr_0%2Cgps_0%3A1436156752%3A2

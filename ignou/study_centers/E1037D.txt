@@ -1,0 +1,1189 @@
+
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    1
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1037D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+    1 MCA-063508023   1037D       AVDESH KUMAR                    MCSE003   
+    2 BTME-072066039  1037D       HARSH PARKASH                   BME001 BME015    
+    3 BTME-072066053  1037D       SANJAY KUMAR                    BME015    
+    4 BTME-072066204  1037D       PANKAJ SINGH SISHODIA           BME009 BME027    
+    5 BTME-072066727  1037D       VINOD KUMAR PANDEY              BME015 BME027    
+    6 MCA-072382402   1037D       AMIT KUMAR                      BCS061P CS68P CS72P CS73 CS74P     
+                                                                  MCS033 MCS034 MCS035 MCS042 MCS043 MCS051 MCS052 MCS053 MCSE003 MCSE011 MCSL054   
+    7 BCA-073559334   1037D       VISHAL                          CS64      
+    8 BDP-075607487   1037D       YUDHISHTHER                     ACC01     
+    9 BDP-075612987   1037D       VIKRAM SINGH                    ANC01 FEG02     
+   10 BTME-082343200  1037D       HARENDRA KR TYAGI               BME009 BME015 BME016 BME019 BME023    
+                                                                  BME024 BME025 BME027 BME028 BME029 BME030 BME031 BME035    
+   11 BDP-083520356   1037D       VED PRAKASH                     BEGE105   
+   12 MEG-084236125   1037D       ARUNA YADAV                     MEG05     
+   13 MCOM-084271460  1037D       PAWAN KUMAR                     IBO02     
+   14 MCA-084974685   1037D       BHAWNA ARORA                    MCS031 MCS032 MCS033 MCS041 MCS042    
+                                                                  MCS043 MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+   15 BTME-091975796  1037D       RATHOD DHAVAL NARENDRASINH      BME009 BME015 BME016 BME019 BME020    
+                                                                  BME027 BME028    
+   16 MCA-093150052   1037D       BEENA SINGH                     MCS031 MCS032 MCS034 MCS035 MCS041    
+                                                                  MCS042 MCS043    
+   17 BTS-093156623   1037D       MANOJ KUMAR                     AOM01 TS03 TS06 TS07      
+   18 BTS-093157048   1037D       RAVINDER KUMAR                  AOM01 TS06 TS07      
+   19 BDP-093164953   1037D       MAHIPAL SINGH                   ACC01 ANC01 BHDF101 BSHF101 ECO01     
+                                                                  ECO02 ECO07 ECO08 ECO09 ECO10 ECO11 ECO12 ECO14 EEC11 FEG01     
+   20 BDP-093217509   1037D       JASWANT SINGH                   FEG01     
+   21 BDP-093217824   1037D       RAVINDER SINGH YADAV            BEGE102 EEC13 EPS07 EPS11 FST01     
+   22 BDP-093652710   1037D       MOOL CHAND                      BEGE102   
+   23 BDP-093654602   1037D       ASHOK KUMAR                     ACC01     
+   24 BDP-093659436   1037D       MAMTA RANI                      EEG04     
+   25 BDP-093659443   1037D       RAKESH KUMAR                    ACC01 BEGE102 EHI04 FEG01 FST01     
+   26 BDP-093659619   1037D       OM VEER                         EEG04     
+   27 BDP-093659751   1037D       JYOTI SHARMA                    EEG04     
+   28 BDP-093659783   1037D       SATISH KUMAR                    ACC01 EEG04 FEG01     
+   29 BDP-093659980   1037D       NEELAM KALRA                    EHI01 EHI04     
+   30 BDP-093659998   1037D       SONIA                           EEG03 EEG04 FST01     
+   31 BDP-093660122   1037D       JYOTI                           ACC01 FEG01     
+   32 BDP-093660226   1037D       ANURADHA                        EHD01     
+   33 DME-093662205   1037D       DEVENDRA KUMAR PRAJAPATI        BET011 BET021 BET022    
+   34 DME-093663665   1037D       BUDH RAM YADAV                  BET011 BET021 BME034 BME052    
+   35 BDP-093679026   1037D       KAMAL SINGH                     ECO14     
+   36 BCA-093685266   1037D       RAMAN KUMAR                     CS612 CS63 CS64 CS70 CS71 CS72      
+                                                                  CS73 CS74      
+   37 MCA-093686308   1037D       PRABHAT                         MCS031 MCS032 MCS033 MCS035 MCS041    
+                                                                  MCS042 MCS043    
+   38 MCA-093686780   1037D       PARDEEP KUMAR                   CS74 MCS041 MCS051 MCS052 MCSE003   
+                                                                  MCSE004 MCSE011 MCSL054   
+   39 BCA-093690505   1037D       SHIV KUMAR                      CS06 CS60 CS64 CS71 CS72 CS73      
+                                                                  CS74 CS74P CS75      
+   40 BDP-093693571   1037D       YOGENDER KUMAR                  BSHF101 CHE04 PHE02 PHE06 PHE07     
+                                                                  PHE09 PHE11 PHE14     
+   41 BDP-095000460   1037D       MAMTA                           ECO02 ECO11 FEG01     
+   42 BDP-095000667   1037D       VANDANA                         ECO02 ECO08 MTE02 MTE06     
+   43 BDP-095000674   1037D       EKTA                            ECO11     
+   44 BDP-095082399   1037D       SUBHASH YADAV                   ACC01 ESO16 FEG01 FST01     
+   45 BDP-095082690   1037D       SONU YADAV                      BEGE103 EHD02 EHI01     
+   46 BDP-095082708   1037D       AMIT KUMAR                      BEGE104   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    2
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1037D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+   47 BDP-095084077   1037D       NITU DEVI                       AHE01 ERD01 ESO16 FEG01     
+   48 BDP-095086181   1037D       AJAY KUMAR                      ANC01 BEGE101 FST01     
+   49 BDP-095089771   1037D       SHARDA                          EHI01 EHI04 FEG01     
+   50 BDP-100052206   1037D       SONU                            ECO11 ECO14 EEC11     
+   51 BDP-100052587   1037D       RAVINDER KUMAR                  ACC01 BEGE104 EHD06     
+   52 BDP-100052898   1037D       UMESH KUMAR                     BEGE102 EHI04 FEG01     
+   53 BDP-100052938   1037D       DINESH KUMAR                    BEGE102   
+   54 BDP-100052972   1037D       ANJU                            ACC01     
+   55 BDP-100052974   1037D       ASHA                            BEGE104   
+   56 BDP-100053941   1037D       SEEMA                           EHI02 EPA05 EPA06     
+   57 BDP-100053942   1037D       REKHA SHARMA                    EHI02 EPA05 EPA06     
+   58 DME-105079084   1037D       MANISH KUMAR                    BET022 BME032 BME062    
+   59 BDP-105079472   1037D       DAYAWATI                        ACC01 BPAE102 EHI04 EHI05     
+   60 MPA-105083718   1037D       JITENDER KUMAR                  MPA011 MPA018 MSO002    
+   61 BDP-105108238   1037D       RAMAN SHARMA                    BRPA101   
+   62 BDP-105217868   1037D       DHARMBIR                        ACC01 BEGE102 EHI04     
+   63 BDP-105217893   1037D       RAVINDER KUMAR                  BEGE102 BEGE104 EHD02     
+   64 BDP-105217896   1037D       MANOJ KUMAR                     BEGE104 EHI04     
+   65 BDP-105217907   1037D       KAPIL YADAV                     ACC01 BEGE102 FST01     
+   66 BDP-105217910   1037D       SUMAN LATA                      BEGE102   
+   67 BDP-105217913   1037D       KAVITA                          BEGE102   
+   68 BDP-105217914   1037D       MAMTA                           EHI04 EPS12     
+   69 BDP-105218253   1037D       PRADEEP                         ANC01 BEGE104   
+   70 BDP-105219004   1037D       AZRA KHAN                       ECO10 EEC11     
+   71 BDP-105219064   1037D       DHARMENDER KUMAR                ANC01 ECO11 EHI02     
+   72 BDP-105219077   1037D       MANDEEP KUMAR                   ACC01 ANC01 ECO11     
+   73 BDP-105219137   1037D       VIKESH YADAV                    ANC01 ECO11 ECO14 EEC11     
+   74 BDP-105219142   1037D       PRATEEK KUMAR                   ACC01 ANC01 ECO08 ECO09 EEC11     
+   75 BDP-105219146   1037D       SUDESH SAINI                    ACC01 ANC01     
+   76 BDP-105219152   1037D       NAVEEN KUMAR                    ANC01 ECO14     
+   77 BDP-105219153   1037D       MITHUN SINGH                    ACC01 ANC01 ECO07 ECO10 FST01     
+   78 BDP-105219159   1037D       KIRAN                           ANC01     
+   79 BDP-105219160   1037D       NITIN KUMAR                     ANC01     
+   80 BCA-105219263   1037D       KANWAL SINGH                    CS63 CS71 CS72 CS72P CS74 CS74P     
+   81 MEC-105220315   1037D       RENU DEVI                       MEC003 MECE003   
+   82 MTM-105221011   1037D       AJAY SINGH                      MTM04     
+   83 MAH-105268760   1037D       VISHNU SINGH                    MHI03     
+   84 BDP-105268968   1037D       BRIJESH KUMAR                   ACC01 FEG01     
+   85 BDP-105268970   1037D       RAVINDER KUMAR                  ACC01 BEGE104   
+   86 BDP-105268975   1037D       PARMILA YADAV                   BEGE104   
+   87 BDP-105268983   1037D       NITU DEVI                       ACC01     
+   88 BDP-105268993   1037D       ZILE SINGH                      ACC01 EHI04 FEG01     
+   89 BDP-105269003   1037D       ASHOK KUMAR                     BEGE102 EHI04     
+   90 BDP-105269005   1037D       SUMIT                           ACC01 BEGE102 BEGE104 EHI04 FST01     
+   91 BDP-105269013   1037D       NEETU SHARMA                    FEG01     
+   92 BDP-105269019   1037D       RAJ BALA                        BEGE104 FEG01     
+   93 BDP-105269024   1037D       KAUNTA DEVI                     BEGE102 BEGE104   
+   94 BDP-105269027   1037D       REENA                           ACC01 BEGE104 EPS12     
+   95 BDP-105269028   1037D       SONU                            BEGE102 EHI01 EHI04 FEG01     
+   96 BDP-105269036   1037D       SUNIL KUMAR                     BEGE104 EHI04 FEG01     
+   97 BDP-105269039   1037D       NEETU                           BEGE102   
+   98 BDP-105269040   1037D       NISHA RANI                      ACC01 EHD02     
+   99 BDP-105269041   1037D       SAVITA                          ACC01     
+  100 BDP-105269066   1037D       ROOP RAM                        ACC01 FEG01     
+  101 BDP-105269116   1037D       RAJ KUMAR                       ACC01 FEG01     
+  102 BDP-105269140   1037D       SUSHIL KUMAR                    BEGE102 EHD02 ESO15     
+  103 MEG-110062700   1037D       PURABI MISHRA                   MEG01 MEG05 MEG07 MEG10 MEG11     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    3
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1037D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  104 BDP-110253693   1037D       PAWAN KUMAR                     EHI03     
+  105 BDP-110293998   1037D       RAJESH KUMAR                    ANC01     
+  106 MPA-111276797   1037D       KARTAR SINGH                    MPA012 MPA015 MPS003    
+  107 BDP-111459405   1037D       HARISH KUMAR                    ACC01 EHI04 EHI05 EHI06 ESO11     
+                                                                  FST01     
+  108 BDP-111490480   1037D       MANJEET PRAJAPATI               ACC01     
+  109 BDP-111492595   1037D       HARI KISHAN                     BEGE102   
+  110 BDP-111492603   1037D       KULDEEP                         ACC01 BEGE104   
+  111 BDP-111492635   1037D       OM PRAKASH SINGH                ACC01 EHI04 ESO15     
+  112 BDP-111492800   1037D       RITU SHARMA                     ESO15     
+  113 BDP-111492818   1037D       MUNESH YADAV                    BEGE102   
+  114 BDP-111492825   1037D       LUXMI                           BEGE102   
+  115 BDP-111492904   1037D       MANOJ KUMAR                     ACC01 BEGE102 BEGE104 EHD02 EHI04     
+                                                                  ESO15     
+  116 BDP-111496729   1037D       BAHADUR SINGH                   ACC01 EHD02 EHD04 EPA04 EPA05     
+                                                                  EPS12     
+  117 BDP-111497040   1037D       NIRMLA DEVI                     BEGE102   
+  118 BDP-111497057   1037D       JEEVIKA VASHISTH                ACC01 EHI01 EHI04 EPS12 ESO15     
+                                                                  FST01     
+  119 BDP-111497071   1037D       MUKESH KUMAR                    BEGE102 EHD02     
+  120 BDP-111497089   1037D       NARESH SINGH                    BHDF101 BSHF101 EHI01 EPS12 FEG01     
+  121 BDP-111498833   1037D       GEETA KUMARI                    ACC01 BEGE102 BEGE104 EHD02 EHI04     
+                                                                  ESO15     
+  122 BDP-111504819   1037D       MITESH SHARMA                   AMT01 ECO11 FST01     
+  123 BDP-111505201   1037D       NISHA YADAV                     ANC01 ECO08 ECO10 ECO11 ECO14     
+  124 BDP-111505226   1037D       AMIT KUMAR                      ANC01 ECO08     
+  125 BDP-111505297   1037D       GAURAV                          ECO06 ECO10 ECO11     
+  126 BDP-111506163   1037D       SONU SAINI                      ANC01 ECO14 EEC11     
+  127 MEG-111514390   1037D       SUDHA KUMARI                    MEG05     
+  128 MEG-111515574   1037D       KRANTI MEHRA                    MEG05 MEG07 MEG10     
+  129 BDP-115054738   1037D       MAHESH KUMAR                    ANC01 EHI05 EHI06 EHI07     
+  130 MCA-115637583   1037D       SAURABH KUMAR                   BCS053 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  131 BDP-116074449   1037D       PARVEEN                         ACC01 ANC01 ESO15 ESO16 FST01     
+  132 BDP-116263787   1037D       SARVAJEET KUMAR SINGH           ANC01 EHI01 EHI02 EPA05 EPA06     
+  133 BDP-116322192   1037D       LALITA YADAV                    EHI04     
+  134 BDP-116493458   1037D       DEVENDER ARYA                   ACC01 BHDE107 EHD02 EHD04 EHD05     
+                                                                  EHD06     
+  135 BDP-117276492   1037D       VED PARKASH                     ANC01 EPA03 EPA05 ESO16 FST01     
+  136 MHD-117564810   1037D       DARSHANA                        MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  137 BDP-117569873   1037D       RANJANA YADAV                   ACS01 EHD01 EPS09 ESO13 ESO15     
+  138 BDP-117570577   1037D       DHIRAJ YADAV                    ESO11 ESO16     
+  139 BDP-117573329   1037D       DEEPAK SHARMA                   BSHF101 EPS12 FST01     
+  140 BDP-117574915   1037D       TAMANNA RAO                     ACS01 BEGE103 EHI05 EPS09     
+  141 BDP-117575236   1037D       ANITA                           BEGE102 EHI04 FEG01 FST01     
+  142 BDP-117575347   1037D       ASHA                            BEGE102   
+  143 BDP-117575361   1037D       MEENU KUMARI                    ACC01 BEGE102   
+  144 BDP-117575379   1037D       SANGEETA                        ACC01 BEGE102 BEGE104 EHD02 EHI04     
+                                                                  ESO15     
+  145 BDP-117575393   1037D       MEENAKSHI                       BEGE102   
+  146 BDP-117575401   1037D       BHAGWATI                        ACC01 BEGE102 BEGE104   
+  147 BDP-117575426   1037D       NEETU DEVI                      ACC01 BEGE102 BEGE104 EHD02 EHI04     
+  148 BDP-117575433   1037D       GUDDI KUMARI                    BEGE102 BEGE104 EHD02 ESO15     
+  149 BDP-117575480   1037D       AMAR DEEP                       BEGE102 BEGE104 EHI04 FST01     
+  150 BDP-117575497   1037D       DILBAG SINGH                    BEGE102 BEGE104 EHI04     
+  151 BDP-117575505   1037D       KAMAL SAINI                     BEGE102 EHI04     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    4
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1037D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  152 BDP-117575551   1037D       SURESH KUMAR YADAV              ACC01 ESO15     
+  153 BDP-117575583   1037D       DEVINDRA                        BEGE102   
+  154 BDP-117575590   1037D       MAHESH                          BEGE102 FEG01     
+  155 BDP-117575609   1037D       KHUSHIRAM                       BEGE102 BEGE104 FEG01     
+  156 BDP-117575623   1037D       KRISHAN KUMAR                   ACC01 BEGE102 BEGE104 BSHF101 EEC11     
+                                                                  EHI04 FST01     
+  157 BDP-117575662   1037D       SATYA PAL                       ACC01 BEGE102 EHD02 EHD04 EHI04     
+                                                                  ESO15 FEG01 FST01     
+  158 BDP-117575670   1037D       HARPAL                          BEGE102 BEGE104   
+  159 BDP-117575702   1037D       POOJA SONI                      BEGE102 BEGE104   
+  160 BDP-117576808   1037D       SANGEETA                        BEGE102 FEG01     
+  161 BDP-117578439   1037D       SUNITA KUMARI                   BEGE102 EHD02     
+  162 BDP-117590246   1037D       JAYANTI YADAV                   ACC01 ANC01 ECO08 ECO11 ECO14     
+  163 BDP-117590253   1037D       NISHA YADAV                     ANC01 ECO11 ECO14     
+  164 BDP-117590278   1037D       SAPNA                           ANC01 ECO07 ECO08 ECO10 ECO11     
+                                                                  ECO12 ECO14     
+  165 BDP-117590300   1037D       RANBIR SINGH                    ANC01 ECO08 ECO10 ECO11 ECO14     
+                                                                  EEC11     
+  166 BDP-117590325   1037D       SUMIT KUMAR                     ACC01 ANC01 ECO08 ECO09 ECO10     
+                                                                  ECO11     
+  167 BDP-117590332   1037D       DINESH KUMAR                    ACC01 ANC01 ECO08 ECO09 ECO10     
+                                                                  ECO11     
+  168 BDP-117591190   1037D       KRISHAN YADAV                   AMK01 AOM01 BECE002 BSHF101 ECO08     
+                                                                  ECO09 ECO10 ECO11 EEC07     
+  169 BDP-117591549   1037D       PRITI                           ACC01 ANC01 ECO08 ECO09 ECO10     
+                                                                  ECO11 ECO14     
+  170 BDP-117591556   1037D       PARMOD                          ACC01 ECO08     
+  171 MTM-117615092   1037D       DEEPA CHHILAR                   MTM04 MTM09 MTM10 MTM11 MTM12     
+                                                                  MTM13 MTM14 MTM15     
+  172 MHD-118202190   1037D       SEEMA DEVI                      MHD05     
+  173 MEG-118203160   1037D       WAHEED MOHD                     MEG01 MEG03 MEG04 MEG05 MEG07     
+                                                                  MEG10 MEG11     
+  174 BDP-118206782   1037D       RITU RAJ                        BEGE102   
+  175 BDP-118206815   1037D       RAVINDER KUMAR                  BEGE102 BSHF101 EHD02 EHI04     
+  176 BDP-118206830   1037D       NIJAY KUMAR                     BEGE102 BSHF101 EHD03 EHI04 EPS12     
+                                                                  FST01     
+  177 BDP-118206861   1037D       PAWAN                           ACC01 BEGE102 BEGE104 EHD02 EHI04     
+                                                                  EPS12 ESO15 FST01     
+  178 BDP-118206879   1037D       SUNIL                           ACC01 BEGE102 BEGE104 EHD02 EHI01     
+                                                                  EHI04 EPS12 ESO15     
+  179 BDP-118207057   1037D       JYOTI                           BEGE102 BSHF101 EHI01 EHI04 FEG01     
+  180 MPS-118209700   1037D       MANOJ KUMAR                     MPSE002 MPSE007   
+  181 BDP-118210711   1037D       ANIL KUMAR                      ANC01 ECO08 ECO10 ECO11 ECO14     
+  182 BDP-118210729   1037D       NAVEEN KUMAR                    ANC01 ECO08 ECO10 ECO11 ECO14     
+  183 BDP-118210736   1037D       AJAY KUMAR                      ACC01 ANC01 BSHF101 ECO02 ECO03     
+                                                                  ECO05 ECO06 ECO07 ECO08 ECO09 ECO10 ECO11 ECO12 ECO14 EEC11 FST01     
+  184 BDP-118211340   1037D       REENA                           ECO10 ECO11 ECO14     
+  185 BDP-118211358   1037D       NARESH                          ANC01 ECO08 ECO10     
+  186 BDP-118211365   1037D       NARESH KUMAR                    ACC01 ANC01 ECO08 ECO10 ECO11     
+                                                                  ECO14     
+  187 BDP-118211397   1037D       PRAVEEN KUMAR                   ACC01 ANC01 ECO08 ECO11 ECO14     
+  188 BDP-118211405   1037D       KAPIL                           ANC01 BSHF101 ECO08 ECO14     
+  189 BDP-118211412   1037D       ANOOP SINGH YADAV               ANC01 ECO08 ECO10 ECO11 ECO14     
+                                                                  EEC11     
+  190 MAH-118213219   1037D       PUNAM DEVI                      MPSE004   
+  191 BDP-118214425   1037D       BHATERI                         ACC01 BEGE102 BEGE104 EHD02 EHI04     
+                                                                  ESO15 FST01     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    5
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1037D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  192 BDP-118215212   1037D       DINESH YADAV                    EHD06     
+  193 MEG-118217778   1037D       BABITA SHARMA                   MEG04 MEG05 MEG10     
+  194 BDP-118219130   1037D       LALIT KUMAR                     EPS08 FST01     
+  195 BDP-118219194   1037D       NISHA KUMARI                    BEGE102 EHI04 FST01     
+  196 BDP-118219259   1037D       BABITA                          ACC01 BEGE102   
+  197 BDP-118219273   1037D       KIRAN KUMARI                    BEGE102 EHD02 ESO15     
+  198 BDP-118219280   1037D       ANITA                           BEGE102 BEGE104   
+  199 BDP-118219345   1037D       NEERU YADAV                     BEGE102 BEGE104 EHI04     
+  200 BDP-118219377   1037D       SATPAL                          ACC01 BEGE102 BEGE104 EHD02     
+  201 BDP-118219391   1037D       SAMSHER SINGH                   ACS01 BEGE102 BEGE104 EHD02     
+  202 BDP-118219400   1037D       RAKESH KUMAR                    BEGE102 EHD02 ESO15     
+  203 DCLEVI-1185804601037D       SRINIVASARAO GANTA              BCE031 BCE032 BCE033 BCE034 BCE041    
+                                                                  BCE042 BCE043 BCE044 BCEE052 BET011 BET013 BET021 BET022 BICE023 BICE024 OIEL001   
+  204 BDP-118680497   1037D       SHALOO KHURANA                  ANC01 ECO08 ECO10 ECO11 ECO14     
+  205 BDP-118681808   1037D       POONAM PANDAY                   BSHF101 CHE05 LSE02 LSE03 LSE07     
+  206 BDP-119177717   1037D       PRITAM SAINI                    ANC01 ESO16     
+  207 BDP-119178425   1037D       KIRAN DEVI                      ANC01 EHI06     
+  208 BDP-119194129   1037D       REETU RAJ                       ANC01 EHI04 EHI05 EPS06     
+  209 BDP-119233102   1037D       DEEPAK SINGH                    ACC01 ANC01 BPAE102 BSHF101 EHI01     
+                                                                  EHI03 EHI05 EPA06 FEG01 FST01     
+  210 BDP-119233134   1037D       JAIKARAN                        ACC01 ANC01 BSHF101 EHI05 EPA06     
+  211 BDP-119233173   1037D       PARVEEN                         ANC01 BSHF101 EHI03 EHI05 EPA06     
+                                                                  FST01     
+  212 BDP-119233206   1037D       SANDEEP                         ACC01 ANC01 BPAE102 BSHF101 EHI02     
+                                                                  EHI03 EHI05 EPA06 FST01     
+  213 BDP-119240731   1037D       NEETU                           ACC01 ANC01 EPS06     
+  214 BDP-119240874   1037D       BABLI                           ACC01 ANC01 EHI04 EPS06 FST01     
+  215 BDP-119265391   1037D       RINKU                           ACC01 ANC01 EHI05     
+  216 BDP-121934296   1037D       RAVINDER KUMAR                  EEC14 EHD01 EPS03 FEG01 FST01     
+  217 MSO-121937252   1037D       KAPIL KUMAR                     MSO001 MSO002 MSO003 MSO004    
+  218 MP-121938420    1037D       NARESH SAINI                    MS95      
+  219 MP-121939460    1037D       RACHNA                          MS95      
+  220 MP-121939485    1037D       KUSUMLATA                       MS95      
+  221 BDP-121942208   1037D       ASHISH KUMAR                    ATR01 BEGE101 EHI05 EPS09 EPS11     
+                                                                  FST01     
+  222 BDP-121943826   1037D       SANGEETA                        ACC01 EEC07 EEC14 EHD01 EHI01     
+                                                                  EHI05 FST01     
+  223 BDP-121949605   1037D       ANKIT JOON                      ACC01 ANC01 ECO08 ECO09 ECO10     
+                                                                  ECO11     
+  224 BDP-121949709   1037D       SANDEEP KUMAR                   ACC01 BEGE102 BEGE104 EHD02 EHI04     
+                                                                  ESO15 FST01     
+  225 BDP-121949748   1037D       SANJAY KUMAR                    ACC01 BEGE104 EHD02 EPS12 ESO15     
+  226 BDP-121949755   1037D       SUSHMA RANI                     ACC01 BEGE104 EHD02 ESO15     
+  227 BDP-121949770   1037D       KRISHANA DEVI                   ACC01 BEGE102 BEGE104 EHD02 EHD03     
+                                                                  EHI04 ESO15 FEG01 FST01     
+  228 BDP-121949794   1037D       ARTI KUMARI                     ACC01 BEGE102 BEGE104 EHD02 ESO15     
+  229 BDP-121949810   1037D       KUSUM LATA                      ACC01 BEGE102 BEGE104 EHD02 EHI04     
+                                                                  ESO15     
+  230 BDP-121949841   1037D       RENU                            BSHF101 EHI01 EPS12     
+  231 BDP-121949873   1037D       MANOJ KUMAR                     ACC01 BEGE104 EHD02 ESO15     
+  232 BDP-121949906   1037D       SONU                            ACC01 BEGE104 EHD02 ESO15     
+  233 BDP-121949913   1037D       ANTIM KUMARI                    ACC01 BEGE102 BEGE104 EHD02 ESO15     
+  234 BDP-121949945   1037D       SOMWATI                         ACC01 BEGE102 BEGE104 EHD02 EHI04     
+                                                                  ESO15     
+  235 BDP-121950015   1037D       RAGHU YADAV                     ACC01 BEGE102 BEGE104 BSHF101 EHD02     
+                                                                  EPS12 ESO15     
+  236 BDP-121950022   1037D       MAMTA                           ACC01 BEGE104 EHD02 ESO15     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    6
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1037D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  237 MPS-121950348   1037D       LALITA KUMARI                   MGP004 MGPE007 MGPE011 MPSE001 MPSE002   
+                                                                  MPSE003 MPSE004 MPSE008   
+  238 MHD-121950355   1037D       RITTU MEHRA                     MHD05     
+  239 BDP-121958080   1037D       SANDEEP SINGH CHAUHAN           ACC01 BEGE104 EHD02 EHD03 EHI04     
+                                                                  ESO15     
+  240 BED-121962905   1037D       YOGESH ANAND                    ES364     
+  241 MAH-121964962   1037D       NEESHA                          MHI03     
+  242 BDP-121965008   1037D       VIRENDER MANCHANDA              ACC01 BEGE104 EHD02 ESO15     
+  243 BDP-121965015   1037D       RAVI MANCHANDA                  ACC01 BEGE104 EHD02 ESO15     
+  244 BDP-121965728   1037D       SHIV KUMAR                      ACC01 BEGE104 EHD02 ESO15     
+  245 BDP-121965735   1037D       SURENDER                        ACC01 BEGE102 EHD02 EHI04 EHI06     
+                                                                  ESO15 FEG01     
+  246 BED-122864296   1037D       PAWAN KUMAR                     ES335     
+  247 BEDSEHI-125741474                      1037D       MANU YADAV                      MMD013    
+  248 PGPDSEHI-125755931                      1037D       MAHESH KUMAR                    MMDE028   
+  249 PGPDSEHI-125755956                      1037D       CHARAN SINGH                    MMD014    
+  250 BDP-126348682   1037D       KOSHALYA                        BSHF101 FEG01 FEG02     
+  251 BDP-126348708   1037D       SWAMI RAJENDRAKUMAR SHYAMLAL    BSHF101 FEG01 FEG02     
+  252 MPS-126583728   1037D       ASHOK KUMAR                     MED002 MED008 MPS001 MPS002 MPS003    
+                                                                  MPS004 MPSE001 MPSE003 MPSE004 MPSE006 MPSE007 MPSE008   
+  253 BDP-126776651   1037D       GEETA                           EHI01 EPA03 EPA04 FST01     
+  254 BDP-126776690   1037D       ROHIT                           BEGE102 EHD03 FEG01 FST01     
+  255 BDP-126776709   1037D       SHEKHAR SINGH                   EHI02 EHI03     
+  256 BDP-126776716   1037D       JITENDER SINGH                  EHD03 EHI04     
+  257 BDP-126776723   1037D       MUKESH                          BEGE102 BSHF101 EHD03 EHI01 EHI04     
+                                                                  FEG01 FST01     
+  258 BDP-126776880   1037D       TARUN SHARMA                    ECO12 ECO14     
+  259 MHD-126777116   1037D       KANCHAN                         MHD01 MHD05 MHD15     
+  260 MEG-126777614   1037D       SANYOGITA                       MEG01 MEG10     
+  261 BDP-126794373   1037D       REKHA DEVI                      BEGE102 EHI04 FEG01     
+  262 MAH-126801003   1037D       DEVKARAN                        MHI02 MHI03 MHI04     
+  263 BDP-126965896   1037D       MANOJ KUMAR                     BSHF101 ECO02 ECO05 ECO07 ECO13     
+                                                                  ECO14 EHI02 FST01     
+  264 BDP-126966794   1037D       JYOTI                           BHDF101 BSHF101 EHI01 EPS12 FEG01     
+  265 BDP-126970461   1037D       RENU KUMARI                     FEG01     
+  266 BDP-126971338   1037D       RAKESH KUMAR                    BEGE102 EHD03 EHI04 FST01     
+  267 BDP-126971740   1037D       YOGINDER SINGH                  BEGE102 BHDF101 FEG01 FST01     
+  268 BDP-126971764   1037D       SANDEEP KUMAR                   EHI03     
+  269 BDP-126971836   1037D       MEENA BAI                       BEGE102   
+  270 BDP-126971843   1037D       MOHINI                          BEGE102 BSHF101 EHD03 EHI01 EHI04     
+                                                                  FEG01 FST01     
+  271 BDP-126971850   1037D       POOJA                           BEGE102 EHD03 EHI04 FST01 MTE01     
+                                                                  MTE04 MTE05     
+  272 BDP-126971868   1037D       KIRTI                           BEGE102 EHD03 EHI04 FST01 MTE01     
+                                                                  MTE04 MTE05     
+  273 BDP-126971875   1037D       ANJU DEVI                       EHD03 EHI04 FST01 MTE01 MTE04     
+                                                                  MTE05     
+  274 BDP-126971882   1037D       SULTANA                         BEGE102   
+  275 BDP-126971890   1037D       AARTI                           BEGE102 EHI01 EHI04 FEG01     
+  276 BDP-126971915   1037D       JYOTI                           BEGE102 EHD03 EHI01 EHI04 FEG01     
+                                                                  FST01     
+  277 BDP-126971930   1037D       VERSHA                          BEGE102 EHI04 FEG01     
+  278 BDP-126971954   1037D       VINTEE                          BEGE102 BSHF101 EHI01 EHI04 FEG01     
+  279 BDP-126971986   1037D       HEENA                           BEGE102 EHI01 EHI04 FEG01     
+  280 BDP-126971993   1037D       SHAISTA KHATOON                 BEGE102 EHI01 EHI04 FEG01     
+  281 BDP-126972039   1037D       REKHA                           BEGE102 FEG01     
+  282 BDP-126972060   1037D       MONIKA                          EHI02 EHI04 FEG01     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    7
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1037D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  283 BDP-126972078   1037D       DINESH KUMARI                   BEGE102 FEG01     
+  284 BDP-126973173   1037D       ILIAS                           ECO02 ECO07 ECO12 FEG01     
+  285 BDP-127000104   1037D       SOMVEER                         ECO02 ECO03 ECO07 ECO12 ECO14     
+                                                                  EEC11 FEG01     
+  286 BDP-127000111   1037D       MANISH SAINI                    ECO02 ECO07 ECO12 ECO14 FEG01     
+                                                                  FST01     
+  287 BDP-127000143   1037D       YOGITA                          ECO07 ECO12 ECO14 FEG01     
+  288 MEG-127000594   1037D       RENU                            MEG01 MEG02 MEG03 MEG05 MEG07     
+                                                                  MEG10 MEG11     
+  289 MCOM-127000981  1037D       ANJU BALA                       MCO01     
+  290 MHD-127001010   1037D       SHARMILA                        MHD05 MHD07 MHD16     
+  291 MEC-127001492   1037D       MANOJ KUMARI                    MEC008    
+  292 MEG-127002240   1037D       LALITA                          MEG03 MEG05 MEG07 MEG10 MEG11     
+  293 MEG-127002258   1037D       JYOTI                           MEG03 MEG05 MEG07 MEG10 MEG11     
+  294 MHD-127005325   1037D       SADHNA SINGH                    MHD05 MHD06 MHD15 MHD16     
+  295 MCOM-127005626  1037D       MEGHA SHARMA                    MCO01 MCO04     
+  296 MARD-127006294  1037D       RAJESH KUMAR                    MRDE002 MRDE003 MRDE004   
+  297 BDP-127006484   1037D       ROHIT                           ECO02 ECO03 ECO05 ECO06 ECO07     
+                                                                  ECO12 ECO14 EEC11 FEG01 FST01     
+  298 BDP-127302720   1037D       MANISHA YADAV                   ECO03 ECO05 ECO07 ECO12 ECO13     
+                                                                  ECO14     
+  299 BDP-128061602   1037D       MUKESH SINGH                    ECO03 ECO07 ECO12 ECO14 FEG01     
+  300 BDP-128061738   1037D       POOJA KUMARI                    ECO02 ECO07 ECO12 ECO14 FEG01     
+  301 BDP-128061745   1037D       PREETI                          ECO02 ECO07 ECO12 ECO14     
+  302 BDP-128062335   1037D       BEENA KUMARI                    EPS11 FEG01 FST01     
+  303 BDP-128062485   1037D       SURESH KUMAR                    BEGE102 FST01     
+  304 BDP-128062557   1037D       CHINTOO KUMAR                   BEGE102 EHD03 FST01     
+  305 BDP-128062589   1037D       MONIKA                          BEGE102 EHD03 FST01     
+  306 BDP-128062596   1037D       POOJA DEVI                      BEGE102 EHI01 EHI04     
+  307 BDP-128062604   1037D       SONIA                           BEGE102 EHD03 EHI04     
+  308 BDP-128062636   1037D       REKHA DEVI                      BEGE102 EEC11 EHD03 EHI02 EHI04     
+                                                                  FEG01 FST01     
+  309 BDP-128062650   1037D       SANDEEP KUMAR                   BEGE102 EHD03 EHI04 FST01     
+  310 BDP-128062668   1037D       MAHENDER                        BEGE102 BSHF101 EHD03 EHI01 EHI04     
+                                                                  FEG01 FST01     
+  311 BDP-128066720   1037D       PARDEEP KUMAR                   BHDF101 ECO02 ECO03 ECO05 ECO06     
+                                                                  ECO07 ECO12 ECO14 EEC11 FEG01 FST01     
+  312 BDP-130052550   1037D       RAVINDER KUMAR                  EPS03 EPS07 ESO11 FST01     
+  313 MAH-130293589   1037D       DEEPAK KUMAR                    MHI03 MHI06 MHI08 MPSE003 MPSE004   
+  314 BDP-130617312   1037D       NETRAPAL YADAV                  EHI03 EHI04 ESO12 FST01     
+  315 MPS-131130070   1037D       SACHIN KUMAR SINGH              MED002 MED008 MPSE001 MPSE004 MPSE005   
+                                                                  MPSE007 MPSE008 MPSE011   
+  316 MPS-131163229   1037D       ANJALI                          MED002 MED008 MPSE001 MPSE003 MPSE004   
+                                                                  MPSE006 MPSE007 MPSE008   
+  317 BDP-131163931   1037D       AJAY KUMAR                      BSHF101 EHI01 EHI04 EPS03 ESO11     
+                                                                  FST01     
+  318 BDP-131163949   1037D       KULDEEP                         BSHF101 EHI04 EPS03 ESO11 FST01     
+  319 MCOM-131164657  1037D       ANJU BALA                       IBO05 IBO06 MCO01 MCO03 MCO04     
+                                                                  MCO05 MCO06 MCO07     
+  320 BDP-131164711   1037D       SUSHMITA                        ECO03 ECO05 ECO06 ECO07 ECO12     
+                                                                  ECO14 FEG01 FST01     
+  321 BDP-131165824   1037D       SAVITA DEVI                     BEGE102 EHD03 EHI04 FEG01 FST01     
+  322 BDP-131165831   1037D       KANTA DEVI                      BEGE102 EHD03 EHI04 FEG01 FST01     
+  323 MEG-131169133   1037D       POONAM DEVI                     MEG01 MEG03 MEG05 MEG07 MEG10     
+                                                                  MEG14     
+  324 BDP-131170350   1037D       BIMLA NEGI                      EHI03 EHI04 EHI07 FST01     
+  325 BDP-131174934   1037D       SUNITA                          ECO03 ECO05 ECO06 ECO07 ECO12     
+                                                                  ECO14 FST01     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    8
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1037D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  326 BDP-131174998   1037D       USHA DEVI                       ECO03 ECO05 ECO06 ECO07 ECO12     
+                                                                  ECO14 FEG01 FST01     
+  327 BDP-131175019   1037D       KIRTI                           ECO03 ECO05 ECO07 ECO12 ECO13     
+                                                                  ECO14 FST01     
+  328 BDP-131175033   1037D       DEEN DAYAL                      ECO02 ECO03 ECO05 ECO06 ECO07     
+                                                                  ECO12 ECO14 EEC11 FEG01 FST01     
+  329 BDP-131175137   1037D       SACHIN KUMAR                    EHI04 EPS03 ESO11 FST01     
+  330 BDP-131175151   1037D       TARUN KUMAR                     BSHF101 EHI04 EPS03 ESO11 FHD02     
+                                                                  FST01     
+  331 BDP-131175248   1037D       VINOD YADAV                     EHI04 EPS03 ESO11 FST01     
+  332 BDP-131175438   1037D       KAVITA RANI                     BEGE102 BHDF101 BPSE212 BSHF101   
+                                                                  EHD03 EHI01 EHI04 FEG01 FST01     
+  333 BDP-131175452   1037D       JYOTI                           BEGE102 EHD03 EHI04 FEG01 FST01     
+  334 BDP-131175460   1037D       POOJA KUMARI                    BEGE102 EHD03 EHI04 FEG01 FST01     
+  335 BDP-131175484   1037D       SUDHAN                          BEGE102 EHD03 EHI04 FST01     
+  336 BDP-131175500   1037D       LALITA KUMARI                   BEGE102 BSHF101 EHD03 EHI04 FEG01     
+                                                                  FST01     
+  337 BDP-131175517   1037D       GEETA                           BEGE102 EHD03 EHI04 FST01     
+  338 BDP-131175524   1037D       SHAGUFTA                        BEGE102 EHD03 EHI04     
+  339 BDP-131175531   1037D       SUMAN                           BEGE102 EHD03 EHI04 FST01     
+  340 BDP-131175563   1037D       KARAM BIR                       BEGE102 BSHF101 EHD03 EHI04 FEG01     
+                                                                  FST01     
+  341 BDP-131175570   1037D       DEEPAK                          BEGE102 BSHF101 EHD03 EHI04 FEG01     
+                                                                  FST01     
+  342 BDP-131175595   1037D       RAKESH                          BEGE102 EHD03 EHI04 FEG01 FST01     
+  343 BDP-131175610   1037D       PARVEEN KUMAR                   BEGE102 BPSE212 BSHF101 EHD03     
+                                                                  EHI01 EHI04 FEG01 FST01     
+  344 MPS-131175800   1037D       DEEPA                           MED008 MGPE007 MGPE008 MPS001 MPSE004   
+                                                                  MPSE006 MPSE007 MPSE008   
+  345 MPS-131175825   1037D       PINKESH YADAV                   MED008 MGPE007 MGPE008 MPS001 MPSE004   
+                                                                  MPSE006 MPSE007 MPSE008   
+  346 MPS-131175832   1037D       POOJA YADAV                     MED008 MGP004 MGPE007 MGPE008 MGPE013   
+                                                                  MPSE001 MPSE004 MPSE008   
+  347 MAH-131175936   1037D       SUSHMA                          MHI03 MHI06 MHI08 MPSE003 MPSE004   
+  348 MAH-131175943   1037D       POONAM DEVI                     MHI03 MHI04 MHI06 MHI08 MPSE003   
+                                                                  MPSE004   
+  349 MAH-131175950   1037D       RENU                            MHI01 MHI03 MHI04 MHI06 MHI08     
+                                                                  MPSE003 MPSE004   
+  350 MHD-131175982   1037D       SHEETAL DEVI                    MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  351 MHD-131175990   1037D       SARITA                          MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  352 MHD-131176010   1037D       SANJU BALA                      MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  353 MHD-131176028   1037D       DEEPIKA                         MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  354 MHD-131176035   1037D       PRIYANKA                        MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  355 MHD-131176042   1037D       POONAM                          MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  356 MHD-131176067   1037D       DINESH KUMAR                    MHD01 MHD02 MHD05 MHD07 MHD13     
+                                                                  MHD14 MHD15 MHD16     
+  357 MHD-131176074   1037D       SANTOSH KUMARI                  MHD01 MHD04 MHD05 MHD07 MHD16     
+  358 MHD-131176081   1037D       PRIYA YADAV                     MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  359 MHD-131176099   1037D       BINDU BALA                      MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    9
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1037D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  360 MHD-131176107   1037D       RICHA DUREJA                    MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  361 MEG-131176185   1037D       ANNU                            MEG05 MEG07 MEG10 MEG14     
+  362 MEG-131176192   1037D       PRITI                           MEG02 MEG05 MEG07 MEG10 MEG11     
+  363 MCOM-131176232  1037D       POOJA                           IBO05 IBO06 MCO01 MCO03 MCO04     
+                                                                  MCO05 MCO06 MCO07     
+  364 MCOM-131176240  1037D       SANGEETA KUMARI                 IBO05 IBO06 MCO01 MCO03 MCO04     
+                                                                  MCO05 MCO06 MCO07     
+  365 MCOM-131176257  1037D       PARVEEN KUMARI                  MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  366 MCOM-131176264  1037D       MONIKA GUPTA                    IBO06 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+  367 MCOM-131176271  1037D       JYOTI                           IBO06 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+  368 BDP-131177567   1037D       SANDEEP YADAV                   EPA03 EPA04 ESO11 ESO12 FST01     
+  369 BDP-131178085   1037D       JYOTI                           BEGE102 EHD03 EHI04 FST01     
+  370 BDP-131178092   1037D       JYOTI                           BEGE102 EHD03 EHI04 FST01 MTE02     
+                                                                  MTE06     
+  371 BDP-131178100   1037D       BABITA RANI                     BEGE102 EHD03 EHI04 FST01     
+  372 MEG-131178949   1037D       VINITI YADAV                    MEG01 MEG02 MEG03 MEG04     
+  373 BDP-131179750   1037D       MANJU BALA                      EHD03 EHI04 ESO12 FEG01 FST01     
+  374 BDP-131179775   1037D       KAVITA                          ECO03 ECO05 ECO06 ECO07 ECO12     
+                                                                  ECO14 FEG01 FST01     
+  375 BDP-131179808   1037D       BABLI                           BEGE102 BHDF101 EHD03 EHD05 EHI04     
+                                                                  FEG01 FST01     
+  376 BDP-131198750   1037D       PREETI                          BEGE102 EHD03 EHI04 FST01     
+  377 BDP-131201644   1037D       RAKHI CHAUHAN                   ECO03 ECO05 ECO06 ECO07 ECO12     
+                                                                  ECO14 EEC11 FST01     
+  378 BDP-131201669   1037D       KIRAN KUMARI                    ECO02 ECO03 ECO05 ECO06 ECO07     
+                                                                  ECO12 ECO14 EEC11 FEG01 FST01     
+  379 BDP-131201730   1037D       PRIYA RANI                      BEGE102 EHD03 EHI04 FEG01 FST01     
+  380 BDP-131201748   1037D       URMILA                          BEGE102 EHD03 EHI04 FEG01 FST01     
+  381 BDP-131201898   1037D       MANJU DEVI                      BEGE102 EHD03 EHI04 FEG01 FST01     
+  382 BDP-131201913   1037D       AARTI                           BEGE102 EHD03 EHI04 FST01 MTE02     
+                                                                  MTE06     
+  383 BDP-131201945   1037D       NISHA KUMARI                    BEGE102 EHD03 EHI01 EHI04 FEG01     
+                                                                  FST01     
+  384 BDP-131201952   1037D       SHASHI KIRAN                    BEGE102 EHD03 EHI04 FEG01 FST01     
+  385 BDP-131201984   1037D       JAMANA DEVI                     BEGE102 EHD03 EHI04 FEG01 FST01     
+  386 BDP-131201991   1037D       MANJUBALA                       BEGE102 EHD03 EHI04 EPS12 FEG01     
+                                                                  FST01     
+  387 BDP-131202005   1037D       SAPNA DEVI                      BEGE102 EHD03 EHI01 EHI04 FEG01     
+                                                                  FST01     
+  388 BDP-131202037   1037D       NIDHI TANWAR                    BEGE102 EHD03 EHI04 FEG01 FST01     
+  389 BDP-131202044   1037D       REENA                           BEGE102 EHD03 EHI04 FST01     
+  390 BDP-131202051   1037D       POONAM RANI                     BEGE102 EHD03 EHI04 FEG01 FST01     
+  391 BDP-131202069   1037D       VIKESH KUMARI                   BEGE102 BSHF101 EHD03 EHI04 FEG01     
+                                                                  FST01     
+  392 BDP-131202109   1037D       SHIVANI GARG                    ECO01 ECO03 ECO05 ECO06 ECO07     
+                                                                  ECO12 ECO14 FST01     
+  393 MAH-131202130   1037D       PURTI                           MHI01 MHI02 MHI03 MHI06 MHI08     
+                                                                  MPSE003 MPSE004   
+  394 MAH-131202148   1037D       MONIKA                          MHI01 MHI02 MHI03 MHI04 MHI06     
+                                                                  MHI08 MPSE003 MPSE004   
+  395 MEG-131202162   1037D       POONAM DEVI                     MEG01 MEG02 MEG03 MEG05 MEG07     
+                                                                  MEG10 MEG14     
+  396 MHD-131202170   1037D       VANDNA                          MHD01 MHD05 MHD07     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   10
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1037D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  397 MHD-131202187   1037D       SUNITA KUMARI                   MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  398 MCOM-131202194  1037D       SHEETAL                         MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  399 MCOM-131204830  1037D       POONAM YADAV                    IBO05 IBO06 MCO01 MCO03 MCO04     
+                                                                  MCO05 MCO06 MCO07     
+  400 BDP-131206288   1037D       ARVIND SINGH BHADAURIYA         ECO03 ECO05 ECO07 ECO12 ECO13     
+                                                                  ECO14 FST01     
+  401 BDP-131206295   1037D       GAURAV                          ECO03 ECO05 ECO07 ECO12 ECO13     
+                                                                  ECO14 FST01     
+  402 BDP-131206310   1037D       VIVEKANAND                      BSHF101 BSWE004 EHD06 EPA03 FST01     
+  403 MAH-131206779   1037D       YADAV SHAKTI DEV                MHI01 MHI03 MHI06 MHI08 MPSE003   
+                                                                  MPSE004   
+  404 MHD-131207573   1037D       ANAND KATYAL                    MHD01 MHD05 MHD06 MHD07 MHD13     
+                                                                  MHD15 MHD16     
+  405 MPS-131207921   1037D       DEEPA                           MED002 MED008 MPS001 MPSE001 MPSE003   
+                                                                  MPSE004 MPSE006 MPSE007 MPSE008   
+  406 MAPC-131209205  1037D       ANIL KUMAR                      MPC001 MPC002 MPC003 MPC004 MPC005    
+                                                                  MPCL007   
+  407 BDP-131211835   1037D       ASHA YADAV                      BEGE102 EHD03 EHI04 FEG01 FST01     
+  408 BDP-131211842   1037D       JYOTI                           BEGE102 EHD03 EHI04 FEG01 FST01     
+  409 BDP-131211850   1037D       ROHIT YADAV                     BEGE102 BPSE212 EHD03 EHI01 EHI04     
+                                                                  FEG01 FST01     
+  410 BDP-131211874   1037D       IRFAN ALI                       BEGE102 BPSE212 EHD03 EHI04 FEG01     
+                                                                  FST01     
+  411 BDP-131211881   1037D       KOMAL                           BEGE102 EHD03 EHI04     
+  412 BDP-131211907   1037D       SEEMA                           BEGE102 EHD03 EHI04 FEG01 FST01     
+  413 BDP-131211914   1037D       VANDANA                         BEGE102 EHD03 EHI04 FEG01 FST01     
+  414 BDP-131211921   1037D       SUNIL KUMAR                     BEGE102 BSHF101 EHD03 EHI04 FST01     
+  415 BDP-131211953   1037D       HITESH YADAV                    BEGE102 EHI04 FST01     
+  416 BDP-131211960   1037D       RENU                            BEGE102 BSHF101 EHD03 EHI01 EHI04     
+                                                                  FEG01 FST01     
+  417 BDP-131212077   1037D       RAVINDER                        BEGE102 BSHF101 ESO13 ESO14 FST01     
+  418 MSO-131212299   1037D       GEETA RANI                      MSO002 MSOE001 MSOE003 MSOE004   
+  419 MPS-131212923   1037D       KARAN SINGH                     MED002 MED008 MPS004 MPSE001 MPSE003   
+                                                                  MPSE004 MPSE006 MPSE007 MPSE008   
+  420 MHD-131213047   1037D       PAWAN KUMAR                     MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  421 BDP-131215230   1037D       PREETI                          ECO03 ECO05 ECO06 ECO07 ECO12     
+                                                                  ECO14 FST01     
+  422 BDP-131215255   1037D       APSARA                          ECO03 ECO05 ECO06 ECO07 ECO12     
+                                                                  ECO14 FST01     
+  423 MPA-131215674   1037D       JYOTI                           MPA015 MPA016 MPA017 MPA018 MPS003    
+  424 BDP-131216479   1037D       SUSHIL KHAN                     ECO02 ECO03 ECO05 ECO07 ECO12     
+                                                                  ECO13 ECO14 FST01     
+  425 BDP-131217280   1037D       JYOTI                           EHD01 EHD03 EHD06 FST01     
+  426 BDP-131218458   1037D       NISHA KUMARI                    BEGE102 EHD03 EHI04 FEG01 FST01     
+  427 MAH-131220612   1037D       GOVIND GAUR                     MHI01 MHI02 MHI03 MHI06 MHI08     
+                                                                  MPSE003 MPSE004   
+  428 MSO-131220810   1037D       POONAM                          MPA016 MPS003 MSOE001 MSOE004   
+  429 MHD-131220952   1037D       SARIKA RUSTAGI                  MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  430 MPS-131221037   1037D       MAHAK                           MPS002 MPS004 MPSE001   
+  431 MCOM-131221280  1037D       NIDHI GUPTA                     IBO05 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+  432 MCOM-131221298  1037D       PREETI CHAUHAN                  IBO04 IBO05 IBO06 MCO01 MCO06     
+                                                                  MCO07     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   11
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1037D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  433 BDP-131222164   1037D       SAMEER                          BEGE102 EHI03 EPS07 FST01     
+  434 BDP-131222315   1037D       MANISHA                         EHD01 EHD03 EHD06 FST01     
+  435 BDP-131222386   1037D       PUJA SHARMA                     EPA04 EPS03 ESO11 FST01     
+  436 MCOM-131222590  1037D       MONU                            MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  437 MCOM-131222623  1037D       PARVISH KUMARI                  IBO05 IBO06 MCO01 MCO03 MCO04     
+                                                                  MCO05 MCO06 MCO07     
+  438 BDP-131223180   1037D       SUKHDEV RAJ                     BEGE102 EHD03 EHI04 FST01     
+  439 BDP-131223198   1037D       PRADEEP KAUR                    BEGE102 BPSE212 EHD03 EHI04 FST01     
+  440 BDP-131223206   1037D       KAVITA DEVI                     BEGE102 EHD03 EHI04 FST01     
+  441 BDP-131223238   1037D       RINKU                           BEGE102 EHD03 EHI04 FEG01 FST01     
+  442 BDP-131223317   1037D       NITU                            BEGE102 BPSE212 BSHF101 EHD03     
+                                                                  EHI01 EHI04 FEG01 FST01     
+  443 BDP-131223349   1037D       LAXMI KUMARI                    BEGE102 EHD03 EHI04 FST01     
+  444 BDP-131223356   1037D       KAVITA MUDGIL                   BEGE102 EHD03 EHI04 FST01     
+  445 BDP-131223363   1037D       SATYENDER KUMAR                 BEGE102 EHD03 EHI04 FST01     
+  446 BDP-131223395   1037D       MAMTA                           BEGE102 EHD03 EHI01 EHI04 FEG01     
+                                                                  FST01     
+  447 BDP-131223403   1037D       POONAM                          BEGE102 EHD03 EHI04 FEG01 FST01     
+  448 BDP-131223435   1037D       BABITA                          BEGE102 BSHF101 EHD03 EHI01 EHI04     
+                                                                  FEG01 FST01     
+  449 BDP-131223980   1037D       ANURADHA                        ECO03 ECO05 ECO06 ECO07 ECO12     
+                                                                  ECO14 FEG01 FST01 MTE01 MTE04 MTE05     
+  450 BDP-131224025   1037D       MOHIT KUMAR                     BSHF101 ECO02 ECO03 ECO05 ECO06     
+                                                                  ECO07 ECO12 ECO14 FST01     
+  451 BDP-131224032   1037D       DEEPAK CHAUHAN                  ECO02 ECO03 ECO05 ECO06 ECO07     
+                                                                  ECO12 ECO14 EEC11 FST01     
+  452 BDP-131224064   1037D       SUMIT                           ECO03 ECO05 ECO06 ECO07 ECO12     
+                                                                  ECO14 FEG01 FST01     
+  453 BLS-131224190   1037D       NIRMLA                          BLS01 BLS02 BLS04 BLS05 BLS06     
+                                                                  BLS07 BLS3P BLS4P     
+  454 BDP-131224326   1037D       SONIA SHARMA                    BSHF101 CHE01 CHE05 LSE03 MTE01     
+                                                                  MTE08 PHE06 PHE07 PHE09     
+  455 BDP-131224333   1037D       ANCHAL TANWAR                   BSHF101 CHE05 LSE03 MTE01 MTE08     
+                                                                  PHE06 PHE07 PHE09     
+  456 MCOM-131224666  1037D       DEEPMALA                        IBO06 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+  457 MCOM-131224745  1037D       NEERAJ KUMARI                   IBO06 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+  458 MPS-131225421   1037D       ANIL                            MED008 MGP004 MGPE008 MGPE011 MGPE013   
+                                                                  MPS002 MPSE004 MPSE007 MPSE008   
+  459 BDP-131226960   1037D       RESHMA KHAN                     ECO02 ECO03 ECO05 ECO06 ECO07     
+                                                                  ECO12 ECO14 FEG01 FST01     
+  460 BDP-131227006   1037D       PRAMOD                          ECO01 ECO02 ECO03 ECO05 ECO06     
+                                                                  ECO07 ECO12 ECO14 EEC11 FST01     
+  461 BDP-131227020   1037D       RAVI KUMAR                      BSHF101 ECO02 ECO03 ECO05 ECO06     
+                                                                  ECO07 ECO12 ECO14 EEC11 FST01     
+  462 BDP-131227045   1037D       DARSHAN SINGH DHARIWAL          ECO03 ECO05 ECO06 ECO07 ECO12     
+                                                                  ECO14 FST01     
+  463 BDP-131227052   1037D       PAWAN KUMAR                     BSHF101 ECO01 ECO02 ECO03 ECO05     
+                                                                  ECO06 ECO07 ECO12 ECO14 EEC11 FST01     
+  464 BDP-131227195   1037D       MANISHA YADAV                   BEGE102 EHD03 EHI04 FST01     
+  465 BDP-131227400   1037D       JYOTI                           BEGE102 EHD03 EHI04 FST01     
+  466 BDP-131227418   1037D       LALITA                          BEGE102 BSHF101 EHD03 EHI04 FST01     
+  467 BDP-131227425   1037D       SEENA                           BEGE102 EHD03 EHI04 FST01     
+  468 BDP-131227457   1037D       KALPANA                         BEGE102 BSHF101 EHD03 EHI04 FST01     
+  469 BDP-131227471   1037D       NEERU RANI                      BEGE102 EHD03 EHI04 FST01     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   12
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1037D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  470 BDP-131227511   1037D       KOMAL KUMARI                    BEGE103 EHD06 ESO12 FST01     
+  471 MSW-131227536   1037D       PAWAN KUMAR                     MSW007 MSW008 MSW009 MSWE001 MSWE002   
+  472 MAH-131227701   1037D       NEETI                           MHI01 MHI03 MHI06 MHI08 MPSE003   
+                                                                  MPSE004   
+  473 MHD-131228047   1037D       RAMENDER SINGH                  MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  474 MHD-131228054   1037D       POOJA                           MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  475 MHD-131228061   1037D       SUDESH                          MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  476 MHD-131228079   1037D       KAVITA                          MHD01 MHD05 MHD07 MHD13     
+  477 MHD-131228086   1037D       SANJU SHARMA                    MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  478 MHD-131228093   1037D       SONIA                           MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  479 MEG-131228180   1037D       SHRI LATA                       MEG01 MEG03 MEG05 MEG07 MEG10     
+                                                                  MEG11     
+  480 MCOM-131228316  1037D       MAMTA                           MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  481 MCOM-131228330  1037D       RAJNI                           MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  482 MCOM-131228348  1037D       RAKESH KUMAR                    MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  483 MCOM-131228355  1037D       SANJU DEVI                      MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  484 MCOM-131228362  1037D       NEHA SHARMA                     MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  485 MCOM-131228370  1037D       MUKESH KUMARI                   IBO04 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+  486 MCOM-131228387  1037D       SONU                            MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  487 MCOM-131228459  1037D       GAGAN KUMAR                     MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  488 BDP-131228971   1037D       RISHABH                         BEGE102 EHD03 EHI04 FST01     
+  489 MTM-131229199   1037D       ATUL KUMAR                      MTM04 MTM05 MTM12 MTM13 MTM14     
+                                                                  MTM15     
+  490 MTM-131229207   1037D       HARSHIT KUMAR PATEL             MTM04 MTM12 MTM13 MTM14 MTM15     
+  491 MHD-131229482   1037D       SARITA REWARIA                  MHD01 MHD05 MHD07     
+  492 BED-131231916   1037D       MONIKA                          BESE065 BESE066 ES334 ES335 ES364     
+  493 BDP-131278414   1037D       CHANDER KANT                    EHI03 EHI04 ESO11 FST01     
+  494 BDP-131791141   1037D       RAJAT KUMAR                     BHDF101 BSHF101 EPA03 EPA04 ESO11     
+                                                                  FHD02 FST01     
+  495 MAH-131836957   1037D       NARENDER                        MHI01 MHI03 MHI06 MPSE003   
+  496 BSCN-131911231  1037D       SUNDER PAL YADAV                BNS101 BNS102 BNS103 BNS105 BNS106    
+                                                                  BNS107 BNS108    
+  497 MAH-135438150   1037D       SANJAY SINGH                    MHI01 MHI02 MHI04 MHI05     
+  498 MPA-136859252   1037D       JAIVEER                         MPA011 MPA012 MPA013 MPA014    
+  499 MPA-137153485   1037D       PAWAN                           MPA011 MPA012 MPA013 MPA014    
+  500 BDP-137718777   1037D       RENU                            BSHF101 FEG01     
+  501 MPS-137719990   1037D       NAR SINGH                       MPS001    
+  502 PGDDM-137720472 1037D       MANOJ KUMAR                     MPA001 MPA002 MPA003 MPA004 MPA005    
+                                                                  MPA006 MPA007    
+  503 BDP-137724867   1037D       RAHUL                           BPSE212 BSHF101 FEG01     
+  504 MP-137729945    1037D       CHAND SINGH                     MS09 MS10 MS11 MS27      
+  505 MP-137731253    1037D       JITENDER                        MS03 MS04 MS08 MS10 MS11 MS91      
+  506 BSW-137733827   1037D       BABITA SHARMA                   BHDF101   
+  507 MHD-137737071   1037D       SARITA                          MHD02 MHD03 MHD04 MHD06     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   13
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1037D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  508 MAH-137737230   1037D       SHANKAR GARG                    MHI01 MHI02 MHI04 MHI05     
+  509 MEG-137747491   1037D       LAXMI RANI                      MEG02 MEG03     
+  510 MCOM-137759020  1037D       SUREKHA                         IBO02 IBO04 IBO06     
+  511 MAH-137759529   1037D       PREETI                          MHI02     
+  512 MAH-137759536   1037D       PREETI KUMARI                   MHI01 MHI02 MHI04 MHI05     
+  513 MAH-137759543   1037D       SUMAN DEVI                      MHI02     
+  514 MEG-137759568   1037D       DEEPAK                          MEG01 MEG03     
+  515 MEG-137759575   1037D       MANBEER CHAUHAN                 MEG02 MEG03     
+  516 MHD-137759590   1037D       RAVINDER KUMAR                  MHD02 MHD03 MHD04 MHD06     
+  517 BDP-137759693   1037D       POONAM                          MTE02 MTE06     
+  518 BDP-137759701   1037D       PREETI                          BSHF101 ECO01 ECO02     
+  519 BDP-137759726   1037D       SANJU                           FEG01     
+  520 BDP-137759733   1037D       SUNIL KUMAR                     BHDF101 ECO02 FEG01     
+  521 BDP-137759740   1037D       KRISHAN KUMAR                   FEG01 FST01     
+  522 BDP-137759797   1037D       SHARMILA                        BSHF101 FEG01     
+  523 BDP-137759820   1037D       KM HITESH KUMARI                BSHF101 FEG01     
+  524 BDP-137759844   1037D       NASREEN                         BSHF101 FEG01     
+  525 BDP-137759851   1037D       MONIKA                          FEG01     
+  526 BDP-137759923   1037D       NILU KUMARI                     BSHF101 FEG01     
+  527 BDP-137759930   1037D       MONIKA RANI                     BPSE212 BSHF101 FEG01     
+  528 BDP-137759948   1037D       YASHVINDER SINGH                FEG01     
+  529 BDP-137759962   1037D       UMESH YADAV                     EHI01 FEG01 FEG02     
+  530 BDP-137760000   1037D       AMIT KUMAR                      BPSE212 EHI01     
+  531 BDP-137760025   1037D       MOHIT KUMAR                     FEG01     
+  532 BDP-137760089   1037D       DEVENDER                        BPSE212 BSHF101 FEG01     
+  533 BDP-137761217   1037D       DHANRAJ YADAV                   BPSE212 BSHF101 EHI01 FEG01     
+  534 BDP-137763100   1037D       LAVISH GARG                     EHI02 EPS11     
+  535 BDP-137763124   1037D       ANSHU SHOKEEN                   FEG01     
+  536 BDP-137767898   1037D       SANDEEP                         BSHF101 EHD01 FHD02     
+  537 BDP-137768510   1037D       ANJU YADAV                      BPHE101 FEG01 FEG02 PHE02 PHE05     
+                                                                  PHE06     
+  538 BDP-137783362   1037D       KHUSHBOO KUMARI                 BSHF101 EHD02 FEG01     
+  539 BDP-137785058   1037D       RAHUL KUMAR                     FEG01     
+  540 MAH-137785105   1037D       JYOTI                           MHI01     
+  541 MEG-137785818   1037D       NEETA                           MEG01 MEG02 MEG03 MEG04     
+  542 BDP-137786336   1037D       RAVINDER KUMAR                  BPSE212 BSHF101 FEG01     
+  543 BDP-137786343   1037D       MOHIT KUMAR                     BPSE212 EHI01 FEG01     
+  544 BDP-137786368   1037D       MANISHA                         BPSE212 FEG01     
+  545 BDP-137789030   1037D       MANJU KUMARI                    BPSE212 BSHF101 FEG02 FHD02     
+  546 MPS-137790099   1037D       ASHISH KUMAR                    MPS001 MPS002 MPS003 MPS004    
+  547 BDP-137791266   1037D       KIRAN                           FEG01     
+  548 BDP-137791298   1037D       YASMIN KHAN                     FEG01     
+  549 BDP-137791685   1037D       MADHURI                         ECO01 ECO02 EEC11 FEG01     
+  550 BDP-137791725   1037D       REKHA KUMARI                    FEG01     
+  551 BDP-137791757   1037D       DEEPAK KUMARI                   FEG01     
+  552 BDP-137791771   1037D       ANITA KUMARI                    BPSE212 FEG01     
+  553 BDP-137791789   1037D       MEENA                           FEG01     
+  554 BDP-137791796   1037D       MEENAKSHI                       FEG01     
+  555 BDP-137792694   1037D       MANISHA                         CHE01 CHE02 FEG01 FEG02 FST01     
+  556 BDP-137792702   1037D       ANNU                            CHE01 CHE02 FEG01 FEG02     
+  557 BDP-137792949   1037D       SUMIT KUMAR                     BPSE212 EHI01 FEG01     
+  558 BDP-137792988   1037D       RUKSAAR                         BPSE212 BSHF101 FEG01     
+  559 BDP-137793016   1037D       REETU RANI                      MTE01 MTE04 MTE05     
+  560 BDP-137793062   1037D       MADHURI                         FEG01     
+  561 BDP-137793102   1037D       PRIYANKA                        FEG01     
+  562 MPS-137794040   1037D       SANGEETA                        MPS001 MPS002 MPS003 MPS004    
+  563 MHD-137794380   1037D       SUSHILA                         MHD06     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   14
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1037D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  564 MHD-137794397   1037D       GEETA DEVI                      MHD06     
+  565 MHD-137794405   1037D       GAYATRI DEVI                    MHD04 MHD06     
+  566 BDP-137795675   1037D       MEENU SAINI                     FST01 MTE02     
+  567 BDP-137797496   1037D       RINA                            BSHF101 ECO02 EEC11 FEG01     
+  568 BDP-137797504   1037D       MANISH                          BHDF101 BSHF101 ECO01 ECO02 EEC11     
+                                                                  FEG01     
+  569 BDP-137797511   1037D       JASWANT SINGH                   BHDF101 BSHF101 ECO01 ECO02 EEC11     
+                                                                  FEG01     
+  570 BDP-137797536   1037D       KRISHAN                         BHDF101 FEG01     
+  571 BDP-137797550   1037D       BINDU                           FEG01 FST01     
+  572 BDP-137802700   1037D       PRIYA                           FEG02     
+  573 BDP-137803020   1037D       JYOTI CHOUDHARY                 FEG01     
+  574 BDP-137803045   1037D       RACHANA                         FEG01     
+  575 BDP-137803052   1037D       POOJA KUMARI                    FEG01     
+  576 BDP-137803077   1037D       SARITA DEVI                     BSHF101 FEG01     
+  577 BDP-137806065   1037D       POONAM DEVI                     BSHF101 FEG01     
+  578 BDP-137806072   1037D       JONY                            BSHF101 FEG01     
+  579 BDP-137806287   1037D       REKHA                           BPSE212 BSHF101 FEG01     
+  580 BDP-137806294   1037D       PRITI YADAV                     FEG01     
+  581 BDP-137806310   1037D       POOJA                           FEG01     
+  582 BDP-137806327   1037D       NISHA                           BPSE212 FEG01     
+  583 BDP-137806341   1037D       ANMIKA YADAV                    FEG01     
+  584 BDP-137806359   1037D       LALITA DEVI                     FEG01     
+  585 BDP-137806366   1037D       BHUPENDER SINGH                 MTE02 MTE06     
+  586 BDP-137806373   1037D       LOV KESH                        BSHF101 FEG01     
+  587 BDP-137806380   1037D       MANISH KUMAR                    BSHF101 FEG01     
+  588 BDP-137806398   1037D       JITENDER                        BPSE212 BSHF101 FEG01     
+  589 BDP-137806406   1037D       KRISHAN KUMAR                   FEG01     
+  590 BDP-137806500   1037D       PRAMILA                         BHDF101 BSHF101 EPA01 ESO12 FEG01     
+  591 BDP-137806517   1037D       HITESH YADAV                    BHDF101 BSHF101 EPA01 ESO12 FEG01     
+  592 BDP-137806699   1037D       POOJA                           FEG01     
+  593 BDP-137806746   1037D       RAVINDER SINGH                  BSHF101 EHI01     
+  594 MHD-137808542   1037D       SAJJAN SINGH                    MHD02 MHD03 MHD04 MHD06     
+  595 MHD-137808599   1037D       SUNIL DEVI                      MHD02 MHD03 MHD04 MHD06     
+  596 MEG-137808954   1037D       SHEETAL KUMARI                  MEG01 MEG02 MEG03 MEG04     
+  597 MEG-137809078   1037D       SANJAY DAGAR                    MEG01 MEG02 MEG03 MEG04     
+  598 MAH-137810033   1037D       MANJEET KUMARI                  MHI02     
+  599 MAH-137810040   1037D       JYOTI                           MHI01 MHI02     
+  600 BDP-137811637   1037D       PARDEEP                         BSHF101 FEG01     
+  601 BDP-137811644   1037D       RAVI SHARMA                     BHDF101 BSHF101 ECO01 EEC11 FEG01     
+  602 BDP-137811669   1037D       INDU RANI                       BSHF101 FEG01     
+  603 BDP-137811676   1037D       POOJA KUMARI                    FEG01     
+  604 BDP-137811683   1037D       SUMAN                           BSHF101 ECO02 EEC11 FEG01     
+  605 BDP-137811690   1037D       DEEPIKA                         BSHF101 FEG01     
+  606 BDP-137811716   1037D       JYOTI                           BHDF101 BSHF101 ECO02 FEG01     
+  607 BDP-137811730   1037D       SANTOSH                         BSHF101 ECO02 FEG01     
+  608 BDP-137811748   1037D       SAVITA                          BHDF101 BSHF101 ECO01 ECO02 EEC11     
+                                                                  FEG01     
+  609 BDP-137811810   1037D       REKHA YADAV                     BHDF101 BSHF101 ECO02     
+  610 BDP-137811834   1037D       SANGEETA SHARMA                 EEC11     
+  611 BDP-137811841   1037D       IMRANA                          BSHF101 ECO01 EEC11 FEG01     
+  612 BDP-137812044   1037D       KIRAN                           BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FEG01     
+  613 BDP-137812051   1037D       ANJU                            BPSE212 BSHF101 FEG01     
+  614 BDP-137812076   1037D       NIRMALA                         EHI01     
+  615 BDP-137812090   1037D       KM MEENAKSHI                    EHI01     
+  616 BDP-137812116   1037D       SARITA                          EHI01     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   15
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1037D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  617 BDP-137812123   1037D       MANJU DEVI                      EHI01 FEG01     
+  618 BDP-137812227   1037D       JAI KISHAN                      BSHF101 FEG01     
+  619 BDP-137812266   1037D       ANIL KUMAR                      FEG01     
+  620 BDP-137812273   1037D       DINESH KUMAR                    BPSE212 BSHF101 FEG01     
+  621 BDP-137812298   1037D       YOGESH KUMAR                    FEG01     
+  622 BDP-137812320   1037D       GOVIND                          BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FEG01     
+  623 BDP-137812338   1037D       SEEMA                           FEG01     
+  624 BDP-137812352   1037D       REKHA                           BSHF101 FEG01     
+  625 BDP-137812360   1037D       LAXMI                           BSHF101 FEG01     
+  626 BDP-137812377   1037D       SANJU                           BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FEG01     
+  627 BDP-137812384   1037D       POOJA                           BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FEG01     
+  628 BDP-137812391   1037D       RITU                            FEG01     
+  629 BDP-137812431   1037D       SAPNA DEVI                      FEG01     
+  630 BDP-137812449   1037D       SAVITA KUMARI                   BPSE212 FEG01     
+  631 BDP-137812456   1037D       SAPNA DEVI                      FEG01     
+  632 BDP-137812463   1037D       CHANDNI                         BSHF101 FEG01     
+  633 BDP-137812470   1037D       MONIKA                          BPSE212 FEG01     
+  634 BDP-137812488   1037D       MANISHA                         BSHF101 FEG01 FST01     
+  635 BDP-137812503   1037D       KAVITA                          BSHF101 FEG01     
+  636 BDP-137812804   1037D       SAPNA                           FEG01     
+  637 BDP-137812843   1037D       PAWAN KUMAR                     EHI01     
+  638 BDP-137812850   1037D       BIJENDER KUMAR                  EHI01     
+  639 BDP-137813537   1037D       RENU                            EHI01 FEG01     
+  640 MARD-137814180  1037D       SANDEEP KUMAR                   MRD004 MRD102 MRD103    
+  641 PGCPDN-1380035991037D       SURENDER  SINGH                 MFN021    
+  642 BDP-138075495   1037D       BEENA KUMARI                    BHDF101 BPC001 BPC002 BPC003 BPC004    
+                                                                  BSHF101 FHD02     
+  643 MAPC-138281364  1037D       SUNITA YADAV                    MPC001 MPC002 MPC003 MPC004    
+  644 MEG-138304906   1037D       POOJA YADAV                     MEG01 MEG03     
+  645 BDP-138304913   1037D       POOJA                           EHI01     
+  646 MCOM-138305922  1037D       PREETI CHAUHAN                  IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  647 BDP-138305979   1037D       MUFEED                          BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FEG01     
+  648 MPS-140343783   1037D       WASIM RAJA                      MPS001 MPS002 MPS003 MPS004    
+  649 BED-140399210   1037D       MAHESH KUMAR                    ES331 ES332 ES333 ES343 ES345     
+  650 BED-140558817   1037D       PARMOD KUMAR                    ES331 ES332 ES333 ES343 ES345     
+  651 BED-140558910   1037D       PARMOD KUMAR                    ES331 ES332 ES333 ES343 ES345     
+  652 BED-140559460   1037D       SUSHMA DEVI                     ES331 ES332 ES333 ES343 ES345     
+  653 BED-140561388   1037D       AVDHESH                         ES331 ES332 ES333 ES343 ES344     
+  654 BED-140562129   1037D       RAVI DUTT                       ES331 ES332 ES333 ES341 ES345     
+  655 BED-140562437   1037D       TEJPAL                          ES331 ES332 ES333 ES343 ES344     
+  656 BED-140562548   1037D       DAYANAND                        ES331 ES332 ES333 ES343 ES344     
+  657 BED-140562627   1037D       PRAVEEN KUMAR                   ES331 ES332 ES333 ES341 ES342     
+  658 BED-140562910   1037D       ARCHANA SONI                    ES331 ES332 ES333 ES343 ES345     
+  659 BED-140564043   1037D       NAKUL DEV                       ES331 ES332 ES333 ES343 ES345     
+  660 BED-140564115   1037D       ANILATA                         ES331 ES332 ES333 ES343 ES345     
+  661 BED-140564122   1037D       SUSHMA YADAV                    ES331 ES332 ES333 ES341 ES345     
+  662 BED-140564130   1037D       REENA YADAV                     ES331 ES332 ES333 ES343 ES345     
+  663 BED-141312093   1037D       SUNIL KUMAR                     ES331 ES332 ES333 ES343 ES345     
+  664 BCOMAF-1417831401037D       NEETESH VERMA                   AED01 BEGE104 BSHF101 ECO13 FEG01     
+                                                                  FEG02     
+  665 BDP-142272261   1037D       AARTI                           BEGE101 BHDF101 BSHF101 EHD02     
+                                                                  FEG01     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   16
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1037D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  666 BDP-142272562   1037D       YUDHVEER                        BSHF101 FEG01 FEG02 MTE02 MTE06     
+  667 BDP-142274075   1037D       ABUL HOSSAIN                    BEGE101 BEGE102 BSHF101 FBG01     
+                                                                  FHD02     
+  668 BDP-142275876   1037D       IMRAN KHAN                      BHDF101 BPSE212 BSHF101 ECO01     
+                                                                  ECO02 FHD02     
+  669 MCOM-142278019  1037D       PREETI                          IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  670 MCOM-142278825  1037D       POONAM                          IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  671 BDP-142279382   1037D       PUSHPA KUMARI                   BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FEG01     
+  672 BDP-142279415   1037D       POOJA KUMARI                    BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FEG01     
+  673 BDP-142279762   1037D       MANOJ KUMAR                     BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FEG01     
+  674 MP-142280885    1037D       ANJALI                          MS01 MS05 MS06 MS07 MS08      
+  675 BDP-142284338   1037D       BHAWNA KAKRAN                   BHDF101 BSHF101 EHI07 ESO12 FEG01     
+  676 BDP-142284345   1037D       SHEELWANT                       BPC001 BPC002 BSHF101 ESO12 FEG02     
+                                                                  FHD02     
+  677 BDP-142284352   1037D       VIKASH SINGH CHAUHAN            BPC001 BPC002 BSHF101 ESO12 FEG02     
+                                                                  FHD02     
+  678 BDP-142287326   1037D       ANOOP KUMAR                     BPSE212 BSHF101 EHI01 FEG02 FHD02     
+  679 BDP-142287910   1037D       AMIT KUMAR                      BPAE102 BSHF101 ESO11 FEG02 FHD02     
+  680 BDP-142288793   1037D       REKHA YADAV                     BEGE102 BSHF101 EEC11 FEG01 FEG02     
+  681 BDP-142289029   1037D       DHEERAJ KUMAR                   BHDF101 BSHF101 FEG01     
+  682 BDP-142289201   1037D       DHEERAJ YADAV                   BPSE212 BSHF101 EHI01 FEG02 FHD02     
+  683 MAH-142290277   1037D       MANISHA                         MHI01 MHI02 MHI04 MHI05     
+  684 MAH-142290349   1037D       KAMAL SINGH                     MHI01 MHI02 MHI04 MHI05     
+  685 MAH-142290467   1037D       RAJ SINGH                       MHI01 MHI02 MHI04 MHI05     
+  686 MPS-142293376   1037D       SANJAY KUMAR                    MPS001 MPS002 MPS003 MPS004    
+  687 MEC-142294432   1037D       ARUNA                           MEC001 MEC002 MEC003 MEC004 MEC105    
+  688 MHD-142296292   1037D       SUSHIL KUMAR                    MHD02 MHD03 MHD04 MHD06     
+  689 BDP-142297373   1037D       AKASH                           BHDF101 BSHF101 ECO01 ECO02 EEC11     
+                                                                  FEG01     
+  690 BDP-142297438   1037D       MOHIT KUMAR                     BHDF101 BSHF101 ECO01 ECO02 EEC11     
+                                                                  FEG01     
+  691 BDP-142297445   1037D       FAREEN                          BSHF101 ECO01 ECO02 EEC11 FEG01     
+  692 BDP-142297491   1037D       RAVEENA SAINI                   BSHF101 ECO01 ECO02 EEC11 FEG01     
+                                                                  FEG02     
+  693 BDP-142297500   1037D       SANJEET                         BHDF101 BSHF101 ECO01 ECO02 EEC11     
+                                                                  FEG01     
+  694 BDP-142297588   1037D       MANISH KUMAR                    BHDF101 BSHF101 ECO01 ECO02 EEC11     
+                                                                  FEG01     
+  695 BDP-142297595   1037D       KISHAN YADAV                    BHDF101 BSHF101 ECO01 ECO02 EEC11     
+                                                                  FEG01     
+  696 BDP-142297832   1037D       YASIR                           BHDF101 BSHF101 ECO01 ECO02 EHI01     
+                                                                  FEG01     
+  697 BDP-142297889   1037D       DEVENDER                        BHDF101 BSHF101 ECO01 ECO02 EEC11     
+                                                                  FEG01     
+  698 BDP-142298081   1037D       SUMIT KUMAR                     BHDF101 ECO01 ECO02     
+  699 BDP-142298264   1037D       NEETU                           BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FEG01     
+  700 BDP-142299771   1037D       RAJNI                           BPSE212 EHI01 FEG01     
+  701 BDP-142299796   1037D       SUSHMA                          BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FEG01     
+  702 BDP-142299804   1037D       PRIYANKA                        BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FEG01     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   17
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1037D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  703 BDP-142299811   1037D       AARTI                           BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FEG01     
+  704 BDP-142299836   1037D       SARITA YADAV                    BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FEG01     
+  705 BDP-142299868   1037D       MINAKSHI                        BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FEG01     
+  706 BDP-142299875   1037D       SHAKUNTALA                      BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FEG01     
+  707 BDP-142299890   1037D       REKHA YADAV                     BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FEG01     
+  708 BDP-142299908   1037D       POOJA RANI                      BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FEG01     
+  709 BDP-142299915   1037D       SHEETAL                         BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FHD02     
+  710 BDP-142299930   1037D       MANJU BALA                      BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FHD02     
+  711 BDP-142299947   1037D       RAJESH KUMAR                    BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FHD02     
+  712 BDP-142299954   1037D       HEMANT KUMAR YADAV              BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FHD02     
+  713 BDP-142299961   1037D       SATVIR SINGH                    BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FEG01     
+  714 BDP-142299979   1037D       POOJA                           BPSE212 EHI01 FEG01     
+  715 BDP-142299986   1037D       SOMBEER KUMAR                   BPSE212 BSHF101 EPA01 FEG01 FEG02     
+  716 BDP-142300006   1037D       POOJA                           BHDF101 BSHF101 ECO01 ECO02 EEC11     
+                                                                  FEG01     
+  717 BDP-142300339   1037D       RAJEEV                          BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FHD02     
+  718 BDP-142301197   1037D       ARTI YADAV                      BSHF101 ECO01 ECO02 EEC11 FHD02     
+  719 BDP-142301205   1037D       ANITA SHARMA                    BHDF101 BSHF101 ECO01 ECO02 EEC11     
+                                                                  FEG01     
+  720 BDP-142301212   1037D       PRITI                           BHDF101 BSHF101 ECO01 ECO02 EEC11     
+                                                                  FEG01     
+  721 BDP-142301220   1037D       LALIT                           BHDF101 BSHF101 ECO01 ECO02 EEC11     
+                                                                  FEG01     
+  722 BSW-142301370   1037D       POOJA SAINI                     BHDF101 BSHF101 BSWE001 FHD02     
+  723 BSW-142301387   1037D       RENU BALA                       BHDF101 BSHF101 BSWE001 FHD02     
+  724 BDP-142303491   1037D       NITU RANI                       BPHE101 CHE01 FEG01 FEG02 FST01     
+                                                                  MTE02 PHE02     
+  725 BDP-142303588   1037D       VIKAS                           BPHE101 FEG01 FEG02 FST01 PHE02     
+                                                                  PHE04 PHE05 PHE06     
+  726 BDP-142303635   1037D       MANISHA                         MTE01 MTE02 MTE04     
+  727 BDP-142303642   1037D       YOGESH KUMAR YADAV              FEG01 FEG02 FST01 LSE01 LSE02     
+                                                                  LSE03     
+  728 MHD-142307560   1037D       DEVKI SHARMA                    MHD02 MHD03 MHD04 MHD06     
+  729 MHD-142307578   1037D       RAKHI CHAUHAN                   MHD02 MHD03 MHD04 MHD06     
+  730 MHD-142307585   1037D       MONI                            MHD02 MHD03 MHD04 MHD06     
+  731 MHD-142307592   1037D       LALITA KUMARI                   MHD02 MHD03 MHD04 MHD06     
+  732 MHD-142307600   1037D       REKHA                           MHD02 MHD03 MHD04 MHD06     
+  733 MAPC-142308888  1037D       PRIYANKA YADAV                  MPC001 MPC002 MPC003 MPC004 MPC005    
+                                                                  MPC006 MPCL007   
+  734 MAH-142309747   1037D       KAVITA RANI                     MHI01 MHI02 MHI04 MHI05     
+  735 MAH-142309779   1037D       ANITA KUMARI                    MHI01 MHI02 MHI04 MHI05     
+  736 MAH-142309786   1037D       MEERA BAI                       MHI01 MHI02 MHI04 MHI05     
+  737 MAH-142309865   1037D       KAVITA                          MHI01 MHI02 MHI04 MHI05     
+  738 MEC-142310308   1037D       SIMRAN PREET KAUR               MEC001 MEC002 MEC003 MEC004 MEC105    
+  739 MEG-142311094   1037D       ANJU BALA                       MEG01 MEG02 MEG03 MEG04     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   18
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1037D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  740 MEG-142311102   1037D       ASHA YADAV                      MEG01 MEG02 MEG03 MEG04     
+  741 MEG-142311110   1037D       GEETA DEVI                      MEG01 MEG02 MEG03 MEG04     
+  742 PGDT-142313754  1037D       PARARNA YADAV                   PGDT01 PGDT02 PGDT03 PGDT04    
+  743 MSO-142316316   1037D       VANDANA YADAV                   MSO001 MSO002 MSO003 MSO004    
+  744 MCOM-142317927  1037D       PRIYANKA                        IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  745 MSO-142318112   1037D       MOKSHA YADAV                    MSO001 MSO002 MSO003 MSO004    
+  746 MEG-142318176   1037D       SUSHIL DUTT                     MEG01 MEG02 MEG03 MEG04     
+  747 BDP-142319311   1037D       KISHAN                          BHDF101 BSHF101 ECO01 ECO02 EEC11     
+                                                                  FHD02     
+  748 BDP-142319415   1037D       VIKRAM                          BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FEG01     
+  749 BDP-142319422   1037D       MAMTA                           BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FEG01     
+  750 BDP-142319430   1037D       RAJESH KUMAR                    BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FHD02     
+  751 BDP-142319447   1037D       SANJEET                         BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FEG01     
+  752 BDP-142319454   1037D       POOJA                           BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FEG01     
+  753 BDP-142319479   1037D       POONAM                          BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FEG01     
+  754 BDP-142319486   1037D       RAHUL KUMAR                     BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FEG01     
+  755 BDP-142319493   1037D       KAPIL DEV                       BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FEG01     
+  756 BDP-142319501   1037D       RAKESH                          BHDF101 BSHF101 EHI01 EHI02 FEG01     
+  757 BDP-142319526   1037D       KHALID HUSSAIN                  BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FEG01     
+  758 BDP-142319533   1037D       MUSTAQEEM AHMED                 BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FEG01     
+  759 BDP-142322144   1037D       SAROJ DEVI                      BPAE102 BSHF101 ESO11 FEG02 FHD02     
+  760 BCOMCAA-142322460                      1037D       SUNIL KUMAR                     AED01 BEGE103 BSHF101 ECO12     
+  761 BDP-142329645   1037D       ASHOK KUMAR                     BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FEG01     
+  762 BDP-142330213   1037D       ASHA DEVI                       BHDF101 BSHF101 ECO01 ECO02 EEC11     
+                                                                  FEG01     
+  763 BDP-142330238   1037D       DEV DUTT                        BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FEG01     
+  764 BDP-142330260   1037D       GEETA RANI                      BHDF101 BSHF101 EHD01 EHD02 FEG01     
+  765 BED-142332518   1037D       NEMI CHAND                      ES331 ES332 ES333 ES343 ES344     
+  766 BED-142332779   1037D       ANIL KUMAR                      ES331 ES332 ES333 ES343 ES345     
+  767 BED-142332786   1037D       VINESH KUMAR                    ES331 ES332 ES333 ES343 ES345     
+  768 BED-142332793   1037D       LOKESH                          ES331 ES332 ES333 ES343 ES345     
+  769 MAH-142340221   1037D       MONU RANI                       MHI01 MHI02 MHI04 MHI05     
+  770 BDP-142340357   1037D       SHANKAR                         BHDF101 BSHF101 ECO01 ECO02 EEC11     
+                                                                  FEG01     
+  771 BDP-142340436   1037D       RITU RANI                       BEGE102 EEC11     
+  772 MCOM-143010558  1037D       PRAMOD KUMAR YADAV              IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  773 BLS-143060093   1037D       RAKESH KUMAR                    BLS01 BLS02 BLS03 BLS04 BLS05     
+                                                                  BLS06 BLS07     
+  774 MP-147540541    1037D       PALLAVI PHOGAT                  MS25 MS29      
+  775 BDP-147541630   1037D       DIVYA WADHWA                    BHDF101 BSHF101 FHD02     
+  776 BDP-147541654   1037D       LEENA                           BHDF101 BSHF101 FHD02     
+  777 BDP-147589939   1037D       MINAKSHI YADAV                  BHDF101 BSHF101 FHD02     
+  778 BDP-147589946   1037D       PREETI YADAV                    BHDF101 BSHF101 FHD02     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   19
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1037D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  779 BDP-147590102   1037D       PRIYANKA                        BHDF101 BSHF101 FEG01     
+  780 BDP-147590260   1037D       TANYA                           BHDF101 BSHF101 FHD02     
+  781 BDP-147590450   1037D       PINKI                           BHDF101 BSHF101 FEG01     
+  782 MCA-147591602   1037D       SHAKSHI                         MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL017   
+  783 BPP-147593122   1037D       KESHAV SINGH RANA               OSS101 PCO       
+  784 BPP-147593130   1037D       VIRENDER SINGH BISHT            OSS101 PCO       
+  785 CDM-147598240   1037D       RAKESH KUMAR                    CDM01 CDM02     
+  786 BCA-147643843   1037D       JAIDEEP SINGH                   BCS011 BCS012 BCSL013 ECO01 FEG02     
+        

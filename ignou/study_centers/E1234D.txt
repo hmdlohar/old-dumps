@@ -1,0 +1,767 @@
+
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    1
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1234D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+    1 BTME-061006399  1234D       NIYAZ AHMAD PANDIT              BME009 BME020 BME021 BME023 BME024    
+                                                                  BME025 BME027 BME028 BME029 BME030 BME031    
+    2 BTME-082155385  1234D       JAHANGEER AHMAD BHAT            BME023 BME024 BME025 BME027 BME028    
+                                                                  BME029 BME030 BME031 BME035    
+    3 MPA-084926409   1234D       SAJAD BIN MOHAMMAD              MPA015    
+    4 BTME-092593613  1234D       SAJAD AHMAD KHAN                BME016 BME019 BME020 BME023 BME024    
+                                                                  BME025 BME027 BME028 BME029 BME030 BME031 BME035    
+    5 BDP-096948105   1234D       RUTBA ZAHOOR                    ACC01 ANC01 ESO15 ESO16     
+    6 MEG-098755334   1234D       SHAISTA SHAFI KHAN              MEG01 MEG05 MEG06 MEG11     
+    7 BDP-100026350   1234D       OWAIS AHMAD WANI                ECO11     
+    8 BTME-100155112  1234D       WASIM FIDAH KHAN                BME015 BME016 BME018 BME019 BME020    
+                                                                  BME024 BME028 BME035    
+    9 BSCN-100155255  1234D       ISHRAT NISAR                    BNS101 BNS105    
+   10 BSCN-100155270  1234D       SHAHINA AKHTER                  BNS111    
+   11 BSCN-100155289  1234D       MISRA BANOO                     BNS102    
+   12 MEG-102254031   1234D       SUMIA TARIQ                     MEG05 MEG11     
+   13 MAEDU-102254085 1234D       FAROZA AKHTER                   MES101 MES103 MES104    
+   14 MEG-105026735   1234D       HARIBABU CHEGONDI               MEG05     
+   15 MEG-105207504   1234D       SYED SAIMA MEHRAJ               MEG01     
+   16 MEG-105207539   1234D       MEHNAZA RASOOL                  MEG05     
+   17 MEG-105207859   1234D       SHAISTA YOUSUF                  MEG05     
+   18 MEG-105208088   1234D       SAIMA MIRZA                     MEG05     
+   19 MEG-105208118   1234D       ZOHRA TABASUM NABI              MEG05 MEG11     
+   20 MEG-105208202   1234D       HAFSA RASOOL                    MEG03 MEG06 MEG11     
+   21 MSO-105208602   1234D       SUMAIRA HUSSAIN KHAN            MPS003 MSOE001 MSOE004   
+   22 MSO-105208913   1234D       SUMEERA WALI BHAT               MPS003 MSO004 MSOE001 MSOE003 MSOE004   
+   23 MSO-105209609   1234D       IRTIQA                          MPS003 MSOE001 MSOE003 MSOE004   
+   24 MSO-105209678   1234D       QURAT UL AIN                    MSO004 MSOE001 MSOE003 MSOE004   
+   25 MEG-105249168   1234D       RAQIYA BANOO                    MEG01 MEG04     
+   26 MEG-105249273   1234D       AFRIDA NAZIR                    MEG02 MEG06 MEG10     
+   27 MPS-105256850   1234D       TAWHEEDA BANO                   MPSE008   
+   28 BTS-105257741   1234D       AMAN DEEP SINGH                 FST01     
+   29 BDP-105257792   1234D       SABRENA SHOWKAT                 ECO14 EEC11 FST01     
+   30 MAH-105259704   1234D       SAMMI JAN                       MHI03     
+   31 BDP-105270102   1234D       SUMAIRA MAQBOOL                 ANC01 ESO15     
+   32 BDP-105270213   1234D       NUZHAT MEHRAJ                   ANC01     
+   33 BDP-105270318   1234D       PARVEEZ AHMED BHAT              BECE002 EEC11 FST01     
+   34 BDP-105270432   1234D       BARGIS ZEHRA                    FST01     
+   35 BDP-105270454   1234D       VIRAD UL HIJAZ BHAT             ANC01 ESO15 FST01     
+   36 BDP-105270488   1234D       AALIYA JAN                      ANC01     
+   37 MSO-105270995   1234D       GH NABI DAR                     MPS003 MSOE001 MSOE003 MSOE004   
+   38 MEG-105552405   1234D       BIBI ASIYA                      MEG02     
+   39 MEG-105552414   1234D       TOUSIA LATEEF                   MEG05     
+   40 MEG-105552423   1234D       ARSHAD HUSSAIN                  MEG01 MEG02 MEG03 MEG04     
+   41 MEG-105554031   1234D       SUMMERA PARVEEN                 MEG04 MEG05     
+   42 MEG-105554171   1234D       MADIHA YOUSUF                   MEG01 MEG05 MEG07     
+   43 MEG-111079333   1234D       ASIMA RUBY                      MEG05 MEG06 MEG07 MEG11     
+   44 MSO-111082578   1234D       SHEIBA BASHIR                   MSO001    
+   45 MPS-111087552   1234D       NAZIR AHMAD BHAT                MPS001 MPS002 MPS003 MPS004    
+   46 MAPY-111093674  1234D       NUSRAT NABI                     MPYE001 MPYE003 MPYE004 MPYE010   
+                                                                  MPYE011 MPYE015   
+   47 BDP-112022647   1234D       NUSRAT JAN GADOO                ANC01     
+   48 BDP-112023323   1234D       SUMAIRA RASHID                  ACC01 ANC01 BEGE101 ESO15 ESO16     
+   49 MSO-112024475   1234D       SYED RUBINA YASIN               MPS003 MSO002 MSOE004   
+   50 MPA-112027298   1234D       HUMIARA                         MSO002    
+   51 MED-112027947   1234D       JAVEEDA PARVEEN                 MES055    
+   52 MEG-114031587   1234D       QAMARUL NISA                    MEG05 MEG06     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    2
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1234D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+   53 MEG-114043535   1234D       MUNEERA MUZAFFAR                MEG05 MEG07 MEG11     
+   54 MEG-114044662   1234D       TEJPREET KAUR                   MEG07     
+   55 DECE-114106747  1234D       HUZAIFA                         DECE03    
+   56 MPS-117360661   1234D       HILAL AHMAD BANGROO             MPSE006 MPSE013   
+   57 MPS-117362070   1234D       MARYAM MUSHTAQ                  MPSE004 MPSE006 MPSE007 MPSE008   
+   58 MPS-117362128   1234D       NUSRAT NASREEN                  MPSE006 MPSE007   
+   59 MPS-117368230   1234D       BEENISH SHAH                    MPS001 MPS002 MPS003 MPS004    
+   60 MSO-117371198   1234D       NAZIMA JAN                      MSO002 MSOE003   
+   61 MSO-117372215   1234D       NUSRAT ALI WANI                 MPS003    
+   62 MSO-117372752   1234D       SHAZIA BASHIR                   MSOE003   
+   63 MAH-117373177   1234D       RAVEES AHMAD                    MHI03     
+   64 MAH-117373730   1234D       MOHD YASIN ALAI                 MHI03     
+   65 MAH-117376670   1234D       ANAYATULLAH HYDER               MHI02 MHI04 MHI05     
+   66 MAH-117377031   1234D       ASHFAQ MAJEED SHEIKH            MHI03     
+   67 MSO-117380133   1234D       SAFEENA RASHID                  MSOE003   
+   68 MSO-117380158   1234D       SUMERA AMIN MIR                 MSOE003   
+   69 MSO-117381031   1234D       SAIMA SHAFI                     MSO004    
+   70 MSO-117381340   1234D       SUBINA RAZA                     MPS003 MSO004    
+   71 MEG-117391720   1234D       SHABEENA NABI                   MEG05 MEG06 MEG10     
+   72 MEG-117392532   1234D       SAKINA ASHAQ                    MEG05 MEG06 MEG07     
+   73 MEG-117395086   1234D       FALAK NAZ RASHID                MEG01 MEG02 MEG04 MEG05 MEG06     
+                                                                  MEG07 MEG11     
+   74 MEG-117395925   1234D       SHAISTA YOUSUF                  MEG03 MEG04 MEG07     
+   75 MEG-117395996   1234D       MASROFA RAHMAN NAJAR            MEG01     
+   76 MEG-117398271   1234D       SHAZIYA                         MEG05 MEG06 MEG08     
+   77 MEG-117399463   1234D       MUNAZAH IMTIYAZ                 MEG01 MEG04 MEG05     
+   78 BDP-117400550   1234D       HUMAIRA RASHID                  ECO11 ECO13     
+   79 MEG-117404454   1234D       SABBA MUSHTAQ                   MEG05 MEG11     
+   80 MEG-117404669   1234D       SABA BASHIR                     MEG05 MEG11     
+   81 BDP-117416624   1234D       ASMA MAJEED WANI                ANC01 EPS15     
+   82 BDP-117417737   1234D       BILAL AHMAD DAR                 EPS11 EPS12     
+   83 BDP-117418105   1234D       SHAZIA REHMAN LANGOO            ANC01     
+   84 BDP-117418359   1234D       SAIMA SHAFI BHAT                ANC01 ESO16     
+   85 BDP-117419225   1234D       HUMA ZAHIRA                     ANC01 BULE003 BULE005 BULE006 ESO13     
+   86 BDP-117419913   1234D       AAKEEF SHAFI                    BPSE212   
+   87 MSO-117422840   1234D       SAMER MUKHTAR                   MPS003 MSOE001 MSOE004   
+   88 MSO-117422990   1234D       KOUSER ABAS                     MSOE004   
+   89 MSO-117427950   1234D       KANEEZ ZEHRA                    MSO004 MSOE001   
+   90 MSO-117428152   1234D       NAZIMA RASOOL                   MPA016 MPS003 MSO001 MSO002 MSO003    
+                                                                  MSO004 MSOE001 MSOE004   
+   91 MEG-117429068   1234D       URFATH KHAN                     MEG01 MEG06     
+   92 MEG-117429939   1234D       RAHILA BASHIR                   MEG05 MEG10     
+   93 MEG-117430141   1234D       ASMA AZHAR MASOODI              MEG01 MEG02 MEG04 MEG05 MEG10     
+                                                                  MEG11 MEG14     
+   94 BDP-117431168   1234D       AZRA MUKHTAR                    ANC01 ESO15 FST01     
+   95 BDP-117431230   1234D       YASMEENA JAAN                   BSHF101 EPS11 ESO11 FST01     
+   96 BDP-117431293   1234D       ROHI AKHTER                     ESO15     
+   97 BDP-117431326   1234D       ALIA JEELANI                    ANC01 BEGE107   
+   98 BDP-117431444   1234D       SUMAYA TAREEN                   BEGE103 BEGE105 BULE002 FST01     
+   99 BDP-117431523   1234D       SHAGUFTA AMIN BHAT              ANC01 BPSE212 ESO15     
+  100 BDP-117431602   1234D       SHAZIA AKHTER                   ANC01 BPSE212 ESO15     
+  101 BDP-117431666   1234D       ZAREENA KOUNSAR                 ANC01 BEGE101 BPSE212 ESO15 FST01     
+  102 BDP-117431673   1234D       ARSHID AHMAD RATHER             BULE001 ESO15     
+  103 BDP-117431738   1234D       SOBIA SALAM                     ANC01 BPSE212 ESO15 FST01     
+  104 BDP-117431745   1234D       NIGHAT JAN                      AHE01 BEGE105 ESO15     
+  105 MPS-117439044   1234D       MUSRAT JABEEN                   MPSE009 MPSE011   
+  106 MEC-117462116   1234D       MUNEER AHMAD BEIGH              MEC001 MEC003    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    3
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1234D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  107 MCOM-117463616  1234D       SAMIYA SHOWKET KHAN             MCO01 MCO05     
+  108 MEG-119087870   1234D       GAZALA FAROOQ                   MEG01     
+  109 MEG-119087973   1234D       BISMA NISAR                     MEG05 MEG06 MEG07 MEG11     
+  110 MEG-119088019   1234D       CHESPEEDA GULL                  MEG05 MEG07     
+  111 MEG-119096980   1234D       UZMA ZEHRA                      MEG05     
+  112 MEG-119100241   1234D       HARDEEP KAUR                    MEG06 MEG11     
+  113 MEG-119105907   1234D       ASIMA YOUSUF                    MEG07     
+  114 MPS-119110385   1234D       SALIHA JAHAN                    MED002 MED008 MPSE004 MPSE006 MPSE008   
+  115 MPS-119110425   1234D       SUMERA GANI                     MPSE006   
+  116 MPS-119126670   1234D       RAHEELA KHURSHEED               MPS003 MPSE001 MPSE002   
+  117 MSO-119132982   1234D       FARIDA BATOOL                   MPS003    
+  118 MSO-119133716   1234D       SURIYA AZEEM                    MSO004    
+  119 BDP-120104717   1234D       NASEEMA                         ACS01 ANC01 ESO15 ESO16     
+  120 MEG-120105045   1234D       SHAZIA                          MEG02 MEG04     
+  121 MPS-120106387   1234D       MINA MEMOOD                     MPSE004 MPSE006   
+  122 BDP-120106520   1234D       SHABIYA MANZOOR                 ACC01 ANC01 EPS11 ESO15 ESO16     
+                                                                  FST01     
+  123 BDP-120106781   1234D       FANCY JAN                       ACS01 ANC01 ESO15 ESO16     
+  124 MEG-120108650   1234D       SYED AGA AMIN                   MEG01 MEG02 MEG03 MEG04     
+  125 MEG-120452477   1234D       SYED NADIA                      MEG01 MEG04 MEG06 MEG11     
+  126 BDP-120452968   1234D       AABIDA ALI WAR                  ACS01 ANC01 ESO15 ESO16 FST01     
+  127 BDP-120452975   1234D       KULSUMA AKHTER                  ACS01 ANC01 ESO15 ESO16     
+  128 BDP-120453035   1234D       BUSHRA HASSAN                   BEGE101 BPSE212 EPS07 ESO13 FST01     
+  129 MSO-120455995   1234D       FIRDOUSA KHALID                 MPS003 MSOE001 MSOE003 MSOE004   
+  130 BDP-120456206   1234D       RUBEENA AKHTER                  ANC01 BPSE212 ESO15 ESO16     
+  131 MPS-120458374   1234D       SUHEILA NABI                    MPSE006   
+  132 MSO-120458485   1234D       DEEBA FAROOQ                    MPS003 MSOE001 MSOE004   
+  133 MSO-120460317   1234D       UZRA JAN                        MPS003 MSOE001 MSOE003 MSOE004   
+  134 MAH-120460499   1234D       SHOWKAT AHMAD LONE              MHI03 MHI06 MHI08 MPSE003 MPSE004   
+  135 MSO-120460521   1234D       FIRDOUSA AKHTER                 MSOE003 MSOE004   
+  136 MEG-120460546   1234D       ZAHID AHMAD SHAH                MEG04 MEG05 MEG06 MEG07     
+  137 MEG-120461340   1234D       ANIS FAROOQ BHAT                MEG05 MEG07 MEG08 MEG10     
+  138 MSDFSM-1204619281234D       AMBREEN INAYATI                 MFN002    
+  139 MSO-120462177   1234D       BISMA JAN                       MPS003 MSOE004   
+  140 MSO-120462184   1234D       MUMTAZA AKHTER                  MPS003 MSO001 MSO003 MSOE001 MSOE003   
+                                                                  MSOE004   
+  141 MSO-120462191   1234D       SHEEBA MUKHTAR                  MPS003 MSOE004   
+  142 MSO-120462231   1234D       SHAZIA SHEIKH                   MPS003 MSO001 MSO003 MSOE001 MSOE003   
+                                                                  MSOE004   
+  143 MEG-120463985   1234D       AANISA MAJEED                   MEG01 MEG02 MEG03 MEG05 MEG07     
+                                                                  MEG10 MEG11     
+  144 MEG-120465370   1234D       RAYEES AHMAD MIR                MEG05 MEG10     
+  145 MPS-120465402   1234D       DILSHADA BANO                   MED002 MED008 MPSE001 MPSE003 MPSE004   
+                                                                  MPSE006 MPSE007 MPSE008   
+  146 BDP-120468866   1234D       SALEEM YOUSUF PARRY             ACS01 ESO11 ESO12 ESO13 ESO15     
+                                                                  ESO16     
+  147 MSO-120469908   1234D       SAMEENA ASHRAF GHULAM           MSO001 MSO002 MSO003 MSO004    
+  148 MEG-120472099   1234D       AZRAH AMIN                      MEG06 MEG07 MEG11     
+  149 MEG-120472540   1234D       YASMEENA NAZIR                  MEG04 MEG11     
+  150 MSO-120472991   1234D       SANIYA NOOR                     MPS003 MSO001 MSOE001 MSOE003 MSOE004   
+  151 MEG-120474860   1234D       ANJUM AKHTER                    MEG01 MEG04     
+  152 MPS-120475363   1234D       RUKHSANA AKHTER                 MED002 MPSE004 MPSE006 MPSE008   
+  153 MEG-120476602   1234D       ZAHOOR AHMAD RESHI              MEG05 MEG06 MEG07 MEG11     
+  154 MPS-120477328   1234D       RUKAYA SHAH                     MPS001 MPS002 MPS003 MPS004    
+  155 BED-120478280   1234D       SHAHIDA PARVEEN                 ES331 ES333 ES343     
+  156 MEG-120480129   1234D       RUKHSANA AZIZ DAR               MEG05 MEG07 MEG08     
+  157 MEG-120481120   1234D       HANEEFA SIDIQ                   MEG07 MEG11     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    4
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1234D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  158 MPS-124531749   1234D       ANWAR SADAT                     MED002 MED008 MPSE001 MPSE005 MPSE006   
+                                                                  MPSE007 MPSE008 MPSE011   
+  159 MAPC-124563562  1234D       AFSHAN ASHRAF                   MPCE011   
+  160 MEG-125137228   1234D       SYED ASMA BALKHI                MEG05 MEG06 MEG07 MEG08     
+  161 MEG-125138957   1234D       ABIDA QADIR DAR                 MEG04     
+  162 MPS-125139941   1234D       GAZALLA                         MED008 MPSE006 MPSE008 MPSE013   
+  163 MPS-125139966   1234D       SHAGUFTA AKHTER                 MED008 MPSE006 MPSE008 MPSE013   
+  164 MAH-125141060   1234D       NAZYMA YOUSSOUF                 MHI08 MPSE004   
+  165 MAH-125141091   1234D       ISMA YOUSSOUF                   MHI02 MHI04 MHI05     
+  166 MEG-125141124   1234D       FARZANA                         MEG03     
+  167 MPS-125141188   1234D       TAVASEEF AHMAD PARRY            MPSE006   
+  168 MPS-125142853   1234D       RIDWANA MAQBOOL                 MPSE006   
+  169 MPS-125143167   1234D       PARVEENA RASOOL                 MPSE001   
+  170 MPS-125143221   1234D       NEELOFAR JOHAN                  MPSE001   
+  171 BDP-125143404   1234D       SABREENA SHAFI                  ESO14 FEG02 FST01     
+  172 MPS-125144413   1234D       PARVEZ AHMAD SHEIKH             MPS001    
+  173 BDP-125144524   1234D       NASREENA AKHTER                 EPS11 ESO11 ESO14 FEG01 FST01     
+  174 MSO-125144975   1234D       SAKEENA BASHIR                  MPS003 MSOE001 MSOE003 MSOE004   
+  175 BDP-125146210   1234D       SHAZIA RAFIQ RATHER             FST01     
+  176 MEG-125146456   1234D       SHAZIA MUKHTAR                  MEG01 MEG03 MEG04     
+  177 BDP-125146581   1234D       TAWHEEDA                        BSHF101   
+  178 BDP-125146607   1234D       SHAZIA NAZIR                    BEGE102 FST01     
+  179 MSO-125147308   1234D       SHOWKAT AHMAD MIR               MSOE003 MSOE004   
+  180 MEC-125147330   1234D       HILAL AHMAD SOFI                MEC006 MEC007 MEC008 MEC009    
+  181 MPS-125147433   1234D       TABASUM YOUSAF                  MED002 MPSE006 MPSE007 MPSE009   
+  182 MSO-125147458   1234D       AARIFA YOUSUF                   MSOE001 MSOE002 MSOE003 MSOE004   
+  183 MPS-125147505   1234D       SAKEENA BANO                    MED002 MPSE007   
+  184 MEC-125147838   1234D       MOHMAD SHABIR RATHER            MEC001 MEC003    
+  185 MEG-125148481   1234D       GHAZZALA GULL                   MEG06 MEG11     
+  186 MPS-125149247   1234D       RAYEES AHMAD BHAT               MPSE006   
+  187 MAH-125150037   1234D       WASIM AKBAR FARASH              MHI03 MHI06 MHI08 MPSE003 MPSE004   
+  188 MEG-125150377   1234D       NADIYA NAZIR WANI               MEG06 MEG11     
+  189 MEG-125152349   1234D       TAHURA MUSHTAQ                  MEG05 MEG11     
+  190 MPS-125152671   1234D       INAAB JAAN                      MPSE006   
+  191 MSO-125155004   1234D       YASMEEN AKRAM                   MPS003 MSOE001 MSOE003 MSOE004   
+  192 MAH-125155960   1234D       SHAHEENA                        MHI03     
+  193 MSO-125155978   1234D       TABASUM SHAFI                   MPS003 MSOE001 MSOE003 MSOE004   
+  194 MAEDU-125156360 1234D       ABIDA KHURSHAID                 MES102 MES104    
+  195 DNHE-125156464  1234D       SUMEERA SHARIEF                 DNHE01 DNHE02 DNHE03    
+  196 MEG-125157022   1234D       NADIA SYED                      MEG01     
+  197 MSO-125157119   1234D       MAHEENA AZAD                    MSO001 MSO002 MSO004    
+  198 MSO-125157126   1234D       UNAIZA SHABEER                  MPS003 MSOE003   
+  199 MPS-125158142   1234D       REHANA TARIQ                    MPSE006 MPSE007   
+  200 MSDFSM-1251602101234D       RAFIYA RAMZAN RATHER            MFN002 MFN005    
+  201 MSO-125160235   1234D       SABREENA YOUSUF                 MSO001    
+  202 MPA-125160418   1234D       ANEELA REYAZ                    MPA015 MPA016 MPA017 MPA018 MSO002    
+  203 MEG-125160780   1234D       MUNEERA RASHID                  MEG02 MEG06 MEG07     
+  204 MSDFSM-1251613231234D       UZMA DAR                        MFN001 MFN002 MFN004 MFN005 MFN010    
+  205 MEG-125166100   1234D       BASIRA JAN                      MEG05 MEG06 MEG07 MEG11     
+  206 MAH-125167102   1234D       TANVEER HUSSAIN                 MHI03     
+  207 MEG-125168372   1234D       ADILA RASHID                    MEG01 MEG02 MEG03     
+  208 MEG-125170118   1234D       FARUKH                          MEG05 MEG07 MEG11     
+  209 MSO-125171356   1234D       ARJUMAND SHAHEEN                MSO004    
+  210 MEG-125171775   1234D       SYED AFIA YAQOOB                MEG05 MEG06     
+  211 MSDFSM-1251722791234D       ASMA MANZOOR                    MFN002 MFN004 MFN005 MFN007 MFN009    
+  212 MEG-125175575   1234D       SHAISTA NABI                    MEG01 MEG02 MEG03 MEG04     
+  213 MEC-125176427   1234D       MOHD YOUSUF DAR                 MEC003 MEC105    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    5
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1234D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  214 MPS-125176728   1234D       NELOFAR JAN                     MPSE001 MPSE006   
+  215 MPS-125176735   1234D       GOUSIA AKHTER                   MED002 MPSE006   
+  216 MPS-125177561   1234D       BISMA BASHIR                    MED002 MED008 MPSE008   
+  217 MAH-125178721   1234D       ZAHIDA BANO                     MHI03 MHI05 MHI06 MHI08 MPSE003   
+                                                                  MPSE004   
+  218 MPS-125180506   1234D       NIGEENA AKHTER                  MED008 MPSE001 MPSE003 MPSE004   
+  219 MEG-125183461   1234D       ADEEBA ABBAS                    MEG07 MEG10     
+  220 MEG-125185917   1234D       INSHA YAQOOB                    MEG01 MEG03     
+  221 MEG-125185924   1234D       ZAIQAH ABID                     MEG01 MEG02 MEG03     
+  222 MSO-125187777   1234D       SUMEENA PEERZADA                MSO001 MSO003 MSO004    
+  223 MAH-125190539   1234D       NADIA MUSHTAQ                   MHI03 MPSE004   
+  224 BDP-125192059   1234D       SAMEENA ZAHOOR BHAT             ECO03 ECO05 ECO07 ECO12 ECO13     
+                                                                  ECO14 FST01     
+  225 MSDFSM-1251922631234D       MONESA GULZAR                   MFN001 MFN002 MFN003    
+  226 MSO-125192303   1234D       SUMIYA AKHTAR                   MSOE001 MSOE002 MSOE003 MSOE004   
+  227 MPS-125194575   1234D       MAHNAZA AKHTER                  MPSE001 MPSE002 MPSE004 MPSE006   
+                                                                  MPSE008   
+  228 MSO-125194679   1234D       MASRAT MUSHTAQ                  MPS003 MSOE001 MSOE003 MSOE004   
+  229 MSO-125196253   1234D       AFROZA AZIZ                     MSO004    
+  230 MSO-125196260   1234D       SHAZIA RASOOL                   MSO004    
+  231 MPS-125196870   1234D       AASIYA BASHIR                   MED002 MPSE002 MPSE004 MPSE008   
+  232 MPS-125196887   1234D       SHABROOZA AKHTER                MED008 MPS001 MPS002 MPS003 MPSE001   
+                                                                  MPSE004 MPSE008   
+  233 BDP-125198526   1234D       AFSHANA AFROOZ                  ESO14 FST01     
+  234 MPS-125199740   1234D       NEELOFAR ALI                    MED008 MPS001 MPS003 MPS004 MPSE007   
+                                                                  MPSE008 MPSE012 MPSE013   
+  235 MPS-125199764   1234D       MUZAMIL REHMAN                  MPSE001 MPSE003 MPSE004 MPSE007   
+                                                                  MPSE008 MPSE009 MPSE012 MPSE013   
+  236 MSO-125200006   1234D       TANZEELA SHOWKAT DURANI         MPS003 MSOE001 MSOE003   
+  237 MSO-125201119   1234D       PAWANPREET KOUR                 MPA016 MSO001 MSOE001 MSOE003 MSOE004   
+  238 MSO-125201133   1234D       IQRA AYUB                       MSO001 MSO002    
+  239 MEG-125202174   1234D       YASMEENA WANI                   MEG01 MEG05 MEG07     
+  240 MSO-125203549   1234D       MAHVESH MUSHTAQ                 MPS003 MSOE001 MSOE003 MSOE004   
+  241 MSO-125203588   1234D       SHEEMA ALTAF BEIGH              MPS003 MSO001 MSO002 MSOE001 MSOE003   
+                                                                  MSOE004   
+  242 MEG-125204382   1234D       SHAZIA RASHID                   MEG06     
+  243 MPS-125204920   1234D       SALMA SANTOSH                   MED002 MED008 MPSE002 MPSE003   
+  244 MSO-125205259   1234D       NAHEEDA NAZIR                   MSO001 MSO002 MSO003 MSO004    
+  245 MPA-125205528   1234D       HUMAIRA NISSAR SHAH             MPA015 MPA016 MPS003 MSO002    
+  246 MSO-125205692   1234D       SHAHNAZA AKHTAR                 MSOE003 MSOE004   
+  247 MPS-125206727   1234D       SHAZIYA SULTAN                  MED002 MED008 MPS004 MPSE005 MPSE009   
+  248 MCOM-125208680  1234D       ABRAR RASHID                    IBO02 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+  249 MCOM-125208706  1234D       OWAIS NAZIR                     IBO02 IBO03 MCO01 MCO03 MCO04     
+                                                                  MCO05 MCO06     
+  250 MEC-125209833   1234D       SHAFIYA MOHI UD DIN             MEC001 MEC003 MEC004    
+  251 BDP-125209840   1234D       UMER MOHI UD DIN BHAT           EHI04 EPS11 EPS12 ESO12 FST01     
+  252 MPS-125210204   1234D       SUZANA MANZOOR                  MED008 MPSE002 MPSE004 MPSE008   
+  253 MPA-125210630   1234D       SURIAYA AFZAL                   MPA014 MPA015 MPA017 MPA018    
+  254 MPS-125210924   1234D       ASMAT RASHID BAIHAKI            MPS001 MPS002 MPS003 MPS004    
+  255 MSO-125370781   1234D       SHEHRA BANOO                    MSO002 MSOE001 MSOE003   
+  256 MSO-127471451   1234D       SUMAYYAH MARYAM NAZKI           MSO002 MSO004 MSOE001 MSOE004   
+  257 MEG-127472826   1234D       NADIA YOUSUF BHAT               MEG01 MEG02 MEG03     
+  258 MAEDU-127472969 1234D       QURAT UL AIN GULL               MES103 MES104    
+  259 MPS-127474543   1234D       SAIMA BANO                      MED002 MED008 MPSE007 MPSE008   
+  260 MSO-127478192   1234D       BILQUEES                        MSOE001   
+  261 MSO-127500079   1234D       ROHI JAN                        MPS003 MSO001 MSOE001 MSOE003 MSOE004   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    6
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1234D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  262 BDP-127500330   1234D       TAHIRH GULZAR                   ESO12 FST01     
+  263 MSO-127502477   1234D       BILQUIS AYAZ                    MPS003 MSO002 MSO003 MSO004 MSOE001   
+                                                                  MSOE003 MSOE004   
+  264 MSO-127504400   1234D       SAMEER AHMAD PARAY              MPS003 MSOE001 MSOE003 MSOE004   
+  265 MSO-127506220   1234D       SHAIESTA AKHTER                 MSO001 MSO002 MSO004    
+  266 MEG-127506277   1234D       NUSRAT AMIN                     MEG05 MEG06 MEG07     
+  267 MEG-127506585   1234D       ISHRAT NAZIR                    MEG05 MEG06     
+  268 MSO-127506736   1234D       FOZIA AHAD                      MPS003 MSO001 MSOE003 MSOE004   
+  269 MEG-127508478   1234D       FARHAT RASHID                   MEG02 MEG03 MEG07     
+  270 MEG-127509430   1234D       SAMEENA NAZIR                   MEG03 MEG06     
+  271 MEG-127509448   1234D       NIGHAT RASHID                   MEG01 MEG05 MEG07     
+  272 MSO-127510291   1234D       SABA MAQBOOL                    MSO001 MSO002 MSO003 MSO004    
+  273 MEG-127510919   1234D       SHAISTA RAHIM                   MEG05 MEG06 MEG08 MEG11     
+  274 MEG-127511222   1234D       MUZAMMIL NABI                   MEG05 MEG06 MEG07 MEG10     
+  275 MPS-127511800   1234D       NIGHAT MUBARAK                  MED002 MED008 MPSE004 MPSE006 MPSE008   
+  276 MEG-127512249   1234D       SABEEQA ALI                     MEG03 MEG04     
+  277 MEC-127512374   1234D       YASMEEN JAN                     MEC006 MEC008 MPA015 MPA017    
+  278 MSO-127515387   1234D       SHAFIA MAQBOOL                  MSOE003   
+  279 MPA-127516214   1234D       JAMEELA WANI                    MPA015 MPA016 MPA017    
+  280 MSO-127516720   1234D       RUBEENA MAQBOOL                 MPS003 MSOE001 MSOE003 MSOE004   
+  281 BDP-127518264   1234D       SYED UZAIRULLAH KAMILI          BEGE103 EPS07 FST01     
+  282 MEC-127518683   1234D       SHABNAM HAMID                   MEC001 MEC002 MEC003 MEC105    
+  283 BDP-127519210   1234D       NUSRAT AKHTER                   EPS11 ESO14     
+  284 MPS-127519352   1234D       SHAHEENA JAN                    MED002 MED008 MPSE007 MPSE008   
+  285 MPS-127519360   1234D       ASIYA SIDIQ                     MED002 MED008 MPS001 MPSE007 MPSE008   
+  286 MSO-127520095   1234D       MIR KAZAM                       MSOE001   
+  287 BDP-127520482   1234D       NAZIMA RAFIQ BHAT               BPSE212 FST01     
+  288 BDP-127520490   1234D       BISMA RASHID NEHRU              BPSE212 FST01     
+  289 MEG-127521001   1234D       ASIFA NABI                      MEG05 MEG08 MEG10     
+  290 BDP-127521785   1234D       REHANA                          BPSE212 FST01     
+  291 BDP-127653920   1234D       MYMOONA                         EPS12 ESO12     
+  292 BDP-127653938   1234D       AFSANA MANZOOR                  EPS12 ESO12     
+  293 BDP-127655100   1234D       FAROOQ AHMAD SOFI               BSHF101 EPS11 ESO13 ESO14 FEG01     
+                                                                  FST01 FUD01     
+  294 MEG-127656062   1234D       SUMEERA MUSHTAQ                 MEG01 MEG05 MEG07     
+  295 MEG-127656410   1234D       ARIFA NAZIR                     MEG05     
+  296 MEG-127656428   1234D       ROHI JAN                        MEG01 MEG07     
+  297 MEG-127656442   1234D       NUZHAT FEROZE                   MEG05 MEG07 MEG11     
+  298 MSO-127657089   1234D       MASARAT JAN                     MPS003 MSOE001 MSOE003   
+  299 MEG-130245936   1234D       EKTA CHETWANI                   MEG05 MEG06 MEG07 MEG11     
+  300 MPS-130296839   1234D       SHERAZA AKHTER                  MED002 MED008 MGP004 MGPE008 MGPE013   
+                                                                  MPSE001 MPSE007 MPSE008   
+  301 MSDFSM-1302991921234D       ZOHRA TABASSUM                  MFN004 MFN005 MFN007 MFN009    
+  302 BDP-130299841   1234D       SHAZIYA NAZIR                   EPS11 ESO13 ESO14 FST01     
+  303 MAH-130302656   1234D       ZULIKHA NISAR BHAT              MHI03 MHI06 MHI08 MPSE003 MPSE004   
+  304 MEG-131351067   1234D       SHOWKAT AHMAD RATHER            MEG01 MEG07 MEG10 MEG11     
+  305 MPS-131351074   1234D       MEHRAJ AHMAD MIR                MED002 MGP004 MPS002 MPS003 MPS004    
+  306 MSO-131351232   1234D       SHAZIA SHOWKAT                  MPS003 MSOE001 MSOE003 MSOE004   
+  307 MSO-131351240   1234D       ASIYA RASHID                    MPS003 MSOE001 MSOE003 MSOE004   
+  308 MLS-131351526   1234D       SURIYA ASHRAF KHAN              MLI102 MLIE106   
+  309 MTM-131351841   1234D       FEHROON HAMID MALIK             MTM01 MTM02 MTM05 TS01      
+  310 MEC-131351906   1234D       FOUZIA MUSHTAQ                  MEC006 MEC007 MEC008 MEC009 MPA015    
+                                                                  MPA017    
+  311 MSO-131351913   1234D       ASSIYA MUSHTAQ                  MSOE001 MSOE003   
+  312 BDP-131352313   1234D       ASMEEN ASHRAF                   BEGE101 ESO13 ESO14 FST01     
+  313 MEG-131352692   1234D       NEELOFAR BASHIR                 MEG01 MEG02 MEG03 MEG04     
+  314 BPP-131353014   1234D       BISMA FAROOQ                    OSS101    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    7
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1234D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  315 BDP-131353171   1234D       SUMYA SHAFI                     EPA04 EPS11 ESO13 FST01     
+  316 MTM-131353949   1234D       PEERZADA NOOR UL HASSAN         MTM01 MTM02 MTM03 MTM04 MTM05     
+                                                                  MTM06 MTM07 MTM08 MTM09 MTM10 MTM11 MTM12 MTM13 MTM14 MTM15     
+  317 MEG-131355175   1234D       REHANA NAZIR                    MEG01 MEG02 MEG03 MEG07     
+  318 PGDHE-131356969 1234D       SHAFEEQA BANO                   MES101 MES102 MES103 MES104    
+  319 MSO-131359030   1234D       SAIMA RAZAQ                     MSOE001 MSOE003   
+  320 MPS-131360342   1234D       SHOWKAT AHMAD PARA              MED008 MGP004 MGPE011 MPSE001 MPSE003   
+                                                                  MPSE006 MPSE007 MPSE008   
+  321 MPS-131360350   1234D       RIFAT QADIR                     MED008 MGP004 MGPE011 MPSE001 MPSE003   
+                                                                  MPSE006 MPSE007 MPSE008   
+  322 MEG-131361240   1234D       ANISA GANI                      MEG01 MEG02 MEG04     
+  323 MSO-131365628   1234D       ULFAT JAN                       MSO002    
+  324 MEG-131365950   1234D       AQUIA MAQBOOL BABA              MEG02 MEG03 MEG04     
+  325 MEG-131367599   1234D       ISHRAT ZAHOOR                   MEG06 MEG11     
+  326 MEG-131367621   1234D       YASMEENA ASHRAF                 MEG06 MEG11     
+  327 MAEDU-131368204 1234D       AMBRINA SHAFI DAR               MES111 MES112 MES113 MES114 MES115    
+  328 MSO-131368900   1234D       AFROZA BANO                     MSO002    
+  329 MAEDU-131369213 1234D       ASSIMA AKHTER                   MES041 MES042 MES043 MES044    
+  330 PGJMC-131369324 1234D       TANSEEF HAMID MALIK             JMC01 JMC02 JMC03 JMC04     
+  331 MEG-131369363   1234D       SANIYA QADIRI                   MEG02 MEG03     
+  332 MEC-131369729   1234D       SHAFIYA QADRI                   MEC001 MEC003    
+  333 BPP-131372379   1234D       RUKIYA NABI                     PCO       
+  334 MSO-131374738   1234D       FATIMA BANOO                    MSOE001 MSOE003 MSOE004   
+  335 MSW-131377916   1234D       SUMAIRAH AFZAL                  MSW004 MSW005 MSW006    
+  336 MSW-131377923   1234D       SHAISTA NABI WANI               MSW004 MSW005 MSW006    
+  337 MSO-131378101   1234D       BISMA RIYAZ                     MSOE001 MSOE004   
+  338 MSO-131378126   1234D       KULSUMA AKHTER                  MSO002 MSO003 MSO004    
+  339 BED-131380390   1234D       SHAFIA RASHID                   BESE065 BESE066 ES334 ES335 ES364     
+  340 MED-131381020   1234D       ASIFA JAN                       MES051 MES055 MES056 MESE066   
+  341 BPP-131425368   1234D       TARIQ AHMAD DAR                 OSS101 PCO       
+  342 MPS-131425810   1234D       SABREENA ZAHOOR                 MED002 MGPE010 MGPE013 MPS002 MPSE001   
+                                                                  MPSE003 MPSE004 MPSE006 MPSE008   
+  343 MPS-131425827   1234D       NAZIMA GULL                     MED002 MGPE010 MGPE013 MPS002 MPSE001   
+                                                                  MPSE003 MPSE004 MPSE006 MPSE008   
+  344 MSO-131426234   1234D       GOWHAR FAROOQ                   MSO001 MSO002 MSO003 MSO004    
+  345 MSO-131426241   1234D       MISBAH YOUSUF                   MSO001 MSO002 MSO003 MSO004    
+  346 MAPY-131426771  1234D       YOUNIS AHMAD RESHI              MPY002 MPYE010 MPYE011 MPYE012 MPYE014   
+                                                                  MPYE015 MPYE016   
+  347 MPS-131428016   1234D       FATIMA KHATOON                  MED002 MED008 MPSE001 MPSE003 MPSE004   
+                                                                  MPSE006 MPSE007 MPSE008   
+  348 MPS-131428349   1234D       SUNITA KOUR                     MED008 MPSE003 MPSE004   
+  349 MSO-131428546   1234D       IRFANA BASHIR                   MSO001 MSO002 MSO003 MSO004    
+  350 MPS-131429032   1234D       KHERUN NISSA                    MED002 MED008 MPSE001 MPSE003 MPSE004   
+                                                                  MPSE006 MPSE007 MPSE008   
+  351 MSO-131429358   1234D       SHAZIA ALI                      MSOE001 MSOE003   
+  352 MSO-131429397   1234D       RIZWANA FAROOQ                  MSO002 MSO004    
+  353 MSO-131429405   1234D       NEELOFAR JAN                    MSO002 MSO004    
+  354 MSO-131430298   1234D       WASEAFA NAZAIR AKHOON           MSO001 MSO004 MSOE001   
+  355 MSO-131430700   1234D       AFSHANA BANO                    MSO001 MSO002    
+  356 MSO-131430718   1234D       SHAYISTA QAYOOM                 MSO001 MSO002    
+  357 MSO-131430930   1234D       NAFESA SIDIQ                    MSO001 MSO002 MSO003 MSO004    
+  358 MAEDU-131431118 1234D       IRFANA                          MES014 MES101 MES102 MES103 MES104    
+  359 MEG-131431204   1234D       SAMEENA JAN                     MEG01 MEG02 MEG03 MEG04     
+  360 MSO-131431544   1234D       MALIK AASIZA QAYOOM             MSO001 MSO002 MSO003 MSO004    
+  361 MCOM-131692796  1234D       DANISH AHMAD WANI               MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  362 MEG-131841095   1234D       TAHIRAH RAMZAN                  MEG04 MEG07 MEG11     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    8
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1234D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  363 MSO-131842040   1234D       RUQAIYA BASHIR                  MSOE001 MSOE003   
+  364 BDP-131860515   1234D       JABEENA                         FST01     
+  365 BDP-131860769   1234D       SAILA BASHIR                    BEGE101 ESO13 ESO14 FST01     
+  366 BDP-131860910   1234D       RUKHSANA YAQOOB BHAT            BSHF101 ESO11 ESO12 FEG01 FUD01     
+  367 BDP-131860973   1234D       SADAF UL BAHAR                  EPS11 ESO13 ESO14 FST01     
+  368 BDP-131861019   1234D       AAMINA RASOOL                   ESO13 ESO14 FST01     
+  369 MAH-136714150   1234D       SAIMA FAROOQ                    MHI01 MHI02 MHI04 MHI05     
+  370 MSDFSM-1367153741234D       SHAISTA MISGAR                  MFN002 MFN003 MFN006    
+  371 MEC-136717038   1234D       SHABNUM MAQBOOL                 MEC002 MEC004 MEC105    
+  372 MEG-136717432   1234D       ASIF AHMAD DAR                  MEG01 MEG03     
+  373 MAPC-136717608  1234D       SYED ANBAREEN GUL               MPC001 MPC004 MPC005 MPC006    
+  374 MAH-136719658   1234D       SAMREEN PARVAIZ MIR             MHI02 MHI04     
+  375 MEG-136719672   1234D       GULSHAN JAN                     MEG02 MEG03     
+  376 MSO-136719927   1234D       SAIMA YOUSUF                    MSO001 MSO002 MSO004    
+  377 MAPC-136720717  1234D       TAHAR UL SHABAN                 MPC001 MPC005    
+  378 MAH-136721188   1234D       IQRA HASSAN BABA                MHI02 MHI05     
+  379 MAH-136721195   1234D       SHABNUM YAQOOB                  MHI02 MHI05     
+  380 MAPC-136721693  1234D       NAVEEDA RAHI                    MPC001 MPC003 MPC005 MPC006    
+  381 MEG-136722742   1234D       SHAHNAZA HASSAN                 MEG01 MEG03 MEG04     
+  382 MEG-136722799   1234D       SHAZIA RAMZAN                   MEG02 MEG03 MEG04     
+  383 MEG-136722878   1234D       ASMA DRABOO                     MEG01 MEG02 MEG04     
+  384 BDP-136723174   1234D       AIJAZ AHMAD WANI                BSHF101 FEG01     
+  385 BDP-136723199   1234D       HILAL AHMAD SHAH                BSHF101   
+  386 MEG-136723490   1234D       SYED HUMAERA JAN                MEG01 MEG02 MEG04     
+  387 MSO-136725461   1234D       TANVEERA GULSHAN BHAT           MSO001 MSO002 MSO003 MSO004    
+  388 MEG-136725605   1234D       SHAFIYA  ZAHOOR                 MEG02 MEG04     
+  389 MEG-136726495   1234D       ASIMA FAROOQ CHESTI             MEG01 MEG02 MEG03 MEG04     
+  390 BPP-136726574   1234D       RUQAYA BANO                     PCO       
+  391 MEG-136729254   1234D       AMREENA MANZOOR MIR             MEG01 MEG04     
+  392 MAH-136729680   1234D       ARIFAT RASHID                   MHI02 MHI04 MHI05     
+  393 MAH-136729698   1234D       RUKAYA ASSAD                    MHI02 MHI05     
+  394 MPA-136730090   1234D       SAMIA RASHID PEER               MPA011 MPA012 MPA013 MPA014    
+  395 MSO-136730187   1234D       SHABINA MAQBOOL                 MSO003 MSO004    
+  396 MSO-136730194   1234D       SHAZIA BASHIR                   MSO003 MSO004    
+  397 MSO-136730202   1234D       NEELOFAR JAN                    MSO003 MSO004    
+  398 MEG-136730352   1234D       KHAN FARIN NAAZ                 MEG02 MEG03     
+  399 MEG-136730360   1234D       HURMAT FAROOQ BANDAY            MEG02 MEG03     
+  400 MAEDU-136732507 1234D       URWHA FAYAZ                     MES011 MES012 MES013    
+  401 MEG-136733279   1234D       SUHAIL AHMAD POSH               MEG01     
+  402 MEG-136735122   1234D       YASMEENA FAYAZ                  MEG01 MEG02     
+  403 MSO-136735305   1234D       JASIA MUSHTAQ                   MSO002 MSO004    
+  404 MEG-136736020   1234D       SAIMA FAROOQ                    MEG01 MEG02     
+  405 MSO-136737205   1234D       MUSHTAQ AHMAD PARREY            MSO001 MSO002 MSO003 MSO004    
+  406 MPS-136739570   1234D       RAHILLA NISAR                   MPS001 MPS004    
+  407 MPS-136739588   1234D       SHABNUM DAR                     MPS001 MPS004    
+  408 MAH-136741047   1234D       AASIYA RASOOL                   MHI01 MHI04     
+  409 MEC-136741552   1234D       TABASUM BASHIR                  MEC001 MEC003    
+  410 MSO-136741584   1234D       RUMEESA NISSAR                  MSO001 MSO002 MSO003    
+  411 MEG-136741600   1234D       SHAZIA                          MEG01 MEG02 MEG03 MEG04     
+  412 MEG-136742823   1234D       MALIK NAIRAH                    MEG02 MEG04     
+  413 MEC-136743477   1234D       RAMEEZ AHMAD MIR                MEC001 MEC002 MEC003    
+  414 MAH-136743610   1234D       PAREEZA AKHTER                  MHI02 MHI04 MHI05     
+  415 PGDIS-136743990 1234D       SIBTAIN JAN SHONTHU             MSE024 MSEI022 MSEI025 MSEI026 MSEI027   
+  416 MAH-136745740   1234D       MINA ASHRAF                     MHI05     
+  417 MAH-136745757   1234D       RAZIYA MOHI UD DIN              MHI01 MHI05     
+  418 MSO-136746118   1234D       REHANA AKHTER                   MSO003    
+  419 MEG-136750655   1234D       NAZIMA YOUSUF                   MEG01 MEG03     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    9
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1234D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  420 MSO-136751403   1234D       RUBEENA                         MSO002 MSO004    
+  421 MSO-136752476   1234D       MASARAT AGA                     MSO001 MSO002 MSO003 MSO004    
+  422 MSO-136752483   1234D       INSHA ASHRAF                    MSO001 MSO002 MSO003 MSO004    
+  423 MSO-136754280   1234D       ASIYA MAQBOOL SOFI              MSO002 MSO003    
+  424 MSO-136754312   1234D       TANZEELA SHAHEEN                MSO002 MSO003    
+  425 MEC-136754344   1234D       SABIA MUSHTAQ KUMAR             MEC002 MEC004    
+  426 MAH-136754470   1234D       SAFINA SHAFI                    MHI01 MHI02 MHI05     
+  427 MEC-136754652   1234D       UZMA FAROOQ                     MEC001 MEC003 MEC004 MEC105    
+  428 MSO-136754770   1234D       DIL AFROZA                      MSO002 MSO004    
+  429 MEC-136755250   1234D       MUZAMIL AKHTER                  MEC001 MEC003    
+  430 MEG-136756434   1234D       SAIMA QAYOOM                    MEG01 MEG02 MEG03     
+  431 MAH-136756767   1234D       ZUBIDA AZIZ                     MHI05     
+  432 MAPC-136756892  1234D       MASARAT JAN                     MPC003 MPC005 MPC006    
+  433 DWED-136757221  1234D       MOHAMMAD ASHRAF RASHIE          BWEE006 BWEE007 BWEE008 BWEF002   
+  434 MSO-136757522   1234D       FOZIA BASHIR                    MSO002 MSO004    
+  435 MEG-136757593   1234D       ULFAT ALI                       MEG01 MEG02 MEG03 MEG04     
+  436 MAPC-136757816  1234D       MASRATH HAMID                   MPC004 MPC005 MPC006    
+  437 MEC-136757830   1234D       NADIA JAN                       MEC001 MEC002 MEC003    
+  438 MARD-136758072  1234D       KULSOOMA MAJEED                 MRD004 MRD103    
+  439 MSO-136758610   1234D       KOUSAR ARA                      MSO001 MSO002    
+  440 MSO-136759565   1234D       SHAZIAH JABEEN                  MSO001 MSO002 MSO003 MSO004    
+  441 MSO-136759572   1234D       ASIFA AKHTER                    MSO001 MSO002 MSO003 MSO004    
+  442 MAPC-136760054  1234D       BISMAH JAN                      MPC002 MPC003 MPC004 MPC005 MPC006    
+  443 MAH-136760086   1234D       KHUSHBOO RIYAZ                  MHI02 MHI05     
+  444 MAH-136760814   1234D       ABIDA PARVEEN                   MHI01 MHI02 MHI04 MHI05     
+  445 MSO-136761522   1234D       SAIMA SHABIR                    MSO001 MSO002 MSO003 MSO004    
+  446 MSO-136761720   1234D       SHOWKAT AHMAD DAR               MSO003 MSO004    
+  447 MAH-136762294   1234D       TABASUM                         MHI02 MHI05     
+  448 MSO-136762982   1234D       SHUGUFTA AKHTHER                MSO001 MSO002 MSO003 MSO004    
+  449 MPA-136763422   1234D       DILFEEZA                        MPA013    
+  450 MAH-136764162   1234D       JASI ZAINAB                     MHI02 MHI05     
+  451 MSO-136764567   1234D       ANDLIB REHAMAN SHIEKH           MSO002 MSO003 MSO004    
+  452 MSO-136765590   1234D       SAMIRA BANO                     MSO002 MSO003 MSO004    
+  453 MEC-136765838   1234D       MUZAMIL AHMAD KHAN              MEC001 MEC003    
+  454 MEC-136765891   1234D       SHAZI BASHIR                    MEC004    
+  455 MPS-136766442   1234D       NAZIYA GUL                      MPS002 MPS004    
+  456 MEC-136766625   1234D       SHAFIYA FAROOQ                  MEC001 MEC003 MEC004    
+  457 MEC-136767555   1234D       IMTIYAZ MAJID                   MEC001 MEC002 MEC003    
+  458 MARD-136767777  1234D       AASIYA ALI                      MRD004 MRD101 MRD102 MRD103    
+  459 MPS-136767824   1234D       FATIMAH GUL                     MPS002 MPS004    
+  460 MSO-136768754   1234D       NUSRAT MAQBOOL                  MSO001 MSO002 MSO003 MSO004    
+  461 MAH-136769337   1234D       FIRDOUS AHMAD WANI              MHI02 MHI04     
+  462 MEG-136770070   1234D       NAHIDA                          MEG01 MEG03     
+  463 MEG-136770087   1234D       TASEENA YAQOOB DAR              MEG01 MEG03     
+  464 MSO-136770815   1234D       HASEENA AKHTER                  MSO002 MSO004    
+  465 MEC-136770933   1234D       MOHAMMAD IBRAHIM WANI           MEC003    
+  466 MPS-136774647   1234D       AAMINA QADIR                    MPS002 MPS004    
+  467 MEG-136775370   1234D       BURGIS MUSHTAQ MALIK            MEG01 MEG02 MEG03 MEG04     
+  468 BDP-136775538   1234D       SUBREEN PARVEEZ SHAH            BSHF101 ECO01 ESO11     
+  469 MPA-136777058   1234D       INSHA RASHID                    MPA012 MPA014    
+  470 MSO-136777610   1234D       REHANA AKHTAR                   MSO002 MSO004    
+  471 MSO-136777628   1234D       UMEERA HAMID                    MSO002 MSO004    
+  472 MSO-136777760   1234D       GOWSIYA HASSAN                  MSO002 MSO004    
+  473 MSO-136777778   1234D       ULFAT JAN                       MSO002 MSO004    
+  474 MSO-136777911   1234D       SAIMA LONE                      MSO002 MSO004    
+  475 MAPC-136777982  1234D       YASMEENA AKTHER                 MPC001 MPC002 MPC004 MPC005 MPC006    
+  476 MAPC-136779194  1234D       SABAHAT MUZAFFAR                MPC005    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   10
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1234D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  477 MSO-136779259   1234D       ABDUL RASHEED BHAT              MSO001 MSO002 MSO003 MSO004    
+  478 MEG-136779535   1234D       NAZIMA AKHTER                   MEG01 MEG03 MEG04     
+  479 MEG-136779542   1234D       MAROOFA JAN                     MEG01 MEG03 MEG04     
+  480 MPA-136779614   1234D       FARAH TOIBA KHAN                MPA011 MPA012 MPA013 MPA014    
+  481 MAPC-136781667  1234D       SHAZIYA HAFEEZ                  MPC001 MPC004 MPC005    
+  482 MSO-136782723   1234D       SABREENA                        MSO001    
+  483 MPS-136783210   1234D       YASIRA MUNWAR                   MPS001 MPS002    
+  484 MSO-136784229   1234D       NAZIMA AKHTAR                   MSO001 MSO004    
+  485 MAH-136786587   1234D       ZINAB AKBAR SHEIKH              MHI01 MHI02     
+  486 BDP-136788992   1234D       SABA NAZIR SHAH                 FEG01 FEG02     
+  487 MAPC-136789006  1234D       RUKAYA BANOO                    MPC001 MPC003 MPC005    
+  488 MAPC-136789013  1234D       AFROZA REHMAN                   MPC001 MPC003 MPC005    
+  489 MSO-136789149   1234D       ABIDAH SULTAN                   MSO001 MSO002 MSO004    
+  490 MEG-136789432   1234D       TAHIRA SHABAN                   MEG01 MEG03 MEG04     
+  491 MSO-136789654   1234D       SHAHEENA AKHTER                 MSO001 MSO002 MSO003 MSO004    
+  492 MAEDU-136790824 1234D       NIGHAT MUSHTAQ SHAWAL           MES011    
+  493 MSO-136791010   1234D       RIFFAT YOUSUF                   MSO003 MSO004    
+  494 BLS-136791976   1234D       BILQEES AKHTAR                  BLS01 BLS02 BLS03 BLS04 BLS05     
+                                                                  BLS07     
+  495 MSO-136792510   1234D       ROHI JAN                        MSO001 MSO002 MSO003 MSO004    
+  496 MEC-136792580   1234D       SURAYA RASHID                   MEC001 MEC002 MEC003    
+  497 MEG-136793321   1234D       SHAZIA MUNAWAR                  MEG01     
+  498 MSO-136793622   1234D       SALMA REHMAN                    MSO001 MSO002 MSO004    
+  499 MSO-136793630   1234D       SHAZIA                          MSO001 MSO002 MSO003 MSO004    
+  500 MAH-136794140   1234D       JASMINA NAZIR                   MHI01 MHI04     
+  501 MAPC-136794158  1234D       RAFIYA SHAH                     MPC001 MPC005 MPC006    
+  502 MSDFSM-1367942511234D       FOZIA WAZIR                     MFN001 MFN006 MFN008    
+  503 MAPC-136794323  1234D       RAHILA BHAT                     MPC001 MPC002 MPC005 MPC006    
+  504 MSO-136795181   1234D       ULFAT JAN                       MSO001 MSO004    
+  505 MEC-136797669   1234D       TARIQ AHMAD MIR                 MEC002 MEC004 MEC105    
+  506 MAH-136798123   1234D       SAJHU RASHID                    MHI02 MHI05     
+  507 MAH-136798210   1234D       NUZHAT RASHID                   MHI02 MHI05     
+  508 MEG-136798757   1234D       SHAMEEMA KHANDAY                MEG01 MEG02     
+  509 MAH-136798836   1234D       FATIMA HASSAN                   MHI02 MHI05     
+  510 MEG-136799290   1234D       SHAISTA MAQBOOL                 MEG01 MEG03 MEG04     
+  511 MAH-136799480   1234D       SHABNAM ARAH                    MHI02 MHI04 MHI05     
+  512 MSO-136799520   1234D       INSHA BASHIR                    MSO001    
+  513 MPS-136799630   1234D       SUMI JAN                        MPS004    
+  514 MEG-136799970   1234D       SHAZIYA HAMID NAJAR             MEG02 MEG04     
+  515 BDP-136800617   1234D       ASMA BINTI RAUF                 BSHF101   
+  516 MSO-136800656   1234D       MUDA ULLAH BHAT                 MSO001 MSO002 MSO003 MSO004    
+  517 MEG-136800918   1234D       SHUBINA RASHID                  MEG02 MEG03 MEG04     
+  518 MAPC-136801530  1234D       REHANA JAN                      MPC002 MPC003 MPC004 MPC005 MPC006    
+  519 MSDFSM-1368022161234D       SHAQEERA SHOWKAT RESHIE         MFN001 MFN002 MFN003    
+  520 MARD-136802929  1234D       SHAYASTA ABDULLAH               MRD004    
+  521 MSO-136803533   1234D       NEELOFER AZIZ                   MSO002 MSO004    
+  522 MEG-136803580   1234D       ASIMA JAN                       MEG01 MEG02     
+  523 MAPC-136805361  1234D       ASSIYA JAN                      MPC001 MPC002 MPC004 MPC005 MPC006    
+  524 MEG-136807555   1234D       SHAISTA MAJID                   MEG01     
+  525 MSO-136808152   1234D       UZMA AMIN WANI                  MSO002 MSO004    
+  526 MPS-136809383   1234D       ISHRAT FAYAZ                    MPS004    
+  527 MSO-136810847   1234D       SABIYA SHOWKAT NASEEB           MSO001 MSO002 MSO003 MSO004    
+  528 MEG-136813050   1234D       SYED ARJUMAND SHEFIQ            MEG01 MEG02 MEG03 MEG04     
+  529 MAH-136813297   1234D       NELOFER MAQBOOL                 MHI01 MHI04 MHI05     
+  530 MSO-136815394   1234D       SHAZIA ALTAF                    MSO003 MSO004    
+  531 MEG-136817216   1234D       TANVEER AHMAD DAR               MEG01     
+  532 MEC-136819495   1234D       NUSRAT RASHID                   MEC001 MEC003    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   11
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1234D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  533 MEG-136824609   1234D       SYED ANJUM AALAM                MEG01 MEG02 MEG03 MEG04     
+  534 MSO-136824616   1234D       SUMAIRA HAMID                   MSO001 MSO004    
+  535 MEG-136826064   1234D       ISHRAT NABI                     MEG03 MEG04     
+  536 MEG-136827152   1234D       TEHMINA JAN                     MEG01 MEG02 MEG03 MEG04     
+  537 MEG-136827184   1234D       HUMAIRA                         MEG02 MEG03     
+  538 MEG-136827191   1234D       AMIRA HAMID                     MEG02 MEG03     
+  539 MEG-136828090   1234D       BENISH AZIZ WAR                 MEG01 MEG02 MEG04     
+  540 MTM-136831217   1234D       IMTAYAZ AHMAD DAR               MTM01 MTM02 MTM04 TS01 TS02      
+  541 MTM-136831224   1234D       ZAHOOR AHMAD KHANDAY            MTM04 MTM05 MTM08 TS03      
+  542 MTM-136831231   1234D       TAWFEEQ AHMAD MALIK             MTM04 MTM05 MTM07 MTM08 TS03      
+  543 MAH-136831381   1234D       MUZAMIL JAN RESHI               MHI02 MHI05     
+  544 MAH-136831399   1234D       NUSRAT AFZAL                    MHI02 MHI05     
+  545 MEG-136831779   1234D       NUSHEBA RASOOL                  MEG02 MEG03 MEG04     
+  546 BPP-136834387   1234D       QULSUMA AKTHER                  PCO       
+  547 MSO-138010104   1234D       KULBIR KOUR                     MSO001    
+  548 MEG-138011027   1234D       HUMERA LATIEF                   MEG01 MEG04     
+  549 MSO-138012351   1234D       SABYAH TARIQ                    MSO001 MSO003 MSO004    
+  550 MEG-138015088   1234D       SANOBER ALTAF                   MEG01 MEG02     
+  551 BDP-138016603   1234D       ZARNAIN                         BSHF101 ESO11 FEG02     
+  552 BDP-138016610   1234D       NAZIMA MANZOOR                  BSHF101 ESO11 ESO12 FEG02     
+  553 BDP-138016739   1234D       INSHA BATOOL                    FEG01 FEG02 FST01 LSE01 LSE02     
+                                                                  LSE03     
+  554 MEG-138017479   1234D       FAIKA NIQABAT                   MEG01 MEG02 MEG03 MEG04     
+  555 MEC-138017540   1234D       NOWHEENA NAZIR                  MEC001 MEC003    
+  556 MEC-138017690   1234D       ASIA RASOOL                     MEC001 MEC002 MEC003 MEC004 MEC105    
+  557 BDP-138017755   1234D       NUSRAT BANO                     BSHF101 ESO12 FEG01     
+  558 MAEDU-138017859 1234D       SYED AMBREEN                    MES011 MES012 MES013    
+  559 MAEDU-138017866 1234D       ZUBAIRA SHOWKAT                 MES011 MES012 MES016    
+  560 MSO-138017906   1234D       ARIFA RASOOL                    MSO001 MSO003 MSO004    
+  561 BDP-138018090   1234D       TEHMEENA MANZOOR                BSHF101   
+  562 MEG-138018639   1234D       HINA FAROOQUI                   MEG01 MEG02 MEG03     
+  563 BDP-141900400   1234D       IRAM JAN                        BSHF101 ESO11 ESO12 FEG01 FEG02     
+  564 BDP-141901022   1234D       ASMAT ARA                       BSHF101 ESO11 ESO12 FEG01 FEG02     
+  565 BDP-141901212   1234D       RUQIYA RASHID                   BSHF101 ESO11 ESO12 FEG01 FEG02     
+  566 BDP-141901394   1234D       SHAFQAT ARA                     BSHF101 ESO11 ESO12 FEG01 FEG02     
+  567 MEG-141901402   1234D       MOHD YASEEN MIR                 MEG01 MEG02 MEG03 MEG04     
+  568 MAH-141901480   1234D       UMER RASHID MIR                 MHI01 MHI02 MHI04 MHI05     
+  569 BDP-141901932   1234D       SHAZIYA AKHTER                  BSHF101 ESO11 ESO12 FEG01 FEG02     
+  570 MSO-141902056   1234D       ASIYA GUL                       MSO001 MSO003 MSO004    
+  571 MSO-141902063   1234D       ZAHIDA MUKHTAR                  MSO001 MSO003 MSO004    
+  572 MARD-141902135  1234D       MOHD WASEEM MIR                 MRD004 MRD101 MRD102 MRD103    
+  573 BPP-141903359   1234D       SHUGUFTA DAR                    OSS101    
+  574 BDP-141903563   1234D       RAZIA SIKANDER SHAH             BSHF101 ESO11 ESO12 FEG01 FEG02     
+  575 BDP-141903785   1234D       KOUNSAR JAN                     BSHF101 ESO11 ESO12 FEG01 FUD01     
+  576 CBS-141903864   1234D       INSHA AFZAL                     BCOA001 CITL001 ECO01 PCO       
+  577 BDP-141904540   1234D       SALMA KHATUN                    BSHF101 EHI01 EHI02 FEG01 FEG02     
+  578 MLS-141905400   1234D       SABA SHAFI ZARGAR               MLI101 MLI102 MLII101 MLII102 MLII103   
+                                                                  MLII104   
+  579 BDP-141905463   1234D       SHEIKH SHAHIDA                  BSHF101 EHI02 EPS11 FEG01 FEG02     
+  580 BTS-141905908   1234D       JAVID AHMAD HAJAM               BSHF101 FEG01 FEG02 TS01 TS02      
+  581 DNHE-141908849  1234D       SAPNA PANDEY                    DNHE01 DNHE02 DNHE03    
+  582 BDP-141912942   1234D       ISHFAQ ZAIBULLAH LONE           BSHF101 ESO11 ESO12 FEG01 FEG02     
+  583 BPP-141916591   1234D       NAZIMA                          PCO       
+  584 BPP-141916600   1234D       MOHMAD YASEEN HAFIZ             PCO       
+  585 MPA-141918080   1234D       NIDA GULZAR                     MPA011 MPA013    
+  586 MPA-141918097   1234D       BISMA                           MPA011 MPA013    
+  587 MSDFSM-1419181441234D       ASMA MANZOOR MIR                CFN01 CFN02 CFN03     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   12
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1234D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  588 MARD-141918262  1234D       ROOMANAH AKHTER                 MRD004 MRD101 MRD103    
+  589 BDP-141918359   1234D       ROZY SHAZAD                     BSHF101 EHI02 EPS11 FEG01 FEG02     
+  590 MCOM-141918857  1234D       SHABEENA AKHTER                 IBO01 IBO02 IBO03 IBO06     
+  591 MEG-141919866   1234D       SHAZIYA FAROOQ                  MEG02 MEG04     
+  592 MEG-141919880   1234D       RUBINA BASHIR LASOO             MEG02 MEG04     
+  593 MEC-141921619   1234D       KULSUMA BASHIR                  MEC002 MEC004    
+  594 MPA-141922183   1234D       TYBA YOUSUF KHAN                MPA011 MPA013    
+  595 MSO-141922190   1234D       RUBEENA RASHID                  MSO001 MSO004    
+  596 BDP-141922563   1234D       RUKHSANA MANZOOR                BPAE102 BSHF101 ECO01 FEG01 FEG02     
+  597 MEG-141925655   1234D       AMINA BASHIR                    MEG02 MEG04     
+  598 MSDFSM-1419304281234D       SIMERA GULZAR                   CFN01 CFN02 CFN03 MFN001 MFN002    
+                                                                  MFN003 MFN006 MFN008 MFN010    
+  599 MARD-141931405  1234D       RAYEES AHMAD LONE               MRD004 MRD101 MRD102 MRD103    
+  600 PGJMC-141932421 1234D       HUMAIR HAMID MALIK              JMC01 JMC02 JMC03 JMC04     
+  601 MARD-141932761  1234D       ARSHIDA RAMZAN                  MRD004 MRD101 MRD102 MRD103    
+  602 MSO-141933756   1234D       WILZY BANO                      MSO001 MSO003 MSO004    
+  603 MSO-141933763   1234D       IQRA AMIN                       MSO001 MSO003 MSO004    
+  604 BPP-141933803   1234D       NAYEEMA AKHTER                  OSS101 PCO       
+  605 PGDRD-141933914 1234D       NAZIMA NABI                     MRD101 MRD102 MRD103 MRDE101   
+  606 MSDFSM-1419362461234D       SYED AROOB ISHFAQ               CFN01 CFN02 CFN03 MFN001 MFN002    
+                                                                  MFN003 MFN006 MFN008 MFN010    
+  607 MEG-141937302   1234D       SHAMIMA JAN                     MEG02 MEG03     
+  608 BPP-141942676   1234D       SABINA BASHIR                   PCO       
+  609 BPP-141942683   1234D       ROZA AKHTER                     PCO       
+  610 MTM-141946870   1234D       IRAM RAFIQ KHAN                 MTM01 MTM05 MTM06 MTM07 MTM08     
+  611 BPP-141949812   1234D       AFROZA AKHTER                   PCO       
+  612 MPA-141951041   1234D       ANUM MUSHTAQ                    MPA011 MPA012 MPA013 MPA014    
+  613 MPA-141951059   1234D       NADIYA MANZOOR NAQASH           MPA011 MPA012 MPA013 MPA014    
+  614 BPP-141952430   1234D       SABIEA GUL                      OSS101    
+  615 BPP-147066941   1234D       SHAFIYA NAZIR                   OMT101 OSS101    
+  616 BPP-147077690   1234D       SUHAIL AHMAD MIR                OSS101 PCO       
+  617 BPP-147077761   1234D       SHABIR AHMAD DAR                OSS101 PCO       
+  618 MTM-147134671   1234D       FIRDOUS AHMAD RATHER            MTM01 MTM02 MTM03 MTM04 TS01      
+                                                                  TS02      
+  619 BPP-147139989   1234D       AASIYA SHAFI                    OSS101 PCO       
+  620 BPP-147142006   1234D       TAHEEL AYUB LONE                OSS101 PCO       
+  621 BPP-147146408   1234D       RUBIYA MIR                      OSS101 PCO       
+  622 BPP-147153815   1234D       ASIYA                           OSS101 PCO       
+  623 BPP-147157837   1234D       SANDEEP KOUR                    OSS101 PCO       
+  624 BPP-147157844   1234D       JASBIR KOUR                     OSS101 PCO       
+  625 BPP-147167845   1234D       UZMA ALTAF                      OSS101 PCO       
+  626 BPP-147170843   1234D       SADIYA GUL                      OSS101 PCO       
+  627 BPP-147171290   1234D       AMIR AHMAD GANIE                OSS101 PCO       
+        

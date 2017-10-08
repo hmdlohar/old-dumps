@@ -1,0 +1,25 @@
+#This file was created by the CookieSwap extension...see cookieswap.mozdev.org
+#NOTE: if this file's extension is 'tx1' then this is an
+# active profile and the cookies in here are old and will be overwritten by the 
+# cookies being managed by the browser
+.google.com	TRUE	/	FALSE	1492599911	PREF	ID=401c1588f1ba78d8:TM=1429527911:LM=1429527911:S=iOa0gCi5ARdboRHy
+.tynt.com	TRUE	/	FALSE	1461062311	uid	CgUValU01yc0BWZUBHFHAg==
+.google.com	TRUE	/	FALSE	1445337470	NID	67=T92L7JWEmuRjudj0vrRcZ3QhIGFxiSdHuBOdOvzSs7Qn5qoANm2to4tQldOWr-nOYR8G9RU-3Gk_QtQkVkdztx1h_L8BXBjU7ivZTs-BKgVaeu78EAPYr8JJWKTprCeJ
+.addmefast.com	TRUE	/	FALSE	1461062268	__cfduid	d012fe968bb705ca113f9a82482dde3f61429526268
+.addmefast.com	TRUE	/	FALSE	1430438399	unhh_unique_user	1
+addmefast.com	FALSE	/my_sites/pause/25/	FALSE	1461062306	lang_c	en
+addmefast.com	FALSE	/my_sites/	FALSE	1461062361	lang_c	en
+addmefast.com	FALSE	/free_points/	FALSE	1461067258	lang_c	en
+.addmefast.com	TRUE	/	FALSE	1429532365	_gat	1
+addmefast.com	FALSE	/flipCounter/	FALSE	1461067765	lang_c	en
+addmefast.com	FALSE	/includes/	FALSE	1461067786	lang_c	en
+addmefast.com	FALSE	/	FALSE	1461067788	lang_c	en
+.addmefast.com	TRUE	/	FALSE	1492603790	_ga	GA1.2.377885528.1429526273
+.facebook.com	TRUE	/	FALSE	1435930650	m_user	0%3A0%3A0%3A0%3Av_1%2Cajax_0%2Cwidth_0%2Cpxr_0%2Cgps_0%3A1428154650%3A2
+.facebook.com	TRUE	/	FALSE	1491226650	datr	5-gfVTBAimKhaYRq6uVt9GC8
+.facebook.com	TRUE	/	TRUE	1491226650	lu	RheJ9m54IXjwGC3rp6ZuQs2A
+.facebook.com	TRUE	/	TRUE	1437306689	c_user	100001870762746
+.facebook.com	TRUE	/	FALSE	1437306689	fr	08ZRUgyGDxTyzCP2S.AWU-REHHXT5n6wGeUQIzv3Kusi4.BVH-ka.XG.AAA.0.AWUMewHE
+.facebook.com	TRUE	/	TRUE	1437306689	xs	224%3A-In4XG_yzSeXFg%3A2%3A1428154649%3A15658
+.facebook.com	TRUE	/	FALSE	1437306689	csm	2
+.facebook.com	TRUE	/	TRUE	1437306689	s	Aa5FK3GmWTDYBdCv.BVH-ka

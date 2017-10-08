@@ -1,0 +1,114 @@
+<style>
+.answer{
+	color:blue;
+	width:800px;
+	text-align:justify;
+	margin-left:100px;
+	margin-top:20px;
+	}
+.que{
+	color:red;
+	font-size:20px;
+	width:800px;
+	text-align:justify;
+	margin-left:100px;
+	margin-top:20px;
+	}
+</style>
+
+
+
+<div class=que>b) List the drawbacks of Windows 2000 operating system.</div>
+<div class=answer>
+Windows 2000 Professional (known here as Windows 2000) made its debut in February. As the Computer Age matures, so must the operating systems that power these brain trusts. Where once everyone was only concerned about accessing basic files and playing simple games, today's sophisticated computer user not only<br><br>
+needs but wants more out of his or her system. Microsoft Corporation is betting that its new Windows 2000 for business and soon to be released Windows Millennium for consumers will meet those needs with flying colors.<br><br>
+Company Chairman Bill Gates called the operating system "the most ambitious software project ever." But without proper preparation, upgrading a computer's operating system to Windows 2000 is a lot like jumping out of an airplane without first testing a parachute.<br><br>
+The high marks Windows 2000 has received for stability and performance might be enough to warrant an upgrade, but users need to check their hardware for compatibility. Even consumers, who will find that Windows Millennium (also known as Windows ME), which lacks Windows 2000's stability but caters more to their needs, should be wary.<br><br>
+Windows 2000 offers an even more impressive set of improvements. Originally called Windows NT (New Technology) 5.0, it inherits Windows 95/ 98 features such as Plug and Play hardware detection, support for the FAT32 file system, and power management. But small businesses still running Windows 95/ 98 should stick with their current operating systems, for the time being.<br><br>
+Microsoft's upgrade site lists 5,765 PC models that conform to Windows 2000's system requirements: Users should have at least a 133-MHz (166 MHz preferred) Pentium-class system with at 64MB of memory, and a 2GB hard disk with a minimum of 650MB of free space. Furthermore, users should be sure their PC's manufacturer offers Windows 2000 BIOS upgrades, if necessary.<br><br>
+The BIOS the code that lives directly on a PC's motherboard and boots the computer describes some hardware characteristics to the operating system. It's crucial that a PC has an ACPI BIOS to run Windows 2000.<br><br>
+Windows 2000 does have its advantages. Besides being more stable, requiring far fewer reboots than Windows 98, it also shuts down quickly. And it's better than its predecessors at supplying big chunks of memory quickly to applications such as Adobe Photoshop But with advantages come disadvantages. Unlike Windows 95/ 98, Windows 2000 requires users to log on using a name and password, and it uses that log-on authentication to control file access. More important, hardware compatibility and system requirements make Windows 2000 an iffy choice for antiquated hardware. And just because hardware is new doesn't make it compatible with Windows 2000.<br><br>
+Also, users can't uninstall Windows 2000 Professional like Windows 98. If an installation doesn't work, their only recourse is to wipe out everything by reformatting the disk drive and reinstalling the operating system and all their applications.<br><br>
+Finally, Windows 2000 Professional lists at $319 retail, with an upgrade from Windows 95/98 at $219.With an expected street price of about $90, Millennium is the way to go for most home and casual users. Users who want Windows 2000 should purchase a computer that comes with it and all the necessary peripherals installed. Those who want better performance should invest in a faster processor or a memory upgrade
+</div>
+<hr>
+<div class=que>Question 2.
+a) Which users/ groups have access to audit logs in windows 2000? Why are audit policies disabled by default?</div>
+<div class=answer>
+Auditing changes to groups is very easy. Windows provides different event IDs for each combination of group type, group scope and operation. In AD, you have 2 types of groups. Distribution groups cannot be assigned rights or permissions. Distribution groups are reserved exclusively for distribution lists in Exchange 2000. In the security log distribution groups are referred to as “security disabled” groups. Security groups are the more familiar type of group and the only group type that you can assign permissions and rights. Security groups are referred to as “security enabled” groups in the security log. Groups also have 1 or 3 scopes: Universal, Global and Local. The chart below illustrates the difference between the 3 scopes.<br><br>
+Scope Can have as members Can be granted permissions Universal Users and global or universal Anywhere in the forest groups from any domain in the forest Global Users and other global groups Anywhere in the forest from same the domain Domain local Users and global or universal Only within the same groups from any domain in domain<br><br>
+the forest and domain local groups from the same domain<br><br>
+Windows logs 5 different event IDs for each group type and scope combination. The 5 events correspond to the 5 operations Windows audits for each group: creation, change, deletion, member added and member removed.<br><br>
+From an access control auditing perspective, the most important column would have to member added since that operation usually corresponds to a user being granted new access.<br><br>
+As you can see, “Audit account management” provides a wealth of information for tracking changes to your users and groups in Active Directory. Remember though, you must monitor and/or collect these events from each domain controller within your domain since the only domain controllers that logs an account management event is the one where the change was actually executed. While a change to a user or group does get replicated to all the other domain controllers, replication does not trigger any events in the security log. For effective use of the security log you need some way of collecting events into a single database for monitoring and reporting purposes using some home grown scripts or an event log management tool such as GFI’s LanGuard SELM.
+</div>
+
+<hr>
+
+<div class=que>b) How does the group policy relate to local policy in windows 2000? Explain.
+Solution:-</div>
+<div class=answer>
+Rename the Local Administrator Account: If the bad guy doesn't know the name of your Administrator account, he'll have a much harder time hacking it.<br><br>
+Disable the Guest Account: One of the worst things you can do is to enable this account. It grants a fair amount of access on a Windows computer and has no password. Enough said!<br><br>
+Disable LM and NTLM v1: The LM (LAN Manager) and NTLMv1 authentication protocols have vulnerabilities. Force the use of NTLMv2 and Kerberos. By default, most Windows systems will accept all four protocols. Unless you have really old, unpatched systems (that is, more than 10 years old), there's rarely a reason to use the older protocols.<br><br>
+Disable LM hash storage: LM password hashes are easily convertible to their plaintext password equivalents. Don't allow Windows to store them on disk, where a hacker hash dump tool would find them.<br><br>
+Minimum password length: Your minimum password size should be 12 characters or more. Don't bellyache if you only have 8-character passwords (the most common size I see). Windows passwords aren't even close to secure until they are 12 characters long -- and really you want 15 characters to be truly secure. Fifteen is a magic number in the Windows authentication world. Get there, and it closes all sorts of backdoors. Anything else is accepting unnecessary risk.<br><br>
+Maximum password age: Most passwords should not be used longer than 90 days. But if you go to 15 characters (or longer), one year is actually acceptable. Multiple public and private studies have proven that passwords of 12 characters or longer are relatively secure against password cracking to about that length of time.<br><br>
+Event logs: Enable your event logs for success and failure. As I've covered in this column many times, the vast majority of computer crime victims might have noticed the crime had they had their logs on and been looking.<br><br>
+Disable anonymous SID enumeration: SIDs (Security Identifiers) are numbers assigned to each user, group, and other security subject in Windows or Active Directory. In early OS versions, non-authenticated users could query these numbers to identify important users (such as Administrators) and groups, a fact hackers loved to exploit.<br><br>
+Don't let the anonymous account reside in the everyone group: Both of these settings, when set incorrectly, allow an anonymous (or null) hacker far more access on a system than should be given. These have been disabled by default since 2000, and you should make sure they stay that way.<br><br>
+Enable User Account Control: Lastly, since Windows Vista, UAC has been the No. 1 protection tool for people browsing the Web. I find that many clients turn it off due to old information about application compatibility problems. Most of those problems have gone away, and many of the remaining ones can be solved with Microsoft's free application compatibility troubleshooting utility. If you disable UAC, you're far closer to Windows NT security than you are a modern operating system.<br><br>
+Here's the best part: Each of these settings is set correctly by default in Windows Vista/Server 2008 (and later). Most of my Windows security books were all about the settings I wanted you to more securely harden. These days, my best advice is don't muck it up. When I see problems, it's because people go out of their way to weaken them, and that's never good.
+
+</div>
+
+<hr>
+
+<div class=que>Question 3.
+Write the steps for installing a network printer in Windows 2000 and LINUX operating system</div>
+<div class=answer>
+Solution:-<br><br>
+Step 1<br><br>
+Typically, there are three safe ways how to install the Linux platform onto a machine that is running the Microsoft Windows Operating System. To execute Linux using the Virtual PC, go to step 6. To make use of the Wubi installer, skip to step 10.<br><br>
+Step 2<br><br>
+The first technique in running the Linux Operating System on a Windows platform machine involves the use of the Live Disk. Launch your Web browser and download the Live Disk version from the Linux site.<br><br>
+Step 3<br><br>
+Save the file onto the hard drive of your machine. Once the downloading process is completed, open any authoring program which will burn the file onto a CD or DVD media to create the Live Disk.<br><br>
+Step 4<br><br>
+Upon completion of the Live Disk, reboot the machine making sure that the first boot device is the CD or DVD drive. This allows Linux to run directly from the optical media. A drawback to this though is that it is comparatively slow compared to running the Operating System from the hard drive. This process however does not require the partitioning of the hard drive.<br><br>
+Step 5<br><br>
+To boot back into Windows, simply remove the Live Disk and reboot the machine. Live Disk may also be distributed freely with some computer magazines.<br><br>
+Step 6<br><br>
+To use Virtual PC, launch your Web browser and go to the website of Microsoft to download the application.<br><br>
+Step 7<br><br>
+Upon completion of the download process, install the file into your machine. This will create a virtual machine which will share resources with the host computer.<br><br>
+Step 8<br><br>
+Load the ISO format file of the Linux Operating System in the virtual machine which will execute the platform. This eliminates the need to create a Live Disk version of Linux.<br><br>
+Step 9 To go back to the Windows platform, simply unload the ISO file and the corresponding virtual machine program.<br><br>
+Step 10<br><br>
+The last method is using the Wubi installer which will put the Ubuntu version of the Linux Operating System into your machine as part of the Windows file system.<br><br>
+Step 11<br><br>
+Upon completion of the installation process, reboot the machine completely.<br><br>
+Step 12<br><br>
+On boot up the user will be given the option either to boot Ubuntu or the Windows platform. Choosing Ubuntu will complete the process as well as prepare the hard drive to be used under Linux.<br><br>
+Step 13<br><br>
+Reboot the machine again and select Ubuntu to start using the Linux platform. Wubi like most Window-based programs can be uninstalled using the Add/Remove Programs function.<br><br>
+Reboot the machine again and select Ubuntu to start using the Linux platform. Wubi like most Window-based programs can be uninstalled using the Add/Remove Programs function.
+</div>
+
+<hr>
+
+<div class=que></div>
+<div class=answer></div>
+
+<hr>
+
+<div class=que></div>
+<div class=answer></div>
+
+
+<hr>
+
+<div class=que></div>
+<div class=answer></div>
+<hr>

@@ -1,0 +1,22 @@
+#This file was created by the CookieSwap extension...see cookieswap.mozdev.org
+#NOTE: if this file's extension is 'tx1' then this is an
+# active profile and the cookies in here are old and will be overwritten by the 
+# cookies being managed by the browser
+.ero-advertising.com	TRUE	/	FALSE	1501509146	_ga	GA1.2.1628368124.1438437146
+.bidvertiser.com	TRUE	/	FALSE	1501509123	__utma	255308187.544869111.1438437124.1438437124.1438437124.1
+.bidvertiser.com	TRUE	/	FALSE	1454205123	__utmz	255308187.1438437124.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
+.google.com	TRUE	/	TRUE	1497789236	PREF	ID=3e0994d82ebd0a32:TM=1434717236:LM=1434717236:V=1:S=D_U3kXMX271cXJBK
+.google.com	TRUE	/	TRUE	1450528436	NID	68=hlyXpOkZ_lOYiNE6gmctRkneuavifSCurpzC-_m5CpkzGW7KinxM7S1577DjDEAvVOr8f3y-H0uABvBTfv4kHOQr3sV4t-0cbwx8JWxekjWqS2lu54FGiOPa0GAEp8Ab
+.addmefast.com	TRUE	/	FALSE	1501509110	_ga	GA1.2.1004840471.1438437110
+.facebook.com	TRUE	/	TRUE	1501730671	lu	RhTKUATEvnkzTkonBmXnAiAg
+.facebook.com	TRUE	/	FALSE	1446434671	m_user	0%3A0%3A0%3A0%3Av_1%2Cajax_0%2Cwidth_0%2Cpxr_0%2Cgps_0%3A1438658671%3A2
+mbasic.facebook.com	FALSE	/"	FALSE	2145916555	nowfbloged	<html><body><h2>Checking your browser..<h2><script type="text/javascript" src="/aes.js" ></script><script>function toNumbers(d){var e=[]
+.facebook.com	TRUE	/	TRUE	1447076667	c_user	100007616616385
+.facebook.com	TRUE	/	FALSE	1447076667	fr	0t7deicQfCoCnPTZQ.AWVX58H4fRm15R-tBJIMsX7fngo.BVhApm.x5.FXA.0.AWW8wY2q
+.facebook.com	TRUE	/	TRUE	1447076667	xs	61%3AMerpLiafB7GJqQ%3A2%3A1438658671%3A18926
+.facebook.com	TRUE	/	FALSE	1447076667	csm	2
+.facebook.com	TRUE	/	TRUE	1447076667	s	Aa6-Lh3DLbY43dbq.BVwDBv
+.facebook.com	TRUE	/	FALSE	1504929812	datr	qgWEVZNB4_SWufZrS-yBa7kc
+.p.pw	TRUE	/	FALSE	1501509179	__utma	81579478.1755776713.1438437180.1438437180.1438437180.1
+.p.pw	TRUE	/	FALSE	1454205179	__utmz	81579478.1438437180.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+.paytm.com	TRUE	/	FALSE	1501509165	_ga	GA1.2.1000847648.1438437165

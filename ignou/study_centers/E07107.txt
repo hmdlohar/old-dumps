@@ -1,0 +1,2117 @@
+
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    1
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 07107                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+    1 MCA-063059799   07107       RAVI KUMAR                      MCS031    
+    2 MCA-072860239   07107       YOGESH KUMAR                    MCS032 MCS041 MCS042 MCS051 MCS052    
+                                                                  MCSL045 MCSL054   
+    3 MCA-072861341   07107       FIROJ KHAN                      MCS033 MCS041 MCS042 MCSL036   
+    4 BCA-073705570   07107       DEEPAK KUMAR                    CS71      
+    5 BDP-075979849   07107       SONAM                           CTE04     
+    6 MP-081049881    07107       ZAKIR HUSSAIN                   MS51 MS53      
+    7 MP-081129918    07107       PUNEET SHARMA                   MS08 MS29      
+    8 MP-081129925    07107       GEETANJALI SHARMA               MS03 MS06 MS09      
+    9 MCA-084208086   07107       RATAN KUMAR                     MCS042    
+   10 MCA-084212459   07107       KRIPASHANKAR YADAV              MCS033 MCS041 MCSE003   
+   11 BCA-084729972   07107       MANISH KUMAR MEHRA              CS60 CS62 CS62P CS71 CS72 CS73      
+   12 MCA-084734523   07107       SAMUDRIKA ROUT                  CS60      
+   13 BCA-084976499   07107       POOJA                           CS73      
+   14 MP-091440987    07107       PANKAJ NAAGAR                   MS01 MS95      
+   15 MSMACS-09223937507107       SHAHENSHAH AHMAD                MMT001P MMTE003 MMTE006   
+   16 BDP-092762230   07107       DEENDAYAL                       ACC01     
+   17 MCA-092772889   07107       DEEPAK KUMAR                    CS73 MCS031 MCS043 MCS051 MCS053    
+                                                                  MCSE003 MCSE004   
+   18 MCA-093514792   07107       ANSHUL                          CS64 CS71 CS73 MCS031 MCS051 MCS053    
+                                                                  MCSE003 MCSE004 MCSL054   
+   19 MCA-093685646   07107       SUNNI KUMAR                     MCS031 MCS033 MCS041 MCS042 MCS043    
+                                                                  MCS051 MCSE003 MCSE004 MCSE011 MCSL045 MCSL054   
+   20 BDP-093694193   07107       NAMIT ARORA                     BSHF101 CHE04 CHE06 CHE09 FST01     
+                                                                  LSE01     
+   21 MP-093969021    07107       SANDEEP BALUNI                  MS08 MS45 MS46      
+   22 MP-093998220    07107       NEHA                            MS08      
+   23 MCOM-095690350  07107       RAJESH KUMAR                    IBO04 IBO06 MCO03 MCO04 MCO07     
+   24 BDP-095701366   07107       RAJ KISHORE                     CHE01 CHE04 PHE01 PHE07 PHE09     
+   25 BDP-095703811   07107       KRISHNA MOHAN                   MTE01 MTE02 PHE04 PHE05 PHE06     
+   26 BDP-095704092   07107       RANI KUMARI                     ACC01 CHE09 LSE06     
+   27 BTS-095709686   07107       KANISHAK RANA                   TS02      
+   28 MPS-095740565   07107       HEMANT KUMAR KUSHWAH            MPSE004   
+   29 BCA-095838224   07107       DHANVEER SINGH                  CS73 FST01     
+   30 MCA-095838668   07107       MANVENDER SINGH                 CS63 CS71 CS73 CS74 MCS031 MCS032    
+                                                                  MCS034 MCS043 MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSL054   
+   31 BCA-095838722   07107       ARUN                            CS60 CS64 CS71 CS73 FST01     
+   32 MCA-095841333   07107       WASIQ MIAN                      MCS031 MCS034 MCS035 MCS042 MCS051    
+                                                                  MCS052 MCSE003 MCSE004 MCSE011 MCSL054   
+   33 MCA-095841476   07107       GAURAV KUMAR SINHA              MCS031 MCS034 MCS035 MCS042 MCS053    
+   34 MCA-095951393   07107       RANJEET KUMAR SHARMA            CS71 MCS051 MCSE003 MCSE004 MCSE011   
+   35 BDP-097151729   07107       MANISH KUMAR                    ANC01 EHI01 EPA03 EPS07     
+   36 BDP-097152720   07107       VIPIN PRAKASH                   BHDE107   
+   37 BDP-100059779   07107       DEEPIKA BISWAS                  CHE02 LSE06 LSE09     
+   38 BDP-100059856   07107       MAMTA TYAGI                     CHE06     
+   39 MCA-100060917   07107       AJIT KUMAR SINGH                MCS024 MCS031 MCS043 MCS051 MCSE003   
+                                                                  MCSE004 MCSE011 MCSL054   
+   40 MCA-100061015   07107       VINEET KUMAR                    MCS033 MCS051 MCS053 MCSE003 MCSE004   
+                                                                  MCSL054   
+   41 MEG-100182103   07107       HSUNA GUL BANO                  MEG01 MEG02 MEG03 MEG04 MEG05     
+                                                                  MEG06 MEG07 MEG10     
+   42 MP-101909710    07107       SUDHANSHU SHARMA                MS08      
+   43 MP-102510096    07107       MANISHA MISHRA                  MS08 MS09 MS25 MS27 MS28 MS29      
+                                                                  MS91 MS95      
+   44 MP-102512229    07107       YOGESH KUMAR                    MS08 MS10 MS611 MS95      
+   45 MCA-105045075   07107       AMRITA KUMARI                   MCS033 MCS041 MCS051 MCS052 MCS053    
+                                                                  MCSE003 MCSE004 MCSE011 MCSL036 MCSL054   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    2
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 07107                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+   46 BDP-105111075   07107       MINAKSHI RANA                   EEC07 EHD06     
+   47 BDP-105113040   07107       PINKI RANI                      ECO14     
+   48 BDP-105113259   07107       SWATI                           ECO08     
+   49 BDP-105113604   07107       TANUJA KARKI                    CHE09 LSE12 PHE07 PHE09     
+   50 BDP-105113766   07107       ANIL KUMAR                      ANC01 MTE06 MTE08 PHE15     
+   51 BDP-105113946   07107       SUMIT KUMAR                     BSHF101 FEG02 LSE03 MTE08 PHE09     
+                                                                  PHE10     
+   52 MCA-105116861   07107       HARSHIT YADAV                   BCS061P CS66 CS75 MCS031 MCS032    
+                                                                  MCS033 MCS034 MCS041 MCS042 MCS043 MCSL045   
+   53 MPS-105120908   07107       TAMANNA SINGH GROVER            MPSE003 MPSE004 MPSE007 MPSE008   
+                                                                  MPSE009 MPSE013   
+   54 MPS-105120961   07107       RADHIKA                         MPSE003 MPSE007 MPSE009   
+   55 MPS-105120998   07107       WARISH ALI                      MED002 MED008 MGP004 MGPE013 MPSE003   
+                                                                  MPSE004 MPSE007 MPSE008   
+   56 MCOM-105121073  07107       MONIKA RAWAT                    MCO05     
+   57 MCOM-105125522  07107       MUKUL SETH                      MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+   58 MCOM-105125533  07107       ANKIT SINGHAL                   MCO03 MCO07     
+   59 MCOM-105125615  07107       MANISHA                         MCO03     
+   60 MCOM-105125616  07107       POONAM                          MCO03     
+   61 MHD-105125916   07107       SEEMA SHARMA                    MHD16     
+   62 MPS-105126125   07107       GAURAV GUPTA                    MED002 MED008 MGP004 MGPE013 MPSE003   
+                                                                  MPSE004 MPSE007 MPSE008   
+   63 BCA-105250533   07107       RAM PAL PRAJAPATI               CS73      
+   64 MCA-105250536   07107       SIDDHI NATH                     CS71 CS75 MCS031 MCS032 MCS033    
+                                                                  MCS034 MCS035 MCSL036   
+   65 BDP-105250760   07107       KIRAN CHAUHAN                   ACC01 EEC14 ESO15 FST01     
+   66 MCA-105289097   07107       KUMARI KANCHAN                  MCS033 MCS051 MCS052 MCS053 MCSE003   
+                                                                  MCSE004 MCSE011 MCSL054   
+   67 DCLEVI-10530247107107       VIKRANT                         BET011 BET022    
+   68 BCA-105304796   07107       SUCHITRA RAWAT                  CS60 CS72      
+   69 BTCLEVI-105308136                      07107       GAURAV KUMAR                    BICE017 BICE027 ET101B    
+   70 BSCFWT-10536210007107       HIMANI BISHNOI                  BFW041 BFW042 BFW048 BFWE028   
+   71 BDP-110992038   07107       SONIA DHARAN                    ECO10     
+   72 BDP-110993649   07107       KANHAIYA LAL MISHRA             BHDE107 ECO10 ECO14 ERD01     
+   73 BDP-110994103   07107       ARCHANA                         ECO10 ECO14     
+   74 BDP-111001070   07107       RONIKA RANI                     AEC01 BSHF101 CHE02 CHE04 LSE06     
+                                                                  LSE07     
+   75 BDP-111002262   07107       RAJAT SINGH RAGHAV              MTE02 MTE07 MTE12 MTE13 MTE14     
+   76 BDP-111002760   07107       NEERU TICKOO                    ACC01 ANC01 PHE01 PHE02     
+   77 MPS-111037257   07107       TASNEEM ALEEM                   MPS002    
+   78 MPS-111038740   07107       BHAGIRATH BHATRONJI             MED002 MED008 MPS003 MPS004 MPSE001   
+                                                                  MPSE004 MPSE008 MPSE009   
+   79 MCOM-111043053  07107       SONU PANWAR                     MCO01 MCO05 MCO06     
+   80 MCOM-111043576  07107       RAVI PRATAP SINGH               IBO06 MCO07     
+   81 MCOM-111045437  07107       GULSHAN                         MCO03 MCO06     
+   82 MCOM-111045444  07107       RESHMA SHANKARAN                IBO06 MCO03     
+   83 MAH-111047613   07107       PRIYANKA MANN                   MHI08     
+   84 MP-111071536    07107       ISHRAT JAWED                    MS611 MS95      
+   85 MP-111071590    07107       MANU SHARMA                     MS45 MS46 MS91 MS94 MS95      
+   86 MP-111072323    07107       MAMTA                           MS95      
+   87 MSMACS-11107858507107       MEENU                           MMT003 MMT006 MMT007 MMTE001 MMTE002   
+                                                                  MMTE005   
+   88 MSMACS-11107861807107       NEHA MATHUR                     MMT003 MMT006 MMTE003 MMTE005   
+   89 MSMACS-11107886107107       ANJALI ARORA                    MMT003 MMT006 MMTE003   
+   90 BDP-111473151   07107       PRASHANT KUMAR                  ECO03 ECO08 ECO11 ESO16 FST01     
+   91 BCA-111480330   07107       DHARMENDRA SINGH                CS73      
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    3
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 07107                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+   92 BCA-111480472   07107       HEMANT                          CS64 CS71 CS72 CS73 CS75 FST01     
+   93 MAH-111485962   07107       PRADIP KUMAR SINGH              MHI03     
+   94 MCA-111486410   07107       NITIN KUMAR                     MCSE004   
+   95 MP-111580500    07107       JAYANT SINGH BOHRA              MS55 MS56 MS57 MS58      
+   96 BDP-116496106   07107       REETA                           ACC01 BEGE103 EHD03     
+   97 BDP-116503731   07107       SHWETA                          ACC01 EHI04 ESO16     
+   98 BDP-116505520   07107       NAVEEN                          MTE02 MTE13 PHE10 PHE13     
+   99 BDP-116505631   07107       SUMIT KUMAR                     ACC01 CHE01 CHE02 LSE01 LSE02     
+  100 BDP-116505649   07107       SURAJ                           ACC01 BHDA101 BRPA101 CHE06 CHE09     
+                                                                  CHE10 LSE02     
+  101 BDP-116506031   07107       ARUN GHILDIYAL                  AOR01 AST01 BPHE101 BSHF101 MTE02     
+                                                                  MTE06 MTE09 MTE10 MTE11 MTE12 PHE05 PHE14     
+  102 BDP-116507667   07107       GURJEET SINGH                   FEG02 MTE01 MTE12 PHE01 PHE02     
+                                                                  PHE04 PHE06 PHE09 PHE10 PHE11 PHE13 PHE14 PHE15 PHE16     
+  103 BDP-116508200   07107       ANISH KUMAR SHUKLA              AEC01 BPHE101 CHE02 CHE05 MTE01     
+                                                                  MTE02 PHE02 PHE10 PHE13 PHE15 PHE16     
+  104 BDP-116508329   07107       MOHD SUALEH SAIFI               AHE01 ANC01 LSE09 LSE10     
+  105 BDP-116509811   07107       SACHIN VERMA                    CHE09 LSE02 MTE02     
+  106 BDP-116510619   07107       DINESH CHANDRA SHARMA           ACC01 ECO08 ECO09 ECO10 ECO11     
+                                                                  ECO13 ECO14 EEC11     
+  107 BDP-116510830   07107       SYED GUFRAN HUSSAIN             ACS01 BULE002 ECO08 ECO09 ECO14     
+  108 BDP-116511936   07107       MANI KUMARI                     ECO08 ECO09 ECO14 ESO12     
+  109 BDP-116513037   07107       MANGE LAL                       ACS01 BSHF101 ECO09 ECO10 FST01     
+                                                                  MTE01 MTE05     
+  110 BDP-116513051   07107       ANURAG KUMAR DUBEY              ANC01 BEGE101 ECO08 ECO09 ECO10     
+                                                                  ECO11 EPA01     
+  111 BDP-116513360   07107       SUMAN SINGH                     ACS01 ECO03 ECO07 ECO09 ECO10     
+                                                                  ECO11 ECO14     
+  112 BDP-116514845   07107       SONAM                           ECO07 ECO09 ECO10 FEG02     
+  113 BDP-116516286   07107       BALRAM BALA                     BSHF101 ECO01 ECO03 ECO13 ECO14     
+                                                                  EEC11 FEG01 FST01     
+  114 BDP-116516397   07107       FARHANAZ                        ECO08 ECO09     
+  115 MHD-116557489   07107       PREETI SHARMA                   MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  116 MHD-116558480   07107       NARENDER KUMAR                  MHD05 MHD14     
+  117 MHD-116558498   07107       BABITA RANI                     MHD06     
+  118 MCOM-116569333  07107       NAND KISHOR                     MCO03     
+  119 MCOM-116570550  07107       DEEPAK SAINI                    MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  120 MCOM-116570908  07107       ANIL KUMAR SHARMA               IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  121 MCOM-116571497  07107       RITIKA VIG                      IBO03 IBO06 MCO05 MCO06     
+  122 MCOM-116572790  07107       BHARTI MEHRA                    MCO03 MCO05 MCO06     
+  123 MCOM-116572808  07107       PIYUSH SHARMA                   MCO01 MCO03     
+  124 MAH-116577093   07107       VARSHA PAL                      MHI01     
+  125 MAH-116578318   07107       PRIYANKA                        MHI01     
+  126 MCOM-116595117  07107       NIDHI SEHGAL                    IBO06 MCO01 MCO06 MCO07     
+  127 MCOM-116596466  07107       YOGENDRA                        MCO03 MCO07     
+  128 MCOM-116596735  07107       NEELAM BAGHEL                   IBO02 MCO07     
+  129 MCOM-116598524  07107       NEHA RANA                       MCO04     
+  130 MCOM-116598531  07107       PRACHI CHAUHAN                  MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  131 MCOM-116599526  07107       MANASI DUA                      IBO01 IBO03 MCO01 MCO03 MCO04     
+                                                                  MCO05 MCO06 MCO07     
+  132 MCOM-116599730  07107       KIRAN                           IBO01 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+  133 MPS-116601131   07107       PAVAN KUMAR GUPTA               MPSE011   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    4
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 07107                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  134 MPS-116601321   07107       ARCHANA                         MPSE011   
+  135 MPS-116601471   07107       GARIMA RANI                     MED002 MPSE004 MPSE008   
+  136 MPS-116601994   07107       DILEEP PRASAD                   MED008 MPS002    
+  137 MPS-116602126   07107       POOJA CHAUHAN                   MPSE004   
+  138 MPS-116603697   07107       KAPIL KUMAR                     MED008 MPS003 MPSE001 MPSE004 MPSE007   
+                                                                  MPSE008 MPSE013   
+  139 MPS-116604556   07107       PRIYA TOMAR                     MPSE004 MPSE006 MPSE007 MPSE011   
+                                                                  MPSE013   
+  140 MPS-116604904   07107       RAMESH PULI                     MED002 MED008 MPS003 MPS004 MPSE001   
+                                                                  MPSE003 MPSE004 MPSE006 MPSE007 MPSE008   
+  141 MP-116621079    07107       VIKRANT KUMAR SINGH             MS03 MS04 MS08 MS96      
+  142 MP-117652574    07107       KULDEEP SHARMA                  MS21 MS22 MS23      
+  143 BDP-117653773   07107       KAMAL SINGH RAWAT               ANC01 BEGE101 BHDE107   
+  144 BDP-117653806   07107       SANJIV SINGH CHAUHAN            EEC07     
+  145 BDP-117654743   07107       BHUWAN CHAND                    FEG02     
+  146 BDP-117655863   07107       HEMANT SHARMA                   ACS01     
+  147 MTM-117656650   07107       KAVERI HARNAL                   MTM05 MTM06 MTM07 MTM08 MTM13     
+                                                                  MTM15     
+  148 BTS-117659402   07107       KARAN DUDEJA                    AOM01 BSHF101 FST01 TS02 TS03      
+                                                                  TS05 TS07      
+  149 BDP-117660231   07107       DEVENDRA SINGH RAWAT            ECO07 ECO08 ECO09 ECO10 ECO14     
+                                                                  EEC14     
+  150 BDP-117661717   07107       SEHRISH NAZ FAZAL               ASP01 BCOA001 ECO07 ECO08 ECO09     
+                                                                  ECO10 ECO11 EEC11     
+  151 BCA-117663821   07107       ADITI MALIK                     BCS055 BCS062 BCSL063 MCS021 MCS022    
+                                                                  MCS023 MCS024 MCSL016   
+  152 BDP-117679332   07107       HEM LATA                        ACC01 EEC07 EHD06 ESO15     
+  153 BBARL-117681013 07107       SHYAM SINGH NEGI                BRL002    
+  154 BDP-118108995   07107       NEHA VERMA                      EHD06 ESO16     
+  155 MPS-118111170   07107       MALTI                           MPS002 MPSE004   
+  156 MPS-118112268   07107       ANUSUYA                         MPSE011   
+  157 MPS-118113808   07107       ASHA                            MPSE004 MPSE006   
+  158 BDP-118123665   07107       MEENA SAUNTIYAL                 CHE01 CHE02 CHE04 CHE05 CHE06     
+                                                                  CHE09 LSE07     
+  159 BDP-118123862   07107       AKHILESH KUMAR YADAV            CHE01 FST01 MTE01 PHE01 PHE04     
+  160 BDP-118124058   07107       MAHENDER YADAV                  BSHF101 CHE02 CHE04 FST01 MTE02     
+                                                                  MTE04 MTE05 MTE06 MTE08     
+  161 BDP-118124065   07107       PRAVITA                         ACC01 ATR01 FEG01 FEG02 FST01     
+  162 BDP-118124398   07107       SANDEEP KUMAR SHARMA            AEC01 BSHF101 CHE04 CHE09 CHE10     
+                                                                  LSE03 LSE09 LSE10 MTE03     
+  163 BDP-118124477   07107       PREETI                          CHE05 LSE05 LSE09 LSE10     
+  164 BDP-118124635   07107       NEELAM                          MTE01     
+  165 BDP-118124674   07107       PREETI                          MTE01     
+  166 MPS-118135068   07107       NISHA MOURYA                    MPSE011   
+  167 MPS-118135788   07107       RAMA KANT CHADHA                MPSE004   
+  168 MSCFMRM-118520060                      07107       PRASHANT KUMAR                  MFW015    
+  169 BTCLEVI-118556665                      07107       DHARMENDRA SINGH                BICE016 BICE017 BICE021 BICE022   
+                                                                  BICE026 BICEE004 BICEE023  
+  170 BTCLEVI-118587068                      07107       SANJAY KUMAR                    BICE003 BICE009 BICE015 BICE027   
+                                                                  BIME004 BME017    
+  171 DELVI-118587075 07107       MANOJ KUMAR                     BET021 BIEE030 BIEE033 BIEE035 BIEE037   
+                                                                  BIEE038 BIEE039 BIEEE005 BIEEL017 BIEEL018 BIEEP001 BIEL027   
+  172 BTCLEVI-118587090                      07107       GOPAL MISHRA                    BICE016 BICE017 BICE022 BICEE004  
+  173 BTCLEVI-118587108                      07107       KRISHAN CHAND JAT               BICE016 BICE017 BICE022 BICEE004  
+  174 BTCLEVI-118587219                      07107       GAYATRI OLI                     BICE016 BICE017 BICE018 BICE022   
+                                                                  BICE027 BICEE004 BICEE024 ET101B    
+  175 BTCLEVI-118592851                      07107       ANURADHA MITTAL                 BICE016 BICE017 BICEE004  
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    5
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 07107                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  176 BDP-118682129   07107       SONU KUMAR                      MTE02 MTE08 PHE09 PHE10     
+  177 BDP-119098826   07107       PRIYANKA PANDEY                 ECO08 ECO11     
+  178 BDP-122454587   07107       RUBY                            BEGE103 EHD01 EPS07 FST01     
+  179 BDP-122454903   07107       ROHIT RAWAT                     ACC01 ANC01 ESO15 ESO16     
+  180 BDP-122456154   07107       SHAILENDRA                      ANC01 BEGE102 BHDE107 EEC07 EEC14     
+                                                                  ERD01     
+  181 MAPC-122465461  07107       DEPIKA VERMA                    MPC001 MPC002 MPC005 MPCE021 MPCE022   
+                                                                  MPCE023   
+  182 BED-122479857   07107       ANITA                           BESE065 BESE066 ES333 ES334 ES335     
+                                                                  ES361     
+  183 MCOM-122484107  07107       KAPIL SHARMA                    MCO03     
+  184 BDP-122663634   07107       MOHAN CHAND                     ACC01 BEGE103 EEC11 EHI01 ERD01     
+                                                                  ESO12 ESO14 ESO15 ESO16     
+  185 BDP-122677062   07107       SACHIN KUMAR SINGH              FST01     
+  186 BDP-122677808   07107       CHANDAN SINGH                   ECO03 ECO05 ECO07 ECO12 ECO14     
+                                                                  FST01     
+  187 BDP-122678910   07107       YOGENDRA  KUMAR                 AMK01 AOM01 BECE214 ECO08 ECO09     
+                                                                  ECO10 ECO11 ECO14     
+  188 BDP-122682849   07107       RUKHSAR                         AHE01 CHE04 LSE09 LSE10 PHE09     
+  189 MHD-122696546   07107       SHOBHA RAWAT                    MHD16     
+  190 MPS-122702102   07107       REENA                           MPSE004   
+  191 MPS-122702481   07107       SHASHI KUMAR                    MPS001 MPS004 MPSE004 MPSE006 MPSE011   
+  192 MPS-122702997   07107       DIMPLE KAPOOR                   MPSE003 MPSE004   
+  193 MPS-122703451   07107       SEEMA                           MPSE003 MPSE006   
+  194 MPS-122703562   07107       PRIYANKA YADAV                  MPSE006 MPSE009   
+  195 MPS-122704500   07107       MALA                            MPSE004   
+  196 MPS-122705502   07107       GULFISHAN                       MPSE011   
+  197 MCOM-122706504  07107       POOJA CHOUDHARY                 IBO01 IBO06 MCO01 MCO03 MCO04     
+                                                                  MCO05 MCO06 MCO07     
+  198 MCOM-122706686  07107       NISHANT KUMAR                   IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06 MCO01 MCO03 MCO04 MCO05 MCO06 MCO07     
+  199 MCOM-122707410  07107       DEEPIKA AGGARWAL                IBO03 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+  200 MCOM-122707506  07107       INDU SHARMA                     MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  201 MCOM-122708142  07107       PREETI                          MCO03     
+  202 MCOM-122708174  07107       RINKY                           IBO01 IBO02     
+  203 MCOM-122708619  07107       PREETI YADAV                    IBO02 IBO04 IBO06     
+  204 MCOM-122708658  07107       MANISHA KUMARI                  IBO01 IBO03 MCO01 MCO03 MCO04     
+                                                                  MCO05 MCO06 MCO07     
+  205 MCOM-122709026  07107       SHALU BHARDWAJ                  MCO03     
+  206 MP-122723098    07107       JITESH KUMAR                    MS04 MS08 MS11 MS91      
+  207 MP-122723826    07107       SIJO MOSES                      MS95      
+  208 MP-122724448    07107       SATISH CHANDRA                  MS11 MS51 MS57 MS91 MS94 MS95      
+  209 MP-122725812    07107       NILIKA MALHOTRA                 MS42 MS45 MS95      
+  210 MP-122726022    07107       VISHESH BHASKAR                 MS08 MS63 MS64 MS65 MS91 MS95      
+                                                                  MS96      
+  211 MP-122726165    07107       SANJAY KUMAR OJHA               MS45      
+  212 MSMACS-12274841507107       PREETI JAIN                     MMT006    
+  213 MPS-125202633   07107       JAVID HUSSAIN BHAT              MPSE006   
+  214 MAH-125356085   07107       MITHILESH YADAV                 MHI01 MHI08     
+  215 MAH-125356125   07107       DEEPA RAWAT                     MHI01 MHI03 MHI06 MHI08 MPSE003   
+                                                                  MPSE004   
+  216 MAH-125356157   07107       PREETI                          MHI03     
+  217 MAH-125356236   07107       KUMAR KUNAL                     MHI01 MHI03 MHI06 MHI08 MPSE003   
+                                                                  MPSE004   
+  218 MAH-125356268   07107       RAJ ARYAN                       MHI01 MHI02 MHI04 MHI08     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    6
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 07107                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  219 MAH-125356480   07107       SAKSHI                          MHI03 MPSE004   
+  220 MAH-125356900   07107       JAGAT SINGH                     MHI01 MHI03 MHI04 MHI06 MHI08     
+                                                                  MPSE003 MPSE004   
+  221 MAH-125356956   07107       LALITA SINGH                    MHI01 MHI02 MHI04 MHI08 MPSE004   
+  222 MAH-125357159   07107       REENA KUMARI                    MHI01 MHI04 MHI06 MHI08 MPSE004   
+  223 MAH-125357300   07107       PREETI                          MHI01 MHI04 MHI08 MPSE004   
+  224 MAH-125357514   07107       CHARU MEHROTRA                  MHI01 MHI05     
+  225 MAH-125357750   07107       RAJNI KUMARI                    MHI01 MHI08 MPSE004   
+  226 MAH-125358627   07107       JYOTI GOEL                      MHI04 MHI08     
+  227 MAH-125358641   07107       ASHWANI KUMAR                   MHI04 MHI08     
+  228 MPS-126373464   07107       VANDANA                         MED002 MED008 MPSE001 MPSE003 MPSE004   
+                                                                  MPSE006 MPSE007 MPSE008   
+  229 MPS-126373679   07107       MAMTA BISHT                     MPSE006   
+  230 MPS-126373686   07107       DEEPTI                          MPSE004   
+  231 MPS-126374140   07107       POONAM                          MED008 MPS002 MPSE006 MPSE011   
+  232 MPS-126374158   07107       POOJA                           MPSE004   
+  233 MPS-126374663   07107       YASHODA DHOUNDIYAL              MPS003    
+  234 MPS-126374774   07107       HARKESH BAHADUR                 MPS001 MPS002 MPS003 MPSE004 MPSE006   
+  235 MPS-126374878   07107       SONIKA                          MPSE004   
+  236 MPS-126375135   07107       ANJU                            MPSE011   
+  237 MPS-126375142   07107       PREETI KUMARI THAKUR            MPSE006 MPSE011   
+  238 MPS-126375443   07107       SUSHMA KUMARI                   MPSE004   
+  239 MPS-126375554   07107       VIJAY SINGH                     MPS001 MPS002 MPS003 MPSE004   
+  240 MPS-126375593   07107       VIMMI                           MPSE006   
+  241 MPS-126376248   07107       NEETU                           MPSE006   
+  242 MPS-126376287   07107       VINITA                          MED002 MED008 MPS003 MPSE001 MPSE003   
+                                                                  MPSE004 MPSE006 MPSE007 MPSE008   
+  243 MPS-126376341   07107       POONAM                          MPS002 MPSE006   
+  244 MPS-126376760   07107       POOJA NEGI                      MPS002 MPS004 MPSE001 MPSE003 MPSE004   
+                                                                  MPSE006 MPSE007 MPSE008   
+  245 MPS-126376778   07107       RANJNA KUMARI                   MPSE001 MPSE002 MPSE004 MPSE006   
+  246 MPS-126376904   07107       VIJAY KUMAR                     MPSE004 MPSE006   
+  247 MPS-126377232   07107       PREETI SHARMA                   MPSE006   
+  248 MPS-126377580   07107       LAXMI                           MPS001 MPS002 MPS003 MPS004    
+  249 MPS-126377637   07107       LAKSHMI                         MED002    
+  250 MPS-126377810   07107       PRIYANKA KUMARI                 MED008 MPS002 MPS004 MPSE004 MPSE006   
+                                                                  MPSE007 MPSE008 MPSE011   
+  251 MPS-126377827   07107       PAWAN KUMAR                     MPS003 MPSE001 MPSE003 MPSE004 MPSE005   
+                                                                  MPSE006 MPSE007 MPSE008 MPSE009   
+  252 MPS-126377938   07107       POOJA RAWAT                     MPSE004 MPSE006   
+  253 MPS-126377945   07107       SUNITA                          MPSE004   
+  254 MPS-126377977   07107       NEHA                            MPSE001 MPSE002 MPSE003 MPSE004   
+                                                                  MPSE006 MPSE007 MPSE008 MPSE011   
+  255 MP-126379100    07107       LALIT CHAUHAN                   MS08 MS09 MS45 MS46 MS91 MS95      
+  256 MLS-126933922   07107       BHANU DEVI                      MLII102 MLII103   
+  257 MLS-126933930   07107       KUMKUM SAH                      MLI101 MLI102 MLIE103 MLIE106 MLII101   
+                                                                  MLII102 MLII103 MLII104   
+  258 BDP-126938810   07107       NEHA RANI                       EHI02 EPS11 ESO11 FST01     
+  259 MCOM-126944205  07107       DHIRENDER PRABHAKAR SAHOO       IBO04 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+  260 MCOM-126944434  07107       HEMA PANDEY                     MCO03     
+  261 MCOM-126944441  07107       REKHA RAUTELLA                  MCO01 MCO03 MCO06     
+  262 MCOM-126944466  07107       SHIVANI                         MCO03     
+  263 MCOM-126944624  07107       SANJEEV KUMAR SHARMA            MCO03 MCO05 MCO06     
+  264 MCOM-126944663  07107       SONAM                           IBO01 IBO03 MCO01 MCO03 MCO04     
+                                                                  MCO05 MCO06 MCO07     
+  265 MCOM-126944670  07107       DEEPTI MITTAL                   MCO03 MCO06     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    7
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 07107                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  266 MCOM-126944728  07107       UMA DEVI                        MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  267 MCOM-126944735  07107       DIVESHI PRUTHI                  IBO06 MCO01 MCO03 MCO07     
+  268 MCOM-126945167  07107       SWATI TYAGI                     MCO03     
+  269 MCOM-126945561  07107       PREETI RANA                     MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  270 MCOM-126945579  07107       PAWAN KUMAR                     IBO06 MCO03 MCO05 MCO06 MCO07     
+  271 MCOM-126945680  07107       SONAM KUMARI                    MCO03     
+  272 MCOM-126945751  07107       RINKI KUMARI TANTI              MCO03     
+  273 MCOM-126945830  07107       ANITA YADAV                     MCO03 MCO06     
+  274 MCOM-126945973  07107       ISHA KHOSLA                     MCO03 MCO04 MCO05 MCO06 MCO07     
+  275 MCOM-126946230  07107       JYOTI                           IBO02 IBO06 MCO01 MCO04     
+  276 MCOM-126946248  07107       NAVEEN KUMAR KANOJIA            IBO01 IBO02 MCO06     
+  277 MCOM-126946255  07107       NEHA                            IBO01 IBO02 IBO03 IBO05 IBO06     
+                                                                  MCO01 MCO03 MCO04 MCO05 MCO06 MCO07     
+  278 MCOM-126946524  07107       GEETANJALI SINGH                MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  279 MCOM-126946642  07107       AARTI                           MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  280 MCOM-126946707  07107       KAMAL DEEP SONI                 MCO03     
+  281 MCOM-126946871  07107       RAHUL BADDHA                    MCO03     
+  282 MCOM-126946889  07107       SHIKHA SAINI                    MCO03     
+  283 MCOM-126946982  07107       HASMUKHI                        MCO03 MCO06     
+  284 MCOM-126947375  07107       AMIT GOYAL                      MCO03     
+  285 MCOM-126947730  07107       RUBY                            IBO02 IBO03 MCO06 MCO07     
+  286 MCOM-126947794  07107       RAJEEV KUMAR JHA                MCO03     
+  287 MCOM-126947913  07107       MONIKA                          MCO03 MCO06     
+  288 MCOM-126948037  07107       KUMARI SONAM                    IBO02 IBO03 IBO06 MCO01 MCO03     
+  289 MCOM-126948051  07107       JAGJEET SINGH                   IBO06 MCO03     
+  290 MCOM-126948076  07107       NAVEEN CHANDRA                  IBO02 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+  291 MCOM-126948202  07107       UMESH                           MCO03     
+  292 MCOM-126948210  07107       SANJAY RAWAT                    IBO06 MCO03 MCO06     
+  293 MCOM-126948313  07107       RANJEET JAINA                   MCO03     
+  294 MCOM-126948360  07107       DEEPAK CHANDRA                  IBO01 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+  295 MCOM-126948384  07107       DEEPTI INDORIA                  MCO03     
+  296 MCOM-126948424  07107       BABLOO KUMAR                    MCO03 MCO05     
+  297 MCOM-126948463  07107       YOGITA                          MCO01 MCO04 MCO05     
+  298 MCOM-126948685  07107       BHARTI PANDEY                   MCO03     
+  299 MCOM-126948908  07107       PREETY                          MCO01     
+  300 BDP-126949330   07107       MANOJ KASHYAP                   ECO03 ECO05 ECO06 ECO07 ECO12     
+                                                                  ECO14 FST01     
+  301 BDP-126950667   07107       POOJA MISHRA                    BSHF101 ECO02 ECO03 ECO05 ECO06     
+                                                                  ECO07 ECO12 ECO14 EEC11 FST01     
+  302 BDP-126955358   07107       NOMITA SHARMA                   CHE05 LSE01 LSE05 LSE07 PHE01     
+                                                                  PHE02 PHE06     
+  303 BDP-126955824   07107       RAVI SHANKER AHUJA              MTE02 PHE01 PHE02     
+  304 BDP-126956034   07107       FOZIA                           FEG02 LSE03 LSE05 LSE06     
+  305 MHD-126992213   07107       SWATI JAIN                      MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  306 MHD-126992238   07107       SONAM                           MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  307 MHD-126993777   07107       RASHMI BHAKUNI                  MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  308 MHD-126994120   07107       AARTI                           MHD15     
+  309 MHD-126994224   07107       HEMA RANI                       MHD01 MHD05 MHD07     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    8
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 07107                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  310 MHD-126994779   07107       JYOTI                           MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  311 MHD-126994801   07107       MAMTA                           MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  312 MHD-126995645   07107       SHOBHNA KUMARI                  MHD01     
+  313 MHD-126995731   07107       SHAMA                           MHD14     
+  314 MHD-126995788   07107       ROSHNI                          MHD01     
+  315 MHD-126995953   07107       SUNITA SARKAR                   MHD01     
+  316 MHD-126995992   07107       GUDDI KUMARI                    MHD15     
+  317 BDP-127118341   07107       SOBAN SINGH                     BSKF001 FST01     
+  318 BDP-127118674   07107       BHAWANA SATI                    EHD03 EHD06     
+  319 BDP-127120220   07107       RAVI                            EHD02 EHD03 EHI01 EHI04 FST01     
+  320 BDP-127121239   07107       SHOBHA                          FST01     
+  321 BDP-127121357   07107       FARAZ KHAN                      EHI02 FST01     
+  322 BDP-127124345   07107       VIKAS AGARWAL                   ECO12 ECO13 FST01     
+  323 MCOM-127134575  07107       ROHIT YADAV                     MCO03     
+  324 MCOM-127134582  07107       MOHD HAIDER ALI                 MCO03     
+  325 MCOM-127134590  07107       SANJEEV CHAUDHARY               IBO06 MCO03 MCO04     
+  326 MCOM-127134890  07107       LATIKA MALHOTRA                 MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  327 MCA-127135900   07107       SANJEEV JOSHI                   MCS012 MCS031 MCS032 MCS034 MCS043    
+                                                                  MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+  328 MSW-127136672   07107       HEMLATA                         MSW007 MSWE002   
+  329 MEC-127139123   07107       DIPTI GUPTA                     MEC001 MEC002 MEC003 MEC004 MEC105    
+  330 MCOM-127145854  07107       SACHIN CHOUDHARY                MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  331 MSW-127146340   07107       POONAM KUMARI PAUDIYAL          MSW006 MSW008 MSW009 MSWE002 MSWE003   
+  332 BBARL-127150018 07107       RITU                            AMK01 BRL001 BRL003 ECO01     
+  333 MHD-127579168   07107       RAHUL KUMAR                     MHD01     
+  334 MHD-127579190   07107       ASHA JOSHI                      MHD01 MHD14     
+  335 MHD-127580162   07107       RAJ KAMAL                       MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  336 MHD-127580574   07107       ASHA RANI                       MHD02     
+  337 MHD-127580646   07107       ASHU                            MHD01 MHD02 MHD06 MHD15 MHD16     
+  338 MHD-127580804   07107       SUJEETA KUMARI                  MHD13     
+  339 MHD-127580875   07107       PRAVESH KUMAR                   MHD05 MHD07 MHD13 MHD14 MHD15     
+  340 MHD-127580882   07107       SHASHI CHAUDHARY                MHD01 MHD05 MHD07     
+  341 MHD-127581196   07107       MEENAKSHI                       MHD02 MHD03 MHD04 MHD06     
+  342 MHD-127581710   07107       VANDANA                         MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  343 MHD-127582363   07107       SANGEETA                        MHD14     
+  344 MHD-127582546   07107       REENA RANA                      MHD01 MHD02 MHD15     
+  345 MPS-127583064   07107       NEETU SHARMA                    MED008 MPSE001 MPSE005 MPSE007 MPSE008   
+  346 MPS-127583175   07107       GAYATRI                         MPSE001 MPSE002 MPSE003 MPSE004   
+                                                                  MPSE005 MPSE006   
+  347 MPS-127583326   07107       NAIMUDDIN KAZI                  MPSE004   
+  348 MPS-127583530   07107       DEEPA RAWAT                     MED008 MPSE001 MPSE006 MPSE009   
+  349 MPS-127583610   07107       LOVKESH KUMAR KAUSHIK           MPSE004 MPSE006   
+  350 MPS-127584399   07107       RAVI LOCHAN                     MPSE001 MPSE003 MPSE004 MPSE006   
+                                                                  MPSE011   
+  351 MPS-127584439   07107       PREETI                          MPS001 MPSE004   
+  352 MPS-127584492   07107       PREETI                          MPSE001 MPSE004 MPSE006   
+  353 MPS-127584629   07107       POOJA SHARMA                    MPS001 MPSE006   
+  354 MPS-127584801   07107       ROHIT RANJAN SINGH              MPS002 MPS004 MPSE004 MPSE006   
+  355 MPS-127584819   07107       ANJUMAN                         MED008 MPS004 MPSE001 MPSE004 MPSE006   
+                                                                  MPSE007 MPSE008 MPSE012 MPSE013   
+  356 MPS-127584826   07107       GEETA DEVI                      MED008 MPS002 MPSE001 MPSE004 MPSE006   
+                                                                  MPSE007 MPSE008 MPSE012 MPSE013   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    9
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 07107                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  357 MPS-127584840   07107       ANSHUL                          MED008 MPSE006   
+  358 MPS-127584872   07107       SHIV KUMAR                      MPS004 MPSE003   
+  359 MPS-127584983   07107       HEMLATA                         MPSE006 MPSE011   
+  360 MPS-127585068   07107       ONKAR                           MPSE004   
+  361 MPS-127585233   07107       INDU                            MPS001 MPS002 MPS004 MPSE001 MPSE006   
+                                                                  MPSE011   
+  362 MPS-127585320   07107       HIMANSHU RANA                   MED002 MED008 MPS004 MPSE001 MPSE003   
+                                                                  MPSE004 MPSE006 MPSE007 MPSE008   
+  363 MPS-127585344   07107       SUNITA DEVI                     MPSE006   
+  364 MPS-127585448   07107       NEELAM                          MPS001    
+  365 MPS-127585598   07107       JYOTI                           MPSE006   
+  366 MPS-127585613   07107       SUMAN                           MPS002 MPSE004 MPSE006   
+  367 MPS-127585638   07107       GOPI CHAND                      MPSE011   
+  368 MPS-127586100   07107       NILAMBER MISHRA                 MPSE006   
+  369 MPS-127586149   07107       VINAY KUMAR SHARMA              MPSE004   
+  370 MPS-127586440   07107       RENU SINGH                      MED002 MPS002 MPSE004 MPSE006   
+  371 MPS-127586686   07107       AMIT KUMAR                      MED002 MED008 MPSE001 MPSE004 MPSE006   
+                                                                  MPSE007 MPSE008 MPSE011   
+  372 MPS-127586851   07107       JYOTI                           MPS002 MPSE006   
+  373 MCOM-127604104  07107       PRIYA TYAGI                     MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  374 MCOM-127604111  07107       ANURADHA                        MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  375 MCOM-127604143  07107       ASHA KASHYAP                    IBO03 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+  376 MCOM-127604490  07107       NITISH KUMAR CHAUHAN            IBO01 IBO02 IBO03 IBO04 IBO06     
+                                                                  MCO01 MCO03 MCO04     
+  377 MCOM-127604856  07107       NEELAM                          MCO03 MCO06     
+  378 MCOM-127605217  07107       RENU SHARMA                     MCO03     
+  379 MCOM-127605478  07107       SUDHA ARORA                     IBO01 MCO03 MCO05 MCO06 MCO07     
+  380 MCOM-127605596  07107       RENU                            MCO03     
+  381 MCOM-127605747  07107       ANITA SOYAL                     MCO06 MCO07     
+  382 MCOM-127605880  07107       KALPNA                          MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  383 MCOM-127605912  07107       JYOTI PATHAK                    IBO03 IBO06 MCO01 MCO03 MCO04     
+                                                                  MCO05 MCO06 MCO07     
+  384 MCOM-127605920  07107       SWATI SAINI                     IBO01 IBO06     
+  385 MCOM-127605951  07107       NEHA SHARMA                     MCO03     
+  386 MCOM-127606082  07107       POONAM                          IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  387 MCOM-127606258  07107       SHEELA KUMARI                   MCO03 MCO06     
+  388 MCOM-127606470  07107       NIBHA                           MCO03     
+  389 MCOM-127607719  07107       BHARTI                          MCO03 MCO06     
+  390 MCOM-127607916  07107       K SARANIYA                      IBO04 MCO03     
+  391 BDP-127608054   07107       BHAWNA                          BSHF101 CHE05 CHE06 CHE09 LSE05     
+                                                                  LSE07     
+  392 BDP-127608133   07107       LALIT CHANDRA                   CHE04 CHE05     
+  393 BDP-127609450   07107       PANKAJ                          MTE01 MTE02     
+  394 BDP-127609751   07107       MEENAKSHI BHATI                 BSHF101 LSE05 LSE06 LSE07 PHE09     
+  395 BDP-127609927   07107       MD ABU NASAR                    FEG01 MTE01 MTE02 PHE01 PHE02     
+  396 BDP-127610580   07107       RAKHI CHAWLA                    CHE01 CHE04 MTE05 PHE09 PHE10     
+  397 BDP-128185313   07107       MANOJ RAWAT                     BSHF101 MTE01 MTE02 MTE06 MTE08     
+                                                                  MTE10     
+  398 MHD-128217276   07107       CHANCHAL SHARMA                 MHD01 MHD07     
+  399 MHD-128217670   07107       ANITA                           MHD01 MHD02 MHD07     
+  400 MHD-128217964   07107       SHALINI SINGH                   MHD05 MHD07 MHD13     
+  401 MHD-128218404   07107       ARUN KUMAR SAHU                 MHD01 MHD16     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   10
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 07107                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  402 MHD-128218429   07107       DHARMENDRA SINGH                MHD01 MHD02 MHD14 MHD15 MHD16     
+  403 MHD-128218601   07107       PUSHPA KUMARI                   MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  404 MHD-128218720   07107       ARCHANA CHOUBE                  MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  405 MHD-128219112   07107       ARTI                            MHD02 MHD06     
+  406 MHD-128219936   07107       SANJOGEETA                      MHD05     
+  407 MHD-128220013   07107       KUSUM SRIVASTAV                 MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  408 MPS-128222128   07107       NEERAJ KUMAR SHARMA             MED002 MED008 MPSE001 MPSE003 MPSE004   
+                                                                  MPSE007 MPSE008 MPSE009   
+  409 MPS-128223040   07107       GAYATRI                         MPS002 MPS004 MPSE006   
+  410 MPS-128223373   07107       PRITI SINGH                     MPSE004 MPSE006   
+  411 MPS-128223570   07107       AKASH KUMAR                     MPS002 MPSE001 MPSE003 MPSE004 MPSE006   
+  412 MPS-128223911   07107       VIKRAM DAS                      MPSE004 MPSE011   
+  413 MPS-128224185   07107       SARABPREET  KAUR                MPS002 MPSE006   
+  414 MAH-128236030   07107       SANDEEP KUMAR                   MPSE004   
+  415 MAH-128236220   07107       SATYVIR SINGH                   MHI03 MHI06 MHI08 MPSE003 MPSE004   
+  416 MAH-128236735   07107       RANJEETA                        MHI08 MPSE004   
+  417 BDP-128238209   07107       CHHAVI                          BHDF101 CHE01 CHE02 CHE05 FEG01     
+                                                                  FST01     
+  418 BDP-128238287   07107       SACHINDERJEET SINGH             BSHF101 CHE06 MTE03     
+  419 BDP-128239952   07107       NEETU KUMARI                    PHE09 PHE15     
+  420 BDP-128242531   07107       DILPREET KAUR                   BSHF101 EPS11 FEG01     
+  421 BDP-128243225   07107       NITIN KUMAR SHARMA              ECO01 ECO05 ECO07 ECO12 ECO14     
+                                                                  EEC11 FST01     
+  422 BDP-128244116   07107       MAMTA                           BECE002 ECO03 ECO05 ECO06 ECO12     
+                                                                  FST01     
+  423 MPS-128249043   07107       NISHA                           MED002 MED008 MPSE003 MPSE007 MPSE008   
+                                                                  MPSE009 MPSE011 MPSE012   
+  424 MPS-128249179   07107       NITISH KUMAR                    MPS004 MPSE004 MPSE006   
+  425 MPS-128249219   07107       VARSHA LATA                     MPSE004 MPSE006   
+  426 MPS-128249724   07107       MOHD AHMED                      MPS004 MPSE006   
+  427 MPS-128249788   07107       ANUJA SHARMA                    MED008 MPSE001 MPSE003 MPSE004 MPSE005   
+                                                                  MPSE006 MPSE007 MPSE008   
+  428 MPS-128249810   07107       RENU SHARMA                     MPSE001 MPSE002 MPSE003 MPSE004   
+                                                                  MPSE005 MPSE006 MPSE007 MPSE008   
+  429 MPS-128249953   07107       MAMTA KUMARI                    MED002 MED008 MPS003 MPSE001 MPSE003   
+                                                                  MPSE004 MPSE006 MPSE007 MPSE008   
+  430 MPS-128250110   07107       VICKY                           MED008 MPSE006 MPSE007 MPSE008 MPSE011   
+  431 MPS-128250277   07107       VISHAL KUMAR                    MPS002 MPS003 MPS004 MPSE004   
+  432 MPS-128250284   07107       RENU RANI                       MPS001 MPS002 MPS004 MPSE004 MPSE006   
+  433 MPS-128250395   07107       SHEHZI NASIM                    MPSE004   
+  434 MPS-128250450   07107       MANJU KUMARI                    MPSE001 MPSE003 MPSE004 MPSE006   
+                                                                  MPSE009   
+  435 MPS-128250521   07107       PREETI                          MPSE011   
+  436 MPS-128250539   07107       DAYA SHARMA                     MPSE004   
+  437 MPS-128250553   07107       NEETA                           MPSE006   
+  438 MPS-128250689   07107       SANTOSH                         MED002 MED008 MPS001 MPS004 MPSE001   
+                                                                  MPSE002 MPSE004 MPSE005 MPSE007 MPSE008   
+  439 MPS-128250696   07107       SONAL                           MPS001 MPSE001 MPSE006   
+  440 MPS-128250704   07107       SAINAJ                          MED002 MED008 MPSE001 MPSE002 MPSE005   
+                                                                  MPSE006 MPSE007 MPSE008   
+  441 MPS-128250893   07107       VINOD KUMAR                     MPSE004 MPSE006 MPSE011   
+  442 MPS-128250901   07107       JITENDRA                        MPS001 MPSE004 MPSE006 MPSE011   
+  443 MPS-128250919   07107       DEEPIKA SINGH                   MPSE006   
+  444 MSO-128251372   07107       MANJU KANOJIA                   MPS003 MSO002 MSO004    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   11
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 07107                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  445 MCOM-128254496  07107       RENU PRAJAPATI                  IBO06 MCO03 MCO05 MCO07     
+  446 MCOM-128254740  07107       PRAMOD KUMAR                    MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  447 MCOM-128255119  07107       VAIBHAV GUPTA                   IBO05 IBO06     
+  448 MCOM-128255269  07107       RENU RANI                       MCO03 MCO05 MCO06     
+  449 MCOM-128255276  07107       YASMEEN                         MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  450 MCOM-128255480  07107       SANDEEP NEGI                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  451 MCOM-128256468  07107       SARITA RAWAT                    MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  452 MCOM-128256737  07107       SHAILJA SHUKLA                  MCO03     
+  453 MCOM-128256894  07107       ROHIT KUMAR                     MCO03     
+  454 MCOM-128257080  07107       POOJA                           MCO06     
+  455 MCOM-128257398  07107       MONISHA MAHANI                  MCO01 MCO03     
+  456 BDP-128263187   07107       GEETA TOMAR                     PHE04 PHE05 PHE06 PHE07     
+  457 BBARL-128280635 07107       DHIRENDRA KUMAR                 AMK01 BCOA001 BRL006 BRL007 BRL008    
+                                                                  ECO01     
+  458 BBARL-128281240 07107       DEEPAK TIWARI                   BRL008    
+  459 BDP-130188621   07107       DEEPAK KUMAR CHOUDHARY          EHI01 EPA01 EPA03 EPA04 FST01     
+  460 MED-130567343   07107       NEETU                           MES055 MES056 MESE066   
+  461 MED-130567637   07107       REGINA DARUWALLA                MES055 MES056 MESE067   
+  462 MHD-130860590   07107       BABITA FULAR                    MHD01 MHD02 MHD05 MHD07 MHD13     
+                                                                  MHD14 MHD15 MHD16     
+  463 MCOMBPCG-130861023                      07107       MEGHA SHARMA                    IBO01 MCO01 MCO03 MCO05     
+  464 MCA-130861173   07107       PRIYANKA DHANIWAL               MCS032 MCS033 MCS041 MCS042 MCS043    
+                                                                  MCSL025 MCSL036 MCSL045   
+  465 MCOM-130863761  07107       SAYYED SHUJAUDDIN               MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  466 MCOM-130863819  07107       BIPIN K CHANDY                  IBO02 IBO04 IBO06     
+  467 MAEDU-130864036 07107       SEEMA BALOONI                   MES111 MES112 MES113 MES114 MES115    
+  468 DNHE-130864835  07107       SODAN SINGH                     DNHE01 DNHE03    
+  469 BED-130870061   07107       SHASHI DHOUNDIYAL               BESE065 BESE066 ES334 ES335 ES361     
+  470 BED-130870133   07107       SHALLY ARYA                     BESE065 BESE066 ES334 ES335 ES363     
+  471 BED-130870237   07107       SEEMA                           BESE065 BESE066 ES334 ES335 ES363     
+  472 BED-130870552   07107       NISHA  BHARTI                   BESE065 BESE066 ES334 ES335 ES363     
+  473 BED-130871389   07107       BABITA                          BESE065 BESE066 ES332 ES333 ES334     
+                                                                  ES335 ES343 ES344 ES362     
+  474 BED-130871396   07107       POONAM SHARMA                   BESE065 BESE066 ES334 ES335 ES361     
+  475 BED-130871658   07107       SHALU JAIN                      BESE065 BESE066 ES334 ES335 ES362     
+  476 MPA-131113518   07107       HEMLATA                         MPA013 MPA015 MPA016 MPS003    
+  477 BDP-131116441   07107       KIRAN                           ECO03 ECO05 ECO06 ECO07 ECO12     
+                                                                  ECO14 FST01     
+  478 BDP-131117070   07107       SHUBHAM                         ECO03 ECO05 ECO07 ECO12 ECO13     
+                                                                  ECO14 FST01     
+  479 BDP-131117292   07107       VISHAL GUPTA                    ECO03 ECO05 ECO06 ECO07 ECO12     
+                                                                  ECO14 FST01     
+  480 BDP-131117744   07107       MANOJ                           ECO06 ECO07 ECO14 EHD05 FEG01     
+                                                                  FEG02 FST01     
+  481 BDP-131118137   07107       RAJESH MATHEWS                  ECO03 ECO05 ECO06 ECO07 ECO12     
+                                                                  ECO14 FST01     
+  482 BDP-131118477   07107       AJIT YADAV                      ECO03 ECO05 ECO07 ECO12 ECO13     
+                                                                  ECO14 FST01     
+  483 BDP-131118721   07107       VISHAL KANOJIA                  ECO03 ECO05 ECO07 ECO12 ECO14     
+                                                                  FST01     
+  484 BDP-131118800   07107       NISHANT                         ECO03 ECO05 ECO07 ECO12 ECO13     
+                                                                  ECO14 EEC11 FEG01 FST01     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   12
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 07107                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  485 BDP-131118871   07107       ATUL KUMAR MISHRA               ECO03 ECO05 ECO07 ECO12 ECO13     
+                                                                  ECO14 FST01     
+  486 BDP-131119050   07107       PRIYANKA VERMA                  ECO03 ECO05 ECO07 ECO12 ECO13     
+                                                                  ECO14 FST01     
+  487 BDP-131120079   07107       VAISHNAVI SHARMA                BSHF101 LSE05 LSE06 LSE07     
+  488 BDP-131120473   07107       NAVITA GOLA                     BSHF101 CHE04 CHE09 FEG01 LSE01     
+  489 BDP-131120520   07107       REHAN                           BSHF101 FST01 MTE01     
+  490 BDP-131120591   07107       GAURAV DUBEY                    MTE01 MTE02 MTE04 MTE05 MTE06     
+  491 BDP-131120688   07107       VEDPRAKASH SHARMA               BSHF101 CHE01 CHE02 CHE04 MTE01     
+                                                                  PHE07     
+  492 BDP-131120742   07107       AMBEY PRASAD                    BSHF101 CHE01 CHE02 CHE04 CHE09     
+  493 BDP-131120774   07107       BOBBY                           FEG02 FST01 LSE02 MTE02 PHE06     
+  494 BDP-131120799   07107       KRISHNA CHANDRA PANT            BPC001 BPC002 BPC003 BSHF101   
+  495 BDP-131120989   07107       JYOTI RANI                      BPHE101 BSHF101 CHE05 CHE09 FEG01     
+                                                                  MTE01 PHE02 PHE04 PHE05     
+  496 BDP-131121024   07107       SANTOSH KUMAR JHA               BSHF101 PHE02 PHE04 PHE05 PHE06     
+                                                                  PHE07 PHE09 PHE10 PHE15     
+  497 BDP-131121063   07107       LAKSHYA SHARMA                  FEG02 PHE01 PHE02 PHE04 PHE05     
+                                                                  PHE06     
+  498 BDP-131121095   07107       MEENAKSHI SHARMA                BSHF101 CHE02 LSE06 MTE02 PHE09     
+  499 BDP-131121142   07107       MEENAKSHI CHAUHAN               BSHF101 CHE04 CHE06 CHE09 LSE01     
+                                                                  MTE03     
+  500 BDP-131121214   07107       HEMA RAWAT                      BSHF101 CHE04 CHE05 CHE06 CHE09     
+                                                                  PHE07 PHE09     
+  501 BDP-131121239   07107       PRIYA SRIVASTAVA                BSHF101 CHE04 CHE05 LSE02     
+  502 BDP-131121332   07107       MAQSUD ALI                      MTE01 MTE04 MTE05 MTE06     
+  503 BDP-131121429   07107       SANDEEP KUMAR                   BSHF101 CHE02 MTE01 MTE02 MTE03     
+                                                                  MTE04 MTE05     
+  504 BDP-131121450   07107       VIKRANT CHAUDHARY               BSHF101 CHE01 CHE04 LSE01 MTE01     
+                                                                  MTE02 PHE09     
+  505 BDP-131121530   07107       ANU BALA                        BSHF101 PHE07 PHE09 PHE10 PHE15     
+  506 BDP-131121680   07107       PINKY PANWAR                    BSHF101 CHE09 LSE05 LSE06 MTE01     
+                                                                  MTE02 PHE07 PHE09     
+  507 BDP-131121705   07107       DHEERAJ                         BPHE101 BSHF101 PHE02     
+  508 BDP-131121712   07107       RAHUL KUMAR                     BSHF101 CHE02 CHE04 LSE01 LSE02     
+  509 BDP-131121783   07107       DEEPANKSHI                      LSE03 LSE05 LSE06 LSE07     
+  510 BDP-131121809   07107       PRADEEP KUMAR VERMA             BSHF101 PHE02 PHE05 PHE07 PHE09     
+  511 BDP-131121887   07107       POOJA                           BSHF101 CHE02 CHE04 LSE01 LSE02     
+  512 BDP-131121894   07107       RUBY                            BSHF101 CHE01 MTE05 MTE08 MTE10     
+  513 BLS-131125229   07107       VINITA SHARMA                   BLS01 BLS06 BLS3P BLS4P     
+  514 MAPC-131225754  07107       SHRUTI SHARMA                   MPCE011 MPCE012 MPCE013   
+  515 MAH-131235984   07107       ABHISHEK KUMAR                  MHI01 MHI03 MHI06 MHI08 MPSE003   
+                                                                  MPSE004   
+  516 MCOM-131237236  07107       POONAM                          MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  517 MCOM-131237315  07107       ANUPAM                          MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  518 MCOM-131237759  07107       AKANKSHA                        MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  519 MCOM-131237988  07107       VED PRAKASH                     IBO06 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+  520 MCOM-131238016  07107       KUNIKA GUPTA                    IBO04 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+  521 MCOM-131238048  07107       VIVEK THAPLIYAL                 IBO06 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+  522 MCOM-131238919  07107       RUHANI                          IBO05 IBO06 MCO01 MCO03 MCO04     
+                                                                  MCO05 MCO06 MCO07     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   13
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 07107                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  523 MCOM-131238997  07107       AJAY KUMAR                      MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  524 MCOM-131239136  07107       KAMAL NARAYAN THAKUR            IBO06 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+  525 MCOM-131239150  07107       JUHI GARG                       IBO06 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+  526 MCOM-131239358  07107       SONALI                          IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  527 MCOM-131239555  07107       RAHUL RAWAT                     IBO03 IBO06 MCO01 MCO03 MCO04     
+                                                                  MCO05 MCO06 MCO07     
+  528 MCOM-131239570  07107       RAHUL KUMAR MISHRA              MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  529 MCOM-131239680  07107       NIDHI CHAUHAN                   MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  530 MCOM-131239738  07107       AYUSHI TRIPATHI                 IBO05 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+  531 MCOM-131240345  07107       NIDHI JAIN                      MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  532 MCOM-131240377  07107       ROHIT KUMAR                     IBO06 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+  533 MCOM-131240550  07107       KAMNA BANSAL                    MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  534 MCOM-131240567  07107       RAHUL GUPTA                     MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  535 MCOM-131240850  07107       GAJENDER SINGH                  IBO05 IBO06 MCO01 MCO03 MCO04     
+                                                                  MCO05 MCO06 MCO07     
+  536 MCOM-131240868  07107       SWETA VERMA                     MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  537 MCOM-131240922  07107       SHIV KUMAR                      MCO01 MCO04 MCO06     
+  538 MP-131341478    07107       MD SULTAN ALAM                  MS08 MS09 MS10 MS11 MS91      
+  539 MHD-131517120   07107       SHALU PERIHAR                   MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  540 MHD-131517216   07107       PUNEETA                         MHD01 MHD02 MHD05 MHD07 MHD13     
+                                                                  MHD14 MHD15 MHD16     
+  541 MHD-131517223   07107       MADHULIKA PANDEY                MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  542 MHD-131518028   07107       AMIT KUMAR                      MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  543 MHD-131518081   07107       SUMAN LATA                      MHD01 MHD02 MHD05 MHD06 MHD07     
+                                                                  MHD13 MHD14 MHD15 MHD16     
+  544 MHD-131518099   07107       MANJU RAJPUT                    MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  545 MHD-131518240   07107       RAJIV PRASAD PATEL              MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  546 MHD-131518637   07107       SACHIN KUMAR                    MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  547 MHD-131518669   07107       AARTI                           MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  548 MHD-131518676   07107       DEEPIKA                         MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  549 MHD-131518841   07107       KAMAL KUMARI SHARMA             MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  550 MHD-131518920   07107       MEENA                           MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  551 MHD-131518977   07107       RENU SAINY                      MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  552 MHD-131519069   07107       KSHAMA                          MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   14
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 07107                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  553 MHD-131519621   07107       YOGITA KUMARI                   MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  554 MHD-131519930   07107       POONAM RANI                     MHD01 MHD02 MHD05 MHD06 MHD07     
+                                                                  MHD13 MHD14 MHD15 MHD16     
+  555 MHD-131520000   07107       POONAM KUMARI                   MHD01 MHD05 MHD06 MHD07 MHD13     
+                                                                  MHD14 MHD15 MHD16     
+  556 MHD-131520150   07107       SARITA                          MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  557 MHD-131520389   07107       SUPRIYA                         MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  558 MHD-131520411   07107       ANJU                            MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  559 MHD-131520429   07107       SANJEETA                        MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  560 MHD-131520482   07107       SUNITA KUMARI                   MHD01 MHD05 MHD06 MHD07 MHD13     
+                                                                  MHD14 MHD15 MHD16     
+  561 MHD-131520744   07107       MANISHA                         MHD01 MHD05 MHD07     
+  562 MHD-131520769   07107       POOJA                           MHD02 MHD06     
+  563 MHD-131520823   07107       USHA                            MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  564 MHD-131520902   07107       MAMTA                           MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  565 MHD-131520910   07107       SAPNA                           MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  566 MLS-131527833   07107       MANJU MISHRA                    MLIE103 MLII102 MLII103   
+  567 MPS-131528233   07107       ARTI GHILDIYAL                  MED002 MED008 MPS004 MPSE001 MPSE004   
+                                                                  MPSE006 MPSE007 MPSE008 MPSE013   
+  568 MPS-131528462   07107       NAKUL ANAND                     MED002 MED008 MPS004 MPSE001 MPSE003   
+                                                                  MPSE004 MPSE006 MPSE007 MPSE008   
+  569 MPS-131528724   07107       MONIKA                          MED008 MGP004 MGPE008 MGPE011 MPSE006   
+                                                                  MPSE007 MPSE008   
+  570 MPS-131528939   07107       SUMAN BALA                      MED002 MED008 MGPE011 MPSE001 MPSE002   
+                                                                  MPSE003 MPSE004 MPSE008   
+  571 MPS-131529163   07107       POOJA KUMARI                    MED002 MED008 MPSE001 MPSE002 MPSE003   
+                                                                  MPSE004 MPSE007 MPSE008   
+  572 MPS-131529274   07107       PRAMOD BABU                     MED002 MED008 MPSE001 MPSE002 MPSE003   
+                                                                  MPSE004 MPSE007 MPSE008   
+  573 MPS-131529719   07107       BHAWNA SHARMA                   MED002 MED008 MPSE003 MPSE004 MPSE006   
+                                                                  MPSE007 MPSE008 MPSE009   
+  574 MPS-131530175   07107       SUSHMA KUMARI                   MED002 MED008 MPSE001 MPSE002 MPSE007   
+                                                                  MPSE008 MPSE011 MPSE012   
+  575 MPS-131530182   07107       KAUSAR PRAVEEN                  MED002 MED008 MPSE001 MPSE003 MPSE006   
+                                                                  MPSE007 MPSE008 MPSE009   
+  576 MPS-131530365   07107       SAPNA                           MED002 MED008 MPS001 MPSE002 MPSE003   
+                                                                  MPSE004 MPSE006 MPSE008   
+  577 MPS-131530405   07107       LIMPA RANA                      MGP004 MGPE007 MGPE011 MPSE001 MPSE003   
+                                                                  MPSE004 MPSE007 MPSE008   
+  578 MPS-131530476   07107       KIRAN GHANSELA                  MED002 MPSE001 MPSE003 MPSE004 MPSE008   
+  579 MPS-131530570   07107       NARESH CHAUHAN                  MPSE001 MPSE002 MPSE003 MPSE004   
+                                                                  MPSE005 MPSE006 MPSE007 MPSE008   
+  580 MPS-131530634   07107       RITIKA DUGGAL                   MED002 MED008 MGP004 MGPE010 MGPE011   
+                                                                  MPSE001 MPSE004 MPSE007   
+  581 MPS-131530641   07107       RADHIKA DUGGAL                  MED002 MED008 MGP004 MGPE010 MGPE011   
+                                                                  MPSE001 MPSE004 MPSE007   
+  582 MPS-131531256   07107       DHARMENDRA KUMAR                MED002 MED008 MPSE001 MPSE003 MPSE006   
+                                                                  MPSE007 MPSE008 MPSE009   
+  583 MPS-131531350   07107       ASHA                            MED002 MED008 MPSE001 MPSE003 MPSE004   
+                                                                  MPSE006 MPSE007 MPSE008   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   15
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 07107                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  584 MPS-131531518   07107       RUBY CHOUDHARY                  MED002 MED008 MPS001 MPS004 MPSE003   
+                                                                  MPSE004 MPSE006 MPSE007 MPSE008 MPSE009   
+  585 MPS-131531690   07107       MADHUSHREE BAUR                 MED002 MED008 MGPE011 MGPE013 MPS001    
+                                                                  MPS002 MPS004 MPSE001 MPSE004 MPSE007 MPSE008   
+  586 MPS-131531833   07107       SATYAKETI                       MED008 MGPE007 MGPE011 MGPE013 MPS001    
+                                                                  MPS002 MPSE001 MPSE007 MPSE008 MPSE009   
+  587 MPS-131531858   07107       SUNIL KUMAR                     MED002 MED008 MPS002 MPS004 MPSE001   
+                                                                  MPSE004 MPSE006 MPSE007 MPSE008 MPSE011   
+  588 MPS-131532369   07107       FAREEN                          MPSE003 MPSE004 MPSE006 MPSE007   
+                                                                  MPSE008 MPSE009   
+  589 MPS-131532620   07107       SONAM KUMARI                    MPSE001 MPSE002 MPSE003 MPSE004   
+                                                                  MPSE005 MPSE006 MPSE007 MPSE008   
+  590 MPS-131532921   07107       GANESH JOSHI                    MED008 MPSE001 MPSE003 MPSE004 MPSE006   
+                                                                  MPSE007 MPSE008 MPSE011   
+  591 MPS-131532960   07107       KOMAL LATA                      MED002 MED008 MPS004 MPSE001 MPSE003   
+                                                                  MPSE004 MPSE008   
+  592 MP-131599080    07107       RAHUL SINGH RAWAT               MS08 MS41 MS44 MS45 MS46 MS91      
+  593 MP-131599786    07107       SUMIT KUMAR                     MS03 MS05 MS45 MS46      
+  594 MP-131599819    07107       AMIT KUMAR                      MS05 MS08 MS55 MS57      
+  595 MP-131599826    07107       HARISH KUMAR                    MS05 MS08 MS55 MS57      
+  596 MP-131599920    07107       ASHU BHATIA                     MS06 MS08 MS25 MS91 MS95 MS96      
+  597 MP-131599969    07107       ANKIT RAWAT                     MS04 MS09 MS10 MS11 MS93      
+  598 MP-131600067    07107       HARINDER KUMAR                  MS612 MS66 MS91 MS95      
+  599 MP-131600160    07107       DEEPALI THAKUR                  MS02 MS08 MS44 MS45      
+  600 MP-131600390    07107       NISHANT MALHOTRA                MS03 MS04 MS44 MS46 MS95 MS97      
+  601 MP-131600461    07107       NAVENDRA SINGH                  MS10 MS611 MS66 MS91      
+  602 MP-131600597    07107       JYOTI                           MS05 MS09 MS25 MS27      
+  603 MP-131600669    07107       NIKITA                          MS08 MS44 MS45 MS46      
+  604 MP-131600866    07107       JASBIR KAUR SIDANA              MS05 MS09 MS25 MS27      
+  605 MP-131600873    07107       RAMA KHANNA                     MS05 MS09 MS25 MS27      
+  606 MP-131600984    07107       NEETU THAKUR                    MS09 MS10 MS11 MS91      
+  607 MP-131601266    07107       TWINKLE GARG                    MS02 MS06 MS07      
+  608 BDP-131602204   07107       BHUPENDRA SHARMA                BPHE101 FEG01 PHE02 PHE04 PHE05     
+                                                                  PHE06     
+  609 BDP-131602393   07107       HIMANSHU GOYAL                  BSHF101 MTE08 MTE10 PHE04 PHE05     
+  610 BDP-131602465   07107       NILAY GANDHI                    BSHF101 CHE01 PHE07     
+  611 BDP-131602512   07107       REETESHA SINGH                  BSHF101 CHE01 CHE02 LSE05 LSE06     
+                                                                  LSE07     
+  612 MCOM-131667097  07107       RAJEEV KUMAR                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  613 MSMACS-13166804207107       SUJATA ARYA                     MMT003 MMT007 MMT008 MMT008P MMT009    
+                                                                  MMTE001 MMTE003 MMTE004 MMTE006   
+  614 MSMACS-13166847907107       HITESH AHUJA                    MMT001 MMT001P MMT003 MMT006 MMT007    
+                                                                  MMT007P MMT008 MMT008P MMT009 MMTE001 MMTE002 MMTE003 MMTE004   
+  615 MSMACS-13166887307107       SUDHIR KUMAR AGGARWAL           MMT001 MMT003 MMT006 MMT007 MMT007P   
+                                                                  MMT008P MMT009 MMTE001 MMTE002 MMTE003 MMTE004   
+  616 MSMACS-13166918707107       AJIT SINGH                      MMT001 MMT003 MMT004 MMT006 MMT007    
+                                                                  MMT007P MMT008 MMT008P MMT009 MMTE001 MMTE002 MMTE003 MMTE004   
+  617 BDP-131699212   07107       KAVITA PANT                     BPSE212 EHI01 EPS07 ESO13 FST01     
+  618 MAH-131701018   07107       SUNITA KUMARI                   MHI01 MHI03 MHI04 MHI06 MHI08     
+                                                                  MPSE003 MPSE004   
+  619 MAH-131701333   07107       FAYZA                           MHI03 MHI04 MHI06 MHI08 MPSE003   
+                                                                  MPSE004   
+  620 MAH-131701856   07107       SONAM                           MHI01 MHI02 MHI03 MHI04 MHI06     
+                                                                  MHI08 MPSE003 MPSE004   
+  621 MAH-131702152   07107       JAVED KHAN                      MHI03 MHI06 MHI08 MPSE003 MPSE004   
+  622 MAH-131702217   07107       KAUSHIK ANAND                   MHI01 MHI02 MHI03 MHI04 MHI05     
+                                                                  MHI06 MHI08 MPSE003 MPSE004   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   16
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 07107                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  623 MAH-131702342   07107       GEETA KUMARI                    MHI03 MHI06 MHI08 MPSE003 MPSE004   
+  624 MAH-131702485   07107       VIJAY KUMAR SHARMA              MHI01 MHI02 MHI05     
+  625 MCOM-131704091  07107       AYUSHI JHA                      MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  626 MCOM-131704360  07107       PRIYANKA SINGH                  MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  627 MCOM-131704400  07107       PINKI                           MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  628 MCOM-131704432  07107       MAMTA                           IBO01 IBO02 IBO03 IBO05 IBO06     
+  629 MCOM-131704568  07107       HIMANI ARORA                    MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  630 MCOM-131704719  07107       PARUL THAKUR                    MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  631 MCOM-131704765  07107       NIDHI GOEL                      IBO06 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+  632 MCOM-131704797  07107       HEENA RANI                      IBO05 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+  633 MCOM-131705410  07107       KSHITI DAS                      IBO01 IBO06 MCO01 MCO03 MCO04     
+                                                                  MCO05 MCO06 MCO07     
+  634 MCOM-131705473  07107       AMRIN                           IBO06 MCO01 MCO03 MCO04 MCO06     
+  635 MCOM-131705584  07107       KUSUM                           MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  636 MCOM-131705703  07107       LEELA BORA                      IBO01 IBO05 MCO01 MCO03 MCO04     
+                                                                  MCO05 MCO06 MCO07     
+  637 MCOM-131705728  07107       STUTI SETHI                     MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  638 MCOM-131705735  07107       GAGANDEEP KAUR                  IBO06 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+  639 MCOM-131705767  07107       SHIKHA SINGH                    IBO06 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+  640 MCOM-131705892  07107       NUJHAT KHANUM                   IBO06 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+  641 MCOM-131706031  07107       SHAH HUSSAIN                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  642 MCOM-131706167  07107       DIKSHA PAL                      IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  643 MCOM-131706404  07107       MANOJ KUMAR                     MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  644 MCOM-131706411  07107       AMIT KUMAR GAUTAM               IBO05 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+  645 MCOM-131706626  07107       ARCHANA MISHRA                  MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  646 MCOM-131706910  07107       ANJU BISHT                      MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  647 MCOM-131706934  07107       KOMAL                           MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  648 MCOM-131706941  07107       SADHNA                          IBO02 IBO06 MCO01 MCO03 MCO04     
+                                                                  MCO05 MCO06 MCO07     
+  649 MCOM-131707294  07107       BHAWNA KUMARI                   IBO03 IBO06 MCO01 MCO03 MCO04     
+                                                                  MCO05 MCO06 MCO07     
+  650 MCOM-131707406  07107       PINKY DEVI                      IBO06 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+  651 MCOM-131707714  07107       AARTI KUMARI                    IBO03 IBO04 IBO06 MCO01 MCO03     
+                                                                  MCO04 MCO05 MCO06 MCO07     
+  652 MCOM-131707950  07107       SWATI                           MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  653 MCOM-131707982  07107       ANUJ KUMAR                      IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   17
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 07107                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  654 MPS-131708114   07107       MANISHA RANI                    MED002 MED008 MPS002 MPSE001 MPSE003   
+                                                                  MPSE004 MPSE006 MPSE007 MPSE008   
+  655 MPS-131708178   07107       SATISH CHAND                    MED002 MED008 MPS001 MPSE001 MPSE002   
+                                                                  MPSE005 MPSE007 MPSE008 MPSE012   
+  656 MPS-131708264   07107       PREETI SHARMA                   MED002 MED008 MPSE002 MPSE003 MPSE004   
+                                                                  MPSE006 MPSE007 MPSE008   
+  657 MPS-131708558   07107       POOJA SHARMA                    MED002 MED008 MPSE001 MPSE004 MPSE006   
+                                                                  MPSE007 MPSE008 MPSE011   
+  658 MPS-131708572   07107       NEELAM CHAUHAN                  MED008 MPSE001 MPSE004 MPSE005 MPSE007   
+                                                                  MPSE008 MPSE011 MPSE012   
+  659 MPS-131708597   07107       JYOTI                           MED002 MED008 MPS001 MPSE001 MPSE004   
+                                                                  MPSE006 MPSE007 MPSE008 MPSE009   
+  660 MPS-131708802   07107       CHHAVI BHARDWAJ                 MED002 MED008 MPSE001 MPSE002 MPSE006   
+                                                                  MPSE007 MPSE008 MPSE012   
+  661 MPS-131708938   07107       NEERU                           MED002 MED008 MPS002 MPSE001 MPSE002   
+                                                                  MPSE005 MPSE006 MPSE007 MPSE008   
+  662 MPS-131708952   07107       SHILPA                          MED002 MED008 MPSE001 MPSE002 MPSE006   
+                                                                  MPSE007 MPSE008 MPSE009   
+  663 MPS-131708984   07107       NOOR BANO                       MED002 MED008 MPSE001 MPSE002 MPSE005   
+                                                                  MPSE006 MPSE007 MPSE008   
+  664 MPS-131709083   07107       BARKHA BODH                     MPS001 MPS002 MPS003 MPS004    
+  665 MPS-131709639   07107       MONIKA                          MED002 MED008 MGP004 MPSE001 MPSE004   
+                                                                  MPSE006 MPSE007 MPSE008   
+  666 MPS-131709811   07107       DEEPIKA                         MPSE001 MPSE003 MPSE004 MPSE007   
+                                                                  MPSE009 MPSE011   
+  667 MPS-131709930   07107       SHASHI                          MED002 MED008 MPSE001 MPSE004 MPSE006   
+                                                                  MPSE007 MPSE008 MPSE011   
+  668 MPS-131710332   07107       NISHA SINGH                     MED008 MPSE001 MPSE003 MPSE004 MPSE005   
+                                                                  MPSE006 MPSE007 MPSE011   
+  669 MPS-131710443   07107       POONAM                          MED008 MGP004 MGPE011 MGPE013 MPSE001   
+                                                                  MPSE006 MPSE007 MPSE008   
+  670 MPS-131710468   07107       PADMA                           MED002 MED008 MPSE003 MPSE004 MPSE006   
+                                                                  MPSE007 MPSE008 MPSE009   
+  671 MPS-131710705   07107       DEEPAK SHARMA                   MED002 MED008 MPSE001 MPSE003 MPSE006   
+                                                                  MPSE007 MPSE008 MPSE009   
+  672 MPS-131710816   07107       SANGEETA CHAUHAN                MED008 MPSE001 MPSE003 MPSE004 MPSE005   
+                                                                  MPSE006 MPSE007 MPSE008   
+  673 MPS-131710830   07107       AJIT KUMAR RAI                  MPS001 MPS002 MPS003 MPS004    
+  674 MPS-131710855   07107       POOJA RAWAT                     MED002 MED008 MPSE001 MPSE003 MPSE004   
+                                                                  MPSE005 MPSE007 MPSE008   
+  675 MHD-131712200   07107       DEEPMALA                        MHD13 MHD14 MHD15 MHD16     
+  676 MHD-131712580   07107       RAJESHWARI                      MHD01 MHD02 MHD05 MHD06 MHD07     
+                                                                  MHD13 MHD14 MHD15 MHD16     
+  677 MHD-131712605   07107       RAAGINI KUMARI                  MHD01 MHD02 MHD05 MHD06 MHD07     
+                                                                  MHD13 MHD14 MHD15 MHD16     
+  678 MHD-131713400   07107       TULSI RANI                      MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  679 MHD-131713581   07107       REKHA MALIK                     MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  680 MHD-131713653   07107       DEEPTI                          MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  681 BDP-131721217   07107       ALKA MALIK                      BECE214 EPA01 EPA03 FST01     
+  682 MED-131745650   07107       ANJALI GAGAN                    MES054 MES056 MESE062   
+  683 BED-131747116   07107       AMIT KUMAR                      BESE065 BESE066 ES334 ES335 ES363     
+  684 BED-131747170   07107       SONU BALA                       BESE065 BESE066 ES334 ES335 ES363     
+  685 MPS-131856325   07107       BIRENDRA KUMAR                  MPSE001 MPSE002 MPSE003 MPSE004   
+                                                                  MPSE005 MPSE006 MPSE007 MPSE008   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   18
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 07107                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  686 MAH-131857072   07107       RANI JUNIANA SANGA              MHI03 MHI06 MHI08 MPSE003 MPSE004   
+  687 MLS-135616701   07107       SHARDA                          MLIE106 MLII101 MLII102 MLII103   
+  688 BDP-137098389   07107       SHUBHAM JHUN JHUN WALA          BEGE101 BSHF101 ECO01 ECO02 FEG01     
+                                                                  FEG02     
+  689 BDP-137515510   07107       GAURAV                          CHE01 FEG02 MTE01 MTE04 MTE05     
+  690 BDP-137515580   07107       ANKITA SINGH                    BPHE101 CHE02 FEG01 FEG02 FST01     
+                                                                  LSE01 MTE02 PHE02     
+  691 BDP-137515638   07107       MOHAN SETHI                     FEG01 FEG02 FST01 MTE01 MTE02     
+                                                                  MTE04 MTE05 MTE06     
+  692 BDP-137515645   07107       ANNAPURANA                      BPHE101 FEG02 FST01 PHE02 PHE05     
+  693 BDP-137515749   07107       AAKASH KUMAR                    CHE01 FEG01 FEG02 FST01 LSE02     
+  694 BDP-137515756   07107       ATIKANT SAGGAR                  PHE02 PHE04 PHE05 PHE06     
+  695 BDP-137515835   07107       SOURABH JAIN                    BPHE101 FEG02 FST01 PHE02 PHE06     
+  696 MPS-137515867   07107       PREETI MISHRA                   MPS001 MPS002 MPS003 MPS004    
+  697 MPS-137515914   07107       AKANSHA DWIVEDI                 MPS001    
+  698 MPS-137515939   07107       SEEMA KUMARI                    MPS001 MPS002    
+  699 MPS-137515946   07107       PARDEEP KUMAR                   MPS001    
+  700 MPS-137515953   07107       GAURAV                          MPS001 MPS002    
+  701 MPS-137515985   07107       SWARNA CHATTERJEE               MPS001    
+  702 MPS-137516045   07107       NEERAJ KUMAR                    MPS001    
+  703 MPS-137516052   07107       AAMIR AHMED                     MPS001 MPS002 MPS004    
+  704 BDP-137516360   07107       PRIYANKA KUMARI                 FEG02 MTE01     
+  705 BDP-137516392   07107       ANMOL SHARMA                    FEG02 MTE01 MTE02 PHE02     
+  706 BDP-137516400   07107       VIKAS                           BPHE101 CHE01 MTE01 MTE04 MTE05     
+                                                                  PHE02     
+  707 BDP-137516440   07107       SARAFAT ALI                     FST01 MTE01 PHE02     
+  708 BDP-137516464   07107       RISHABH KUMAR GOLA              FEG02 MTE01 PHE02     
+  709 BDP-137516529   07107       DEEPAK SINGH                    BPHE101 FEG02 MTE01 MTE02     
+  710 BDP-137516543   07107       BHAVISHYA VERMA                 FST01 PHE01 PHE04 PHE05 PHE06     
+  711 BDP-137516568   07107       SHAMA PARVEEN                   FEG02 MTE02     
+  712 BDP-137516622   07107       SNEHA JHA                       FEG02 LSE03     
+  713 BDP-137516701   07107       SUNNY KUMAR                     CHE01 CHE02 CHE05 FEG01 FEG02     
+                                                                  FST01     
+  714 BDP-137516837   07107       KUSHAGR SAXENA                  CHE01 FEG01 FEG02 FST01 MTE01     
+                                                                  MTE04 MTE05     
+  715 BDP-137516851   07107       POOJA KUMARI                    BPHE101 CHE01 LSE01 PHE02     
+  716 BDP-137516948   07107       AKHILESH KUMAR                  BHDF101 BPHE101 CHE01 FEG01 MTE01     
+                                                                  MTE04 MTE05 PHE02     
+  717 BDP-137516994   07107       RAMAN KUMAR                     MTE02     
+  718 BDP-137517061   07107       PAPIYA GHOSH                    BPHE101 CHE01 FEG02 MTE01 PHE02     
+  719 BDP-137517101   07107       ARTI                            FEG02 FST01 LSE01 LSE03     
+  720 MCOM-137517473  07107       GEETA                           IBO06     
+  721 BDP-137518246   07107       PALAK MEHTA                     BSHF101 ECO01 FEG01 FEG02     
+  722 BDP-137518357   07107       BHAVINI SINGH                   FEG02     
+  723 BDP-137519223   07107       GAGAN KUMAR SAH                 BECE002 BHDF101 BSHF101 ECO01     
+                                                                  ECO02 FHD02     
+  724 BDP-137520020   07107       KM FARHA YASMIN                 BPSE212 BSHF101   
+  725 BDP-137523570   07107       SHIKHA GUPTA                    BHDF101   
+  726 BDP-137525567   07107       GAURAV SINGH BANSAL             BEGE101 BPSE212   
+  727 BDP-137527134   07107       NEETU KUMARI                    BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FEG01     
+  728 BDP-137527696   07107       BHARTI BHATT                    BSHF101 EHI02     
+  729 BDP-137527861   07107       BHARTI SHARMA                   BHDF101 BSHF101 EHD02 FHD02     
+  730 BDP-137528340   07107       ANNU                            BSHF101 EHI02     
+  731 BDP-137530021   07107       PUNAM PATEL                     BHDF101 BSHF101 ECO01 ECO02 EEC11     
+                                                                  FHD02     
+  732 BDP-137530616   07107       VIJAY KUMAR YADAV               ECO02     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   19
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 07107                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  733 BDP-137530900   07107       JYOTI DUBEY                     BEGE101   
+  734 BDP-137531009   07107       DURGESH PRATAP SINGH            BSHF101 ECO01 ECO02 EHI01 FEG01     
+                                                                  FEG02     
+  735 BDP-137531886   07107       DURGESH KUMARI                  BHDF101 BSHF101 ECO01 ECO02 EHD02     
+                                                                  FHD02     
+  736 BDP-137532129   07107       POOJA KORI                      ECO02     
+  737 BDP-137532136   07107       SUNIL KUMAR                     ECO02 EEC11 FEG01     
+  738 BDP-137532405   07107       AVNEESH KUMAR                   BEGE101   
+  739 BDP-137532634   07107       BUNTY                           BHDF101 CHE05 FEG01 FST01 LSE03     
+                                                                  PHE06     
+  740 BDP-137532641   07107       ANNU GUPTA                      CHE01 PHE02     
+  741 BDP-137532666   07107       SHIKHA DHYANI                   CHE02 LSE01 MTE02 PHE06     
+  742 BDP-137532745   07107       VARSHA                          FEG01 FEG02 LSE03     
+  743 BDP-137532800   07107       DIMPY SHARMA                    MTE01 PHE02 PHE05     
+  744 BCOMAF-13753637007107       SUKRITI ARORA                   AED01 BEGE104 BSHF101 ECO13 FEG01     
+                                                                  FEG02     
+  745 BCOMAF-13753872107107       TUSHAR MOHAN                    AED01 BEGE104 BSHF101 ECO13 FEG01     
+                                                                  FEG02     
+  746 MHD-137540079   07107       KAVITA PHULAR                   MHD02     
+  747 MHD-137540126   07107       INSHU CHOPRA                    MHD02     
+  748 MHD-137540140   07107       VARSHA                          MHD02 MHD06     
+  749 MHD-137540165   07107       MEERA                           MHD02 MHD03 MHD06     
+  750 MHD-137540212   07107       PREETI AMBAVAT                  MHD02 MHD03 MHD04 MHD06     
+  751 MHD-137540237   07107       KAILASH CHANDRA                 MHD02 MHD04     
+  752 MHD-137540283   07107       AJAY KUMAR                      MHD02 MHD03 MHD04 MHD06     
+  753 MHD-137540355   07107       SAVITA KUMARI                   MHD02 MHD03 MHD04 MHD06     
+  754 MHD-137540362   07107       SANDHYA HALDHAR                 MHD02 MHD04     
+  755 MAH-137541910   07107       KANCHAN                         MHI01 MHI04 MHI05     
+  756 MCOM-137542040  07107       LATA                            IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  757 MCOM-137542065  07107       RAHINA                          IBO02 IBO06     
+  758 MCOM-137542072  07107       KRISHNA GHILDYAL                IBO05     
+  759 MCOM-137542080  07107       KAVERI GHILDYAL                 IBO01 IBO04 IBO05 IBO06     
+  760 MCOM-137542105  07107       SANOJ KUMAR                     IBO01 IBO02     
+  761 MCOM-137542120  07107       REKHA                           IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  762 MCOM-137542287  07107       TARUNA RANI                     IBO06     
+  763 MCOM-137542327  07107       MONIKA                          IBO01 IBO02 IBO05     
+  764 MCOM-137542413  07107       URVASHI BAJELI                  IBO01 IBO03 IBO06     
+  765 MCOM-137542438  07107       MUKESH KUMAR SHARMA             IBO01     
+  766 MCOM-137542452  07107       SEEMA                           IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  767 MCOM-137542524  07107       SWETA GUSAIN                    IBO01 IBO02 IBO03 IBO06     
+  768 MCOM-137542531  07107       SONIA YADAV                     IBO02 IBO03 IBO06     
+  769 MCOM-137542635  07107       CHETAN SINGH SHEKHAWAT          IBO01 IBO04 IBO05 IBO06     
+  770 MCOM-137542650  07107       PINKI                           IBO01 IBO03 IBO04 IBO05 IBO06     
+  771 MCOM-137542667  07107       RAHUL SINGH                     IBO01 IBO04 IBO05 IBO06     
+  772 MCOM-137542975  07107       MONIKA NAGAR                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  773 MCOM-137543010  07107       SANDEEP KUMAR                   IBO02 IBO06     
+  774 MCOM-137543042  07107       PRIYANKA SAXENA                 IBO03 IBO05 IBO06     
+  775 MCOM-137543114  07107       PRERNA RANI                     IBO02 IBO04 IBO05 IBO06     
+  776 MPS-137543519   07107       SITA RANI                       MPS001 MPS002    
+  777 MPS-137543558   07107       MONI SINGH                      MPS001 MPS002 MPS003 MPS004    
+  778 MPS-137543637   07107       KRITI PANDEY                    MPS003 MPS004    
+  779 MPS-137543651   07107       SANGEETA                        MPS001 MPS002    
+  780 MPS-137543709   07107       TAPASH CHANDRA DASS             MPS001 MPS002    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   20
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 07107                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  781 MPS-137543716   07107       VISHAL                          MPS001 MPS002    
+  782 MPS-137543730   07107       MEENAKSHI BAHUGUNA              MPS001    
+  783 MPS-137543748   07107       SADHNA                          MPS001 MPS002 MPS004    
+  784 MPS-137543762   07107       SHIVANI RAWAT                   MPS001 MPS002 MPS003 MPS004    
+  785 MPS-137543787   07107       MANOJ KUMAR                     MPS001 MPS002    
+  786 MPS-137543810   07107       SHIKHA CHAUHAN                  MPS001 MPS002    
+  787 MPS-137543841   07107       NEERAJ KUMAR                    MPS001 MPS002 MPS003 MPS004    
+  788 MPS-137543866   07107       SUMAN KUMARI                    MPS001 MPS002    
+  789 MPS-137543873   07107       KAVITA                          MPS001 MPS002    
+  790 MPS-137543898   07107       NIDHI PANT                      MPS001 MPS002 MPS003 MPS004    
+  791 MPS-137543920   07107       KM NEHA                         MPS001    
+  792 MPS-137543938   07107       REKHA RAWAT                     MPS001 MPS002    
+  793 MPS-137543952   07107       MUKESH KUMAR                    MPS001    
+  794 MP-137544116    07107       GAURAV SHARMA                   MS05 MS45 MS46 MS91 MS97      
+  795 MP-137544202    07107       YOGESH BHATT                    MS05 MS45 MS46 MS97      
+  796 MP-137544234    07107       GIRISH ARORA                    MS05      
+  797 MP-137544449    07107       SHILPA GARG                     MS06 MS07 MS08      
+  798 MP-137544660    07107       AYUSHI ARAN                     MS05 MS25 MS29 MS97      
+  799 MP-137544678    07107       SHIVANGI VAID                   MS05 MS25 MS29 MS97      
+  800 MAPC-137545204  07107       ANITA RASTOGI                   MPC001 MPC002 MPC003 MPC004 MPC005    
+                                                                  MPC006 MPCL007   
+  801 MCOMFT-13754591707107       KAPIL DEV                       IBO06 MCO01 MCO03 MCO04 MCO06     
+  802 MCA-137547230   07107       BINAY KUMAR BISHWAS             BCS012 MCS024 MCS031 MCS032 MCS033    
+                                                                  MCS034 MCS035 MCSL036   
+  803 MLS-137547562   07107       ABDUL ARIF                      MLII101 MLII102 MLII103   
+  804 MLS-137547594   07107       ABDUL WAJID                     MLII102   
+  805 MLS-137548106   07107       ANURADHA CHOUDHARY              MLI101 MLI102 MLIE102 MLIE103 MLII101   
+                                                                  MLII102 MLII103 MLII104   
+  806 MLS-137548113   07107       KANIKA                          MLII103   
+  807 MLS-137548120   07107       SHALU                           MLII103   
+  808 MLS-137548145   07107       RASHMI SHARMA                   MLIE103 MLIE106 MLII103 MLII104   
+  809 MLS-137548152   07107       NITI                            MLI101 MLIE101 MLII101 MLII102 MLII103   
+  810 MLS-137548200   07107       SUDHA                           MLI101 MLI102 MLIE102 MLIE103 MLII101   
+                                                                  MLII102 MLII103 MLII104   
+  811 MP-137548310    07107       NAVEEN KUMAR                    MS09 MS44 MS495 MS95      
+  812 MCOMMAFS-137548532                      07107       CHANDAN SINGH ADHIKARI          MCO01 MCO03 MCO04 MCO06     
+  813 BLS-137552761   07107       AARTI                           BLS01 BLS02 BLS03 BLS04 BLS05     
+                                                                  BLS06 BLS07 BLS3P BLS4P     
+  814 MLS-137554281   07107       SUSHILA                         MLIE103 MLIE106 MLII101 MLII102   
+                                                                  MLII103   
+  815 MLS-137554314   07107       DEEPIKA                         MLII101 MLII102 MLII103   
+  816 MLS-137554339   07107       TANVINDER DHINGRA               MLI101 MLII101 MLII102 MLII103   
+  817 MLS-137554346   07107       ANJLI DHIMAN BHATNAGAR          MLI101 MLII101 MLII102 MLII103   
+  818 MLS-137554353   07107       SHRUTI SHANKER                  MLII102 MLII103   
+  819 BDP-137863366   07107       RAM KUMAR SARU                  BSHF101 ECO01 ECO02 EHD05 FEG01     
+  820 BDP-137864755   07107       GAURAV KUMAR                    BSHF101 ECO01 ECO02 EEC11 FEG01     
+                                                                  FEG02     
+  821 BLS-137865037   07107       INDU                            BLS02     
+  822 BDP-137877941   07107       AKANKSHA                        FEG01 FEG02 FST01 MTE01 MTE02     
+                                                                  MTE04 MTE05 MTE06     
+  823 BDP-137878588   07107       MUKESH KUAMR                    MTE01 PHE06     
+  824 BDP-137878603   07107       RANJEET                         MTE01 MTE02 MTE06     
+  825 BDP-137878650   07107       PRADEEP PRATIHAST               CHE01 CHE02 CHE05 FST01     
+  826 BDP-137879913   07107       CHANDRA KANT                    CHE01 CHE02     
+  827 MPA-137908634   07107       UMESH TYAGI                     MPA011 MPA012 MPA013 MPA014    
+  828 MCOM-137919605  07107       PARIKSHIT PANKAJ                IBO01 IBO02 IBO03 IBO04     
+  829 MCOM-137921783  07107       SHILPI GUPTA                    IBO01 IBO04 IBO05 IBO06     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   21
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 07107                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  830 MHD-137944820   07107       DEEPMALA TIWARI                 MHD02 MHD03 MHD04 MHD06     
+  831 MHD-137951682   07107       SHILPA                          MHD02 MHD03 MHD04 MHD06     
+  832 MHD-137951858   07107       MANJU                           MHD02 MHD06     
+  833 MHD-137951905   07107       SUDHA RANI                      MHD02 MHD04 MHD06     
+  834 MPS-137960753   07107       POOJA RAUTELA                   MPS002 MPS004    
+  835 BDP-138087031   07107       ROHIT KUMAR                     CHE01 CHE02 CHE05 FST01     
+  836 BDP-138087318   07107       SUMIT KUMAR GUPTA               FST01 MTE01 MTE02 MTE06     
+  837 BDP-138090165   07107       ANKIT KUMAR                     PHE02 PHE06     
+  838 MED-140349895   07107       TARUN MAKKAR                    MES052 MES053 MESE057   
+  839 MLS-140355677   07107       HEMA ADHIKARI                   MLI101 MLI102 MLIE101 MLIE106 MLII101   
+                                                                  MLII102 MLII103 MLII104   
+  840 MLS-140374487   07107       SM TANWEER SHAHAB               MLI101 MLI102 MLIE102 MLIE103 MLII101   
+                                                                  MLII102 MLII103 MLII104   
+  841 MED-140393874   07107       PRADEEP KUMAR RAJHANS           MES051 MES052 MES053 MES054 MESE057   
+  842 MP-140961286    07107       POORVA BHATT                    MS04 MS06 MS07 MS08      
+  843 BDP-141761880   07107       RITU SINGH                      BHDF101 BSHF101 EHI01 EHI02 FEG01     
+  844 BDP-141781770   07107       LALIT SHARMA                    BHDF101 FEG01 FST01 MTE01 MTE02     
+                                                                  MTE05     
+  845 BLS-141789782   07107       VANDANA AJMERA                  BLS01 BLS02 BLS03 BLS04 BLS05     
+                                                                  BLS06 BLS07 BLS3P BLS4P     
+  846 BLS-141789847   07107       DEEPAK KATHURIA                 BLS01 BLS02 BLS03 BLS04 BLS05     
+                                                                  BLS06 BLS07 BLS3P BLS4P     
+  847 BLS-141789893   07107       KOSHISH SIDDIQUI                BLS01 BLS02 BLS03 BLS04 BLS05     
+                                                                  BLS06 BLS07 BLS3P BLS4P     
+  848 MHD-141809583   07107       SHAHZAD AHMAD ANSARI            MHD02 MHD03 MHD04 MHD06     
+  849 MHD-141809630   07107       RAHUL                           MHD02 MHD03 MHD04 MHD06     
+  850 MCOM-141825610  07107       POOJA                           IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  851 MCOM-141825628  07107       RANJANA                         IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  852 MCOM-141825778  07107       RAJEEV KUMAR VISHWAKARMA        IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  853 MCOM-141825785  07107       NAKUL GUPTA                     IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  854 MCOM-141827535  07107       SUNITA                          IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  855 MCOM-141831535  07107       SHAIFALI                        IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  856 MCOM-141831542  07107       VINEETA RANI                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  857 MCOM-141831574  07107       AKANKSHA KAUSHIK                IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  858 MCOM-141831599  07107       TANU YADAV                      IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  859 MCOM-141831639  07107       AKSHITA JAIN                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  860 MCOM-141831646  07107       SRISHTI JAIN                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  861 MCOM-141831653  07107       DEEPIKA GOYAL                   IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  862 MCOM-141831740  07107       CHHAMA                          IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  863 MCOM-141831796  07107       ANJALI BHARDWAJ                 IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  864 MCOM-141831811  07107       NIDHI                           IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  865 MCOM-141831836  07107       RISHABH WALIA                   IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   22
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 07107                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  866 MCOM-141831850  07107       SHALINI                         IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  867 MCOM-141831868  07107       DEEPA UPADHAYAY                 IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  868 MCOM-141831930  07107       VANDANA KUMARI                  IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  869 MCOM-141831947  07107       PALAK BANSAL                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  870 MCOM-141831954  07107       RITU CHOUDHARY                  IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  871 MCOM-141831979  07107       VANDANA BHARTI                  IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  872 MCOM-141831986  07107       SHAHIN                          IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  873 MCOM-141832039  07107       AKANSHA GUPTA                   IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  874 MCOM-141832046  07107       TARANDEEP SINGH                 IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  875 MCOM-141832053  07107       GARIMA RAWAT                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  876 MCOM-141832060  07107       JATIN ARORA                     IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  877 MCOM-141832078  07107       NEHA                            IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  878 MCOM-141832085  07107       REKHA PAREEK                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  879 MCOM-141832092  07107       PAYAL RATHI                     IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  880 MCOM-141832118  07107       DEEPA KUNIYAL                   IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  881 MCOM-141832140  07107       ROHIT AGGARWAL                  IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  882 MCOM-141832157  07107       SWETA SHARMA                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  883 MCOM-141832164  07107       NISHA SHARMA                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  884 MCOM-141832211  07107       KIM KURIAN                      IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  885 MCOM-141832229  07107       VIKASH KUMAR                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  886 MCOM-141832243  07107       MAMTA SATI                      IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  887 MCOM-141832275  07107       MANJU KUSHWAHA                  IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  888 MCOM-141832315  07107       PRINCE KAKKAR                   IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  889 MCOM-141832330  07107       AMIT GAUR                       IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  890 MCOM-141832386  07107       ANJU PARASHAR                   IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  891 MCOM-141832393  07107       PINKI NISHAD                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  892 MCOM-141832419  07107       SHIFALI JAIN                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  893 MCOM-141832426  07107       SHILPI YADAV                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  894 MCOM-141832440  07107       SHALU SINGHAL                   IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   23
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 07107                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  895 MCOM-141832472  07107       MANU KUMARI                     IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  896 MCOM-141832512  07107       VANDANA                         IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  897 MCOM-141832520  07107       INDU BALA                       IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  898 MCOM-141832537  07107       AMEENA                          IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  899 MCOM-141832551  07107       CHETNA SINGH                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  900 MCOM-141832583  07107       SWATI ARORA                     IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  901 MCOM-141832590  07107       CHITRA KUMARI                   IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  902 MCOM-141832648  07107       POOJA SHARMA                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  903 MCOM-141832694  07107       MURLIDHAR MISHRA                IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  904 MCOM-141832759  07107       NEHA                            IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  905 MCOM-141832766  07107       SANJAY SINGH BANGARI            IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  906 MCOM-141832773  07107       ANJU PATWAL                     IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  907 MCOM-141832798  07107       MAYA KUMARI                     IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  908 MCOM-141832813  07107       SHWETA GULATI                   IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  909 MCOM-141832877  07107       KARAMVIR SINGH                  IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  910 MCOM-141832891  07107       AASTHA GOSWAMI                  IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  911 MCOM-141832956  07107       TULSA                           IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  912 MCOM-141832963  07107       SHAKSHI SHARMA                  IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  913 MCOM-141832970  07107       NEERU RAWAT                     IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  914 MCOM-141833016  07107       SANDEEP                         IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  915 MCOM-141833023  07107       KOMAL JAIN                      IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  916 MCOM-141833030  07107       DISHI TYAGI                     IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  917 MCOM-141833087  07107       PRASHANT GAIROLA                IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  918 MCOM-141833094  07107       RAHUL BOTHRA                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  919 MCOM-141833134  07107       RAKHI                           IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  920 MCOM-141833141  07107       AAKANSHA CHAUHAN                IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  921 MCOM-141833180  07107       BHAWNA RAWAT                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  922 MCOM-141833206  07107       MONU RANI                       IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  923 MCOM-141833277  07107       RUCHI DOGRA                     IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   24
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 07107                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  924 MCOM-141833291  07107       PAYAL SHARMA                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  925 MCOM-141833388  07107       LOKESH KUMAR                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  926 MCOM-141833410  07107       PREETI PAL                      IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  927 MCOM-141833474  07107       AKSHAY KUMAR JAIN               IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  928 MCOM-141833481  07107       ANCHIT JAIN                     IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  929 MCOM-141833499  07107       PIYUSH JAIN                     IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  930 MCOM-141833553  07107       DEEPIKA RANI                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  931 MCOM-141833585  07107       RAKHI JAIN                      IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  932 MCOM-141833592  07107       DEEPAK                          IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  933 MCOM-141833600  07107       JIGYASA                         IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  934 MCOM-141833618  07107       TAHSIN                          IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  935 MCOM-141833743  07107       RABIYA                          IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  936 MCOM-141833775  07107       KARAN ARORA                     IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  937 MCOM-141833782  07107       RAHUL TALAN                     IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  938 MCOM-141833790  07107       SHIKHA MAHAWAR                  IBO02 IBO03 IBO06     
+  939 MCOM-141834215  07107       PRIYANKA                        IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  940 MCA-141843633   07107       VINEET KUMAR MANDAL             MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCS021 MCS022 MCS023 MCS024 MCSL016 MCSL017 MCSL025   
+  941 MTM-141848317   07107       MUNENDRA SINGH                  MTM04 MTM05 MTM06 MTM07 MTM08     
+  942 MCOMMAFS-141852768                      07107       AKHILESH DHYANI                 IBO02 MCO01 MCO03 MCO04     
+  943 MCOMMAFS-141852775                      07107       GEETA                           MCO01 MCO03 MCO04 MCO06     
+  944 MCOMMAFS-141852815                      07107       SANDEEP SINGH                   MCO01 MCO03 MCO04 MCO06     
+  945 MCOM-141867206  07107       SHIMLA                          IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  946 MPS-141868967   07107       ARTI                            MPS001 MPS002 MPS003 MPS004    
+  947 MPS-141868974   07107       MINAKSHI MEHRA                  MPS001 MPS002 MPS003 MPS004    
+  948 MPS-141868981   07107       SWETA                           MPS001 MPS002 MPS003 MPS004    
+  949 MPS-141868999   07107       PRADEEP                         MPS001 MPS002 MPS003 MPS004    
+  950 MPS-141869010   07107       NISHA YADAV                     MPS001 MPS002 MPS003 MPS004    
+  951 MPS-141869027   07107       LAXMI                           MPS001 MPS002 MPS003 MPS004    
+  952 MPS-141869059   07107       ANITA                           MPS001 MPS002 MPS003 MPS004    
+  953 MPS-141869113   07107       ASHA DEVI                       MPS001 MPS002 MPS003 MPS004    
+  954 MPS-141869138   07107       NUTAN                           MPS001 MPS002 MPS003 MPS004    
+  955 MPS-141869184   07107       EKTA                            MPS001 MPS002 MPS003 MPS004    
+  956 MPS-141869200   07107       ALPNA                           MPS001 MPS002 MPS003 MPS004    
+  957 MPS-141869263   07107       HARISH KUMAR                    MPS001 MPS002 MPS003 MPS004    
+  958 MPS-141869270   07107       ALKA                            MPS001 MPS002 MPS003 MPS004    
+  959 MPS-141869295   07107       NEETI                           MPS001 MPS003    
+  960 MPS-141869310   07107       REHANA                          MPS001 MPS002 MPS003 MPS004    
+  961 MPS-141869335   07107       NISCHAL                         MPS001 MPS002 MPS003 MPS004    
+  962 MPS-141869342   07107       NEETU                           MPS001 MPS002 MPS003 MPS004    
+  963 MPS-141869350   07107       MEENA KUMARI                    MPS001 MPS002 MPS003 MPS004    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   25
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 07107                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  964 MPS-141869374   07107       REKHA MITTAL                    MPS001 MPS002 MPS003 MPS004    
+  965 MPS-141869414   07107       TARUN KUMAR                     MPS001 MPS002 MPS003 MPS004    
+  966 MPS-141869453   07107       SANDHYA RANI                    MPS001 MPS002 MPS003 MPS004    
+  967 MPS-141869460   07107       BODHRAJ                         MPS001 MPS002 MPS003 MPS004    
+  968 MPS-141869485   07107       SHIVANI                         MPS001 MPS002 MPS003 MPS004    
+  969 MPS-141869492   07107       JASPREETKAUR                    MPS001 MPS002 MPS003 MPS004    
+  970 MPS-141869500   07107       SHYAMALIMA BORUAH               MPS001 MPS003    
+  971 MPS-141869525   07107       SANJAY SINGH                    MPS001 MPS002 MPS003 MPS004    
+  972 MPS-141869571   07107       DISHANT CHANDRAYAN              MPS001 MPS002 MPS003 MPS004    
+  973 MPS-141869589   07107       CHARU TYAGI                     MPS001 MPS002 MPS003 MPS004    
+  974 MPS-141869604   07107       MEENU                           MPS001 MPS002 MPS003 MPS004    
+  975 MPS-141869611   07107       NEHA SINGH                      MPS001 MPS002 MPS003 MPS004    
+  976 MPS-141869629   07107       DEEPA NEGI                      MPS001 MPS002 MPS003 MPS004    
+  977 MPS-141869636   07107       AKASH GUPTA                     MPS001 MPS002 MPS003 MPS004    
+  978 MPS-141869643   07107       DURGA                           MPS001 MPS002 MPS003 MPS004    
+  979 MPS-141869650   07107       MOHAN                           MPS001 MPS002 MPS003 MPS004    
+  980 MPS-141869675   07107       RABIA                           MPS001 MPS002 MPS003 MPS004    
+  981 MPS-141869682   07107       PREETI                          MPS001 MPS002 MPS003 MPS004    
+  982 MPS-141869708   07107       PREETI SHARMA                   MPS001 MPS002 MPS003 MPS004    
+  983 MPS-141869715   07107       RANJANA VERMA                   MPS001 MPS002 MPS003 MPS004    
+  984 MPS-141869722   07107       SAKSHI GOSWAMI                  MPS001 MPS002 MPS003 MPS004    
+  985 MPS-141869747   07107       SWATI GUPTA                     MPS001 MPS002 MPS003 MPS004    
+  986 MPS-141869754   07107       NEHA RAJ KUMAR                  MPS001 MPS002 MPS003 MPS004    
+  987 MPS-141869761   07107       SHAHANA PARVEEN                 MPS001 MPS002 MPS003 MPS004    
+  988 MPS-141869779   07107       PREETI                          MPS001 MPS002 MPS003 MPS004    
+  989 MPS-141869793   07107       HARJEET KAUR                    MPS001 MPS002 MPS003 MPS004    
+  990 MPS-141869833   07107       KUSUM                           MPS001 MPS002 MPS003 MPS004    
+  991 MPS-141869840   07107       SHALINI                         MPS001 MPS002 MPS003 MPS004    
+  992 MPS-141869865   07107       SONAM RANI                      MPS001 MPS002 MPS003 MPS004    
+  993 MPS-141869872   07107       PAYAL                           MPS001 MPS002 MPS003 MPS004    
+  994 MPS-141869920   07107       GAGAN GARG                      MPS001 MPS002 MPS003 MPS004    
+  995 MPS-141869944   07107       KUMARI MONIKA                   MPS001 MPS002 MPS003 MPS004    
+  996 MPS-141869951   07107       JANKI                           MPS001 MPS002 MPS003 MPS004    
+  997 MPS-141869969   07107       DOLLY                           MPS001 MPS002 MPS003 MPS004    
+  998 MPS-141869976   07107       MEGHA                           MPS001 MPS002 MPS003 MPS004    
+  999 MPS-141869983   07107       MANISH VERMA                    MPS001 MPS002 MPS003 MPS004    
+ 1000 MPS-141869990   07107       POOJA RAWAT                     MPS001 MPS002 MPS003 MPS004    
+ 1001 MPS-141870007   07107       NEERU BHANDARI                  MPS001 MPS002 MPS003 MPS004    
+ 1002 MPS-141870014   07107       ALKA                            MPS001 MPS002 MPS003 MPS004    
+ 1003 MPS-141870021   07107       NUSRAT KHAN                     MPS001 MPS002 MPS003 MPS004    
+ 1004 MPS-141870039   07107       TWINKLE GUPTA                   MPS001 MPS002 MPS003 MPS004    
+ 1005 MPS-141870046   07107       RAVI KUMAR                      MPS001 MPS002 MPS003 MPS004    
+ 1006 MPS-141870053   07107       SANGEETA                        MPS001 MPS002 MPS003 MPS004    
+ 1007 MPS-141870060   07107       GOPAL                           MPS001 MPS002 MPS003 MPS004    
+ 1008 MPS-141870078   07107       MONIKA TYAGI                    MPS001 MPS002 MPS003 MPS004    
+ 1009 MPS-141870092   07107       JYOTSANA                        MPS001 MPS002 MPS003 MPS004    
+ 1010 MPS-141870100   07107       HEMANT PIWAL                    MPS001 MPS002 MPS003 MPS004    
+ 1011 MPS-141870125   07107       VISHAL                          MPS001 MPS003 MPS004    
+ 1012 MPS-141870132   07107       HARISH CHANDER                  MPS001 MPS002 MPS003 MPS004    
+ 1013 MPS-141870164   07107       SHIKHA VERMA                    MPS001 MPS002 MPS003 MPS004    
+ 1014 MPS-141870171   07107       SANTOSH KUMARI                  MPS001 MPS002 MPS003 MPS004    
+ 1015 MPS-141870189   07107       KUSUM LATA                      MPS001 MPS002 MPS003 MPS004    
+ 1016 MPS-141870196   07107       KOMAL BANSAL                    MPS001 MPS002 MPS003 MPS004    
+ 1017 MPS-141870268   07107       KHALID                          MPS001 MPS002 MPS003 MPS004    
+ 1018 MPS-141870275   07107       JAGRITI SHARMA                  MPS001 MPS002 MPS003 MPS004    
+ 1019 MPS-141870282   07107       KUSUM LATA                      MPS001 MPS002 MPS003 MPS004    
+ 1020 MPS-141870290   07107       BOBBY                           MPS001 MPS002 MPS003 MPS004    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   26
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 07107                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+ 1021 MPS-141870315   07107       KIRAN                           MPS001 MPS002 MPS003 MPS004    
+ 1022 MPS-141870330   07107       POOJA                           MPS001 MPS002 MPS003 MPS004    
+ 1023 MPS-141870347   07107       MADHU MUDGAL                    MPS001 MPS002 MPS003 MPS004    
+ 1024 MPS-141870354   07107       KANCHAN GUPTA                   MPS001 MPS002 MPS003 MPS004    
+ 1025 MPS-141870361   07107       MANISH MILIND KALKAR            MPS001 MPS002 MPS003 MPS004    
+ 1026 MPS-141870379   07107       SHOBHA                          MPS001 MPS002 MPS003 MPS004    
+ 1027 MPS-142291380   07107       KAVITA                          MPS001 MPS002 MPS003 MPS004    
+ 1028 MLS-142311901   07107       VANDANA                         MLI101 MLI102 MLIE102 MLIE103 MLII101   
+                                                                  MLII102 MLII103 MLII104   
+ 1029 BDP-142370217   07107       ADITYA PRAKASH                  BSHF101 EHD05 ESO12 FEG02 FHD02     
+ 1030 BDP-142371068   07107       AARTI                           BHDF101 BSHF101 EHD02 EPS11 FHD02     
+ 1031 BDP-142371305   07107       SANDEEP YADAV                   BSHF101 EHD01 EHD02 FEG01 FEG02     
+ 1032 BDP-142371527   07107       PRIYANKA RAJPUT                 BHDE108 BHDF101 BSHF101 EHD01     
+                                                                  FHD02     
+ 1033 BDP-142372149   07107       KHUSHBOO KUMARI                 BHDF101 BPSE212 BSHF101 EHD01     
+                                                                  FHD02     
+ 1034 BDP-142372686   07107       VIKRAM                          BHDF101 BSHF101 EPS11 ESO12 FEG01     
+ 1035 BDP-142374181   07107       SNEHA BABU                      BHDF101 BPAE102 BSHF101 EPS11     
+                                                                  FEG01     
+ 1036 BDP-142374396   07107       PRIYANKA TIWARI                 BECE002 BSHF101 EEC11 FEG01 FEG02     
+ 1037 BDP-142375556   07107       ABHISHEK CHAUHAN                BECE002 BSHF101 ECO01 ECO02 FEG01     
+                                                                  FEG02     
+ 1038 BDP-142375667   07107       SHANAWAZ  ALAM                  BEGE101 BSHF101 ECO01 ECO02 FEG01     
+                                                                  FEG02     
+ 1039 BDP-142375739   07107       REKHA KALA                      BEGE101 BHDF101 BSHF101 ECO01     
+                                                                  ECO02 FHD02     
+ 1040 BDP-142375825   07107       SHALU                           BHDF101 BSHF101 ECO01 ECO02 FHD02     
+ 1041 BDP-142375871   07107       SAVITA  RAWAT                   BHDF101 BSHF101 ECO01 ECO02 EHD02     
+                                                                  FEG01     
+ 1042 BDP-142376368   07107       ROHIT RAWAT                     BSHF101 ECO01 ECO02 EEC11 FEG01     
+                                                                  FEG02     
+ 1043 BDP-142376597   07107       RAJAT MAHESHWARI                BHDF101 BSHF101 ECO01 ECO02 EEC11     
+                                                                  FEG01     
+ 1044 BDP-142376683   07107       GAURAV ISTWAL                   BECE002 BSHF101 ECO01 ECO02 FEG01     
+                                                                  FEG02     
+ 1045 BDP-142376898   07107       NIRANJAN KUMAR                  BECE002 BSHF101 ECO01 ECO02 FEG01     
+                                                                  FEG02     
+ 1046 BDP-142377044   07107       DIKSHA BHANGALIA                BEGE102 BHDF101 BSHF101 ECO01     
+                                                                  ECO02 FEG01     
+ 1047 BDP-142377194   07107       BHAVIK BISHT                    BEGE101 BHDF101 BSHF101 ECO01     
+                                                                  ECO02     
+ 1048 BDP-142377241   07107       DEEPIKA PANCHAL                 BEGE101 BSHF101 ECO01 ECO02 FEG01     
+ 1049 BDP-142377273   07107       SHOBHIT GUPTA                   BSHF101 ECO01 ECO02 EHD01 FEG01     
+                                                                  FEG02     
+ 1050 BDP-142377567   07107       SUNIL SAGAR SINGH KHARAI        BHDF101 CHE02 FHD02 FST01 LSE02     
+                                                                  PHE02     
+ 1051 BDP-142377804   07107       KAMRAN SAIFI                    CHE02 FEG01 FEG02 FST01 MTE01     
+                                                                  MTE02 PHE06     
+ 1052 BDP-142377836   07107       DIVYA                           BHDF101 CHE05 FEG01 FST01 LSE03     
+                                                                  PHE06     
+ 1053 BDP-142378007   07107       PUNEET SINGH                    BPHE101 CHE01 FEG01 FEG02 FST01     
+                                                                  MTE01 MTE05 PHE02     
+ 1054 BDP-142378053   07107       JITENDRA KUMAR                  FEG01 FEG02 FST01 MTE01 MTE02     
+                                                                  MTE04 MTE05 MTE06     
+ 1055 BDP-142378157   07107       AKASH KUMAR RAI                 CHE01 CHE02 CHE05 FEG01 FEG02     
+                                                                  FST01     
+ 1056 BDP-142378576   07107       PREM CHAND                      FEG02 FHD02 FST01 MTE01 MTE02     
+                                                                  MTE04 MTE05 MTE06     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   27
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 07107                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+ 1057 BDP-142378609   07107       KM REETA                        FEG01 FEG02 FST01 MTE01 MTE02     
+                                                                  MTE04 MTE05     
+ 1058 BDP-142378759   07107       BOBBY BALODI                    BPHE101 CHE02 FEG01 FEG02 FST01     
+                                                                  MTE01 MTE05     
+ 1059 BDP-142379087   07107       JUHI CHAUDHARY                  FEG01 FEG02 FST01 LSE01 LSE02     
+                                                                  LSE03     
+ 1060 BDP-142379110   07107       POOJA MEENA                     BPHE101 CHE01 FEG01 FEG02 FST01     
+                                                                  LSE01 PHE02     
+ 1061 BDP-142379435   07107       AKASH                           CHE01 CHE02 CHE05 FEG01 FEG02     
+                                                                  FST01     
+ 1062 BDP-142379450   07107       YOGESH                          BPHE101 FEG01 FEG02 FST01 MTE01     
+                                                                  MTE02 PHE02 PHE04 PHE05     
+ 1063 BTS-142380827   07107       DUSHYANT KUMAR CHANDEL          BSHF101 FEG01 FEG02 TS01 TS02      
+ 1064 MPS-142383822   07107       RADHIKA                         MPS001 MPS002 MPS003 MPS004    
+ 1065 MPS-142383830   07107       SHEETAL VERMA                   MPS001 MPS002 MPS003 MPS004    
+ 1066 MPS-142383847   07107       VIVEK                           MPS001 MPS002 MPS003 MPS004    
+ 1067 MPS-142383854   07107       REKHA                           MPS001 MPS002 MPS003 MPS004    
+ 1068 MPS-142383879   07107       DEEPAK KUMAR                    MPS001 MPS002 MPS003 MPS004    
+ 1069 MPS-142383893   07107       SHIKHA PAVADIA                  MPS001 MPS002 MPS003 MPS004    
+ 1070 MPS-142383901   07107       HARSHA                          MPS001 MPS002 MPS003 MPS004    
+ 1071 MPS-142383926   07107       NITIKA JOSEPH                   MPS001 MPS002 MPS003 MPS004    
+ 1072 MPS-142383933   07107       TAZEEN FATIMA                   MPS001 MPS002 MPS003 MPS004    
+ 1073 MPS-142383958   07107       DIMPLE                          MPS001 MPS002 MPS003 MPS004    
+ 1074 MPS-142384000   07107       SUSHIL MAURYA                   MPS001 MPS002 MPS003 MPS004    
+ 1075 MPS-142384057   07107       PREM KISHORE                    MPS001 MPS002 MPS003 MPS004    
+ 1076 MPS-142384064   07107       AMIT KUMAR                      MPS001 MPS002 MPS003 MPS004    
+ 1077 MPS-142384175   07107       NIDHI CHAUDHARY                 MPS001 MPS002 MPS003 MPS004    
+ 1078 MPS-142384222   07107       NIRMLA                          MPS001 MPS002 MPS003 MPS004    
+ 1079 MPS-142384230   07107       SUDEEP KUMAR                    MPS001 MPS002 MPS003 MPS004    
+ 1080 MPS-142384247   07107       POOJA                           MPS001 MPS002 MPS003 MPS004    
+ 1081 MPS-142384254   07107       BABLI RANA                      MPS001 MPS002 MPS003 MPS004    
+ 1082 MPS-142384279   07107       POOJA                           MPS001 MPS002 MPS003 MPS004    
+ 1083 MPS-142384301   07107       KUNAL RANJAN                    MPS001 MPS002 MPS003 MPS004    
+ 1084 MPS-142384358   07107       RITU                            MPS001 MPS002 MPS003 MPS004    
+ 1085 MPS-142384412   07107       KAVITA RAWAT                    MPS001 MPS002 MPS003 MPS004    
+ 1086 MPS-142384476   07107       DEEPESH SHARMA                  MPS001 MPS002 MPS003 MPS004    
+ 1087 MHD-142384562   07107       RUBY                            MHD02 MHD03 MHD04 MHD06     
+ 1088 MHD-142384587   07107       KANCHAN                         MHD02 MHD03 MHD04 MHD06     
+ 1089 MHD-142384594   07107       KUSUM                           MHD02 MHD03 MHD04 MHD06     
+ 1090 MHD-142384673   07107       JYOTI KUMARI                    MHD02 MHD03 MHD04 MHD06     
+ 1091 MHD-142384698   07107       NEERAJ KUMARI                   MHD02 MHD03 MHD04 MHD06     
+ 1092 MHD-142384738   07107       POONAM KUMARI                   MHD02 MHD03 MHD04 MHD06     
+ 1093 MHD-142384752   07107       KARISHMA UPMANYU                MHD02 MHD03 MHD04 MHD06     
+ 1094 MHD-142384760   07107       RAJ KUMAR                       MHD02 MHD03 MHD04 MHD06     
+ 1095 MHD-142384791   07107       SEEMA                           MHD02 MHD03 MHD04 MHD06     
+ 1096 MHD-142384817   07107       MAMTA                           MHD02 MHD03 MHD04 MHD06     
+ 1097 MHD-142384856   07107       PREETY                          MHD02 MHD03 MHD04 MHD06     
+ 1098 MHD-142384870   07107       PRABHA KUMARI                   MHD02 MHD03 MHD04 MHD06     
+ 1099 MHD-142384888   07107       BABITA                          MHD02 MHD03 MHD04 MHD06     
+ 1100 MHD-142384903   07107       ANU RANI                        MHD04 MHD06     
+ 1101 MHD-142384950   07107       BIMLESH                         MHD02 MHD03 MHD04 MHD06     
+ 1102 MHD-142385027   07107       VIDYA SHUKLA                    MHD02 MHD03 MHD04 MHD06     
+ 1103 MHD-142385066   07107       KIRAN UNIYAL                    MHD02 MHD03 MHD04 MHD06     
+ 1104 MHD-142385080   07107       PADMINI BISHT                   MHD02 MHD03 MHD04 MHD06     
+ 1105 MCOM-142385367  07107       ANJU CHAUHAN                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1106 MCOM-142385374  07107       SATYA PRAKASH                   IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   28
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 07107                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+ 1107 MCOM-142385381  07107       VINITA TIWARI                   IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1108 MCOM-142385407  07107       SUFIA                           IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1109 MCOM-142385421  07107       URVASHI GUPTA                   IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1110 MCOM-142385518  07107       MONTOO                          IBO01 IBO02 IBO03     
+ 1111 MCOM-142385540  07107       ANJALI AGARWAL                  IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1112 MCOM-142385571  07107       TANU SHARMA                     IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1113 MCOM-142385668  07107       ADIL                            IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1114 MCOM-142385730  07107       ASHOK KUMAR RAI                 IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1115 MCOM-142385779  07107       SEEMA GUPTA                     IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1116 MCOM-142385858  07107       CHANCHAL RANA                   IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1117 MCOM-142385865  07107       MONIKA JOSHI                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1118 MCOM-142385872  07107       SUPRITI SAMADDAR                IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1119 MCOM-142385880  07107       RAHUL KUMAR VIMAL               IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1120 MCOM-142385912  07107       POOJA MEHRA                     IBO03 IBO05 IBO06     
+ 1121 MCOM-142385937  07107       CHETAN DAS                      IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1122 MCOM-142385944  07107       PURNIMA KANOJIA                 IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1123 MCOM-142385951  07107       NITIN                           IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1124 MCOM-142385983  07107       BASANT KUMAR                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1125 MCOM-142386004  07107       NISHA KUMARI                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1126 MCOM-142386036  07107       KANCHAN GAUTAM                  IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1127 MCOM-142386043  07107       CHANCHAL KUMARI                 IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1128 MCOM-142386082  07107       JYOTI                           IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1129 MCOM-142386090  07107       PINKI RANI VERMA                IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1130 MCOM-142386154  07107       SURAJ RAWAT                     IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1131 MCOM-142386193  07107       SWATI KRISHNAN                  IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1132 MCOM-142386258  07107       MEGHA BENWAL                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1133 MCOM-142386265  07107       POORNIMA SINGH                  IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1134 MCOM-142386272  07107       JYOTI JHA                       IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1135 MSO-142386351   07107       POOJA TRIPATHI                  MSO001 MSO002 MSO003 MSO004    
+ 1136 MAH-142386638   07107       MD. MARUF KHAN                  MHI01 MHI02 MHI04 MHI05     
+ 1137 MAH-142386652   07107       PRIYA                           MHI01 MHI02 MHI04 MHI05     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   29
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 07107                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+ 1138 MAH-142386724   07107       PRERNA ANANTHARAM               MHI01 MHI02 MHI04 MHI05     
+ 1139 MAH-142386810   07107       ARUN KUMAR                      MHI01 MHI02 MHI04     
+ 1140 MCOMFT-14238771907107       RAKESH SINGH                    IBO06 MCO01 MCO03 MCO04 MCO06     
+ 1141 MLS-142389049   07107       SANGEETA KUMARI                 MLI101 MLI102 MLIE102 MLIE103 MLII101   
+                                                                  MLII102 MLII103 MLII104   
+ 1142 MLS-142389056   07107       MEENA                           MLI101 MLI102 MLIE103 MLIE106 MLII101   
+                                                                  MLII102 MLII103 MLII104   
+ 1143 MLS-142389063   07107       SHAMPA KUMARI                   MLI101 MLI102 MLIE102 MLIE103 MLII101   
+                                                                  MLII102 MLII103 MLII104   
+ 1144 MLS-142389088   07107       USHA VERMA                      MLI101 MLI102 MLIE103 MLIE106 MLII101   
+                                                                  MLII102 MLII103 MLII104   
+ 1145 MLS-142389110   07107       MOHD ASIM                       MLI101 MLI102 MLIE103 MLIE106 MLII101   
+                                                                  MLII102 MLII103 MLII104   
+ 1146 MLS-142389128   07107       ANJU KHARI                      MLI101 MLI102 MLIE102 MLIE103 MLII101   
+                                                                  MLII102 MLII103 MLII104   
+ 1147 MLS-142389142   07107       DEEPA RAWAT                     MLI101 MLI102 MLIE102 MLIE103 MLII101   
+                                                                  MLII102 MLII103 MLII104   
+ 1148 MLS-142389150   07107       SAVITA                          MLI101 MLI102 MLIE103 MLIE106 MLII101   
+                                                                  MLII102 MLII103 MLII104   
+ 1149 MLS-142389174   07107       GYANENDRA SINGH                 MLI101 MLI102 MLIE101 MLIE104 MLII101   
+                                                                  MLII102 MLII103 MLII104   
+ 1150 MLS-142389199   07107       RANJAN                          MLI101 MLI102 MLIE102 MLIE103 MLII101   
+                                                                  MLII102 MLII103 MLII104   
+ 1151 MLS-142389214   07107       MRS PREETI SHARMA               MLI101 MLI102 MLIE103 MLIE106 MLII101   
+                                                                  MLII102 MLII103 MLII104   
+ 1152 MLS-142389253   07107       NIRANJAN MOHAPATRA              MLI101 MLI102 MLIE102 MLIE103 MLII101   
+                                                                  MLII102 MLII103 MLII104   
+ 1153 BDP-142390219   07107       DEEPAK SINGH NEGI               BHDF101 BPSE212 BSHF101 ESO11     
+                                                                  FEG01     
+ 1154 MSMACS-14239445207107       MAMTA KUMARI                    MMT001 MMT001P MMT002 MMT004 MMT005    
+                                                                  MMT007 MMT007P MMT008 MMT008P   
+ 1155 MSMACS-14239457007107       GARIMA SURI                     MMT001 MMT004 MMT005 MMT007 MMT007P   
+                                                                  MMT008 MMT008P   
+ 1156 MSMACS-14239460307107       OKANSHA HANDUJA                 MMT001 MMT004 MMT005 MMT007 MMT007P   
+                                                                  MMT008 MMT008P   
+ 1157 CHBHC-142394871 07107       KM SONAM                        CNSHC001  
+ 1158 PGDDM-142395107 07107       SURENDER MASIH                  MPA001 MPA002 MPA003 MPA004 MPA005    
+                                                                  MPA006 MPA007    
+ 1159 PGJMC-142395827 07107       VANDANA MENON                   JMC01 JMC02 JMC03 JMC04     
+ 1160 PGDCJ-142395866 07107       DEEPA LAKHEY                    MLE011 MLE012 MLE013 MLE014 MLE015    
+                                                                  MLE016    
+ 1161 MSMACS-14239611607107       ANURAG GARG                     MMT002 MMT003 MMT005 MMT006 MMT007    
+                                                                  MMT008 MMT008P   
+ 1162 BED-142396567   07107       DEEPA AGGARWAL                  ES331 ES332 ES333 ES343 ES345     
+ 1163 BED-142396646   07107       DEEPIKA NAGAR                   ES331 ES332 ES333 ES343 ES345     
+ 1164 BED-142396740   07107       SUMAN GUPTA                     ES331 ES332 ES333 ES343 ES344     
+ 1165 BED-142396811   07107       MONIKA                          ES331 ES332 ES333 ES343 ES345     
+ 1166 BED-142396922   07107       KIRAN WATI                      ES331 ES332 ES333 ES343 ES345     
+ 1167 BED-142396947   07107       RACHNA ROHILLA                  ES331 ES332 ES333 ES343 ES345     
+ 1168 BED-142397039   07107       SONPAL SINGH KAUSHIK            ES331 ES332 ES333 ES342 ES344     
+ 1169 BED-142397060   07107       NITIN KUMAR CHOUDHARY           ES331 ES332 ES333 ES343 ES345     
+ 1170 BED-142397085   07107       SURAJ KUMAR DAS                 ES331 ES332 ES333 ES343 ES345     
+ 1171 BED-142397118   07107       ARTI                            ES331 ES332 ES333 ES343 ES345     
+ 1172 BED-142397132   07107       ASHA                            ES331 ES332 ES333 ES343 ES345     
+ 1173 BED-142397157   07107       NEHA KUMARI                     ES331 ES332 ES333 ES343 ES345     
+ 1174 BED-142397290   07107       SAPNA                           ES331 ES332 ES333 ES343 ES345     
+ 1175 BED-142397347   07107       SAROJ                           ES331 ES332 ES333 ES342 ES345     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   30
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 07107                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+ 1176 BED-142397354   07107       ANITA                           ES331 ES332 ES333 ES343 ES345     
+ 1177 BED-142397379   07107       PRITIKA SINGH                   ES331 ES332 ES333 ES343 ES345     
+ 1178 BED-142397386   07107       PREETI VERMA                    ES331 ES332 ES333 ES343 ES344     
+ 1179 BED-142397433   07107       SUNITA BALA                     ES331 ES332 ES333     
+ 1180 BED-142397458   07107       SARITA                          ES331 ES332 ES333 ES343 ES345     
+ 1181 BED-142397569   07107       KAMIYA RUHILLA                  ES331 ES332 ES333 ES343 ES345     
+ 1182 BED-142397583   07107       AVDHESH KUMARI                  ES331 ES332 ES333 ES343 ES344     
+ 1183 BED-142397616   07107       RANJANA NIMMEKAR                ES331 ES332 ES333 ES343 ES345     
+ 1184 BED-142397648   07107       NEETU                           ES331 ES332 ES333 ES343 ES345     
+ 1185 BED-142397813   07107       CHANDER KANTA                   ES331 ES332 ES333 ES342 ES344     
+ 1186 BED-142397877   07107       NEELAM                          ES331 ES332 ES333 ES343 ES345     
+ 1187 BED-142397924   07107       SONAL SHEKHAR                   ES331 ES332 ES333 ES341 ES345     
+ 1188 BED-142397931   07107       ANITA KUMARI                    ES331 ES332 ES333 ES342 ES343     
+ 1189 BED-142397949   07107       SHRUTI                          ES331 ES332 ES333 ES343 ES345     
+ 1190 BED-142397956   07107       RUCHI                           ES331 ES332 ES333 ES343 ES345     
+ 1191 BED-142397988   07107       NIDHI KUMARI                    ES331 ES332 ES333 ES343 ES345     
+ 1192 BED-142398030   07107       SEEMA RANI                      ES331 ES332 ES333 ES343 ES345     
+ 1193 BED-142398388   07107       MEENAKSHI KAUSHIK               ES331 ES332 ES333 ES343 ES344     
+ 1194 MEG-142398625   07107       PINKY JHA                       MEG01 MEG02 MEG03 MEG04     
+ 1195 BDP-142399222   07107       SAURABH KUMAR                   BEGE101 BSHF101 ECO01 ECO02 FEG01     
+                                                                  FEG02     
+ 1196 BDP-142399230   07107       AKASH KUMAR                     BECE002 BSHF101 ECO01 ECO02 FEG01     
+                                                                  FEG02     
+ 1197 MCOM-142399523  07107       HRIDYA SAINI                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1198 MCOM-142399641  07107       GUNJAN SINGH                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1199 MCOM-142399673  07107       KIRTI SINGH                     IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1200 MCOM-142399680  07107       ROHIT SHARMA                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1201 MCOM-142399720  07107       VINAY KUMAR PANDEY              IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1202 MCOM-142399745  07107       RANJITA                         IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1203 MCOM-142399777  07107       NAMRATA SHARMA                  IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1204 MCOM-142399800  07107       BHARTI                          IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1205 MCOM-142399817  07107       ABHISHEK VATWANI                IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1206 MCOM-142399824  07107       VIKAS                           IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1207 MCOM-142399888  07107       PRIYANKA                        IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1208 MCOM-142399895  07107       NISHCHAL                        IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1209 MCOM-142399903  07107       SHOBHA SINGH                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1210 MCOM-142399910  07107       NARENDRA SINGH RAWAT            IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1211 BDP-142400105   07107       CHANDAN KUMAR VERMA             BHDF101 BSHF101 EHD01 EHD02 FEG01     
+ 1212 BDP-142400943   07107       NAVEEN SINGH                    BHDF101 BPSE212 EHD01     
+ 1213 BDP-142401160   07107       SANDEEP KUMAR                   CHE01 CHE02 CHE05 FEG01 FEG02     
+                                                                  FST01     
+ 1214 BDP-142401225   07107       PUNEET RANA                     CHE01 CHE02 CHE05 FEG02 FHD02     
+                                                                  FST01     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   31
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 07107                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+ 1215 BDP-142401311   07107       SHAILY GUPTA                    FST01 LSE01 LSE02     
+ 1216 BSW-142401612   07107       NEELAM                          BHDF101 BSHF101 BSWE001 FHD02     
+ 1217 BSW-142401620   07107       PRITAM KAUR                     BHDF101 BSHF101 BSWE001 FHD02     
+ 1218 MCA-142401859   07107       PRINCE KUMAR                    MCS012 MCS014 MCS021 MCS022 MCS023    
+                                                                  MCS024 MCSL025   
+ 1219 MAH-142402241   07107       LAKSHMI KUMARI                  MHI01 MHI02 MHI04 MHI05     
+ 1220 MAH-142402259   07107       LAXMI                           MHI01 MHI02 MHI04 MHI05     
+ 1221 MAH-142402298   07107       YACHI KUMARI VERMA              MHI01 MHI02 MHI04 MHI05     
+ 1222 BED-142402836   07107       SHAKSHI JAIN                    ES331 ES332 ES333 ES343 ES344     
+ 1223 BED-142402930   07107       YASHODRA                        ES331 ES332 ES333 ES343 ES344     
+ 1224 BED-142402993   07107       AFREEN                          ES331 ES332 ES333 ES343 ES344     
+ 1225 MCOM-142405018  07107       DEEPIKA                         IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1226 MCOM-142405025  07107       BILKIS KHANAM                   IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1227 MCOM-142405032  07107       YOGITA GOEL                     IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1228 MCOM-142405057  07107       BABITA GOSWAMI                  IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1229 MCOM-142405064  07107       SACHIN KUMAR                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1230 MCOM-142405089  07107       ASWATHI M PILLAI                IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1231 MCOM-142405096  07107       NARENDRA SINGH                  IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1232 MCOM-142405111  07107       LALITA                          IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1233 DNA-142963450   07107       HARSH VERMA                     BNS011 BNS012 BNS013 BNS014    
+ 1234 BSCN-144502837  07107       BHANU TYAGI                     BNS101 BNS102 BNS103 BNS104 BNS105    
+ 1235 BCOMAF-14686190407107       ALOK AGRAWAL                    FEG01 FEG02 FST01     
+ 1236 BCA-146901603   07107       MOHD FAIZAN                     BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1237 BCA-146901610   07107       MOHD FAISAL                     BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1238 BCA-146901714   07107       PAPPU KUMAR SAW                 BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1239 BCA-146901760   07107       ROHIT KUMAR                     BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1240 BCA-146901792   07107       GAURAV YADAV                    BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1241 BCA-146901800   07107       YOGESH SINGH SHEKHAWAT          BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1242 BCA-146901889   07107       RAJNISH KUMAR                   BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1243 BCA-146901904   07107       DEEPAK                          BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1244 BCA-146901950   07107       OSHIT MANCHANDA                 BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1245 BCA-146901968   07107       PUSHPRAJ                        BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1246 BCA-146901975   07107       AMIT KUMAR                      BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1247 BCA-146901982   07107       VIVEK SHARMA                    BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1248 BCA-146902035   07107       DEEPAK KUMAR THAKUR             BCS011 BCS012 BCSL013 FEG02     
+ 1249 BCA-146902042   07107       VIKAS DUBEY                     BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1250 BCA-146902081   07107       KARISMMA ARORA                  BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1251 BCA-146902121   07107       SARTHAK SINGH NEGI              BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1252 BCA-146902139   07107       VIKAS BABU                      BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1253 BCA-146902146   07107       VINIT KUMAR SINGH               BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1254 BCA-146902160   07107       PRIYANKA                        BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1255 BCA-146902178   07107       ROHIT KUMAR                     BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1256 BCA-146902192   07107       PRIYANKA                        BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1257 BCA-146902240   07107       SAURABH KUAMR                   BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1258 BCA-146902264   07107       ONKAR GILL                      BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1259 BCA-146902289   07107       DANISH SAIFI                    BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1260 BCA-146902329   07107       JYOTI RAWAT                     BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1261 BCA-146902343   07107       RAKESH RAWAT                    BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1262 BCA-146902350   07107       VISHAL GUPTA                    BCS011 BCS012 BCSL013 ECO01 FEG02     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   32
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 07107                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+ 1263 BCA-146902368   07107       ANAS AHMED                      BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1264 BCA-146902390   07107       SRIKANT.K                       BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1265 BCA-146902454   07107       SANDEEP KUMAR SHARMA            BCS011 BCS012 ECO01 FEG02     
+ 1266 BCA-146902479   07107       NISHA TOMAR                     BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1267 BCA-146902486   07107       ABHISHEK SHARMA                 BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1268 BCA-146902540   07107       PRADEEP KUMAR CHAUDHARI         BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1269 BCA-146902558   07107       RISHABH JAIN                    BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1270 BCA-146902612   07107       ABHISHEK VERMA                  BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1271 BCA-146902620   07107       SANJU                           BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1272 BCA-146902637   07107       VIPIN SINGH                     BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1273 BCA-146902676   07107       CHARANJEET SINGH SAINI          BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1274 BCA-146902683   07107       BHARAT PATHAK                   BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1275 BCA-146902709   07107       RAHUL SHARMA                    BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1276 BCA-146902723   07107       KAILASH                         BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1277 BCA-146902755   07107       SHUBHAM TIWARI                  BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1278 BCA-146902770   07107       PRIYAM MONDAL                   BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1279 BCA-146902794   07107       KAMALESH YADAV                  BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1280 BCA-146902859   07107       VISHANT KUMAR                   BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1281 MCA-146918306   07107       RASHMI KUMARI                   MCSL036 MCSL045 MCSL054   
+ 1282 MCA-146919877   07107       SUSHIL KUMAR KAUSHAL            MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+ 1283 CCP-147037933   07107       SAMIKSHA MALHOTRA               ACS01 CPI       
+ 1284 CCP-147037997   07107       PANKAJ GUPTA                    ACS01 CPI       
+ 1285 CSWCJS-14763321907107       PREM LATA                       MSW031 MSW032    
+ 1286 BCA-147689150   07107       HARSHA BHATIA                   BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1287 BCA-147689364   07107       SAURAV YADAV                    BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1288 BCA-147689436   07107       JAYVEER SINGH                   BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1289 BCA-147689547   07107       MUKESH NATH                     BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1290 BCA-147689554   07107       RAJAT BAWARI                    BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1291 BCA-147689593   07107       RAJESH KUAMR                    BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1292 BCA-147689941   07107       DIVYA SHARMA                    BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1293 BCA-147690383   07107       AVDHESH KUMAR YADAV             BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1294 BCA-147690390   07107       DEEPAK KUMAR                    BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1295 BCA-147690423   07107       SINTU KUMAR                     BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1296 BCA-147690487   07107       DIVYA GUSAIN                    BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1297 BCA-147690731   07107       KARTIK YADAV                    BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1298 BCA-147690749   07107       RAVI KUMAR BHARTI               BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1299 BCA-147690763   07107       NAVEEN KUMAR                    BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1300 BCA-147690842   07107       AMIT KUMAR                      BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1301 BCA-147690921   07107       DHARAM PAL                      BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1302 BCA-147691077   07107       SUKHDEEP MISHRA                 BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1303 BCA-147691084   07107       VISHAL SINGH                    BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1304 BCA-147691346   07107       ABHISHEK TOMAR                  BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1305 BPP-147694896   07107       BHAWNA                          OSS101 PCO       
+ 1306 MTM-147704450   07107       PRAGYA CHOUDHARY                MTM01 MTM02 MTM03 MTM04     
+ 1307 MCA-147706840   07107       SANDEEP SOM                     MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+ 1308 CHBHC-147710263 07107       MD. MIRAZ                       CNSHC001  
+ 1309 CHBHC-147710270 07107       SHAJIYA                         CNSHC001  
+ 1310 CHBHC-147710288 07107       BHAWNA VERMA                    CNSHC001  
+ 1311 CHBHC-147710303 07107       RITA                            CNSHC001  
+ 1312 CHBHC-147710937 07107       ROZI                            CNSHC001  
+ 1313 CTPM-147711075  07107       MAHENDRA SINGH RAWAT            AMT01 LMT01     
+ 1314 CPPDPT-14771390007107       CHANDER KANTA                   BES051 BES052 BES053 BES054 BES055    
+                                                                  BES056    
+ 1315 CPPDPT-14771391807107       KINAN MONA                      BES051 BES052 BES053 BES054 BES055    
+                                                                  BES056    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   33
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 07107                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+ 1316 CPPDPT-14771394007107       PRIYANKA KHALKHO                BES051 BES052 BES053 BES054 BES055    
+                                                                  BES056    
+ 1317 CPPDPT-14771395707107       NEELAM DHULL                    BES051 BES052 BES053 BES054 BES055    
+                                                                  BES056    
+ 1318 CPPDPT-14771400007107       MANISHA                         BES051 BES052 BES053 BES054 BES055    
+                                                                  BES056    
+ 1319 CPPDPT-14771404907107       SEEMA                           BES051 BES052 BES053 BES054 BES055    
+                                                                  BES056    
+ 1320 CPPDPT-14771426007107       DEVINDER KAUR                   BES051 BES052 BES053 BES054 BES055    
+                                                                  BES056    
+ 1321 CPPDPT-14771433207107       SHUBHRA SETHI                   BES051 BES052 BES053 BES054 BES055    
+                                                                  BES056    
+ 1322 CPPDPT-14771435707107       SARIZA                          BES051 BES052 BES053 BES054 BES055    
+                                                                  BES056    
+ 1323 MP-147719110    07107       APURVA                          MS01 MS02 MS03 MS04      
+ 1324 BDP-ID1174407   07107       SHOBHIT KUMAR BARHI             AED01 AOM01 ECO08 ECO10 ECO11     
+ 1325 BCOMAF-ID136039107107       SAMYAK BAJRACHARYA              AED01 FST01     
+ 1326 BCOMAF-ID136498307107       AKIV PARWEZ                     AED01 FST01     
+        

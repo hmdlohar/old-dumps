@@ -1,0 +1,28 @@
+#This file was created by the CookieSwap extension...see cookieswap.mozdev.org
+#NOTE: if this file's extension is 'tx1' then this is an
+# active profile and the cookies in here are old and will be overwritten by the 
+# cookies being managed by the browser
+.imgur.com	TRUE	/	FALSE	1467693147	__cfduid	d4c7d495f33986a725bc33e4c99d0fce51436157147
+.stackoverflow.com	TRUE	/	FALSE	2682374401	prov	a5cc8fa4-a27a-434a-99f6-4d2a478c4f1e
+.stackoverflow.com	TRUE	/	FALSE	1499229148	_ga	GA1.2.588011355.1436157149
+.stackoverflow.com	TRUE	/	FALSE	1483492538	__qca	P0-2078105776-1436157149843
+.quantserve.com	TRUE	/	FALSE	1483504350	mc	559a04de-5fcda-a79da-04477
+.google.com	TRUE	/	FALSE	1499228987	PREF	ID=1111111111111111:TM=1436156986:LM=1436156986:V=1:S=PAFnzK1-o6LGWAPJ
+.google.com	TRUE	/	FALSE	1451968187	NID	69=izsNQ3DtXpikcZv3ilSdTmJXt6_op8gdf3WskCmjt8E-ztzJ3dyq_H-RulmL5lG0Lg3ouW33H0NTncsImZ-xwg6qUI-fRHO6HzahXvLShZNun2TPcz2rstgFB0Uudzmi
+ifastnet.com	FALSE	/	FALSE	1499228876	olfsk	olfsk5917835862876447
+ifastnet.com	FALSE	/	FALSE	1499228877	hblid	3Y4dHv6HmL2J695S3Q6BMI3IJA88E8TT
+.statcounter.com	TRUE	/	FALSE	1467692847	__cfduid	d1b42ef2873c9d970737471f8ad84df5d1436156847
+.statcounter.com	TRUE	/	FALSE	1593837001	is_unique	sc4960302.1436156876.0-2288747.1436157001.0
+.sstatic.net	TRUE	/	FALSE	1467693146	__cfduid	d17252c4978966d6662c7bc604b7eeb621436157145
+.facebook.com	TRUE	/	TRUE	1499228771	lu	Swr4IDb17t8Ka7hrp8YZHLRA
+.facebook.com	TRUE	/	FALSE	1499228771	datr	Me4fVc-JX0RtBe7EINR2oCnC
+.facebook.com	TRUE	/	TRUE	1443932771	c_user	100006776319300
+.facebook.com	TRUE	/	FALSE	1443932771	fr	0ZMe3OlMMOS6dFhzY.AWUMczMj8VF2NT7kBKz0Jr02uQs.BVmgNj.UZ.AAA.0.AWVsliuM
+.facebook.com	TRUE	/	TRUE	1443932771	xs	123%3AJvqkqQ-jBM5vpA%3A2%3A1436156771%3A12672
+.facebook.com	TRUE	/	FALSE	1443932771	csm	2
+.facebook.com	TRUE	/	TRUE	1443932771	s	Aa4H2TbYTzCYezEN.BVmgNj
+.facebook.com	TRUE	/	FALSE	1443932771	m_user	0%3A0%3A0%3A0%3Av_1%2Cajax_0%2Cwidth_0%2Cpxr_0%2Cgps_0%3A1436156771%3A2
+.google.co.in	TRUE	/	FALSE	1499229141	PREF	ID=1111111111111111:FF=0:TM=1436157141:LM=1436157141:V=1:S=zPiUEmmc_s5SfYGL
+.google.co.in	TRUE	/	FALSE	1451968341	NID	69=XZ4m-K2QeVBz4dmP9JfBOIOP-5HVSnApqE3PtYx4boEHEvjYJOnnerfexS4vHd78bIuLO-WYmS6Pyn1YsuW2A90k2YHHMmv4dKQZ9irjO9t-7uXKau-ya6h9GNkSSsId
+.scorecardresearch.com	TRUE	/	FALSE	1498365150	UID	1D410318a66a1351261f4ca1436157150
+.scorecardresearch.com	TRUE	/	FALSE	1498365150	UIDR	1436157150

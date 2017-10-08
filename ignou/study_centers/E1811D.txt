@@ -1,0 +1,414 @@
+
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    1
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1811D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+    1 BDP-094748757   1811D       PRISKILA PASWET                 CTE04 EPS12     
+    2 BDP-094749583   1811D       SHIDABHA DKHAR                  ANC01 BEGE105 BEGE108 EEG06     
+    3 BDP-105194049   1811D       MATHIAS SUTONG                  BSHF101 ESO11     
+    4 BDP-105194142   1811D       DAPSHYNRANG DHAR                BSHF101 EPA01 EPA04 EPS03 ERD01     
+                                                                  FST01     
+    5 MPS-105194918   1811D       PYRKHATBHA PYRPHET              MPSE008   
+    6 MPS-110597232   1811D       TIPLEM SUMER                    MED002 MED008 MPS001 MPS003 MPS004    
+                                                                  MPSE001 MPSE004   
+    7 MPS-110597264   1811D       KYLLIMOT LUHUID                 MPS001 MPS002 MPS003 MPS004    
+    8 MCOM-110597690  1811D       DEWANCY POHTAM                  IBO03 MCO01 MCO04     
+    9 BDP-110604908   1811D       HUBERT PASSAH                   ESO12     
+   10 MAH-112250052   1811D       MICHAEL RYMBAI                  MHI01 MHI03 MHI05 MHI06 MHI08     
+                                                                  MPSE003   
+   11 MAEDU-112251846 1811D       LAWRENCE PASWET                 MES011 MES012 MES013 MES014 MES015    
+   12 BDP-112253310   1811D       CHAMP SON SUNGOH                AOM01 EEC14 EHI01 EHI05     
+   13 MPS-117239147   1811D       RIWAN ROY PAJUH                 MPS001 MPSE004   
+   14 MPS-117239265   1811D       SIMEON SUNGOH                   MED002 MED008 MPSE001 MPSE003 MPSE004   
+                                                                  MPSE006 MPSE007 MPSE008   
+   15 BDP-117240474   1811D       LALCHHANCHHUAHA C               ANC01 ECO08 ECO09 ECO10 ECO11     
+                                                                  ECO12 ESO15 FST01     
+   16 MAH-117241247   1811D       HANNAH BARBARA ROSE RYMBAI      MHI01 MHI04     
+   17 MAH-117241570   1811D       PYNGNGAD GASSAH                 MHI01 MHI03 MHI04 MHI05 MHI06     
+                                                                  MHI08 MPSE004   
+   18 MAH-117241587   1811D       L R CHUANI DARNEI               MHI03 MHI04 MHI05 MPSE004   
+   19 MAH-117241641   1811D       EBIANG MIDAKA LAMARE            MHI01 MHI03     
+   20 MEG-117243297   1811D       HEISA MARY LAMARE               MEG05 MEG07 MEG08 MEG10     
+   21 BDP-117246167   1811D       SHANBOR PAUL LAMARE             ACC01 CHE05 LSE09 LSE10     
+   22 MCOM-117249360  1811D       MAYALANG PALA                   IBO05 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+   23 BDP-117250941   1811D       TEILANGKI RYMBAI                BECE002 BSHF101 EHI01 EHI03 EHI07     
+                                                                  FST01     
+   24 BDP-117251001   1811D       RILA MYRBOH                     BPCE017 BPY012 BSWE004 EPS07     
+   25 BDP-117251588   1811D       DROSILA PHAWA                   ESO12     
+   26 BDP-117251990   1811D       DEIMON TANG                     ANC01 ESO14 ESO15 ESO16     
+   27 BDP-117252028   1811D       KONGKA BANG                     ANC01 BSHF101 ESO14 ESO15 ESO16     
+   28 BDP-117252035   1811D       VICTORY  NONGRUM                ANC01 ESO12     
+   29 BDP-117252390   1811D       ROLIS RYNGKHLEM                 EHI01 EPS11 ESO12 FST01     
+   30 BDP-117264205   1811D       ETHELDA RYNGKHLEM               ANC01 EPS03 ESO12 ESO15 ESO16     
+                                                                  FST01     
+   31 BDP-117264276   1811D       RIWAN PHAWA                     ESO12     
+   32 BDP-117264434   1811D       LOMLY LYNGDOH                   ANC01 BSHF101 EPS03 ESO11 ESO12     
+   33 BDP-117264513   1811D       EMELIA SUMER                    BPCE017 BPCE019 BPY012 BSWE004 ERD01     
+   34 BDP-117264892   1811D       RUPAYA KHARKONGOR               ANC01 BPAE102 ESO12 ESO15 ESO16     
+   35 BDP-117264971   1811D       RYNGKHLEMLANGPHI SUNA           ECO03 EHI03 ESO12 FEG01 FST01     
+   36 BDP-117264989   1811D       FAITHTIS RYNGKHLEM              ESO12     
+   37 BDP-117265927   1811D       NIDISCIBON RYNGKHLEM            ECO03 ESO12     
+   38 BDP-117266327   1811D       ANTHONY NGUN KUNGA              BPY004 CTE03 CTE04     
+   39 BDP-117266857   1811D       SICILY SATEIN                   EPS03 ESO12     
+   40 BDP-117266871   1811D       ROMA PANDIT                     ESO14 FST01     
+   41 BDP-117267329   1811D       WANBIANG PHALYNGKI              ERD01 ESO11 FST01     
+   42 BDP-117267920   1811D       REMISHA MUKHIM                  ACC01 EEC14 EPS03 ERD01 ESO11     
+                                                                  ESO15 ESO16 FST01     
+   43 BDP-117268037   1811D       VERONICA LYNGDOH                BEGE101 EHI01 EHI02 FST01     
+   44 BDP-117268259   1811D       AGNES PYRTUH                    ERD01     
+   45 BDP-117268528   1811D       DAHUNLANG K MUJAT               ANC01 EPS03 ESO11 ESO12     
+   46 BDP-117268550   1811D       LIVINGDENIS SUCHIANG            ANC01 EPA03     
+   47 BDP-117268954   1811D       WESEE MYRIA                     ANC01 EHI01 ESO11 ESO12 ESO14     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    2
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1811D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+   48 MEG-117704902   1811D       DEBORAH POHTHMI                 MEG05 MEG07 MEG10 MEG11     
+   49 BDP-121915074   1811D       YOORIKA CHYRMANG                ESO11     
+   50 BDP-121915329   1811D       CONFIRM B LYNGDOH               ANC01 BSWE004   
+   51 BDP-121915558   1811D       MARTHA MARBANIANG               BSHF101 ESO11 ESO15 FST01     
+   52 MEG-121919215   1811D       HAPPYBORN SYNNAH                MEG05 MEG07     
+   53 MEG-121919293   1811D       CHRISTINA M HAUZEL              MEG01     
+   54 MPS-121921196   1811D       RIMANDA SUCHIANG                MED002 MED008 MPSE001 MPSE003 MPSE004   
+                                                                  MPSE006 MPSE007 MPSE008   
+   55 MED-121924152   1811D       CONQUESTENA LYNGDOH             MES054 MES056 MESE067   
+   56 MED-121924217   1811D       GLORIA B LALOO                  MES053 MES054 MESE058   
+   57 MED-121924381   1811D       LADAKAHI SHULLAI                MES054 MES056    
+   58 BED-121927165   1811D       BONYFIRST SIANGSHAI             BESE065 BESE066 ES331 ES332 ES333     
+                                                                  ES334 ES335 ES341 ES342 ES363     
+   59 BDP-121929302   1811D       NELY MARY DHAR                  BSHF101 ESO11 ESO12 ESO13 ESO14     
+                                                                  FST01     
+   60 BDP-121929327   1811D       ALMA MYRCHIANG                  ANC01 EHI05 EPS07 EPS09 ESO12     
+   61 BDP-121929334   1811D       KORBINA LAPASAM                 ANC01 EHI05 EPS09 ESO12     
+   62 BDP-121929603   1811D       PHANTIS PASLEIN                 ANC01 BSHF101 EHI01 EPS03 EPS07     
+                                                                  EPS11 EPS12 ESO12 ESO15 ESO16     
+   63 BDP-121929628   1811D       YEARLY NONGRUM                  ANC01 EPS03 ESO12 ESO15 ESO16     
+   64 BDP-121929699   1811D       ALBINA NONGRUM                  ANC01 BPSE212 ESO12 ESO16     
+   65 BDP-121929871   1811D       WANDACHIRUP SYMBLAI             ANC01 EHI01 EPS12 ESO12 ESO15     
+                                                                  ESO16     
+   66 BDP-121929889   1811D       THEIRILINNCY PHALYNGKI          ANC01 EHI01 ESO12 ESO15 ESO16     
+   67 BDP-121929896   1811D       MARY JONES PALA                 ANC01 EHI01 ESO12 ESO15 ESO16     
+   68 BDP-121929943   1811D       FRANCIS LATHONG                 ANC01 EHI01 EHI05 EPS09     
+   69 BDP-121930117   1811D       EKLIS G WAR                     ANC01 EPS11 ESO15 ESO16     
+   70 BDP-125582375   1811D       WANJOPLIN MYRIA                 EPA03 EPS07 ERD01 ESO11 FEG02     
+                                                                  FST01     
+   71 BDP-125583148   1811D       SAHBUROM SUSNGI                 FST01     
+   72 BDP-125583528   1811D       SYNSHAR MASKUT                  BSHF101 ESO12 ESO13 FST01     
+   73 BDP-125583567   1811D       AJIDIUS SATEIN                  BSHF101 EPS12 ESO12 ESO13 FST01     
+   74 BDP-125583700   1811D       RIMIKI RYMBAI                   EPA03 EPS07 ERD01 ESO11 FST01     
+   75 BDP-125584480   1811D       SNGI HADIA                      ESO12 ESO13 FST01     
+   76 BDP-125584497   1811D       WOSMIDORA LANGBANG              ESO11     
+   77 BDP-125584505   1811D       SHARHEH PASI                    ESO12 FEG01 FST01     
+   78 BDP-125584623   1811D       TAM LYNGDOH                     BSHF101 ESO12 FEG01 FST01     
+   79 BDP-125584630   1811D       KAWANHI DHAR                    ESO12     
+   80 BDP-125584877   1811D       LEMING IALIH                    BSHF101 EPS03 ESO11 ESO12 FST01     
+   81 BDP-125584891   1811D       MELINDA KSOO                    EPS12 ESO11 ESO12 ESO13 ESO14     
+                                                                  FST01     
+   82 BDP-125584900   1811D       JURMON PHAWA                    FST01     
+   83 BDP-125586437   1811D       DESIREWILL KYNDIAH              BSHF101 ESO11 ESO12 FST01     
+   84 BDP-125586444   1811D       DAMANBIANG KYNDIAH              BSHF101 ESO11 ESO12 FST01     
+   85 BDP-125586720   1811D       WANHUNRIDA L SHULLAI            BSHF101 ERD01 ESO13 FST01     
+   86 BDP-125586738   1811D       JOYCLINE PASI                   BECE214 ERD01 ESO11 ESO13     
+   87 BDP-125586752   1811D       THERESA WAR                     BECE214 BSHF101 ERD01 ESO11 ESO13     
+                                                                  FST01     
+   88 BDP-125586760   1811D       RIBELDA WAR                     ERD01 ESO11 ESO13 FEG02     
+   89 BDP-125586942   1811D       RILANGKI RYMBAI                 EPS03 ESO11 ESO12 FST01     
+   90 BDP-125587010   1811D       SARADEVI D SANGMA               ERD01 ESO13     
+   91 BDP-125587059   1811D       SHIMTISHISHA TALANG             BSHF101 BSWE004 ESO11 ESO13 FST01     
+   92 BDP-125587200   1811D       AMBITION KYNDIAH                BSHF101 FST01     
+   93 BDP-125587256   1811D       HAPHIDAROI BIAM                 BSHF101 ESO11 ESO12 ESO13 ESO14     
+                                                                  FST01     
+   94 BDP-125587421   1811D       IAHUNLANG DHAR                  ESO12 ESO13 ESO14 FST01     
+   95 BDP-125587460   1811D       HEIBORMI PALE                   BSHF101 ESO12 ESO13     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    3
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1811D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+   96 BDP-125587478   1811D       EILADWANMI SYNTEM               BSHF101 ESO11 ESO12 ESO13 ESO14     
+                                                                  FST01     
+   97 BDP-125587485   1811D       LOVELYMARY DHAR                 BSHF101 EPS03 EPS12 ESO11 ESO12     
+                                                                  ESO14 FST01     
+   98 BDP-125587500   1811D       MIDIAN RABON                    BSHF101 EPS12 ESO11     
+   99 BDP-125587525   1811D       MARIA SUNGOH                    BSHF101 ESO11 ESO12 ESO13 FEG02     
+                                                                  FST01     
+  100 BDP-125587532   1811D       OINIDA MYRCHIANG                ESO12 ESO13 FST01     
+  101 BDP-125587571   1811D       PHRANGKI PRAN                   BSHF101 EPS03 ESO11     
+  102 MAH-125592494   1811D       TREMAYOO PHAWA                  MHI03 MHI04 MHI06 MHI08     
+  103 MAH-125592810   1811D       NOEL LAPASAM                    MHI01     
+  104 MAH-125592985   1811D       MIRIAM DA SHYLLA                MHI02 MHI05     
+  105 MAH-125593020   1811D       ELLODITA SUTNGA                 MHI02 MHI05     
+  106 MAH-125593100   1811D       DUNISHWA SUKHLAIN               MHI01 MHI03 MHI04     
+  107 MAH-125593149   1811D       DEWANISH K SIANGSHAI            MHI01 MPSE003   
+  108 BDP-125595181   1811D       DEIWI RYMBAI                    ESO13 FST01     
+  109 BDP-125596230   1811D       PDIANG SHWA NONGBAH             BSHF101 EPS03 ESO11 ESO12 FST01     
+  110 BDP-125596248   1811D       NIDAPYNHUNLANG KHYRIEM          BSHF101 ESO11 ESO12 FST01     
+  111 BDP-125596255   1811D       HOLDTY RYMBAI                   ESO14 FST01     
+  112 BDP-125597107   1811D       DARITY K W PYRTUH               ESO12 ESO13 ESO14 FST01     
+  113 BDP-125597153   1811D       IAISHAHBHA NANGBAH              BSHF101 EPS03 ESO11 ESO12 ESO14     
+                                                                  FST01     
+  114 BDP-125597540   1811D       YOOLANG DHAR                    BSHF101 ESO11 ESO12 ESO13 ESO14     
+                                                                  FST01     
+  115 BDP-125597572   1811D       DAMIAN S RABON                  BSHF101 FEG01 FEG02     
+  116 BDP-125597730   1811D       DEISHISHA NONGJNGI              BSHF101 EPS03 ESO12 FST01     
+  117 BDP-125597755   1811D       JULIANA BLAH                    BSHF101 EPS03 ESO11 ESO12 FST01     
+  118 BDP-125597770   1811D       RUHIPAIA KMA                    BSHF101 EPS03 ESO11 ESO12 FST01     
+  119 BDP-125597873   1811D       EMERENCIA PHAWA                 EPS11 ESO12 ESO13     
+  120 BDP-125597991   1811D       SHANKI WAR                      BSHF101 BSWE004 ESO13 FST01     
+  121 BDP-125598170   1811D       EFFICIENCY LYNGDOH              EHI02 EHI03 EHI04 FST01     
+  122 MEG-125602097   1811D       LIZZA BELLA SHULLAI             MEG05     
+  123 MEG-125602169   1811D       MANIUNG RUPA SHYLLA             MEG08 MEG11     
+  124 MEG-125602270   1811D       JOHN MM MARBOH                  MEG01 MEG05 MEG06 MEG07 MEG08     
+  125 MEG-125602310   1811D       MATHIDA   THUBRU                MEG07     
+  126 MEG-125602452   1811D       ISABELLA WAR                    MEG03 MEG05 MEG14     
+  127 MEG-125603519   1811D       ARNIMA DEBROY                   MEG01 MEG05 MEG07 MEG10 MEG14     
+  128 MPS-125604391   1811D       RI I BIANGKI LYPON              MPS001 MPS002 MPS003 MPS004    
+  129 MPS-125605211   1811D       PHIDARIS SHYLLA                 MPSE002   
+  130 MPS-125605401   1811D       RANIKA SUCHIANG                 MED002 MED008 MPS001 MPSE001 MPSE003   
+                                                                  MPSE004 MPSE006 MPSE007 MPSE008   
+  131 MPS-125605576   1811D       RELIN LYNGDOH                   MED008 MPS002 MPS004 MPSE001 MPSE004   
+                                                                  MPSE005 MPSE006 MPSE007 MPSE008 MPSE012   
+  132 MPS-125605702   1811D       LALTHAN GOOD FRIDAY DARNEI      MPS001 MPS002 MPS004 MPSE001 MPSE004   
+  133 MCOM-127693060  1811D       TEIMIKI NIANG                   MCO01 MCO03     
+  134 MCOM-127693458  1811D       NARBIR SINGH                    IBO04 IBO06 MCO01 MCO04     
+  135 MEC-127695680   1811D       WANLUTPOR POHIING               MEC001 MEC003 MEC004 MEC006 MEC007    
+                                                                  MEC105    
+  136 MEC-127695831   1811D       DAOOHIPAIA DKHAR                MEC001 MEC003 MEC004 MEC006 MEC007    
+                                                                  MEC008 MEC009 MEC105 MPA015 MPA017    
+  137 BPP-130312585   1811D       TEISHWA WAR                     OMT101 OSS101    
+  138 BED-130314492   1811D       ARDAKINI SUSNGI                 BESE065 BESE066 ES334 ES335 ES361     
+  139 BED-130314525   1811D       NIAWKI SAMATI                   BESE065 BESE066 ES331 ES334 ES335     
+                                                                  ES361     
+  140 BDP-130316188   1811D       BOIMIKI DAIO SNA                BPSE212 ESO12 ESO13 ESO14 FST01     
+  141 BDP-130316970   1811D       EUPHICA LANGSTANG               EPS03 ESO11 ESO14 FEG02 FST01     
+  142 BDP-130316987   1811D       PHIANBIANG SUCHIANG             EPS03 ESO11 ESO14 FEG01 FST01     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    4
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1811D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  143 BDP-130317971   1811D       LOMI PALE                       BSHF101 EPS03 EPS11 ESO14 FEG01     
+                                                                  FST01     
+  144 BDP-130317989   1811D       ROMEO LAMARE                    ESO11     
+  145 MEG-130319460   1811D       MANDAHAKARU POHLENG             MEG01 MEG02 MEG03 MEG04     
+  146 MPS-130320299   1811D       VIKRAM RAI RYNGKHLEM            MED008 MPSE001 MPSE003 MPSE004 MPSE006   
+                                                                  MPSE007 MPSE008 MPSE012   
+  147 MED-130320536   1811D       MUMJULIA SHANGPUNG              MES055 MES056 MESE058 MESE067   
+  148 MAH-130320876   1811D       SYRPAILANG LAMARE               MHI01 MHI02 MHI04 MHI05     
+  149 MAH-130320890   1811D       DAMIAN SUCHIANG                 MHI01     
+  150 BED-130322998   1811D       MANBHA STEN                     BESE065 BESE066 ES334 ES335 ES363     
+  151 BED-130323642   1811D       DANNY SYNGKON                   BESE065 BESE066 ES331 ES333 ES334     
+                                                                  ES335 ES362     
+  152 BED-130323904   1811D       AUGUSTINE LAMIN                 BESE065 BESE066 ES334 ES335 ES363     
+  153 BED-130324271   1811D       NIBHALANG SUCHIANG              BESE065 BESE066 ES331 ES334 ES335     
+                                                                  ES363     
+  154 BED-130324304   1811D       LUKAS MYRBOH                    ES331 ES332 ES333 ES341 ES342     
+  155 BED-130324454   1811D       DOLITA PYRHUT                   BESE065 BESE066 ES334 ES335 ES364     
+  156 BED-130324519   1811D       NIWADALASALAN SUIAM             BESE065 BESE066 ES331 ES332 ES333     
+                                                                  ES334 ES335 ES341 ES342 ES363     
+  157 BED-130324669   1811D       LE EMIDA POHSHNA                BESE065 BESE066 ES334 ES335 ES362     
+  158 BPP-136614986   1811D       SONI MYRIA                      OMT101 OSS101    
+  159 BPP-136614993   1811D       MANDA LAMARE                    OMT101 OSS101    
+  160 BPP-136615014   1811D       ECHWAMIDAKA PHAWA               OMT101 OSS101    
+  161 BPP-136616600   1811D       EHUNLANG MYRIA                  OMT101 OSS101    
+  162 BPP-136617182   1811D       RUDAKINI CHEN                   OSS101    
+  163 BPP-136617190   1811D       HANDRES CHEN                    OSS101    
+  164 BPP-136622525   1811D       DARIHUN PHALANGKI               OMT101 OSS101    
+  165 BPP-136622532   1811D       RUPAYA LITEP                    OMT101 OSS101    
+  166 BPP-136622540   1811D       STANLY KHONGIONG                OMT101 OSS101    
+  167 BPP-136622564   1811D       MEM BYRMAIN                     OMT101 OSS101    
+  168 BPP-136622571   1811D       POIKI SUSNGI                    OMT101 OSS101    
+  169 BPP-136622589   1811D       CARMELA HADIA                   OMT101 OSS101    
+  170 BPP-136622596   1811D       FRIDAY SHYLLA                   OMT101 OSS101    
+  171 BPP-136622604   1811D       HERMON SHYLLA                   OMT101 OSS101    
+  172 BPP-136622611   1811D       MONICA SIANG SHAI               OMT101 OSS101    
+  173 BPP-136622629   1811D       ADIYO PHAWA                     OMT101 OSS101    
+  174 BPP-136622636   1811D       RIDAKA SARIANG                  OMT101 OSS101    
+  175 BPP-136622643   1811D       ENTINA HADIA                    OMT101 OSS101    
+  176 BPP-136622650   1811D       PLEASITA BHOI                   OMT101 OSS101    
+  177 BPP-136622668   1811D       RIMONLANG SHYLLA                OMT101 OSS101    
+  178 BPP-136622675   1811D       MELINDA LYNGDOH                 OMT101 OSS101    
+  179 BDP-136627524   1811D       JOLASTICA THUBRU                BSHF101 ESO11 ESO12 FEG01 FEG02     
+  180 BDP-136627549   1811D       EDEL HINGE                      BSHF101 ESO11 ESO12 FEG01 FEG02     
+  181 BDP-136627990   1811D       STATISTICIAN SUSNGI             BPSE212 BSHF101 ESO11 FEG01     
+  182 BDP-136628035   1811D       OSHINDA LAMARE                  BSHF101 ESO11 ESO12 FEG01 FEG02     
+  183 BDP-136628074   1811D       IAINEHMON THUBRU                BPSE212 BSHF101 ESO11 FEG01     
+  184 BDP-136628081   1811D       ERISSIBON PASI                  BPSE212 BSHF101 ESO11 FEG01     
+  185 BDP-136629725   1811D       GRATIFUL SIANGSHAI              BSHF101 FEG01 FEG02     
+  186 BDP-136629732   1811D       VICE VERISA DKHAR               BPSE212 BSHF101   
+  187 BDP-136630554   1811D       PAKAHI CHEN                     BPSE212 ESO11 FEG01     
+  188 BDP-136630561   1811D       ARIDA POHTHMI                   BSHF101 FEG01 FEG02     
+  189 BDP-136630586   1811D       RIVULET PLAIN                   BSHF101 ESO11 FEG01 FEG02     
+  190 BDP-136631176   1811D       SHACKLE WARJRI                  BSHF101 ESO11 FEG01 FEG02     
+  191 BDP-136631209   1811D       BIBIANCY PLAIN                  BSHF101 ESO11 FEG01 FEG02     
+  192 BDP-136632185   1811D       PLIESTEP PALE                   BPSE212 BSHF101 FEG02     
+  193 BDP-136632430   1811D       LIST THUBRU                     BSHF101 ESO11 FEG01 FEG02     
+  194 BDP-136632447   1811D       RIKMEN RABON                    BPSE212 BSHF101 ESO11 FEG01 FEG02     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    5
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1811D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  195 BDP-136632454   1811D       DALARISA PASSAH                 BSHF101 FEG01 FEG02     
+  196 MEC-136636523   1811D       FIRSTLY BORN SHYLLA             MEC002 MEC004    
+  197 MARD-136637897  1811D       BRIGHT G RYNGKHLEM              MRD101    
+  198 MARD-136637905  1811D       FRESHMIND PDANG                 MRD102    
+  199 MEG-136639820   1811D       RUMAYA SYNGKON                  MEG01 MEG02 MEG03 MEG04     
+  200 MEG-136640000   1811D       HEIMONKI HADEM                  MEG01     
+  201 MCOM-136641708  1811D       MUHORKSIAR SYNGKON              IBO02 IBO04 IBO05     
+  202 MPS-136643693   1811D       LEKI LALOO                      MPS002 MPS003    
+  203 MPS-136643987   1811D       JASCENTA DANN                   MPS001 MPS002 MPS003 MPS004    
+  204 MPS-136644126   1811D       RICALLUS PASI                   MPS001 MPS002 MPS003 MPS004    
+  205 MSO-136644158   1811D       KUNE BHAHMI PDE                 MSO001 MSO002 MSO003 MSO004    
+  206 MSO-136645239   1811D       RIWILL RYNJAH                   MSO001 MSO002 MSO003 MSO004    
+  207 MAEDU-136645902 1811D       EMIDAHUN AMILIA PASI            MES011 MES013 MES014 MES015    
+  208 MAEDU-136645941 1811D       IOOWOTKA SUMER                  MES011 MES012 MES014 MES016    
+  209 MAEDU-136646019 1811D       YOOWANKA LYNGDOH                MES013 MES015 MES016    
+  210 MAEDU-136646262 1811D       WANKIRU POHKTAI                 MES011 MES012 MES013 MES014 MES015    
+                                                                  MES016    
+  211 MAEDU-136646287 1811D       SUMONKI LALOO                   MES013 MES014 MES015 MES016    
+  212 MAEDU-136646310 1811D       WALLAMKI LALOO                  MES013 MES014 MES015    
+  213 MAEDU-136646380 1811D       KAN MAN ROI DHAR                MES012 MES013 MES014 MES016    
+  214 MAEDU-136646531 1811D       DAMONLANGKI PASSAH              MES013 MES014 MES015    
+  215 MAEDU-136646570 1811D       EVANMI DKHAR                    MES011 MES014 MES015 MES016    
+  216 BPP-136648732   1811D       YOUSIBIA DHAR                   OMT101 OSS101    
+  217 BPP-136648740   1811D       MERITA DHAR                     OMT101 OSS101    
+  218 BPP-136648836   1811D       SIYONA PALE                     OMT101 OSS101    
+  219 BPP-136649845   1811D       SHANBOR SUMER                   OSS101 PCO       
+  220 BPP-136649852   1811D       RILANG SUMER                    PCO       
+  221 MAPC-136654260  1811D       DAKAPAYA BAREH                  MPC001 MPC005    
+  222 MTM-136654671   1811D       LASANKI MALANG                  MTM01 MTM04 MTM05 MTM07 MTM08     
+  223 MSDFSM-1366547111811D       HANDAKARU LAMARE                MFN001 MFN002 MFN003 MFN006 MFN008    
+                                                                  MFN010    
+  224 MAPY-136655548  1811D       WANPOIRI SUMER                  MGP005 MPY001 MPYE002 MPYE003 MPYE004   
+                                                                  MPYE005 MPYE006   
+  225 MSO-136655817   1811D       MANTREDAKA DKHAR                MSO001 MSO002    
+  226 MSO-136656177   1811D       DATHRANG I PASSAH               MSO001 MSO002 MSO004    
+  227 MSO-136656184   1811D       SIDLIKSHON NONGRUM PDE          MSO002 MSO003 MSO004    
+  228 MCOM-136657344  1811D       LAL THIANGHLIMA KUNGTE          IBO05 IBO06     
+  229 MEG-136658353   1811D       CAREME M J P DKHAR              MEG01     
+  230 MEG-136658418   1811D       VICONA SAYOO                    MEG01 MEG04     
+  231 MEG-136658686   1811D       LANAKIKA LAMARE                 MEG01 MEG04     
+  232 MEG-136658693   1811D       INVIGORATE BYNNUD               MEG01 MEG02 MEG04     
+  233 MEG-136658701   1811D       MANBHA DKHAR                    MEG01     
+  234 MEG-136658719   1811D       EWANMISAKA SUCHIANG             MEG01     
+  235 MPS-136661075   1811D       FIRSTLY ROY DKHAR               MPS001 MPS002    
+  236 PGDDM-136661960 1811D       JINA PASWET                     MPA001 MPA002 MPA003 MPA004 MPA005    
+                                                                  MPA006 MPA007    
+  237 PGDDM-136661978 1811D       BALAWANKI DANN                  MPA001 MPA002 MPA003 MPA004 MPA005    
+                                                                  MPA006 MPA007    
+  238 BPP-141050667   1811D       LANOSHA LAMARE                  OSS101    
+  239 BPP-141050681   1811D       SARDANA SUTING                  OSS101    
+  240 BPP-141050707   1811D       EWANMI D PASSAH                 OMT101 OSS101    
+  241 BPP-141051375   1811D       FERIDA DKHAR                    OMT101 OSS101    
+  242 BPP-141051880   1811D       RIBALIN LAMAT                   OMT101    
+  243 BPP-141052320   1811D       TEILANG GAROD                   OMT101 OSS101    
+  244 BPP-141052338   1811D       BAIRY LAMARE                    OMT101 OSS101    
+  245 BPP-141052345   1811D       ELIZABETH LAW                   OMT101 OSS101    
+  246 BPP-141052352   1811D       NIDAPURA TYNGKRA                OMT101 OSS101    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    6
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1811D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  247 BPP-141052360   1811D       BEAUTIFUL PAKMA                 OMT101 OSS101    
+  248 BPP-141052377   1811D       DAWAN SIANGSHAI                 OMT101 OSS101    
+  249 BPP-141052400   1811D       MARWI SYMBLAI                   OMT101 OSS101    
+  250 BDP-141053354   1811D       FERMIKI DAN                     BSHF101 ESO11 FEG01 FEG02     
+  251 BDP-141053379   1811D       RILAN MIKI DANN                 BSHF101 ESO11 FEG01 FEG02     
+  252 BDP-141053433   1811D       KONGKA PADIT                    BPSE212 BSHF101 ESO11 FEG01 FEG02     
+  253 BDP-141053512   1811D       MANSUK RYMBAI                   BPSE212 BSHF101 ESO11 FEG01 FEG02     
+  254 BDP-141053537   1811D       TEIBERLY NONGBAH                BPSE212 BSHF101 ESO11 FEG01 FEG02     
+  255 BDP-141053544   1811D       MARGARETH SUTONG                BPSE212 BSHF101 ESO11 FEG01 FEG02     
+  256 BDP-141053609   1811D       DONBOKLANG KHARJANA             BSHF101 ESO11 FEG01 FEG02     
+  257 BDP-141053884   1811D       BERNADUS DKHAR                  BPSE212 BSHF101 ESO11 FEG01 FEG02     
+  258 BDP-141053963   1811D       LAMLYNTISHWA SUCHIANG           BPSE212 BSHF101 ESO11 FEG01 FEG02     
+  259 BDP-141053970   1811D       MORNINGSTAR SUCHIANG            BPSE212 BSHF101 ESO11 FEG01 FEG02     
+  260 BDP-141054324   1811D       RIDALIN SUCHIANG                BPSE212 BSHF101 ESO11 FEG01 FEG02     
+  261 BDP-141054356   1811D       CHEBORLANG LYTAN                BPAE102 BSHF101 FEG01 FEG02     
+  262 BDP-141054363   1811D       DIANA PHAWA                     BPSE212 BSHF101 ESO11 FEG01 FEG02     
+  263 BDP-141054736   1811D       ARLIN MURUH                     BPSE212 BSHF101 EPS11 FEG01 FEG02     
+  264 BDP-141054743   1811D       RIBAI RYMBAI                    BPSE212 BSHF101 ESO11 FEG01 FEG02     
+  265 MPS-141055096   1811D       KMENLANG BIAM                   MPS001 MPS002 MPS003 MPS004    
+  266 MPS-141055143   1811D       EVARIST PHAWA                   MPS001 MPS002 MPS003 MPS004    
+  267 MPS-141055150   1811D       NEHLANG DHAR                    MPS001 MPS002 MPS003 MPS004    
+  268 MPS-141055182   1811D       ROSE MARY SHULLAI               MPS001 MPS002 MPS003 MPS004    
+  269 MEG-141055720   1811D       ELVINA KAMEI                    MEG01 MEG02 MEG03 MEG04     
+  270 MSO-141056184   1811D       ARIKA SHADAP                    MSO001 MSO002 MSO003 MSO004    
+  271 MSO-141056191   1811D       ENTRIME MYRCHIANG               MSO001 MSO002 MSO003 MSO004    
+  272 MSO-141056263   1811D       MONICA KUJUR                    MSO001 MSO002    
+  273 MSO-141056500   1811D       PHILAWON SHINGNAISUI            MSO001 MSO002 MSO003 MSO004    
+  274 MAH-141056682   1811D       MERINA SWER                     MHI01 MHI02 MHI04 MHI05     
+  275 BDP-141058719   1811D       MEDIS SLONG                     CHE01 FEG01 FEG02 FST01 LSE01     
+                                                                  LSE02 PHE01 PHE02     
+  276 MCOM-141062307  1811D       PHILEMON HARI                   IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  277 BPP-141062876   1811D       RILANA NONGJEID                 OMT101 OSS101    
+  278 BPP-141062883   1811D       SALAN BYRMAIN                   OMT101 OSS101    
+  279 BPP-141062890   1811D       HABANJOP RALIANG                OMT101 OSS101    
+  280 BPP-141063030   1811D       RIKAMO SHADAP                   OSS101 PCO       
+  281 MEG-141063165   1811D       ROBY MATHEW K M                 MEG01 MEG02 MEG03 MEG04     
+  282 BDP-141063348   1811D       CHIMPOR NONGRUM                 BPSE212 BSHF101 ESO11 FEG01 FEG02     
+  283 BDP-141063394   1811D       LIMON MANNER                    BPSE212 BSHF101 ESO11 FEG01 FEG02     
+  284 BED-141063799   1811D       DAICY RIDALIN LALOO             ES331 ES332 ES333 ES341 ES342     
+  285 BED-141064063   1811D       LUCKY STAR SUTING               ES331 ES332 ES333 ES341 ES342     
+  286 BED-141064167   1811D       RILUMKI DHAR                    ES331 ES332 ES333 ES343 ES344     
+  287 BED-141064174   1811D       R KIWAKA KYNDIAH                ES331 ES332 ES333 ES341 ES344     
+  288 BED-141064364   1811D       K JOHN POWER WAHLANG            ES331 ES332 ES333 ES343 ES344     
+  289 BED-141064371   1811D       SAMEWAN LANONG                  ES331 ES332 ES333 ES341 ES342     
+  290 BED-141064658   1811D       WANERODA LALOO                  ES331 ES332 ES333 ES343 ES344     
+  291 BED-141064737   1811D       PHARES SNA                      ES331 ES332 ES333 ES341 ES342     
+  292 BED-141064776   1811D       K MENWAHI SUNGOH                ES331 ES332 ES333 ES343 ES344     
+  293 BED-141064941   1811D       CECILIA LAMARE                  ES331 ES332 ES333 ES343 ES344     
+  294 BED-141065112   1811D       WANSYRPAILYNE LALOO             ES331 ES332 ES333 ES341 ES342     
+  295 BED-141065120   1811D       DAVINA SHULLAI                  ES331 ES332 ES333 ES343 ES344     
+  296 BED-141065137   1811D       BARISHA MUTHOH                  ES331 ES332 ES333 ES341 ES342     
+  297 BDP-141065628   1811D       CHEINIPAIA PHAWA                BPSE212 BSHF101 ESO11 FEG01 FEG02     
+  298 MED-141066067   1811D       NELLIE EUDORA LALOO             MES051 MES052 MES053 MES054 MESE057   
+  299 BDP-141066153   1811D       EDRISMARY SHYLLA                BPSE212 BSHF101 ESO11 FEG01 FEG02     
+  300 BDP-141066160   1811D       PRIIOS SUNGOH                   BPSE212 BSHF101 ESO11 FEG01 FEG02     
+  301 BDP-141066178   1811D       BIJOY MYRCHIANG                 BPSE212 BSHF101 ESO11 FEG01 FEG02     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    7
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1811D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  302 BPP-146157447   1811D       DAURUHI SARIANG                 OMT101 OSS101    
+  303 BPP-146159465   1811D       MARYJOHN TLENGSING              OMT101 OSS101    
+  304 BPP-146159497   1811D       LALRINOMA NGAITE                OMT101 OSS101    
+  305 BPP-146159727   1811D       DOROTHY TLENGSING               OMT101 OSS101    
+  306 BPP-146160531   1811D       SOLINA LAMARE                   OMT101 OSS101    
+  307 BPP-146161350   1811D       IOHMON PHAWA                    OMT101 OSS101    
+  308 BPP-146161375   1811D       LALLUNGNGAMA NAMPUI             OSS101 PCO       
+  309 BPP-146161382   1811D       RUATMOII NAMPUI                 OMT101 OSS101    
+  310 BPP-146161408   1811D       MASANI NAMPUI                   OMT101 OSS101    
+  311 BPP-146161422   1811D       RUATKIMI NAMPUI                 OSS101 PCO       
+  312 BPP-146161612   1811D       PHAIMI BIAM                     OMT101 OSS101    
+  313 BPP-146161620   1811D       GOSPEL VARZOII NAMPUI           OSS101 PCO       
+  314 BPP-146162449   1811D       RAJU RANGLONG                   OMT101 OSS101    
+  315 BPP-146162882   1811D       LIBET SUTING                    OMT101 OSS101    
+  316 CAFE-146180368  1811D       JEZZINIA PHAWA                  BFE101 BFE102 BFEE101 BFEE102   
+        

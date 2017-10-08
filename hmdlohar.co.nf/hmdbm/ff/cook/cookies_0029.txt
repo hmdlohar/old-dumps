@@ -1,0 +1,14 @@
+#This file was created by the CookieSwap extension...see cookieswap.mozdev.org
+#NOTE: if this file's extension is 'tx1' then this is an
+# active profile and the cookies in here are old and will be overwritten by the 
+# cookies being managed by the browser
+.google.com	TRUE	/	FALSE	1497791744	PREF	ID=0d9c8202dfcaa46a:TM=1434719743:LM=1434719743:V=1:S=YW3lMn1vT6HGRhen
+.google.com	TRUE	/	FALSE	1450530944	NID	68=QtqhAnYwey-U2WGlO6df5_d4Q5wh5krvKxF44DQnimkDHaB8Zx0YLKWTygEM5bLEJIeWY5MTPje7UOsnYDSbIS8FZnUDz147QXnDHrgAe7H5u20JJTHC41pylfZZjmgg
+.facebook.com	TRUE	/	FALSE	1497791772	datr	_hWEVWXIXCeVngdYVIHy2QTy
+.facebook.com	TRUE	/	TRUE	1442495776	c_user	100002779508734
+.facebook.com	TRUE	/	FALSE	1442495776	fr	0EEmQ0PQZOAF2RFuJ.AWUcpi403DDCPr6hRsiQLXiKMgI.BVhBYg.NZ.AAA.0.AWW-Tfpk
+.facebook.com	TRUE	/	TRUE	1442495776	xs	185%3AakkKJpFPWIG4bw%3A2%3A1434719776%3A19951
+.facebook.com	TRUE	/	FALSE	1442495776	csm	2
+.facebook.com	TRUE	/	TRUE	1442495776	s	Aa7rqMtuoQ_HiOrM
+.facebook.com	TRUE	/	FALSE	1442495776	m_user	0%3A0%3A0%3A0%3A%3A1434719776%3A2
+.facebook.com	TRUE	/	TRUE	1497791776	lu	RAeQ94JKy97_VvAUvmknr-gw

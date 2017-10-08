@@ -1,0 +1,338 @@
+
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    1
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 27101                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+    1 MCA-062630024   27101       MANJEET KUMAR BHASKER           MCSL036 MCSL045   
+    2 MCA-073168514   27101       SHIVBODH KUMAR PANDEY           CS71 MCSE004   
+    3 BDP-075500701   27101       ASHOK KUMAR BHARDWAJ            ANC01     
+    4 MCA-082026174   27101       RAVINDRA KR GAUTAM              MCSE004   
+    5 MCA-084632975   27101       BRIJ BIHARI SINGH               CS64 CS75 MCS031 MCS051 MCS052    
+    6 MCA-084724966   27101       ARUN KUMAR                      MCS031 MCS032 MCS033 MCS034 MCS035    
+    7 MCA-085291235   27101       SANJU GUPTA                     MCS031 MCS042 MCS043 MCS051 MCS052    
+                                                                  MCS053 MCSE004 MCSE011 MCSL054   
+    8 BDP-093024930   27101       MRS. MANJU PANDEY               BEGE101   
+    9 BCA-093028500   27101       SHWETA GUPTA                    CS05 CS06 CS60 CS612 CS64 CS66      
+                                                                  CS71 CS72 CS73 CS74 CS75      
+   10 BEDSE-094867720 27101       INDRAVATI                       MMDE039   
+   11 BEDSE-095024380 27101       SINDHU DEVI                     MMD012    
+   12 BDP-095849320   27101       RAHUL SINGH                     ECO14     
+   13 MCA-095856064   27101       SUNIL KUMAR ROSHAN              CS62 CS63 CS64 CS71 CS73 MCS031    
+                                                                  MCS033 MCS035 MCS041 MCS042    
+   14 BDP-100086483   27101       RAM PRAVESH SINGH               EHD02 ESO15     
+   15 MEDSEHI-100110559                      27101       MOHAN PRASAD BHARATI            MMDE055   
+   16 MAH-105105534   27101       SHARAD KUMAR PRADHAN            MPSE003   
+   17 BDP-105212466   27101       PRAMOD YADAV                    EHI05     
+   18 BDP-105212468   27101       PARAS SINGH YADAVA              ANC01     
+   19 BDP-105212588   27101       SANDEEP KUMAR VERMA             ECO10 ECO14     
+   20 BDP-105212798   27101       SONU SINGH KUSHWAHA             BEGE101   
+   21 BDP-105213008   27101       SAURABH GUPTA                   BECE002 ECO08     
+   22 MCA-105213547   27101       DEBOPAM  BANERJEE               CS64 CS73 MCS031 MCS032 MCS033    
+                                                                  MCS034 MCS035 MCS041 MCS042 MCS043 MCSL045   
+   23 BCA-105213572   27101       GULAM MOHAMMAD ASFIYA AYYUBI    CS60 CS74 CS74P     
+   24 BDP-110130906   27101       UZMA KHATOON                    ANC01     
+   25 BDP-110131148   27101       RAM CHANDRA SINGH               ACS01 EHI01 EPA06 EPS12 FST01     
+   26 BDP-110296298   27101       AJEET KUMR SINGH                ESO12 ESO14     
+   27 BCA-110378113   27101       AMIT KUMAR SINGH                CS73 CS74 CS75      
+   28 BDP-111433205   27101       SAURABH GUPTA                   BEGE101 EHI03 EHI04 FST01     
+   29 BDP-111435262   27101       AMRISH KUMAR TIWARI             ECO08     
+   30 MEG-111437298   27101       VANDANA UPADHYAY                MEG05     
+   31 BDP-111441947   27101       SHASHIKANT YADAV                ACC01 ANC01 EPS12 FST01     
+   32 BDP-111441979   27101       OM PRAKASH                      AMT01     
+   33 MCA-111443546   27101       MONOO KUMAR YADAV               CS06 CS60 CS611 CS612 CS64 CS71      
+                                                                  CS72 CS73 CS74 CS75 MCS031 MCS032 MCS033 MCS034 MCS035    
+   34 BCA-111443893   27101       ASHISH PRAJAPATI                BSHF101 CS60 MCS031 MCS032 MCS033    
+                                                                  MCS034 MCS035 MCS041 MCS042 MCS043 MCSL036 MCSL045   
+   35 MCA-111452309   27101       SHIVANI KESHARI                 MCS033    
+   36 MAEDU-115556840 27101       RAM YATAN RAM                   MES101 MES102 MES103 MES104    
+   37 BEDSEHI-115856290                      27101       FULMATEE DEVI                   MMD012 MMD013 MMD014    
+   38 MEDSEHI-115981282                      27101       ANUPAM GUPTA                    MMD051 MMD052 MMD054    
+   39 BEDSE-116654654 27101       BEBI YADAV                      MMDE039   
+   40 BEDSE-116935041 27101       OM PRAKASH                      MMDE035   
+   41 BDP-117512339   27101       VAKEEL RAM                      EHD01 EPS11 ESO14     
+   42 BDP-117513054   27101       NIKITA GUPTA                    ECO08 ECO11     
+   43 BDP-117513283   27101       VEDIKA CHITRANSH                BSHF101 ECO02 ECO08 ECO09 ECO11     
+                                                                  EEC11 FST01     
+   44 BCA-117514554   27101       KM SWATI SINGH                  BCS011 BCS012 BCS041 BCS052 BCS055    
+                                                                  MCS012 MCS013 MCS014 MCS021 MCS022 MCS023    
+   45 BCA-117520350   27101       RAMA SHANKAR                    BCS012 BCS040 BCS041 BCS042 BCS051    
+                                                                  BCS052 BCS053 BCS054 BCS055 BCS062 ECO02 MCS011 MCS012 MCS013 MCS021 MCS023    
+   46 BCA-117520762   27101       PRITI MAURYA                    BCS041 BCS042 BCS052 BCS053 MCS012    
+                                                                  MCS013 MCS014 MCS015 MCS021 MCS022 MCS023    
+   47 BCA-117520802   27101       SHATRUGHAN SINGH                BCS031 BCS041 BCS042 BCS052 BCS053    
+                                                                  BCS055 BCSL021 MCS011 MCS012 MCS013 MCS014 MCS021 MCS022 MCS023    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    2
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 27101                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+   48 BCA-117520827   27101       SHWETA KUMARI                   BCS052 MCS012 MCS014 MCS022    
+   49 BCA-117521116   27101       SUSHMA AMBIKA                   BCS041 BCS042 BCS053 BCS054 BCS055    
+                                                                  BCS062 BCSL044 BCSL045 BCSL056 BCSL057 BCSL058 BCSL063 MCS022    
+   50 MEG-117524745   27101       SEEMA YADAV                     MEG05     
+   51 MCA-117676423   27101       ANIL KUMAR                      MCS031 MCS042 MCS051 MCS053 MCSE004   
+                                                                  MCSL016 MCSL017 MCSL025 MCSL036 MCSL045 MCSL054   
+   52 BDP-117854103   27101       ANAND YADAV                     ANC01 BECE214 EHD01 EPA04 EPA05     
+                                                                  EPA06     
+   53 BDP-118016625   27101       SHYAMLAL YADAV                  BECE002 BEGE103 BEGE104 EEC11     
+   54 BDP-118019201   27101       VINAY KUMAR RAY                 ANC01 BHDF101 EPS03 ERD01 FHD02     
+                                                                  FST01     
+   55 BDP-118019312   27101       BANDNA KUSHWAHA                 ACC01 ANC01 EHI05     
+   56 BCA-118022650   27101       UROOB JAMAL                     MCS011 MCS012 MCS022    
+   57 BCA-118023186   27101       SARVESH KUMAR                   BCS041 BCS052 BCS054 MCS012 MCS021    
+                                                                  MCS022 MCS024    
+   58 BDP-118032637   27101       ARUN KUMAR CHAUHAN              BSHF101 CHE01 CHE02 FEG01 FEG02     
+                                                                  FST01 MTE01 MTE05 PHE01 PHE02 PHE04 PHE05     
+   59 BDP-118214440   27101       CHANDRA SHEKHAR KUMAR           EHI06     
+   60 BDP-121278529   27101       SACHIN KUMAR                    ACC01 EHI04 EHI05 EHI06 EHI07     
+   61 BDP-121278805   27101       TEJANARAYAN PRAJAPATI           BEGE101 BEGE102 BSHF101 FEG01     
+                                                                  FEG02     
+   62 BDP-121900067   27101       SHAILESH KUMAR YADAV            EHI03 FST01     
+   63 BDP-121900730   27101       MANOJ KUMAR YADAV               AFW01 AWR01 BEGE102 EHI01 EHI03     
+                                                                  EPA04 ESO15 ESO16 FST01     
+   64 BDP-121900755   27101       VEERBAHADUR YADAV               ANC01 EPS11 ESO15 ESO16     
+   65 BDP-121900787   27101       SATYENDRA KUMAR                 ANC01 BPSE212 ESO15 ESO16     
+   66 BDP-121900802   27101       MAYA                            EHD04 EPS11 EPS12 ESO12 ESO13     
+                                                                  ESO15 FST01     
+   67 BDP-121900810   27101       BAJRANG PANDEY                  EHD06 EPS03 EPS11 FST01     
+   68 BDP-121900827   27101       REKHA YADAV                     ANC01 EHI03 ESO13 ESO15 ESO16     
+                                                                  FST01     
+   69 BDP-121900859   27101       ALOK KUMAR                      ANC01 EHD04 EHD05 EHD06 ESO14     
+                                                                  ESO15     
+   70 BDP-121900880   27101       AKHILESH SINGH                  ANC01 BEGE101 EHI05 EPS06     
+   71 BDP-121901550   27101       BHARAT SHARMA                   ECO03 ECO06 EEC11 EPS03 FST01     
+   72 BED-122110762   27101       SEBI AUGUSTINE                  BESE065 BESE066 ES334 ES335 ES362     
+   73 BDP-125278759   27101       ISHWAR CHANDRA SINGH            BEGE103 BEGE105 BPC001    
+   74 BDP-125337386   27101       CHANDAN KUSHWAHA                BHDF101 BPAE102 BSHF101 EHI01     
+                                                                  EPA04 FEG01 FST01     
+   75 BDP-126129707   27101       JITENDRA PAL                    BEGE102 FST01     
+   76 MAH-126527436   27101       ARUN KUMAR YADAV                MHI03 MHI06 MPSE003 MPSE004   
+   77 BDP-126655462   27101       SHRIRAM CHAUHAN                 EPA01     
+   78 BDP-126656020   27101       PREM PRAKASH SINGH KUSHWAHA     BPAE102 BSHF101 EPA01 EPA03 EPA04     
+                                                                  FEG01 FEG02 FST01     
+   79 MEG-126656582   27101       WAQAR ALAM                      MEG05 MEG07 MEG08 MEG11     
+   80 MEG-126656590   27101       ASHUTOSH GUPTA                  MEG03 MEG04 MEG07     
+   81 MEG-126656615   27101       IZZATULLAH ANSARI               MEG05 MEG07 MEG08 MEG11     
+   82 MAH-126658221   27101       YADWENDRA SINGH                 MHI02 MHI04 MHI05     
+   83 BDP-126659137   27101       KM. NIDHI SINGH YADAV           EPA04 ESO11 ESO13 FST01     
+   84 BEDSE-126664050 27101       RAKESH KUMAR RAI                MMD012 MMD013 MMDE034 MMDE035   
+   85 BEDSE-126664375 27101       SANTOSH SRIVASTAV               MMD012 MMD013 MMDE017 MMDE029 MMDE030   
+   86 BCA-126664770   27101       AAKANKSHA SINGH                 BCS011 BCS012 BCS051 BCS052 BCS053    
+                                                                  BCS054 BCS055 BCSL056 BCSL057 BCSL058 ECO02 MCS012 MCS013 MCS021 MCS023 MCS024    
+   87 BCA-126668254   27101       SANDEEP KUMAR YADAV             BCS011 BCS012 BCS051 BCS052 BCS053    
+                                                                  BCS054 BCS055 BCSL056 BCSL057 BCSL058 ECO02 MCS012 MCS013 MCS021 MCS023    
+   88 BDP-126671640   27101       ASHISH YADAV                    EEC13 MTE01 MTE04     
+   89 BDP-126671657   27101       VISHAL KUMAR                    EEC11 EEC13 MTE01     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    3
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 27101                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+   90 BDP-126671664   27101       ANAND KUMAR KUSHWAHA            BECE214 EEC10 FST01     
+   91 BDP-126671689   27101       ANJANA PAL                      EHD01 EHI03 ESO14 FST01     
+   92 BCA-126672222   27101       RAMDULAR KUSHWAHA               BCS040 BCS051 BCS052 BCS053 BCS054    
+                                                                  BCS055 BCSL044 BCSL056 BCSL057 BCSL058 MCS013 MCS014 MCS023    
+   93 MSW-126673367   27101       ANIL SRIVASTAVA                 MSW001 MSW007 MSW008 MSW009 MSW010    
+                                                                  MSWE002   
+   94 BCA-126678120   27101       SAPNA SINGH                     BCS011 BCS012 BCS051 BCS052 BCS053    
+                                                                  BCS054 BCS055 BCSL056 BCSL057 BCSL058 ECO02 MCS012 MCS013 MCS021 MCS023    
+   95 MPS-126681429   27101       SHASHANK SHEKHAR SINGH          MPS001    
+   96 MSO-126681769   27101       SNEH LATA PANDAYA               MPS003 MSO004 MSOE001   
+   97 MEG-126681934   27101       AJAY KUMAR SINGH                MEG03 MEG05 MEG07 MEG08 MEG10     
+   98 MSO-126683558   27101       PRADEEP KUMAR                   MSO004    
+   99 BDP-126766801   27101       SHALENDRAKUMAR YADAV            FST01     
+  100 BDP-127360500   27101       ASHISH KUMAR RAI                EHI02 EHI04 FHD02 FST01     
+  101 BDP-130644287   27101       ANIL KUSHWAHA                   BSHF101 EHI01 EHI02 EHI04 FEG01     
+                                                                  FEG02 FST01     
+  102 BDP-130833697   27101       CHANDAN SINGH                   EHD01 EPA03 EPA04 FST01     
+  103 MEG-131398221   27101       SAMITA CHAUHAN                  MEG05 MEG07 MEG08 MEG09     
+  104 BDP-131399019   27101       PRADEEP KUMAR                   EHD01 EHD03 ESO14 FST01     
+  105 BDP-131399026   27101       SANJAY KUMAR                    EHI03 ESO11 ESO14 FST01     
+  106 BDP-131399097   27101       AKHILESH BHARTI                 EPA03 ESO11 ESO14 FST01     
+  107 BDP-131399120   27101       MD ABDUL KALAM                  EHD03 EHI01 ESO14 FST01     
+  108 MEG-131399413   27101       SHAISTA JAHAN                   MEG04 MEG05 MEG07 MEG10 MEG14     
+  109 BDP-131400715   27101       PANKAJ YADAV                    EHD03 EHD06 EHI01 FST01     
+  110 BDP-131400779   27101       HASEEN AHMAD                    EPA01 EPA03 EPA04 FST01     
+  111 MHD-131404031   27101       RAJIV KUMAR RAI                 MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  112 CFE-131405904   27101       RAKESH KUMAR YADAV              BEG006    
+  113 BDP-131406827   27101       PRASANT KUMAR RAI               ECO03 ECO05 ECO06 ECO07 ECO12     
+                                                                  ECO14 FST01     
+  114 MEG-131406873   27101       KRISHNA KUMAR SINGH YADAV       MEG05 MEG06 MEG07 MEG10     
+  115 MPS-131406984   27101       SHRAWAN KUMAR RAM               MPS001 MPS003 MPS004 MPSE006 MPSE007   
+                                                                  MPSE008   
+  116 MCOM-131407012  27101       SHIVANI SINGH                   IBO01 IBO02 IBO05     
+  117 MCOM-131407020  27101       ATIQ KHAN                       IBO01 IBO02 IBO05 MCO01 MCO03     
+                                                                  MCO04 MCO05 MCO06 MCO07     
+  118 BED-131408211   27101       KUBER NATH YADAV                BESE065 BESE066 ES334 ES335 ES364     
+  119 BED-131408236   27101       BALESHWAR SINGH YADAV           BESE065 BESE066 ES334 ES335 ES364     
+  120 BED-131408347   27101       PARAS NATH SINGH YADAV          BESE065 BESE066 ES334 ES335 ES364     
+  121 BED-131408505   27101       HARINARAYAN YADAV               BESE065 BESE066 ES334 ES335 ES364     
+  122 BED-131408576   27101       RAMAYAN YADAV                   BESE065 BESE066 ES334 ES335 ES364     
+  123 BED-131408590   27101       PRINCE KUMAR GUPTA              BESE065 BESE066 ES334 ES335 ES364     
+  124 BED-131409808   27101       RASHMI SRIVASTAVA               ES331 ES332 ES333 ES341 ES345     
+  125 BED-131410408   27101       CHANDANA SRIVASTAVA             BESE065 BESE066 ES334 ES335 ES362     
+  126 BED-131410447   27101       ASHWINI KUMAR TIWARI            BESE065 BESE066 ES334 ES335 ES363     
+  127 BED-131410501   27101       VANDANA UPADHYAY                BESE065 BESE066 ES334 ES335 ES362     
+  128 BED-131411116   27101       SHALINI PRIYA                   BESE065 BESE066 ES334 ES335 ES364     
+  129 MCA-131764019   27101       DHIRAJ KUMAR SHARMA             MCS011 MCS012 MCS014 MCS015 MCS021    
+                                                                  MCS022 MCS023 MCS024 MCS031 MCSL036   
+  130 MCA-131764026   27101       KRISHNA KUMAR GUPTA             MCS011 MCS012 MCS022 MCS023 MCS024    
+                                                                  MCS031 MCS034 MCS041 MCS042 MCS043 MCSL045   
+  131 MED-131765218   27101       ANIL KISHOR EKKA                MES055 MES056 MESE067   
+  132 MED-131765296   27101       SADANAND SINGH YADAV            MES055 MES056 MESE064   
+  133 MSO-131765690   27101       SUNITA RAJBHAR                  MPS003 MSO001 MSOE001 MSOE003 MSOE004   
+  134 MEG-131765859   27101       MANAYEE RAM                     MEG04 MEG05 MEG06 MEG07 MEG11     
+  135 BED-131766241   27101       SUREM PRAJAPATI                 BESE065 BESE066 ES334 ES335 ES361     
+  136 BDP-136508970   27101       ARJUN KUMAR                     BHDF101 BSHF101 ECO01 ECO02 EEC11     
+                                                                  FHD02     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    4
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 27101                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  137 BDP-137103402   27101       TARUN KANT KUSHAWAHA            BHDF101 BPSE212 BSHF101 EHI01     
+                                                                  FHD02     
+  138 BDP-137103918   27101       PRAVEEN KUMAR TRIPATHI          BHDF101 BSHF101 EHI01 EHI02 FHD02     
+  139 BDP-137103971   27101       BRIJESH KUMAR KESHARI           BECE002 BHDF101 BSHF101 ECO01     
+                                                                  ECO02 FHD02     
+  140 MSO-137104031   27101       KM  JYOTI PANDEY                MSO001 MSO004    
+  141 MEG-137104088   27101       DEEPA SINGH KUSHWAHA            MEG03 MEG04     
+  142 MEG-137104128   27101       ASHISHKUMAR SINGH               MEG01     
+  143 DDT-137105151   27101       SHIVA YADAV                     BPVI011 BPVI012 BPVI013 BPVI014   
+                                                                  BPVI016 BPVI017   
+  144 DDT-137106810   27101       ANAND KUMAR SINGH               BPVI011 BPVI012 BPVI014 BPVI017   
+                                                                  BPVI018   
+  145 BDP-137109729   27101       DEV SHARN RAM                   BHDF101 BSHF101 EPS11 ESO12 FHD02     
+  146 MAH-137110336   27101       VINEETA YADAV                   MHI05     
+  147 DDT-137111130   27101       YOGENDRA SINGH                  BPVI011 BPVI012 BPVI013 BPVI014   
+                                                                  BPVI015 BPVI016 BPVI017 BPVI018   
+  148 MSO-137111162   27101       SEEMA SINGH                     MSO001 MSO004    
+  149 BDP-137112900   27101       NILESH KUMAR MAURYA             BEGE102 BHDF101 BSHF101 EHI01     
+                                                                  FHD02     
+  150 DDT-137113886   27101       RAUNAQUE ZAMEER                 BPVI011 BPVI012 BPVI017 BPVI018   
+  151 BDP-137147260   27101       UDAY PRATAP SINGH               EHI01     
+  152 MAH-137153518   27101       DHARMENDRA KUMAR KUSHWAHA       MHI01 MHI02     
+  153 MEG-137517918   27101       PRIYANK JAIN                    MEG01 MEG02 MEG03 MEG04     
+  154 MAH-141261227   27101       RANVEER KUMAR SINGH             MHI01 MHI02 MHI04 MHI05     
+  155 MSO-141536839   27101       VINOD KUMAR                     MSO001 MSO002 MSO003 MSO004    
+  156 MED-141569797   27101       SANJAY YADAV                    MES051 MES052 MES053 MES054 MESE059   
+  157 MED-141569844   27101       SHALINI SRIVASTAVA              MES051 MES052 MES053 MES054 MESE057   
+  158 MED-142855917   27101       VIJAI KUMAR YADAV               MES051 MES052 MES053 MES054 MESE059   
+  159 BED-142870601   27101       ANJANA AGNIHOTRI                ES331 ES332 ES333     
+  160 BED-142870737   27101       RANJEET SINGH KUSHWAHA          ES331 ES332 ES333 ES343 ES344     
+  161 BED-142870830   27101       RUCHI GUPTA                     ES331 ES332 ES333 ES343 ES344     
+  162 BED-142871105   27101       MITA ROY                        ES331 ES332 ES333 ES344 ES345     
+  163 BED-142874118   27101       PRAVEEN KUMAR VERMA             ES331 ES332 ES333 ES342 ES344     
+  164 BED-142874250   27101       AJARA BANO                      ES331 ES332 ES333 ES341 ES344     
+  165 BED-142874347   27101       KANCHAN CHAURASIA               ES331 ES332 ES333 ES343 ES345     
+  166 BED-142874354   27101       PRITI KUSHWAHA                  ES331 ES332 ES333 ES343 ES345     
+  167 BED-142874419   27101       AWANISH KUMAR SINGH             ES331 ES332 ES333 ES343 ES345     
+  168 BED-142874551   27101       REYAZ AHMAD                     ES331 ES332 ES333 ES341 ES343     
+  169 BED-142874609   27101       UDAY SHANKER YADAV              ES331 ES332 ES333 ES343 ES344     
+  170 BED-142874734   27101       SUNITA KUSHWAHA                 ES331 ES332 ES333 ES343 ES345     
+  171 BED-142874845   27101       ASHOK KUMAR YADAV               ES331 ES332 ES333 ES343 ES345     
+  172 BED-142875395   27101       PRIYANKA YADAV                  ES331 ES332 ES333 ES343 ES345     
+  173 BED-142875514   27101       KANCHAN YADAV                   ES331 ES332 ES333 ES343 ES344     
+  174 BED-142875696   27101       RINKU YADAV                     ES331 ES332 ES333 ES343 ES345     
+  175 BED-142877138   27101       SANTOSH TIWARI                  ES331 ES332 ES333 ES343 ES344     
+  176 BED-142878240   27101       SABA ABBASI                     ES331 ES332 ES333 ES341 ES345     
+  177 BED-142878763   27101       PRAVEENA RAI                    ES331 ES332 ES333 ES343 ES344     
+  178 BED-142878795   27101       SERAJ AHAMAD                    ES331 ES332 ES333 ES343 ES344     
+  179 MEG-142881113   27101       SHARADA YADAV                   MEG01 MEG02 MEG03 MEG04     
+  180 MPA-142883425   27101       INDRAJEET SINGH                 MPA011 MPA012 MPA013 MPA014    
+  181 MPA-142884047   27101       DEVENDRA KUMAR GUPTA            MPA011 MPA012 MPA013 MPA014    
+  182 MAH-142887519   27101       AJAY KUMAR YADAV                MHI01 MHI02 MHI04 MHI05     
+  183 MEG-142890707   27101       ABHISHEK DUBEY                  MEG01 MEG02 MEG03 MEG04     
+  184 MCOM-142890753  27101       NAVEEN KUMAR SINGH              IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  185 MSO-142890760   27101       PARSIDDHAN SINGH YADAV          MSO001 MSO002 MSO003 MSO004    
+  186 MSO-142890778   27101       ANKITA SINGH                    MSO001 MSO002 MSO003 MSO004    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    5
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 27101                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  187 MSO-142890792   27101       KAUSHLESH PRADHAN               MSO001 MSO002 MSO003 MSO004    
+  188 MPA-142890975   27101       JAY SHANKER RAI                 MPA011 MPA012 MPA013 MPA014    
+  189 MEG-142891003   27101       ARCHANA RAI                     MEG01 MEG02 MEG03 MEG04     
+  190 BDP-142891042   27101       ASHISH BHAGAT                   BSHF101 ECO01 ECO02 EEC11 FEG01     
+                                                                  FEG02     
+  191 BCA-142891107   27101       VAIBHAV GUPTA                   BCSL021 BCSL022 ECO02 FEG02 MCS011    
+                                                                  MCS012 MCS013 MCS015    
+  192 BCA-142891114   27101       SHUBHAM KUMAR                   BCSL021 BCSL022 ECO02 MCS011 MCS012    
+                                                                  MCS013 MCS015    
+  193 BDP-142891121   27101       TAUSEEF ALAM                    BHDF101 BSHF101 EHI01 ESO12 FHD02     
+  194 BDP-142891146   27101       VISHVAJEET KUMAR                BHDF101 BSHF101 EHI02 EPS11 FHD02     
+  195 BDP-142891153   27101       SHYAM SUNDAR RAM                BHDF101 BSHF101 EHD02 EPS11 FHD02     
+  196 BDP-142891160   27101       HANUMAN SINGH YADAV             BHDF101 BSHF101 EHI01 ESO12 FHD02     
+  197 BDP-142891178   27101       PRIYANKA YADAV                  BHDF101 BSHF101 EHI01 EHI02 FHD02     
+  198 BDP-142891192   27101       PADMINI RAI                     BHDF101 BSHF101 EHD02 ESO11 FHD02     
+  199 BDP-142891200   27101       JITENDRA KUMAR                  BHDF101 BSHF101 EHI01 ESO12 FHD02     
+  200 BDP-142891218   27101       R CHRISTAL SHYLA                BSHF101 ESO11 ESO12 FEG01 FTM01     
+  201 BDP-142891225   27101       DEVESH PRATAP SINGH             BHDF101 BSHF101 EHI01 ESO12 FHD02     
+  202 BDP-142891232   27101       IRSHAD AHMAD ANSARI             BSHF101 EEC11 EHI02 FEG01 FEG02     
+  203 BDP-142891240   27101       VINAY KUMAR SINGH               BHDF101 BSHF101 EPS11 ESO12 FHD02     
+  204 BDP-142891257   27101       KAMLESH KUMAR SINGH             BHDF101 BSHF101 EPS11 ESO12 FHD02     
+  205 BDP-142891264   27101       SANTOSH KUMAR                   BHDF101 BSHF101 EHI02 EPS11 FHD02     
+  206 BDP-142891271   27101       AJAY KUSHWAHA                   BHDF101 BSHF101 EHD02 ESO11 FHD02     
+  207 BDP-142891296   27101       SANJAY KUMAR PRAJAPATI          BHDF101 BSHF101 EPS11 ESO12 FEG01     
+  208 BDP-142891304   27101       KANHAIYA LAL GUPTA              BEGE102 BHDF101 BSHF101 EPS11     
+                                                                  FEG01     
+  209 BDP-142891336   27101       ANIL KUMAR RAI                  BECE002 BHDF101 BSHF101 ESO11     
+                                                                  FHD02     
+  210 BDP-142891408   27101       RANJANA YADAV                   BHDF101 BSHF101 EHI01 ESO12 FHD02     
+  211 BDP-142891415   27101       KM. SHEELA YADAV                BHDF101 BSHF101 EHI01 ESO12 FHD02     
+  212 BDP-142893322   27101       DEWESH KUMAR BALAWANT           BHDF101 BPAE102 BSHF101 EPA01     
+                                                                  FHD02     
+  213 BDP-142893426   27101       RAHUL KUMAR MISHRA              BECE002 BHDF101 BSHF101 ESO11     
+                                                                  FHD02     
+  214 BDP-142893440   27101       AWADESH YADAV                   BHDF101 BSHF101 EHI01 EHI02 FHD02     
+  215 MSO-142894854   27101       KAMALESH KUMAR                  MSO001 MSO002 MSO003 MSO004    
+  216 MED-142899617   27101       JAI SHANKAR SINGH               MES051 MES052 MES053 MES054 MESE059   
+  217 MED-142899631   27101       PALLAVI BURNWAL                 MES051 MES052 MES053 MES054 MESE058   
+  218 MED-142899767   27101       RAMESH KUMAR                    MES051 MES052 MES053 MES054 MESE059   
+  219 MED-142899821   27101       RAJESH PRAKASH YADAV            MES051 MES052 MES053 MES054 MESE059   
+  220 BDP-143001455   27101       KANHAIYA KUMAR RAI              BHDF101 BSHF101 EHD01 EHD02 FHD02     
+  221 BDP-143010644   27101       SUNIT KUMAR RAI                 BEGE102 BHDF101 BSHF101 ECO01     
+                                                                  ECO02 FEG01     
+  222 BDP-143070395   27101       AVINASH KUMAR                   BHDF101 BSHF101 ESO11 ESO12 FEG01     
+  223 BDP-143212742   27101       SANJAY CHAURASIA                BHDF101 BSHF101 EHI01 EHI02 FHD02     
+  224 BDP-143398287   27101       RAMESH CHNDRA MAURYA            BHDF101 BSHF101 EPS11 FHD02     
+  225 BCA-148062320   27101       SNEHA SINGH                     BCS011 BCS012 BCSL013   
+  226 MCA-148063845   27101       RENU KUSHWAHA                   MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  227 BCA-148075840   27101       DEEPAK KUMAR SINGH              BCS011 BCS012 BCSL013 ECO01 FEG02     
+  228 CTE-148076114   27101       VANDANA UPADHYAY                CTE01 CTE02 CTE05     
+  229 BPP-148077130   27101       MANISH KUMAR GUPTA              OSS101 PCO       
+  230 CIG-148077646   27101       VANDANA UPADHYAY                NES101 NES102 NES103 NES104    
+  231 BCA-148084111   27101       RITESH KUMAR UPADHYAY           BCS011 BCS012 BCSL013 ECO01 FEG02     
+  232 ASSO-AS1303535  27101       RANJEET KUMAR                   EPS03     
+  233 ASSO-AS1361308  27101       ANAND KUMAR                     BPSE212   
+  234 ASSO-AS1361322  27101       RAHUL KUMAR                     BPSE212   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    6
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 27101                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  235 ASSO-AS1400210  27101       DEEPIKA PRAJAPATI               BPSE212 EPS06 EPS07 EPS15     
+  236 ASSO-AS1400227  27101       HIMANSHU KUMAR SRIVASTAV        BECE015 EEC07 EEC11 EEC13     
+        

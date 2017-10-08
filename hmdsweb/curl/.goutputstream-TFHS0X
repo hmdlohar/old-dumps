@@ -1,0 +1,35 @@
+<?php
+include "../common.php";
+mysql_set_charset('utf8');
+if(isset($_GET['movie'])){
+	$movie=$_GET['movie'];
+	$link=$_GET['link'];
+	$perent=$_GET['perent'];
+	$cat="menu";
+	if(num_rows("menu_test","link","$link")==0){
+	sql_query("insert into menu_test (name,link,perent,cat) values ('$movie','$link','$perent','$cat')");
+	}else{echo "link already used";}
+}
+if(isset($_GET['story_title'])){
+	$story_name=mysql_real_escape_string($_GET['story_title']);
+	$link=mysql_real_escape_string($_GET['link']);
+	echo sql_query("insert into antar (name,link) values ('$story_name','$link')");
+
+}
+if(isset($_GET['full_story'])){
+	$story=$_GET['full_story'];
+	$num_id=$_GET['num_id'];
+	sql_query("update antar set story='$story' where id='$num_id'");
+}
+if(isset($_GET['pedit2'])){
+	$movie=$_GET['pedit2'];
+	$item=$_GET['item'];
+	$id=$_GET['id'];
+	$cat="obj";
+	sql_query("update menu_test set u_link='$movie' where id='$id'");
+}
+else{
+	echo "nosetss";
+	}
+
+?>

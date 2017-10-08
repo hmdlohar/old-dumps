@@ -1,0 +1,103 @@
+#title{
+	color:#846511;
+	font-size:35px;
+}
+#head{
+	text-align:center;
+	background-color:#FFF4D2;
+	border-bottom:2px solid pink;
+	height:40px;
+}
+#para{
+	font-size:18px;
+	color:#391441;
+}
+#title_para{
+	color:#9A4040;
+	font-size:23px;
+}
+#subject_list a{
+	text-decoration:none;
+	display:block;
+	padding:5px;
+	border-bottom: 1px solid black;
+	width:500px;
+	background-color:#fbfbdf;
+	margin-bottom:3px;
+}
+#subject_list a:hover{
+	color:green;
+	background-color:#fbfba0;
+	
+}
+#subject_list{
+	display:block;
+	margin:5px;
+	//border: 1px solid black;
+}
+#body{
+	margin-left:100px;
+	width:800px;
+	text-align:justify;
+}
+#main_menu{
+	text-align:center;
+	border-bottom:2px solid pink;
+	height:27px;
+	font-sizE:25px;
+	background-color:#C7CFCE;
+}
+#main_menu a{
+	text-decoration:none;
+	color:#4A8B83;
+	margin-right:18px;
+	background-color:#C7CFCE;
+}
+#main_menu a:hover{
+	color:#f75F99;
+}
+#red{
+	color:red;
+}
+#order{
+	font-size:35px;
+	background-color:#C8C8a8;
+	width:300px;
+	border:3px solid #C7CFCE;
+	border-top-left-radius: 10px 10px;
+	border-top-right-radius: 10px 10px;
+	border-bottom-left-radius: 10px 10px;
+	border-bottom-right-radius: 10px 10px;
+}
+#topic_list{
+	display:block;
+	margin-bottom:20px;
+	
+}
+#topics{
+	text-decoration:none;
+	//display:block;
+	padding:5px;
+	border-bottom: 1px solid black;
+	width:500px;
+	background-color:#fbfbdf;
+	margin-bottom:3px;
+
+}
+#topics:hover{
+	color:green;
+	background-color:#fbfba0;
+}
+.t_download{
+	float:right;
+	padding-left:10px;
+	margin-right:5px;
+	border-left:1px solid black;
+}
+.t_buy{
+	float:right;
+	padding-left:10px;
+	//margin-right:100px;
+	border-left:1px solid black;
+}
+

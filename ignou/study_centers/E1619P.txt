@@ -1,0 +1,1367 @@
+
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    1
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1619P                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+    1 MCA-071989358   1619P       LAJU BHOJWANI                   CS64 CS68 CS73 MCS031 MCS034 MCS051    
+                                                                  MCS052 MCSL045 MCSL054   
+    2 MP-071989555    1619P       PRASAD RAJARAM MAURYA           MS05 MS09      
+    3 MP-072446189    1619P       SUPRIYA KRISHNA SHETTY          MS08 MS11 MS53      
+    4 MP-072456015    1619P       PILLAI DEEPKUMAR                MS05 MS10 MS11      
+    5 BCA-072463408   1619P       ANAND KUMAR MAURYA              BCS061 CS05 CS06 CS60 CS62 CS63      
+                                                                  CS63P CS64 CS65 CS72 CS72P CS73 CS74 CS74P CS75      
+    6 MCA-072463493   1619P       NAMRATA SHANKAR MANJREKAR       MCSE003   
+    7 MCA-072463683   1619P       MAYURI UMESH TAWDE              MCS031 MCSE003   
+    8 MCA-072463716   1619P       AGRE SAVITA BABAJI              MCS031 MCS034 MCS035 MCS041 MCS042    
+                                                                  MCS043 MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL036 MCSL045 MCSL054   
+    9 MCA-072463787   1619P       KAMAL JYOTINDRA MISHRA          CS60 CS64 CS71 CS73 MCS031 MCS033    
+                                                                  MCS042 MCS043 MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL045 MCSL054   
+   10 MCA-073567173   1619P       BIDYANAND PRASAD                MCS033 MCS035 MCS043 MCS051 MCS052    
+                                                                  MCS053 MCSE003 MCSE004 MCSE011 MCSL036   
+   11 BCA-074221071   1619P       HARSHAL PRADIP BHANDARI         BCS061P CS67 CS68 CS72 CS73 CS75      
+   12 MCA-074221967   1619P       NEHA RAGHUNATH MULE             MCS031 MCS034 MCS035 MCS041 MCS042    
+                                                                  MCS043 MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL045 MCSL054   
+   13 MCA-074222414   1619P       DEEPAK VISHWANATH RANE          MCS031 MCS051 MCS053 MCSE003 MCSE004   
+   14 BCA-074222604   1619P       KALPESH SUBHASH GHOSALKAR       BCS061 CS611 CS612 CS66 CS68      
+                                                                  CS75 FST01     
+   15 MCA-074226024   1619P       DIPAK JAGTAP                    MCS031 MCS043 MCS051 MCS053 MCSE003   
+                                                                  MCSE011 MCSL054   
+   16 MCA-074226586   1619P       SIPRA MANIK GHOSH               MCS021 MCS031    
+   17 BDP-075629300   1619P       AJITHA R K                      EPS11     
+   18 BDP-075777195   1619P       JEEVAN HRIDEYNATH SRIVASTAVA    ECO03 ECO13 EEG03 ERD01 FST01     
+   19 BDP-075782172   1619P       SHANA SREENATH                  BSHF101 CHE01 CHE02 LSE06 LSE09     
+                                                                  LSE10     
+   20 MP-081031847    1619P       SAIYAD NAJMUL HASAN             MS08      
+   21 BCA-082066430   1619P       SURESH BISHNOI                  CS72      
+   22 MP-083354180    1619P       GANESH SHANTARAM SAWANT         MS52 MS91 MS94 MS95      
+   23 BDP-083545887   1619P       ASHISH RANJAN ROUT              BECE015   
+   24 MCA-083548993   1619P       ANIL KUMAR JETHY                MCSL036   
+   25 BCA-083822062   1619P       NARENDRA VIJAY DHURIA           CS64 CS73      
+   26 BCA-083828396   1619P       DHIRENDRA SINGH                 CS73      
+   27 MCA-083830701   1619P       SHASHIKANT VARMA                MCS032 MCS034 MCS041 MCS042 MCS043    
+                                                                  MCSL045   
+   28 BCA-083831290   1619P       JOBIN MATHEW CHACKALAYIL        BCS061 BCS061P CS05 CS06 CS60      
+                                                                  CS611P CS62 CS62P CS63P CS64 CS65 CS67 CS68 CS68P CS70 CS71      
+   29 MCA-083858217   1619P       NATASHA ALEX D"CUNHA            MCS052    
+   30 BAIHA-085189606 1619P       PRAKASH SINGH BHANDARI          TS03      
+   31 BNS-086465312   1619P       SUNIL KUMAR BHANIA              BNA051    
+   32 MCA-090844636   1619P       MEENA GOPALAKRISHNAN            MCS031 MCS032 MCS041 MCSE003 MCSL054   
+   33 BCA-090845598   1619P       BRIAN STANLEY SEQUEIRA          CS72 CS73      
+   34 MCA-090845638   1619P       DILRANJAN KUMAR SINGH           MCS031 MCS052 MCS053 MCSE003 MCSE004   
+                                                                  MCSE011 MCSL045 MCSL054   
+   35 BCA-090845770   1619P       JULFIKAR ABDULHAMID             CS64 CS71 CS73      
+   36 MCA-090845874   1619P       JITENDRA KUMAR                  MCS031 MCS041 MCS051 MCS052 MCS053    
+                                                                  MCSL054   
+   37 BCA-090845914   1619P       RAHUL VASANT SAWANT             CS73 MCS034 MCS041 MCS042 MCS043    
+   38 BCA-090845946   1619P       DARPAN VIKAS WAGH               CS73      
+   39 MCA-090846188   1619P       MINAKSHI KUMARI                 MCS031 MCS052 MCSE011   
+   40 BDP-090847119   1619P       SWAPNIL ASHOK SHINDE            ACS01 ESO14 ESO15     
+   41 MP-091351501    1619P       MUKESH KUMAR                    MS22 MS96      
+   42 MP-091474274    1619P       GANESH RAMCHANDRA JANGAM        MS08      
+   43 MP-091577361    1619P       PRASHANT SHARMA                 MS55 MS56 MS57 MS58      
+   44 MP-091589491    1619P       GUNJAN SHANTILAL CHHEDA         MS95      
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    2
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1619P                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+   45 MP-092243984    1619P       VAIBHAV BALASAHEB PHAPALE       MS08 MS95      
+   46 MCA-093723975   1619P       SUVOJIT CHAKRABORTY             MCS021 MCS023 MCS034 MCS052    
+   47 MP-093873105    1619P       SHAILI KUMARI                   MS08      
+   48 MP-094004615    1619P       RAMTEKE GAURAV MADHAV           MS04      
+   49 MP-094006823    1619P       BIPIN YADAV                     MS95      
+   50 MCA-094181264   1619P       NEYAZ AHMAD                     MCS051 MCS053 MCSE003   
+   51 MCA-094402161   1619P       BHOLE UMAKANT MADHUSUDAN        MCS051 MCSE003 MCSE011   
+   52 MCA-094964935   1619P       MANISH KISHOR MITTAL            MCS041 MCS043 MCSL054   
+   53 BDP-095670981   1619P       HANEY FRANCIS                   AMT01 CTE04 ESO16     
+   54 BDP-095799684   1619P       SIKANDER SINGH                  ESO13     
+   55 MP-095812855    1619P       DIRESH YELLAPPA AMIN            MS95      
+   56 MCA-095813904   1619P       ANITHA ADINARYAN UDAYGIRI       MCS031 MCS032 MCS033 MCS034 MCS041    
+                                                                  MCS042 MCS043 MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011   
+   57 BDP-096345866   1619P       NAINY JOHN                      BPAE102 ECO05 ECO07 ECO14 FST01     
+   58 BCA-096347616   1619P       NILESH SHIVSHANKAR VISHWAKARMA  BCS061P CS64 CS73 MCS031 MCS033    
+                                                                  MCS034 MCSL036   
+   59 BDP-096351275   1619P       SCHIN SHANKAR MAHADIK           ECO08 ECO09 ECO14 EPA01     
+   60 BCA-096351458   1619P       NARESH SUBHASH JADHAV           CS62P CS72P CS73 CS74P MTE03     
+   61 BCA-096353849   1619P       YOGESH VINOD NARKAR             BCS061 CS05 CS62P CS64 CS70      
+   62 MCA-096353856   1619P       MADHU MALA KUMARI               MCS052 MCS053 MCSE003 MCSE004 MCSE011   
+   63 MCA-096354675   1619P       SWATI SHRIKANT PATIL            MCS031 MCS051 MCS052 MCS053 MCSE004   
+                                                                  MCSE011   
+   64 BDP-096355566   1619P       EKTA MANHAR PARMAR              ASP01 BCOA001 BPC001 BPC002 ECO08     
+                                                                  ECO09 ECO10 ECO11 ECO14     
+   65 BAIHA-096382556 1619P       MAKWANA SANKET MAHESH           BHY011    
+   66 BAIHA-096382595 1619P       MUGALE ARIF LAYAKALI            BHY011    
+   67 BAIHA-096382610 1619P       KUNAL SUDHAKAR CHAVAN           BHY011    
+   68 BAIHA-096382674 1619P       MANE RAVINDRA RAJENDRA          BHY011    
+   69 BDP-097091164   1619P       PRASHANT PAUL D"SOUZA           BSHF101 ECO01 ECO02 ECO03 ECO05     
+                                                                  ECO07 ECO08 ECO09 ECO10 ECO13 ECO14     
+   70 BCA-097091196   1619P       ROSHAN VIKAS SURVE              CS05 CS611 CS612 CS62 CS62P CS63      
+                                                                  CS63P CS65 CS66 CS68 CS72 CS73 CS74 CS74P CS75 FST01     
+   71 MCA-097091426   1619P       VAISHYA LALJI HARISHANKAR       MCS011 MCS031 MCS034 MCS041 MCS042    
+                                                                  MCS043 MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL025 MCSL036 MCSL045   
+   72 MCA-097094690   1619P       RANJEETKUMAR VARMA              MCSE004   
+   73 MCA-097094793   1619P       SIDDESH SUNIL PATIL             MCS052 MCS053 MCSE003 MCSE004 MCSL036   
+                                                                  MCSL045   
+   74 BCA-097094872   1619P       SHILPA RAMAKANT WALKE           CS73 CS74      
+   75 BDP-097094969   1619P       RATHISH SHIVANAND               CHE04 MTE02 MTE06 MTE08 MTE09     
+   76 BDP-097096987   1619P       DHARMESH CHOURSIA               ECO14     
+   77 BDP-097097061   1619P       ROHTASH KASWAN                  ECO14     
+   78 BDP-100108438   1619P       VIDYADHAR SUNIL ADKI            ESO12 ESO13 ESO14 FST01     
+   79 MCA-100113500   1619P       MAYURESH VIJAY KAVIMANDAN       MCS012 MCS013 MCS014 MCS015 MCSL016   
+                                                                  MCSL017   
+   80 MCA-100113571   1619P       BEENA SANTHAKUMAR KURUP         MCS051 MCS053 MCSE003 MCSE004 MCSL016   
+                                                                  MCSL054   
+   81 DCLE(G)-100130407                      1619P       GAYATRI TANAJI KUTE             BCE031 BCE033 BCE043 BCE044 BCE045    
+                                                                  BCE051 BCE061 BCE062 BCEE052 BET013 BET017 BET021 BET022 BET036    
+   82 BDP-100144029   1619P       SUKHBINDER KUMAR                ACS01 BSHF101 EPA05 FST01     
+   83 MP-101852486    1619P       NITIN RAMCHANDRA UTPAT          MS09 MS55 MS94 MS95      
+   84 MCA-102325835   1619P       RITAM MITRA                     MCS012 MCS051 MCSE003   
+   85 MP-102502841    1619P       DEEPAK KUMAR DEHURY             MS08      
+   86 MP-102503348    1619P       BRAJENDRA SINGH                 MS22 MS24      
+   87 MP-102505846    1619P       BISWAJIT SAMANTA                MS56 MS95      
+   88 MP-102507177    1619P       GOPAL KUMAR                     MS08 MS09 MS23 MS27      
+   89 MP-102511430    1619P       ARUN ARJUN SAWANT               MS95      
+   90 MP-102512135    1619P       RAVI VASANT INGLE               MS51 MS55 MS56 MS58 MS95      
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    3
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1619P                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+   91 MP-102512439    1619P       PRASHANT MANOHAR KALE           MS06 MS08 MS09 MS10 MS11 MS91      
+                                                                  MS95      
+   92 MP-102515491    1619P       SHWETADREESH                    MS54 MS55 MS58 MS93      
+   93 BDP-105157544   1619P       DADAN SAH GOND                  ACC01     
+   94 MCA-105157628   1619P       HEMANT KUMAR DESHMUKH           CS73 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCS041 MCS042 MCS043 MCS051 MCS052 MCS053 MCSE011 MCSL036 MCSL045 MCSL054   
+   95 MCA-105157648   1619P       AMRAPALI BAPURAO SONKAMBLE      MCS021 MCS022 MCS023 MCS032 MCS041    
+                                                                  MCS042 MCS043 MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+   96 MCA-105157905   1619P       PURVA PRANAY SAWANT             MCS031 MCS032 MCS041 MCS051 MCS052    
+                                                                  MCS053 MCSE003 MCSE004 MCSE011   
+   97 MCOM-105158029  1619P       PRANITA GANPAT DHOMSE           IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+   98 MCA-105158138   1619P       KADAMBARI SHASHIKANT PATIL KOT  MCS012 MCS013 MCS014 MCS021 MCS022    
+                                                                  MCS023 MCS024 MCS031 MCS033 MCS034 MCS035 MCS042 MCS043 MCS052 MCS053 MCSE011   
+   99 BDP-105158285   1619P       DEV SINGH                       EPS08 FST01     
+  100 BCA-105158355   1619P       SAGAR RAMESHCHANDRA PANDEY      BCS061 BSHF101 CS06 CS60 CS63      
+                                                                  CS64 CS66 CS68 CS70 CS71 CS72 CS73 CS74 CS75      
+  101 BCA-105158472   1619P       ANJALI ARVINDKUMAR MAURYA       CS73      
+  102 MCA-105158494   1619P       SARITA SHARMA                   MCSE003   
+  103 BDP-105158510   1619P       CHAITANYA ARVIND SAKHALKAR      ANC01 MTE02     
+  104 MCA-105158662   1619P       SANJEEV KUMAR DUBEY             MCS041 MCS042 MCS043 MCS051 MCS052    
+                                                                  MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+  105 BDP-105158907   1619P       ANITA ERIC BOTELHO              BEGE103   
+  106 MP-105159015    1619P       GANESH TIWARI                   MS08 MS422 MS46      
+  107 BCA-105159056   1619P       PRATIK MAHESH JAIN              CS64 CS72 CS73 CS74P MCS031 MCS032    
+  108 BDP-105159066   1619P       BRIJESH KUMAR MISHRA            FST01     
+  109 BCA-105159127   1619P       ARCHANA DAMJIBHAI VASAVA        BCS061 BCS061P CS05 CS63 CS68      
+                                                                  CS68P CS71 CS72 CS72P CS73 CS74P     
+  110 BDP-105159237   1619P       YOGENDRA BHOLA PRASAD GUPTA     ECO09 FST01     
+  111 MCA-105159580   1619P       SAMARTHA SANTOSH BHALEKAR       MCS031 MCS034 MCS035 MCS042 MCS051    
+                                                                  MCS052 MCSE011   
+  112 BBARL-105159676 1619P       MR SACHIN SHANKAR POSTURE       BRL006 ECO01     
+  113 MAH-105185502   1619P       SWATI GUPTA                     MHI01 MHI04 MHI05     
+  114 BCA-105321041   1619P       ANGAD JAYENDRA KAMAT            CS72P MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  115 MCA-105321042   1619P       NAUFIL SHAMIM SIDDIQUE          CS72P MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  116 BCA-105321043   1619P       SHYAM NIVRUTTI LANKE            CS72P MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036 MTE03     
+  117 BAIHA-105332155 1619P       BHALOTIA HARSH MAHESH           BHY011    
+  118 BAIHA-105332156 1619P       KHAVANEKAR ASHISH BHAGWAN       BHY011    
+  119 BAIHA-105332165 1619P       SHARMA PAPPURAJ MANIRAM         BHY011    
+  120 BAIHA-105332289 1619P       YADAV MANINDRAKUMAR AMARJEET    BEGE103   
+  121 BAIHA-105332290 1619P       GITE RUPESH SHIVAJI             BHY011    
+  122 BTECVI-1053411301619P       NOORANI ANJAR RAFIK             BICE007 BIEL007 BIEL011 BIEL013   
+                                                                  BIEL015 BIEL017 BIEL020 BIEL023 BIEL024 BIEL025 BIELE004 BIELE016 BIELE018 ET101B    
+  123 DELVI-105342527 1619P       KASAR GAURAV SHANKAR            BET021 BET022 BIEE033   
+  124 BDP-105618682   1619P       PRIYANKA RAI                    MTE05 MTE07 MTE11 PHE02 PHE07     
+                                                                  PHE09 PHE10 PHE11     
+  125 BCA-105673585   1619P       MANOJ SHARADA YADAV             CS610 CS65 CS71 CS72 CS72P CS73      
+                                                                  CS74P CS75      
+  126 BCA-105673587   1619P       MOHAMMED ABID                   CS60 CS610 CS611P CS62 CS63P CS65      
+                                                                  CS67 CS68P CS69 CS71 CS72 CS72P CS73 CS74 CS74P CS75      
+  127 MCA-110153469   1619P       DEEPIKA GOSWAMI                 MCS052 MCS053 MCSE003   
+  128 MCA-110855446   1619P       SANTOSH                         BCS011 BCS012 BCS041 BCS051 BCS054    
+                                                                  BCS062 BCSL033 BCSL063 MCS011 MCS012 MCS031 MCS032 MCS033 MCS034 MCS035 MCSL036   
+  129 BDP-111261955   1619P       RACHANA BHUSHAN HAJARE          ECO14     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    4
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1619P                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  130 BDP-111387004   1619P       DHEERAJ KUMAR                   ANC01 BPSE212 EHI01 EHI06 EPA05     
+  131 MCA-111451360   1619P       SEETHAMRAJU NV SATYA KISHORE    MCS031 MCS041 MCS043 MCSL016 MCSL017   
+                                                                  MCSL025 MCSL036 MCSL045   
+  132 BCA-111452892   1619P       ANUJ DEVENDRA CHAWLA            BCS061 CS06 CS60 CS63 CS64 CS71      
+                                                                  CS73 CS74 CS75      
+  133 BDP-111452964   1619P       ASHISH KUMAR MISHRA             ACC01 EPS09 EPS15     
+  134 MCA-111453396   1619P       SHAILA RAVIRAJ NAIDU            MCSE003 MCSE004 MCSL054   
+  135 BCA-111453530   1619P       KEDAR AMRUT DESHMUKH            CS62 CS63 CS63P CS72 CS72P CS73      
+                                                                  CS74 CS74P CS75      
+  136 BDP-111453941   1619P       MUKUND VIJAY MANJREKAR          BEGE101 BEGE102 BHDE107 BHDE108   
+                                                                  EHD06     
+  137 MCA-111453998   1619P       HEMINA MUKESH SHAH              MCSE003 MCSL054   
+  138 BSW-111456377   1619P       KHILANAND RAMDUTT KALONI        BSWE003 BSWE005 BSWE006   
+  139 BDP-111456599   1619P       POONAM LALCHANDRA RAM           ACC01     
+  140 MCA-111456868   1619P       SUJITH KUMAR                    MCS041 MCS043    
+  141 BDP-111458349   1619P       KIRAN SUBHASHCHANDRA GUPTA      ECO09     
+  142 MCA-111460155   1619P       JUI JANARDAN BHATTACHARYA       MCS031 MCS032 MCS041 MCS042 MCS043    
+                                                                  MCSL025 MCSL045   
+  143 MCA-111460194   1619P       DEEPAK KUMAR TIWARI             MCS022 MCS031 MCS032 MCS051 MCS052    
+                                                                  MCS053 MCSE003 MCSE004 MCSE011   
+  144 MCA-111461465   1619P       SANTOSH PANDURANG SHENVI        MCS021 MCS031 MCS032 MCS035 MCS041    
+                                                                  MCS043 MCSL036   
+  145 MP-111462578    1619P       HEMALATA RAJU KARLE             MS08      
+  146 MP-111462640    1619P       VIDYA DINAKARAN                 MS08 MS25      
+  147 MP-111462696    1619P       NILESH RAGHUNATH PATADE         MS22 MS24 MS25 MS91      
+  148 MAH-111463817   1619P       SANTOSH SINGH                   MHI01 MHI02     
+  149 MP-111466615    1619P       NAVNEET RAVISHANKAR NAMDEO      MS04 MS06 MS09      
+  150 BED-111762210   1619P       SHEETAL PRASHANT GADEKAR        BESE065 BESE066 ES334 ES335 ES362     
+  151 MED-112152258   1619P       RACHNA JAGJITSINGH YADAV        MESE066   
+  152 BSCN-112152770  1619P       TRUPTI YASHWANT PEDNEKAR        BNS109 BNS110 BNS111    
+  153 BDP-112333796   1619P       MANISH MISHRA                   AMT01     
+  154 MCA-115189427   1619P       JYOTSNA GUPTA                   CS60 MCS032 MCS033 MCS042 MCS052    
+                                                                  MCS053 MCSE003 MCSE004 MCSE011 MCSL017 MCSL025 MCSL054   
+  155 BDP-115532690   1619P       PANKAJ SINGH                    EPA05 EPA06     
+  156 BCA-115534314   1619P       PAPPALI PRATIK RAMESH           BCS031 BCS042 BCSL032 BCSL033 BCSL043   
+                                                                  BCSL056 BCSL057 MCS011 MCS012 MCS021 MCS023 MCS024 MCS031 MCS032 MCS033 MCS034 MCS035 MCSL036   
+  157 MCOM-116100196  1619P       TENZIN DORJEE                   MCO03 MCO05     
+  158 MHD-116557536   1619P       AMRITA                          MHD02     
+  159 MP-116829336    1619P       SAYALI SANJAY BHOIR             MS07 MS11 MS46      
+  160 MSW-116829350   1619P       KUNAL WAMAN YADAV               MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+  161 BDP-116830101   1619P       ANOOP DILIP BHANUSHALI          LSE05 MTE06 MTE08 MTE09 MTE11     
+  162 BDP-116830814   1619P       HARSHA JAGDISH MORWAL           BEGE103 BEGE104 CTE03 CTE04 EEG06     
+  163 MCA-116832911   1619P       RAMMURTI BALIRAM CHAUHAN        MCS022 MCS023 MCS031 MCS032 MCS034    
+                                                                  MCS035 MCS041 MCS042 MCS043 MCS051 MCS052 MCS053 MCSE004 MCSE011 MCSL045 MCSL054   
+  164 BCA-116833185   1619P       NIKHIL ASHOK YOGI               BCS011 BCS040 BCS041 BCS053 BCS062    
+                                                                  BCSL063 MCS014 MCS022 MCS023    
+  165 MCA-116833240   1619P       MUKESH RAMBALI MISHRA           MCS043 MCS051 MCS052 MCS053 MCSE003   
+                                                                  MCSE004 MCSE011 MCSL054   
+  166 BDP-116833375   1619P       KANCHAN SINGH                   ACC01 CTE03     
+  167 MP-116834377    1619P       GAURAV NIM                      MS54 MS55      
+  168 BCA-116834875   1619P       SWAPNALI GAJANAN GAIKWAD        BCS054 MCS012    
+  169 MEG-116835060   1619P       MOUSOMI DUTTA                   MEG05     
+  170 MCA-116835623   1619P       SACHIN RANGNATH SHIRSAT         MCS021 MCS022 MCS023 MCS024 MCSL025   
+  171 BDP-116837659   1619P       CLARANT LAVENA HENRY DSOUZA     AOM01 ECO14     
+  172 MP-116838611    1619P       SHILPA SUSHIL  KULKARNI         MS25 MS27      
+  173 MCA-116841254   1619P       AMIT BHAGA RANPISE              MCS022 MCS041 MCS042 MCSL045   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    5
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1619P                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  174 MCA-116841326   1619P       GEETANJALI AMIT VELANKAR        MCS031 MCS041 MCS051 MCS052 MCS053    
+                                                                  MCSE003 MCSE004 MCSE011 MCSL054   
+  175 BCA-116842786   1619P       ROHIT RABIN BEJ                 BCS012 BCS054 BCSL057 BCSL058 MCS022    
+                                                                  MCS023    
+  176 DTS-116842944   1619P       SIDDHANT MAHESH NAIK            TS02      
+  177 BTS-116844267   1619P       RISHABH SHUBHASH BRAHMO         TS03      
+  178 BCA-116846809   1619P       VIJAYNARAYAN KANHAIYALAL        BCS031 BCS041 BCS042 BCS051 BCS052    
+                                                                  BCS053 BCS054 BCS055 BCSL056 BCSL057 BCSL058   
+  179 MP-116846910    1619P       MEGHA SACHIN KHAMKAR            MS08 MS45 MS46 MS95      
+  180 PGDFSQM-116848200                      1619P       HEMANT PRAMOD MALPURE           MVP001 MVP002 MVP003 MVP004 MVPI001   
+  181 MCA-116849700   1619P       SHRIYA SHRIRAM GHAISAS          MCS031 MCS041 MCS051 MCS052 MCS053    
+                                                                  MCSE003 MCSE004 MCSE011 MCSL054   
+  182 MSDFSM-1168499301619P       SHRUTI ASHOK MULAY              MFN004 MFN005 MFN009    
+  183 MCA-116850554   1619P       ASHA RAJENDRA VISHWAKARMA       MCS035 MCS041 MCS051 MCS053 MCSE003   
+                                                                  MCSE004 MCSE011   
+  184 MCA-116850561   1619P       UMESH MARUTI POWAR              MCS052    
+  185 MCA-116851120   1619P       MANASEE RANJIT YADWADKAR        MCS041 MCS042 MCS051 MCS053 MCSE003   
+                                                                  MCSE004 MCSE011   
+  186 MSDFSM-1168516281619P       VIJAYALAXMI SHYAM PAKHARE       MFN002 MFN005 MFN007 MFN008 MFN009    
+  187 MCA-116852479   1619P       UDHAM RAMDHANI SINGH            MCS021 MCS031 MCS032 MCS033 MCS042    
+                                                                  MCS043 MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL036 MCSL054   
+  188 MCA-116852580   1619P       TAUSEEF TAHIR KHAN              MCS021 MCS031 MCS034 MCS035 MCS041    
+                                                                  MCS042 MCS043 MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL036 MCSL054   
+  189 BTS-116852952   1619P       HETAL SHASHIKANTBHAI MOJINDRA   AOM01 TS03 TS06 TS07      
+  190 BTS-116853037   1619P       NATHALIA DOMNICA GREENWOOD      AFW01 TS03 TS06 TS07      
+  191 BDP-116853424   1619P       SWETA NAGUESH PEDNEKAR          AED01 AOM01 ASP01 BCOA001 ECO08     
+                                                                  ECO09 ECO10 ECO11 ECO14     
+  192 BCA-116853732   1619P       ALOK KUMAR PANDEY               BCS041 BCS042 BCS051 BCS052 BCS053    
+                                                                  BCS055 BCSL044 BCSL056 BCSL057 BCSL058 MCS012 MCS013 MCS014 MCS021 MCS023    
+  193 MHD-116853930   1619P       RENU KHARE                      MHD07 MHD13 MHD14 MHD15 MHD16     
+  194 DECE-116854393  1619P       CHARANJIT AMIT SINGH            DECE01 DECE02 DECE03    
+  195 MCA-116855553   1619P       SAIKUMAR SWAMY DUDAM            MCS024 MCS031 MCS035 MCS041 MCS043    
+                                                                  MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+  196 MCA-116855808   1619P       RAM SADHURAM LULLA              MCS024 MCS031 MCS051 MCS053 MCSE004   
+  197 MCA-116856555   1619P       KINJAL MUKESH MEHTA             MCSE003   
+  198 MCA-116858043   1619P       VIVEK ABHAYJEET TIWARI          MCSE004   
+  199 BDP-116859020   1619P       AJEET KUMAR                     ECO14     
+  200 MCA-116859117   1619P       SNEHA SURESH PATEL              MCSE004 MCSL054   
+  201 MCA-116859124   1619P       DIVYA RAVINDRA PATHAK           MCS052    
+  202 MCA-116859504   1619P       SAURABH GUPTA                   MCS021 MCS041 MCS043 MCS051 MCS052    
+                                                                  MCS053 MCSE003 MCSE004 MCSE011 MCSL045 MCSL054   
+  203 MCA-116859916   1619P       PRATIKSHA VILAS BHAGAT          MCS021 MCS022 MCS031 MCS051 MCS052    
+                                                                  MCS053 MCSE003 MCSE004 MCSE011 MCSL025   
+  204 MCA-116860745   1619P       AJIT TANAJI SHINDE              MCS022 MCS031 MCS032 MCS034 MCS041    
+                                                                  MCS042 MCSL045   
+  205 BDP-116861288   1619P       MEENAXI                         ANC01 EPS08 EPS09 EPS15 FST01     
+  206 MAPC-116861439  1619P       TANVI RAMESH NAGDA              MPCE011   
+  207 MCA-116862233   1619P       BHUPINDERSINGH BACHAN S. BHURJ  MCS031 MCS035 MCS043 MCS051 MCS052    
+                                                                  MCS053 MCSE004 MCSE011   
+  208 BDP-116862470   1619P       RAJENDRA SINGH DHOUNI           BSHF101 EHD03 EHD04 EHD06 EHD07     
+                                                                  FEG01     
+  209 MCA-116862487   1619P       AMOL PRAKASH TIKAWADE           MCS011 MCS013 MCS022 MCS031 MCS032    
+                                                                  MCS033 MCS041 MCS042 MCS043 MCS052    
+  210 MCA-116862494   1619P       SHEKHAR LAXMINARAYANA GARDAS    MCS032 MCS033 MCS041 MCS042 MCS043    
+                                                                  MCS052 MCS053 MCSE004   
+  211 MCA-116862598   1619P       GAURI SHIVAJI KSHIRSAGAR        MCS041 MCS042 MCS043 MCS052 MCS053    
+                                                                  MCSE003 MCSE004 MCSE011   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    6
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1619P                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  212 BDP-116862700   1619P       VINU PANDEY                     ACC01 ANC01 MTE01 MTE02 MTE04     
+                                                                  MTE05 MTE06 MTE07 MTE08 MTE09 MTE10 MTE11 MTE12 PHE09 PHE10     
+  213 MCA-116863203   1619P       JAYESH SUBHASH NYAHAL           BCS041 BCS051 BCSL057 BCSL063 MCS022    
+                                                                  MCS023 MCS031 MCS032 MCS033 MCS034 MCS035 MCSL036   
+  214 BCA-116863758   1619P       NITYA SINHA                     BCS051 BCS052 BCS053 BCS054 BCS055    
+                                                                  BCSL021 BCSL032 BCSL043 BCSL044 BCSL045 BCSL056 BCSL057 BCSL058 MCS023 MCS024 MCSL016   
+  215 MCA-116863844   1619P       AJAY SINGH KANDARI              MCS052    
+  216 MCA-116904846   1619P       RASHMI RAJESH NARSAPUR          MCS024 MCS031 MCS033 MCS034 MCS041    
+                                                                  MCS042 MCS043 MCSL045   
+  217 MCA-116913100   1619P       BHAGYASHREE PATIL               MCS022 MCS023 MCS031 MCS032 MCS033    
+                                                                  MCS034 MCS035 MCSL025 MCSL036   
+  218 MEC-116913505   1619P       CHINTU MONI GOSWAMI             MEC009    
+  219 BDP-117032089   1619P       SANTOSH KUMAR                   EPS11 ESO15 ESO16 FST01     
+  220 MPS-117045860   1619P       NEERAJ KUMARI                   MPSE008   
+  221 MEC-117425393   1619P       SHEIKH BASHARAI HUSSAIN         MEC001 MEC002 MEC003 MEC004 MEC005    
+  222 MAH-117595474   1619P       REENA KUMARI                    MHI01 MHI03 MHI04 MHI06     
+  223 BDP-117810102   1619P       VIKRAM SINGH                    EPA01     
+  224 BDP-117924191   1619P       RINSON POULOSE                  BEGE103   
+  225 BMIT-117988320  1619P       PRACHI SANJAY JADHAV            BAHI055 BAHI056 BAHI057   
+  226 BCA-118186190   1619P       NINAD  VASANT KADLAG            BCS011 BCS040 BCS042 BCS051 BCS053    
+                                                                  BCS054 MCS012 MCS022 MCS023 MCS024    
+  227 MCA-118186215   1619P       LOKESH RAJESH SHARMA            BCS054 BCSL056 MCS012 MCS022 MCS031    
+                                                                  MCS032 MCS033 MCS034 MCS035 MCSL036   
+  228 BCA-118186247   1619P       NISHA HARILAL PAL               BCS054 BCSL057 MCS022    
+  229 MCA-118186261   1619P       CHARITRA ANAND KARANDE          BCS054 MCS022 MCS031 MCS032 MCS033    
+                                                                  MCS034 MCS035 MCSL036   
+  230 BCA-118186286   1619P       SAMEER GHANASHYAM KUMBHAR       BCS042 BCS051 BCS052 BCS053 BCS054    
+                                                                  BCSL032 BCSL056 BCSL058 MCS012 MCS021 MCS022 MCS023 MCS024    
+  231 BCA-118186301   1619P       RASHIK SHAHID AKHTAR SHAIKH     BCS031 BCS041 BCS054 BCSL032 MCS021    
+                                                                  MCS022    
+  232 BCA-118186333   1619P       VIJAYKUMAR CHOUTHILAL MOURYA    BCS031 BCS041 BCS051 BCS052 BCS053    
+                                                                  BCS054 BCSL032 BCSL056 BCSL057 MCS022    
+  233 BCA-118186340   1619P       SHASHANK ANANDRAO DHUMAL        BCS011 BCSL032 BCSL043 MCS011 MCS012    
+                                                                  MCS014 MCS021 MCS023 MCS024 MCSL016   
+  234 BCA-118186358   1619P       POOJA RAJAN CHAUDE              BCS040 BCS042 BCS054 BCSL045 MCS011    
+                                                                  MCS012 MCS021 MCS022 MCS024    
+  235 BCA-118186365   1619P       ROHIT RAMESH PARDESHI           BCS052 BCS054 BCSL057 BCSL058 MCS011    
+                                                                  MCS014 MCS021 MCS022 MCS023 MCS024    
+  236 BCA-118186372   1619P       SHAMBHURAJ DINKAR THORAT        MCS022    
+  237 BCA-118186420   1619P       ABHINANDAN RAMNARAYAN PATEL     BCS041 BCS042 BCS052 BCS053 BCS054    
+                                                                  BCSL058 MCS011 MCS012 MCS014 MCS021 MCS022 MCS023 MCS024    
+  238 BCA-118186437   1619P       PRAYAG MUKESH VARAL             BCS040 BCS041 BCS042 BCS052 BCS053    
+                                                                  BCSL056 MCS012 MCS021 MCS022 MCS023    
+  239 BCA-118186509   1619P       PRAMITH BISWANATH BHOWMICK      BCS041 BCS042 BCS052 BCS054 BCSL057   
+                                                                  BCSL058 MCS012 MCS022    
+  240 MCA-118186523   1619P       SHRUTIKA KIRAN THANEKAR         MCS053 MCSE004   
+  241 MCOM-118199354  1619P       VINAY ARVIND PUSADKAR           MCO05     
+  242 BCA-118227880   1619P       VIKAS CHAUDHARY                 BCS031 BCS040 BCS042 BCS051 BCS052    
+                                                                  BCS053 BCS054 BCS062 BCSL063 MCS011 MCS012 MCS014 MCS021 MCS022 MCS023    
+  243 MCA-118229250   1619P       SHAHNAZ IBRAHIM SHAIKH          MCS042 MCS051 MCS052 MCS053 MCSE003   
+                                                                  MCSE004 MCSE011 MCSL045   
+  244 MCA-118229471   1619P       JEETENDRA VASANT VAITY          MCS041 MCS042 MCS043 MCS051 MCS052    
+                                                                  MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+  245 MCA-118229805   1619P       PANKAJ SHASHIRAJ LALE           MCS031 MCS051 MCS052 MCS053 MCSE003   
+                                                                  MCSE004   
+  246 MCA-118229883   1619P       MAMATA ARJUN NAVGANE            MCS022 MCS031 MCS041 MCS052 MCS053    
+                                                                  MCSE003 MCSE004 MCSE011   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    7
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1619P                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  247 MCA-118229909   1619P       SUHAS HANAMANT RAMUGADE         MCS023 MCS032 MCS033 MCS034 MCS035    
+                                                                  MCS041 MCS042 MCS051 MCS052 MCS053 MCSE003 MCSL025 MCSL045 MCSL054   
+  248 BAIHA-118630453 1619P       KULE TEJASHREE MOHAN            BEGE103 BHY011 TS03 TS07      
+  249 BAIHA-118630485 1619P       PARMAR UMANG RAJESH             BHY011    
+  250 BAIHA-118630492 1619P       SHAIKH ALTAF GUAFUR             BHY011    
+  251 BAIHA-118630564 1619P       PATEL SADIK MOHAMMEDALI         BHY011 TS07      
+  252 BAIHA-118631280 1619P       CHOKSI CHIRAG RAJUBHAI          BEGE103 BHY011    
+  253 BAIHA-118631390 1619P       DHRUPAD SALVI                   BEGE103   
+  254 BAIHA-118635209 1619P       ANUBHAV MALIK                   BHY011    
+  255 BAIHA-118635216 1619P       NIKHIL SARAN                    BHY011    
+  256 BAIHA-118635248 1619P       NEVE SAGAR SANJAY               BHY011    
+  257 BAIHA-118635255 1619P       VARUN PRASHANT DERE             BHY011    
+  258 BAIHA-118635262 1619P       KUMAR ANIRUDH ASHWANI           BHY011    
+  259 BAIHA-118635270 1619P       RAJ KASHISH MIRPURI             BHY011    
+  260 BAIHA-118635287 1619P       BRENDT MARK MENEZES             BHY011    
+  261 BAIHA-118635359 1619P       RISHABH SHARMA                  BHY011    
+  262 BAIHA-118635366 1619P       AYESHA KAIKHUSHRU KUTAR         BHY011 TS03 TS07      
+  263 BAIHA-118635406 1619P       RODRIGUES JOSMAN VALENCIO       BHY011 TS03      
+  264 BAIHA-118635588 1619P       MEHER KUSHAL SANJEEV            BHY011    
+  265 MSO-119112619   1619P       AASIYA  JABBAR                  MSO004    
+  266 BDP-120298259   1619P       SONIA KEDARNATH TIWARI          AED01 AMK01 AOM01 BCOA001 ECO02     
+                                                                  ECO03 ECO05 ECO07 ECO08 ECO09 ECO10 ECO11 ECO13 ECO14 EEC11 FST01     
+  267 MCA-120298470   1619P       MOIN USMAN SHAIKH               MCS041 MCS052 MCSE004   
+  268 MHD-120298621   1619P       NAGESH KUMAR TIWARI             MHD06     
+  269 MCOMFT-1202987641619P       ROGER VINS HERMAN               IBO06 MCO01 MCO03 MCO04 MCO06     
+  270 BDP-120299118   1619P       NISHA PARASURAMAN               ACC01 ANC01 BEGE104 ESO15     
+  271 MP-120299275    1619P       AMOGH RAVINDRA CHACHAD          MS55 MS56 MS97      
+  272 BLS-120299931   1619P       MANGESH BALIRAM GAIKWAD         BLS04 BLS3P     
+  273 MCA-120300394   1619P       SONAL RAMESH JADHAV             MCS021 MCS031 MCS041 MCS042 MCS043    
+                                                                  MCSL025 MCSL054   
+  274 MCA-120301207   1619P       SANDEEP RAMBACHAN GUPTA         MCS022 MCS041 MCS042 MCS051 MCS052    
+                                                                  MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+  275 BTS-120301783   1619P       POOJA RAVINDRA MANGALE          AFW01 BEGE103 TS03 TS06      
+  276 MCA-120302209   1619P       ASHA RAMASHANKAR GIRI           MCS011 MCS012 MCS013 MCS014 MCS021    
+                                                                  MCS022 MCS023 MCS031 MCS032 MCS034 MCS035 MCS041 MCS042 MCS043 MCSL025 MCSL036   
+  277 BDP-120303035   1619P       BHANU TIWARI                    ANC01 BSWE005 EPA05 ESO16     
+  278 MAPC-120303264  1619P       SNEHA AMRITLAL PANCHAL          MPCE011   
+  279 BDP-120304210   1619P       SHYNO T K                       ACC01 ANC01 BEGE104 ESO15 FST01     
+  280 MAPC-120304360  1619P       CHHAYA BHASKAR KORE             MPCE011   
+  281 BDP-120305021   1619P       RAJESH KOTATH VEETIL            BEGE105 BEGE108 EHI02 FST01     
+  282 MCA-120306893   1619P       SANJAY NAMDEV PATIL             MCS053 MCSE004 MCSL054   
+  283 MCA-120306919   1619P       DEEPAK SHIVAJI SHINDE           MCS011 MCS012 MCS014 MCS021 MCS022    
+                                                                  MCS023 MCS024 MCSL025 MCSL036 MCSL045   
+  284 MSDFSM-1203076661619P       YADAV PRITI SURENDRANATH        MFN002    
+  285 MED-120308492   1619P       SUSHMA NARENDRA SHARMA          MES052 MES054    
+  286 MCA-120314084   1619P       JITENDRA SHAMBHUDAYAL YADAV     MCS051 MCS052 MCS053 MCSE003 MCSE004   
+                                                                  MCSE011 MCSL054   
+  287 MP-120314582    1619P       RAJESH BHASKARAN                MS08 MS53 MS58 MS95      
+  288 BDP-120314701   1619P       PUSHPA MANOJ YADAV              EHD05     
+  289 MSDFSM-1203147651619P       POOJA DAYANAND KUNDER           MFN001 MFN002 MFN009    
+  290 PGDENLW-120314883                      1619P       POOJA VINIT MAIND               MLE024 MLE025    
+  291 MAPC-120315459  1619P       PANDHARINATH SAMBHAJI RAJESHIR  MPC001 MPCE011 MPCE013   
+  292 MP-120315710    1619P       PRAMOD KUMAR                    MS51 MS53 MS54 MS55 MS56      
+  293 MPS-120316056   1619P       RAJNARAYAN YADAV                MPS001 MPS002 MPS004 MPSE004   
+  294 MP-120318945    1619P       VIREDNRA VASANT SHINDE          MS55      
+  295 MP-120319170    1619P       RUPESH UMESH BHAVSAR            MS05 MS06 MS08 MS10 MS95      
+  296 MP-120319360    1619P       PALLIPARAMBIL JOSEPH SAMSON     MS66      
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    8
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1619P                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  297 MAPC-120319621  1619P       MONALISA AMOS PAWAR             MPC003 MPC004 MPC005 MPC006 MPCL007   
+  298 MCA-120320167   1619P       GANESH RAVINDRAN PILLAI         MCS031 MCS032    
+  299 MP-120320278    1619P       NIHARIKA SATYAWAN GHADI         MS41 MS42 MS95      
+  300 MP-120320737    1619P       NAYOMI                          MS03 MS52 MS55 MS56 MS57 MS95      
+  301 MP-120321484    1619P       ALOK SUNIL KAUSHIK              MS422 MS45 MS494     
+  302 DECE-120322264  1619P       VAISHALI MANOJ NAIK             DECE02 DECE03    
+  303 MP-120322637    1619P       DATTATRAYA JANU KATKAR          MS41 MS43 MS44 MS91 MS93 MS95      
+  304 BDP-120322880   1619P       DINESH MOTILAL YADAV            BHDF101 EHD08 EHI01 FHD02     
+  305 BDP-120599382   1619P       ASHUTOSH SHARMA                 PHE01 PHE02 PHE04 PHE05 PHE06     
+  306 BCA-121029217   1619P       ASHOK JAYASING KASHID           BCS011 BCS031 BCS040 BCS041 BCS042    
+                                                                  BCS051 BCS062 BCSL043 BCSL045 BCSL056 BCSL063 MCS012 MCS021 MCS022 MCS023 MCS024    
+  307 BSCN-122867664  1619P       PRAJKTA MAHENDRA BARTAKKE       BNS109 BNS110 BNS111    
+  308 BSCN-122869231  1619P       KAMBLE NIYOTI LAXMAN            BNS109 BNS110 BNS111    
+  309 BSCN-122869270  1619P       MS. YOGITA ASHOK GAIKWAD        BNS106 BNS107 BNS108    
+  310 BSCN-122869288  1619P       PRACHEE PRAVIN MIRAJKAR         BNS102 BNS106 BNS107 BNS108    
+  311 BSCN-122871349  1619P       SUCHITA RAJESH KARNIK           BNS109 BNS110 BNS111 BNSL109 BNSL110   
+                                                                  BNSL111 BNSL112   
+  312 BSCN-122871363  1619P       ANITA SUNIL SONAWANE            BNS109 BNS110 BNS111    
+  313 MCA-125217128   1619P       DEEPAK CHAUHAN                  MCS012 MCS013 MCS014    
+  314 MCA-125340574   1619P       TEJAL NAVINCHANDRA CHHATRALA    CS60 MCS023 MCS031 MCS034 MCS041    
+                                                                  MCS042 MCS043 MCSL045   
+  315 MP-125494485    1619P       MD.SHAHID                       MS09      
+  316 MAH-125879452   1619P       MD AKRAM                        MHI03 MHI06 MHI08 MPSE003 MPSE004   
+  317 BEDSEHI-126169979                      1619P       SUGANDHA MIRUTI KACHARE         MMD011 MMD013 MMD014 MMDE015 MMDE019   
+                                                                  MMDE026 MMDE027 MMDE029 MMDE030 MMDE031 MMDE032   
+  318 MCA-126181801   1619P       SHRADDHA SHASHIKANT GATADE      MCS041 MCS042 MCS043 MCSL045   
+  319 MCA-126522548   1619P       SNEHAL RAMESH SHELKE            MCS021 MCS022 MCS031 MCS032 MCS033    
+                                                                  MCS034 MCS035 MCSL036   
+  320 BCA-126525210   1619P       SWETA SHARMA                    BCS031 BCS040 BCS041 BCS042 BCSL043   
+                                                                  BCSL044 BCSL045 MCS011 MCS024 MCSL016   
+  321 MCA-126613551   1619P       SAYLEE CHANDRAKANT DAKARE       MCS012 MCS022 MCS024 MCS031 MCS035    
+                                                                  MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+  322 MCA-126614410   1619P       SNEHA GIRISH SHINDE             MCS011 MCS022 MCS023 MCS031 MCS041    
+                                                                  MCS042 MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+  323 MCA-126614450   1619P       GAURAV PRAVIN DIGHE             MCS051 MCS052 MCS053 MCSE003 MCSE004   
+                                                                  MCSE011 MCSL054   
+  324 MCA-126614467   1619P       SNEHAL BHAGATSINGH KUSHWAHA     MCS051 MCS052 MCS053 MCSE003 MCSE004   
+                                                                  MCSE011 MCSL054   
+  325 BDP-126615397   1619P       AMIT VASHISHT                   BECE002 EEC10 FST01     
+  326 BCA-126615745   1619P       GAURAV ROHIT THAKKAR            BCS040 BCS041 BCS051 BCS052 BCS053    
+                                                                  BCS054 BCS055 BCSL043 BCSL045 BCSL056 BCSL057 BCSL058 MCS024    
+  327 MCA-126617186   1619P       VIKAS RAMLAL SONICHYA           CS60 MCS012 MCS021 MCS023 MCS031    
+                                                                  MCS034    
+  328 MSW-126617795   1619P       SANDHYA RAMCHANDRA SHINGADE     MSW007 MSW008 MSW009 MSWE001 MSWE002   
+  329 MAPC-126619086  1619P       DHANASHREE KETKAR               MPCE021 MPCE026   
+  330 MCA-126619323   1619P       MAHESH MARUTI SAWANT            CS60 MCS023 MCS031 MCS041 MCS051    
+                                                                  MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL045 MCSL054   
+  331 MP-126619466    1619P       DAHIFALE SANJU DASHARATH        MS61 MS63 MS66 MS91 MS97      
+  332 MCA-126619878   1619P       VENKAT VIGNESH                  MCS011 MCS012 MCS014 MCS021 MCS022    
+                                                                  MCS023 MCS024 MCSL017 MCSL025   
+  333 MAPC-126620138  1619P       SAVITHA RAJASIMHA RAO           MPC006 MPCE011 MPCE013   
+  334 BDP-126620249   1619P       NAIR SANTOSH KUMAR              EHI04     
+  335 MP-126620310    1619P       ARCHANA ANANDA KADAM            MS02 MS03 MS44      
+  336 MCA-126620819   1619P       MARGARET RODRIGUES              MCS041 MCS051 MCS052 MCS053 MCSE003   
+                                                                  MCSE004 MCSE011 MCSL045 MCSL054   
+  337 BCA-126620826   1619P       SHYAM SINGH TOMAR               BCSL013 BCSL021 BCSL022 ECO02     
+                                                                  MCS011 MCS013    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    9
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1619P                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  338 BCA-126620969   1619P       ARCHANA SHIVRAM SANGLE          BCS051 BCS052 BCS053 BCS055 BCSL056   
+                                                                  BCSL057 BCSL058 ECO02 MCS012 MCS014    
+  339 DECE-126621638  1619P       PALLAVI AMRUTLAL THAKKAR        DECE01 DECE03    
+  340 MCA-126622149   1619P       VIJISHA VIJAYAN                 MCS043 MCS051 MCS052 MCS053 MCSE003   
+                                                                  MCSE004 MCSE011 MCSL054   
+  341 MCA-126622156   1619P       BLESSY ABRAHAM THAKADIYALPARAM  MCS043 MCS051 MCS052 MCS053 MCSE003   
+                                                                  MCSE004 MCSE011 MCSL054   
+  342 MCA-126622496   1619P       MOH JAHANGIR JUMRATI ANSARI     MCS032 MCS033 MCS034 MCS035    
+  343 PGDIPR-1266236561619P       AUCHARE SANTOSH                 MIP002    
+  344 MAPC-126623989  1619P       ARCHANA ANAND DEUSKAR           MPC006    
+  345 MAPC-126624103  1619P       PRIYA CIBI                      MPCE013   
+  346 BCA-126625216   1619P       SANKET DILIP CHAVAN             BCS040 BCS041 BCS042 BCS051 BCS052    
+                                                                  BCS053 BCS054 BCS055 BCSL032 BCSL033 BCSL043 BCSL044 BCSL056 BCSL057 BCSL058 MCS024    
+  347 MCA-126625327   1619P       SAPNA SURESH CHAWAN             MCS031 MCS035 MCS051 MCS052 MCS053    
+                                                                  MCSE003 MCSE004 MCSE011 MCSL054   
+  348 MCA-126625341   1619P       NAMITA ANAJI BHUJBAL            CS60 MCS012 MCS013 MCS032 MCS041    
+                                                                  MCS042 MCS051 MCS052 MCS053 MCSL036 MCSL045   
+  349 BCA-126625857   1619P       SUJEET KUMAR YADAV              BCS011 BCS012 BCS040 BCS041 BCS042    
+                                                                  BCS051 BCS052 BCS053 BCS054 BCS055 BCSL022 BCSL043 BCSL045 BCSL056 BCSL057 BCSL058   
+  350 BDP-126625904   1619P       RIDDHI MAHESH JANGAM            EEG03 ESO12 FST01     
+  351 MCA-126626121   1619P       VINOD PARSHURAM MISTRI          MCS012 MCS021 MCS023 MCS024 MCS031    
+                                                                  MCS032 MCS033 MCS034 MCS041 MCS042 MCS043 MCS051 MCSE003 MCSL025 MCSL045 MCSL054   
+  352 MCA-126626479   1619P       DIPALI DATTATRAY NARVANKAR      MCS012 MCS023 MCS031 MCS032 MCS034    
+                                                                  MCS041 MCS042 MCS043 MCS051 MCS053 MCSE003 MCSE004 MCSE011 MCSL045 MCSL054   
+  353 MCA-126626748   1619P       DHANSHREE LAXMAN SHIRKE         MCS023 MCS034 MCS041 MCS042 MCS051    
+                                                                  MCSL036   
+  354 BCA-126627528   1619P       ANUP RABINDRANATH CHOUBEY       BCS031 BCSL032 BCSL033 BCSL034 MCS014    
+                                                                  MCS021 MCS023    
+  355 BDP-126628060   1619P       RESHMA VANNAPPA MADIWALA        ECO02     
+  356 MLS-126628196   1619P       BANSODE BHARATI DAGADU          MLIE102   
+  357 MAPC-126628544  1619P       SANDEEP KUMAR HARCHOWDHURY      MPCE013   
+  358 BCA-126628710   1619P       POOJA PREMBABU SINGH            BCS051 BCS052 BCS053 BCS054 BCS055    
+                                                                  BCSL043 BCSL056 BCSL057 BCSL058   
+  359 MAPC-126628727  1619P       JYOTI GAJANAN THOSAR            MPCE021 MPCE022 MPCE023 MPCE024   
+  360 BDP-126629245   1619P       CHANCHAL ASHOK PALASPAGAR       BEGE103 ESO12     
+  361 BDP-126629277   1619P       RINKI HANS MANGAL               BECE002 BEGE103 ECO03 ECO13 ERD01     
+                                                                  FST01     
+  362 MCA-126629300   1619P       PRIYANKA KRISHNA POOJARI        MCS051 MCS052 MCS053 MCSE003 MCSE004   
+                                                                  MCSE011 MCSL054   
+  363 MAPC-126630350  1619P       SOUVIK DAS                      MPCE021 MPCE022 MPCE023 MPCE025   
+                                                                  MPCE026   
+  364 BDP-126631020   1619P       SAYALI SUNIL SHINDE             CHE04 CHE06 CHE09     
+  365 MCA-126631130   1619P       BIVIN RAVINDRAN                 MCS041 MCS042 MCS043 MCS051 MCS052    
+                                                                  MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+  366 MCA-126631811   1619P       DEEPA AVUDIAPPAN                MCS014 MCS021 MCS022 MCS023 MCS024    
+                                                                  MCS031 MCS032 MCSL025   
+  367 MLS-126631868   1619P       KASTURI PRADEEP PRADHAN         MLIE103 MLII101   
+  368 DECE-126632315  1619P       GITTAL HARIKISHAN KHATRI        DECE01    
+  369 MCA-126632995   1619P       PERPETUAL SEBASTINE FERRAO      MCS041 MCS042 MCS051 MCS052 MCS053    
+                                                                  MCSE003 MCSE004 MCSE011 MCSL045 MCSL054   
+  370 MEG-126633560   1619P       M LAKSHMY PRASAD                MEG01 MEG02 MEG03 MEG04     
+  371 BCA-126633704   1619P       DARSHAN JAYESH BHADRA           BCS031 BCS051 BCS052 BCS053 BCS054    
+                                                                  BCS055 BCSL056 BCSL057 BCSL058 MCS011 MCS021 MCS023    
+  372 MTM-126633847   1619P       POONAM RAMRUCHI SINGH           MTM05 MTM09     
+  373 MCA-126633886   1619P       SAJILAL MURALEEDHARAN CHANDRA   MCS023 MCS031 MCS033 MCS041 MCS042    
+                                                                  MCS043 MCSL045   
+  374 MCA-126634412   1619P       NIGEL HAROLD CRASTO             MCS032 MCS034 MCS041 MCS051 MCS052    
+                                                                  MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   10
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1619P                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  375 BDP-126634673   1619P       SUDHIR YADHAV SALIAN            BEGE103 EPA04 ERD01     
+  376 BCA-126635629   1619P       PREMCHAND N                     BCS031 BCS041 BCS052 BCSL021 BCSL022   
+                                                                  BCSL032 BCSL033 BCSL043 BCSL056 BCSL057 MCS012 MCS014 MCS021 MCS023 MCS024 MCSL016   
+  377 BDP-126635793   1619P       SHYAMURAM CHIVATARIRAM PRAJAPA  EHD03     
+  378 MCOM-126635858  1619P       NEHA MOHAN KUMAR SHRIVAS        MCO05     
+  379 BDP-126636312   1619P       ARVIND KUMAR                    EHI01 EHI04     
+  380 PGDENLW-126636580                      1619P       SATISH NARAYAN PALKAR           MLE022    
+  381 MEC-126636749   1619P       PATIL OJAS MADHUKAR             MEC006 MEC007 MEC009 MECE001 MECE004   
+  382 MCA-126636992   1619P       PRATIK PRASAD NAGOLKAR          MCS041 MCS042 MCS043 MCSL045   
+  383 MCA-126637006   1619P       GAJANAN MAHADEV THATE           MCS041 MCS042 MCS043 MCSL045   
+  384 MAPC-126638119  1619P       SHEETAL KAMLESH THAKKAR         MPCE023   
+  385 MAPC-126638126  1619P       BHAVANI SUBRAMANIAM             MPCE023   
+  386 MCA-126638728   1619P       RATAN LAXMAN KITTUR             MCS042 MCS051 MCS052 MCS053 MCSE003   
+                                                                  MCSE004 MCSE011 MCSL045 MCSL054   
+  387 MCA-126638853   1619P       NILESH NANDLAL TIWARI           MCS051 MCS052 MCS053 MCSE003 MCSE004   
+                                                                  MCSE011 MCSL054   
+  388 MCA-126638940   1619P       GAUTAM GIRISH SHANBHAG          MCS031 MCS034 MCS035 MCS041 MCS042    
+                                                                  MCS043 MCSL045   
+  389 BCA-126643680   1619P       SANJAY NAVNATH TOTARE           BCS011 BCS051 BCS052 BCS053 BCS054    
+                                                                  BCS055 BCSL021 BCSL043 BCSL056 BCSL057 BCSL058 MCS012    
+  390 MCOM-126643830  1619P       DILIP KUMAR                     MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  391 MAPC-126643941  1619P       JUILI CHANDRASHEKHAR GUPTE      MPCE011 MPCE013   
+  392 MAPC-126643959  1619P       SHRUTI RAMDAS SAWANT            MPCE011 MPCE013   
+  393 MAPC-126643973  1619P       DEWMY RAJU                      MPC006 MPCE013   
+  394 BDP-126644209   1619P       MITHUN SHASHIDHARAN PILLAI      BSHF101 CHE01 MTE01 PHE02 PHE04     
+                                                                  PHE06 PHE09     
+  395 MCA-126644216   1619P       RAHUL KUMAR SINGH               MCS023 MCS024 MCS031 MCS032 MCS034    
+                                                                  MCS035 MCS041 MCS042 MCSL025   
+  396 BDP-126644500   1619P       NISHANT DILIP KAMBLE            BECE214 EEC10 EHI07 FST01     
+  397 MAPC-126644818  1619P       SHILPA PRASHANTH RAIKAR         MPC002 MPC004 MPC005 MPCE023 MPCE026   
+  398 MCA-126645723   1619P       AKASH JIYALAL PAL               MCS031 MCS034 MCS041 MCS043 MCS051    
+                                                                  MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL045 MCSL054   
+  399 MCA-126645945   1619P       SHWETA SURESH LEMBHE            MCS012 MCS014 MCS021 MCS022 MCS023    
+                                                                  MCS035    
+  400 MPA-126646789   1619P       KRUTHIKA RAMCHANDRA IYER        MPA015 MPA016 MPA017 MPA018    
+  401 MCA-126648023   1619P       SMITA SUBHASH DALVI             MCS012 MCS021 MCS022 MCS023 MCS024    
+                                                                  MCS031 MCS032 MCS035 MCS042 MCS043 MCSE003 MCSE004 MCSE011 MCSL025 MCSL045 MCSL054   
+  402 MCA-126648127   1619P       SUNIL BRAHMAMNAND DHASMANA      MCS014 MCS022 MCS023 MCS031 MCS034    
+                                                                  MCS041 MCS042 MCS043 MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL045 MCSL054   
+  403 MCA-126648134   1619P       MANOJ DHARMRAJ PANDEY           MCS051 MCS052 MCS053 MCSE003 MCSE004   
+                                                                  MCSE011 MCSL054   
+  404 MHD-126648363   1619P       MEENAKSHI RAJESH MISHRA         MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  405 MAPC-126649168  1619P       JAYASHREE                       MPCE021 MPCE023   
+  406 MAPC-126649981  1619P       MRS SHILPA PUSHKAR WALIMBE      MPC006 MPCE011 MPCE012 MPCE013   
+  407 MAH-126650740   1619P       PRAMILA RAMBABU SINGH           MHI06 MHI08 MPSE004   
+  408 MCA-126651472   1619P       ROSHAN KASHINATH SALVI          CS60 MCS012 MCS031 MCS033 MCS034    
+                                                                  MCS041 MCS042 MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+  409 MCA-126651480   1619P       SANTOSH K CHAUHAN               MCS012 MCS032 MCS041 MCS051 MCS052    
+                                                                  MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+  410 MCA-126651798   1619P       SUPRIYA GULABRAO DHANAWADE      MCS034 MCS041 MCS042 MCS043 MCS051    
+                                                                  MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+  411 MAPC-126652410  1619P       SHWETA KISHORE BATRA            MPCE021   
+  412 MEC-126652980   1619P       KRITHIKA NARAYAN SWAMY IYER     MEC007 MPA015 MPA017    
+  413 MPA-126653025   1619P       HIMALEE SUHAS GUNGURDE          MPA015 MPA016 MPA017 MPA018 MPS003    
+  414 MCA-126653831   1619P       YATIN VISHWAS BHOIR             MCS021 MCS023 MCS024 MCS031 MCS032    
+                                                                  MCS033 MCS034 MCS035 MCSL025 MCSL036   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   11
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1619P                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  415 MCA-126654041   1619P       HARSHAL CHATRABHUJ CHAVAN       MCS012 MCS021 MCS022 MCS024 MCS031    
+                                                                  MCS032 MCS034 MCS035 MCSE004 MCSL054   
+  416 MCA-126654200   1619P       ANITA CHANDRAKANT AROTE         MCS041 MCS051 MCS052 MCS053 MCSE003   
+                                                                  MCSE004 MCSE011 MCSL054   
+  417 MAPC-126654342  1619P       DINIL JAYADAS                   MPC001 MPC002 MPC006 MPCL007   
+  418 MCA-126654708   1619P       MANISHA KANTILAL RAVAL          MCS022 MCS023 MCS051 MCS052 MCS053    
+                                                                  MCSE003 MCSE004 MCSE011 MCSL045 MCSL054   
+  419 BCA-127192244   1619P       VIKAS GYAN SINGH                BCS011 BCS031 BCS040 BCS041 BCS051    
+                                                                  BCS052 BCS053 BCS054 BCS055 BCSL056 BCSL057 BCSL058 MCS012 MCS021 MCS023 MCSL016   
+  420 BCA-127192269   1619P       SINGH AJEET ARUNKUMAR           BCS011 BCS031 BCS040 BCS041 BCS051    
+                                                                  BCS052 BCS053 BCS054 BCS055 BCSL056 BCSL057 BCSL058 MCS012 MCS014 MCS021 MCS023    
+  421 BDP-127358693   1619P       AMIT DAS                        BEGE102 BSHF101 ECO01 ECO02 FEG01     
+                                                                  FEG02     
+  422 BDP-127360106   1619P       DHARAMBIR KUMAR DAS             EPA01 FEG02     
+  423 BDP-127360120   1619P       GURLAL SINGH                    BEGE103 BEGE105 BPSE212 FST01     
+  424 BDP-127360191   1619P       GAURAV SHARMA                   BHDF101 BSHF101 EHI01 EPS12 FHD02     
+  425 BCA-127800953   1619P       SOHAIL HANIF SHAIKH             BCS031 MCS011 MCS012 MCS014 MCS021    
+                                                                  MCS023    
+  426 MAPC-128021609  1619P       SHWETA HRISHIKESH DONGRE        MPC001 MPC002 MPC003 MPCE016   
+  427 MCA-128021963   1619P       NITESH GUPTA                    MCS042 MCS051 MCS052 MCS053 MCSE003   
+                                                                  MCSE004 MCSE011 MCSL054   
+  428 BCA-128022016   1619P       SAGAR VENU RATHOD               BCS011 BCSL021 BCSL022 ECO01 ECO02     
+                                                                  FEG02 MCS011 MCS012 MCS013 MCS015    
+  429 MCA-128022450   1619P       PRAHLAD RAMAKANT PRASAD         MCS012 MCS021 MCS031 MCS032 MCS034    
+                                                                  MCS041 MCS042 MCS043 MCSL025 MCSL036 MCSL045   
+  430 MCA-128022940   1619P       SACHIN DADAJI PAGARE            MCS032 MCS051 MCS052 MCS053 MCSE003   
+                                                                  MCSE004 MCSE011 MCSL045 MCSL054   
+  431 BCA-128023057   1619P       SWATI PARMESHWAR GAIKWAD        BCS011 BCS031 BCS040 BCS041 BCS051    
+                                                                  BCS052 BCS053 BCS054 BCS055 BCSL056 BCSL057 BCSL058 MCS012 MCS014 MCS021 MCS023    
+  432 MCA-128023437   1619P       ARCHANA ANANT DHUMAL            MCS011 MCS012 MCS022 MCS031 MCS034    
+                                                                  MCS041 MCS042 MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL017 MCSL025 MCSL054   
+  433 BBARL-128023666 1619P       AMBRISH KUMAR PRASAD            AMK01 BCOA001 BRL001 BRL002 BRL006    
+  434 MAPC-128023824  1619P       KUMUDNI PRADEEP RANA            MPCE021   
+  435 MAPC-128023831  1619P       LAXMI BALAKRISHNA SHETTY        MPCE021   
+  436 BBARL-128023870 1619P       SHARAN NARAYANAN                AMK01 BCOA001 BRL006 BRL007 BRL008    
+                                                                  ECO01     
+  437 MAPC-128024073  1619P       CHINTAN ADVA                    MPC002 MPCE031 MPCE032 MPCE033 MPCE034   
+                                                                  MPCE035 MPCE036   
+  438 BAIHA-128076469 1619P       PATIL SNEHAL SANJAY             BEGE103 TS03 TS07      
+  439 BAIHA-128076483 1619P       AGIWALE DNYANESHWAR SURESH      TS03 TS07      
+  440 BAIHA-128076490 1619P       NAGAR RAJAN BHAGIRATHI          BEGE103 TS03 TS07      
+  441 BAIHA-128076509 1619P       NIJJAR NAVTESHWAR GURUCHARAN    TS07      
+  442 BAIHA-128076516 1619P       BAGAL RAHUL SHRIKANT            BEGE103 TS03 TS07      
+  443 BAIHA-128076530 1619P       SINGH KULVANT KULVIR            BEGE103 TS01 TS03 TS07      
+  444 BAIHA-128076548 1619P       SINGH KULVANT KULVIR            TS07      
+  445 BAIHA-128076555 1619P       PONKSHE SAURABH SUSHIL          TS01 TS03 TS07      
+  446 BAIHA-128076562 1619P       PATEL KRUNAL MAHENDRABAHI       BEGE103 TS03 TS07      
+  447 BAIHA-128076570 1619P       SINGH KULVANT KULVIR            BEGE103 TS03 TS07      
+  448 BAIHA-128076587 1619P       MORE YOGESH DHANAJI             BEGE103 TS01 TS03 TS07      
+  449 BAIHA-128076610 1619P       UPPADHYAY DEEPAK BALESHWAR      BEGE103 TS03 TS07      
+  450 MPS-128224160   1619P       SANGHMITRA GAUTAM               MPSE001 MPSE002 MPSE003 MPSE004   
+                                                                  MPSE005 MPSE006 MPSE007 MPSE008   
+  451 MP-130050120    1619P       MARINA SMOLYA                   MS04 MS08 MS10 MS95      
+  452 BDP-130051351   1619P       RAM KISHOR SOLANKI              BEGE101 EHI04 EPA01 EPA03 FST01     
+  453 BDP-130051907   1619P       NORAT RAM GURJAR                EHI01 ESO13 ESO14 FST01     
+  454 BDP-130051914   1619P       OM PRAKASH SAINI                EHI01 ESO13 ESO14 FST01     
+  455 BDP-130057607   1619P       ANAND MOHAN KAUSHIK             EHD02 EPS03 EPS07 FST01     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   12
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1619P                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  456 MSDFSM-1300717581619P       SHARDA PANDRE                   MFN010    
+  457 BED-130098903   1619P       SHANKAR MARUTI DEVAKATE         BESE065 BESE066 ES334 ES335 ES362     
+  458 BED-130099636   1619P       RAVINDRA SHALIGRAM INGALE       BESE065 BESE066 ES334 ES335 ES362     
+  459 BED-130099722   1619P       LAXMI LAXMAN MACHHAYA           BESE065 BESE066 ES334 ES335 ES361     
+  460 BED-130099786   1619P       SMITA MAHADEV PUJARI            BESE065 BESE066 ES334 ES335 ES363     
+  461 BED-130099826   1619P       VIKAS SHIVNARAYAN PASI          BESE065 BESE066 ES334 ES335 ES361     
+  462 BTS-130100415   1619P       MADHAVI MUKUND KELKAR           FST01 TS04 TS05      
+  463 BDP-130155315   1619P       NEEPABEN PRAFULKUMAR DATTANI    BSHF101 ECO01 ECO02 EEC11 FEG01     
+                                                                  FEG02     
+  464 MCA-130155852   1619P       ADITYA SHRIKANT PEDNEKAR        MCS012 MCS022 MCS023 MCS031 MCS032    
+                                                                  MCS035 MCS041 MCS042 MCS043 MCSL045   
+  465 MCA-130155860   1619P       VINODKUMAR MEWALAL CHAUHAN      MCS014 MCS023 MCS031 MCS041 MCS042    
+                                                                  MCS043 MCSL045   
+  466 MCA-130155877   1619P       SWAPNARANI SIMRANCHAL SAHU      MCS033 MCS035 MCS041 MCS042 MCS043    
+                                                                  MCSL025 MCSL045   
+  467 MCA-130155884   1619P       MALVIKA RAJENDRA YADAV          MCS031 MCS035 MCS041 MCS042 MCS043    
+                                                                  MCSL045   
+  468 MCA-130155891   1619P       KOMAL VISHWANATH TAWADE         MCS035 MCS041 MCS042 MCS043 MCSL045   
+  469 BTS-130159011   1619P       SIDDHARTH RASIK KABADI          TS01 TS02      
+  470 BDP-130159029   1619P       SAMEER SHRIKANT GANDHE          BPAE102 BSHF101 EPA01 EPA03 EPA04     
+                                                                  FST01     
+  471 BDP-130159036   1619P       CHANDAN KUMAR                   BPAE102 EPA01     
+  472 MAPC-130253768  1619P       RINU ABRAHAM THATTASSERIL       MPCE011 MPCE012 MPCE013 MPCE014   
+                                                                  MPCE015 MPCE016   
+  473 MEC-130253997   1619P       PRITHA ADHIKARI                 MEC003 MEC004 MEC105    
+  474 MCA-130254071   1619P       RAJENDRAPRASAD VITTAL TADUKA    MCS021 MCS022 MCS023 MCS031 MCS032    
+                                                                  MCS033 MCS034 MCSL025 MCSL036   
+  475 BLS-130254190   1619P       KHAN SHAFAT BANO MOHAMMED ILYA  BLS3P     
+  476 BDP-130383315   1619P       NAVEEN KUMAR                    EPA04 ESO12 ESO13 FST01     
+  477 BED-130525425   1619P       SATYAM DEWANGAN                 BESE065 BESE066 ES334 ES335 ES361     
+  478 MAPC-130660511  1619P       AIMAN ABID SPRINGWALA           MPC006 MPCE021 MPCE022 MPCE023 MPCE024   
+                                                                  MPCE025 MPCE026 MPCL007   
+  479 MAPC-130660647  1619P       VALLI SUBRAMANIAM IYER          MPCE021 MPCE022 MPCE023 MPCE024   
+                                                                  MPCE025 MPCE026   
+  480 MCA-130660733   1619P       SHRADDHA ASHOK RANE             MCS031 MCS041 MCS042 MCS043 MCSL025   
+                                                                  MCSL045   
+  481 CTE-130660987   1619P       RAJNI TYAGI                     CTE01 CTE02 CTE03 CTE04     
+  482 MAPC-130661030  1619P       AKSHATA ASHOK SONPATKI          MPCE021 MPCE022 MPCE023 MPCE024   
+                                                                  MPCE025 MPCE026   
+  483 CIG-130661584   1619P       GEETHA MURTHI                   NES101 NES102 NES103 NES104    
+  484 MCA-130662049   1619P       BHARATKUMAR JAYDAYAL DWIVEDI    MCS031 MCS041 MCS042 MCS043 MCSL045   
+  485 MCA-130662300   1619P       AKSHATA JAGANNATH SHETTY        MCS041 MCS042 MCS043 MCSL045   
+  486 MCA-130662332   1619P       NEHA VIDHYADHAR GAWDE           MCS031 MCS032 MCS035 MCS041 MCS042    
+                                                                  MCS043 MCSL045   
+  487 MCA-130662357   1619P       AJAY JUDHISTIR SAHU             MCS031 MCS034 MCS035 MCS041 MCS042    
+                                                                  MCS043 MCSL025 MCSL045   
+  488 MCA-130663904   1619P       LEENA KARMAVEER YADAV           MCS041 MCS042 MCS043 MCSL045   
+  489 BCA-130666583   1619P       MUGDHA ANIL DESHPANDE           BCS012 BCS040 BCS041 BCS042 BCSL043   
+                                                                  BCSL044 BCSL045 MCS014 MCS024 MCSL016   
+  490 BDP-130674082   1619P       MANORANJAN SAHU                 EPS03 EPS07     
+  491 MCA-130676663   1619P       SWATI ARVIND AHER               MCS031 MCS041 MCS042 MCS043 MCSL025   
+                                                                  MCSL036 MCSL045   
+  492 MCA-130676670   1619P       SUJATA SHANTARAM GAWADE         MCS031 MCS041 MCS042 MCS043 MCSL045   
+  493 DECE-130676860  1619P       ABHA CHAWLA                     DECE01    
+  494 MCA-130677024   1619P       SUSMITA SITARAM KADAM           MCS031 MCS041 MCS042 MCS043 MCSL045   
+  495 MSDFSM-1306779341619P       VAISHALI SHRIKANT KHARGE        MFN002 MFN004 MFN005 MFN007 MFN009    
+  496 MCA-130678818   1619P       SIDDHESH SURYAKANT MAHADIK      MCS021 MCS031 MCS041 MCS042 MCS043    
+                                                                  MCSL025 MCSL045   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   13
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1619P                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  497 MCA-130679028   1619P       ROSHANI NATHURAM KADAM          MCS031 MCS041 MCS042 MCS043 MCSL045   
+  498 MCA-130679382   1619P       PRADEEP PRAJAPATI               MCS012 MCS031 MCS032 MCS034 MCS035    
+                                                                  MCS041 MCS042 MCS043 MCSL045   
+  499 MCA-130680205   1619P       AMIT BABAN KASURDE              MCS022 MCS031 MCS034 MCS035 MCS041    
+                                                                  MCS042 MCS043 MCSL045   
+  500 MCA-130680323   1619P       ANANT MAHADEV MALADKAR          MCS031 MCS032 MCS041 MCS042 MCS043    
+                                                                  MCSL045   
+  501 MP-130680878    1619P       CHIRAG JAYSINH VAGHELA          MS05 MS08 MS10 MS91      
+  502 MP-130680925    1619P       SHANKAR SAHADEO WAGHMARE        MS04 MS08 MS25 MS27 MS29 MS95      
+  503 MAPC-130681253  1619P       FARAH KHAN                      MPC003 MPC005 MPCE033 MPCE034 MPCE035   
+                                                                  MPCE036   
+  504 MP-130681902    1619P       PREETI PATWARDHAN               MS10 MS44 MS45 MS97      
+  505 MCOM-130684417  1619P       MAMTA                           MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  506 MSDFSM-1306845671619P       SHALAKA VIJAY KARANDE           MFN004 MFN005 MFN007 MFN009    
+  507 MPA-130684621   1619P       PRAVEEN KUMAR                   MPA011 MPA014 MPA015 MPA016 MPA017    
+                                                                  MPA018 MPS003    
+  508 MCA-130684660   1619P       SHITAL RAMCHANDRA BELOSHE       MCS031 MCS041 MCS042 MCS043 MCSL045   
+  509 MCA-130684678   1619P       POOJA ASHOK SHINDE              MCS014 MCS023 MCS031 MCS041 MCS042    
+                                                                  MCS043 MCSL017 MCSL036 MCSL045   
+  510 MCA-130684685   1619P       ASHA GOKUL PATIL                MCS023 MCS031 MCS034 MCS041 MCS042    
+                                                                  MCS043 MCSL045   
+  511 MCA-130684740   1619P       AKSHAY PRAKASH MAHANGADE        MCS021 MCS023 MCS033 MCS034 MCS041    
+                                                                  MCS042 MCS043 MCSL045   
+  512 MCA-130685053   1619P       PRADEEP MOHAN PILLALAMARRI      MCS023 MCS031 MCS041 MCS042 MCS043    
+                                                                  MCSL045   
+  513 MCA-130685322   1619P       SANDESH ISHWAR SUVARNA          MCS031 MCS041 MCS042 MCS043 MCSL045   
+  514 BLS-130685386   1619P       DEEPA BHARAT PAWAR              BLS04 BLS3P     
+  515 MCA-130685393   1619P       HEMANT RAMESH GAIKWAD           CS60 MCSL045   
+  516 MCA-130685401   1619P       PRATIK KUMAR SHIVANAND POOJARY  MCS031 MCS041 MCS042 MCS043 MCSL045   
+  517 BDP-130704146   1619P       SOURABH KUMAR                   EPS11     
+  518 MPA-130762614   1619P       TARUN KUMAR                     MPA011 MPA012 MPA013 MPA014    
+  519 MCA-131090094   1619P       NILAM RAMESH SHARMA             MCS021 MCS023 MCS031 MCS041 MCS042    
+                                                                  MCS043 MCSL045   
+  520 MAPC-131090102  1619P       PRACHI BHUSAHAN WATVE           MPC001 MPC005 MPCE021 MPCE022 MPCE023   
+                                                                  MPCE024 MPCE025 MPCE026   
+  521 MAPC-131090110  1619P       DEEPALI PURVENDRA JATHAR        MPCE021 MPCE022 MPCE023 MPCE024   
+                                                                  MPCE025 MPCE026   
+  522 MCA-131090166   1619P       SHASHIKANT GENBHAU LAMKHADE     MCS023 MCS031 MCS034 MCS041 MCS042    
+                                                                  MCS043 MCSL045   
+  523 MEG-131090173   1619P       GAUTAM PAL                      MEG05 MEG07 MEG10 MEG14     
+  524 MAPC-131090206  1619P       VINEET                          MPC004 MPC005 MPC006 MPCE031 MPCE032   
+                                                                  MPCE033 MPCE034   
+  525 MAPC-131090213  1619P       LAXMI                           MPC004 MPC005 MPC006 MPCE031 MPCE032   
+                                                                  MPCE034   
+  526 MCA-131090657   1619P       BALVINDER BALVANT SINGH         MCS021 MCS031 MCS034 MCS035 MCS041    
+                                                                  MCS042 MCS043 MCSL045   
+  527 MCA-131090711   1619P       SHALAKA RAMCHANDRA BELOSHE      MCS031 MCS041 MCS042 MCS043 MCSL045   
+  528 MCA-131090750   1619P       SUPRIYA LAXMAN CHAVAN           MCS031 MCS041 MCS042 MCS043 MCSL045   
+  529 BCA-131090782   1619P       G VIJAY                         BCS012 BCS040 BCS041 BCS042 BCSL043   
+                                                                  BCSL044 BCSL045 MCS021 MCS023 MCSL016   
+  530 BCA-131144347   1619P       KASHIRAM DHARMAJI TAWADE        BCS012 BCSL022 BCSL032 ECO01 ECO02     
+                                                                  MCS011 MCS012 MCS013    
+  531 PGDSLM-1311444331619P       MINAL SALIL ADHIKARI            MES004    
+  532 MCA-131144838   1619P       NITUL KUMAR NAYAK               CS60 MCS021 MCS023 MCS031 MCS041    
+                                                                  MCS042 MCS043 MCSL045   
+  533 BDP-131279828   1619P       SACHIN SINGH                    BECE002 EEC11     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   14
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1619P                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  534 BCA-131473344   1619P       ANAND J P                       BCS031 MCS011 MCS012 MCS021    
+  535 MP-135207915    1619P       SHRADDHA                        MS03 MS05 MS06 MS07 MS08      
+  536 MHD-135378048   1619P       PRANAV KULMAR MISHRA            MHD04 MHD06     
+  537 DMCH-136430206  1619P       VIVIKA VILAS MORE               MME201 MME202 MME203    
+  538 BCOMAF-1364690791619P       RAJAT MUNDRA                    AED01 BEGE104 BSHF101 ECO13 FEG01     
+                                                                  FEG02     
+  539 BDP-136581570   1619P       VIKASH                          BHDF101 ESO11 FHD02     
+  540 BDP-136582303   1619P       ANIL KUMAR                      BPAE102 EPA01 FEG01 FEG02     
+  541 BDP-136583423   1619P       AMIN KHAN                       BSHF101   
+  542 BDP-136583731   1619P       DATAR SINGH SHEKHAWAT           FHD02     
+  543 PGDDM-137131007 1619P       MAKRAND MUKUND JOGLEKAR         MPA006    
+  544 MAH-137131290   1619P       PRATHAMESH MAKARAND KARLE       MHI01 MHI02 MHI04 MHI05     
+  545 MPA-137132213   1619P       SANJAY KUMAR RAM                MPA011 MPA012 MPA013 MPA014    
+  546 MEG-137132238   1619P       NAVEEN KUMAR                    MEG02 MEG04     
+  547 BPP-137132521   1619P       RUBINA ASLAM THAKUR             OMT101    
+  548 MAPC-137133089  1619P       KETAKI PADMAKAR TARDE           MPC002    
+  549 MCA-137133096   1619P       NEHA RAJIB JHA                  MCS013 MCS021 MCS022 MCS031 MCS032    
+                                                                  MCS033 MCS034 MCS035 MCSL025 MCSL036   
+  550 MCA-137133784   1619P       PRATIBHA NANDKISHORE TIWARI     MCS021 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  551 MCA-137133863   1619P       MARY PRISCILLA STANISLAUS       MCS031 MCS032 MCS033 MCS034 MCS035    
+                                                                  MCSL025 MCSL036   
+  552 MCOM-137134295  1619P       NIKITA HUBERT MARTIN            IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  553 MP-137134525    1619P       MURUTHOMPATHALIL ROBIN VARUGHE  MS04 MS05 MS06 MS07 MS08      
+  554 MP-137134540    1619P       MANDAR KISHOR KHEDEKAR          MS08 MS09 MS10 MS11 MS91      
+  555 MP-137134564    1619P       PRIYANKA BHARAT PHANSEKAR       MS02 MS51 MS52      
+  556 DECE-137134754  1619P       AMITA BADIYANI                  DECE01 DECE02 DECE03    
+  557 MCA-137135573   1619P       MAYURI DINESH GALAIYA           MCS021 MCS022 MCS023 MCS024 MCSL025   
+  558 MEC-137135606   1619P       KUMAR NIKHIL                    MEC001 MEC002 MEC003 MEC004 MEC105    
+  559 MCA-137135914   1619P       SWETAKUMARI JAIDEO RAI          MCS021 MCS022 MCS024 MCS031 MCS032    
+                                                                  MCS033 MCS034 MCS035 MCSL036   
+  560 MAPC-137136608  1619P       SHINY BHAGVATHI P. VASUDEVAN    MPC001 MPC002 MPC003    
+  561 MCA-137136820   1619P       AMALA MARUTI GAJENGI            MCS031 MCS032 MCS033 MCS034 MCS035    
+                                                                  MCSL036   
+  562 BDP-137136916   1619P       JOMON JOY GEE VARGHESE          BSHF101 ECO02 EEC11     
+  563 MCA-137136962   1619P       PRAMOD KUMAR                    MCS031 MCS032 MCS033 MCS034 MCS035    
+                                                                  MCSL036   
+  564 BDP-137137086   1619P       CHOUDHARY MUKESHKUMAR DEEPARAM  FST01 LSE02 LSE03     
+  565 MHD-137137688   1619P       VANDANA SINGH                   MHD02 MHD03     
+  566 PGDIPR-1371384291619P       PAREKH KRUPA RAJESH             MIP103 MIP107    
+  567 MCA-137138658   1619P       HARISHCHANDRA RAGHUWARDUTT JOS  MCS012 MCS013 MCS014 MCS021 MCS022    
+                                                                  MCS023 MCS024 MCSL016 MCSL025   
+  568 MEC-137139001   1619P       DEBANJAN MITRA                  MEC002 MEC004    
+  569 PGDDM-137139105 1619P       SONAL JITENDRA PADELKAR         MED004    
+  570 MAPC-137139818  1619P       MOUSHUMI SHAILESH GUPTE         MPC004 MPC005 MPC006    
+  571 MCA-137139889   1619P       NAVAL SHARMA                    MCS021 MCS023 MCS031 MCS032 MCS033    
+                                                                  MCS034 MCS035 MCSL036   
+  572 BCA-137140170   1619P       DEEPIKA DADABAHU THONGIRE       BCS011 BCS012 BCSL013 BCSL021 BCSL022   
+                                                                  ECO01 ECO02 MCS011 MCS012 MCS013 MCS015    
+  573 BCA-137140299   1619P       AKSHATA SANTOSH NACHARE         BCS011 BCS012 BCS031 BCSL021 BCSL022   
+                                                                  BCSL032 BCSL033 BCSL034 ECO02 MCS011 MCS013 MCS014 MCS021 MCS023    
+  574 DNHE-137140686  1619P       RAGHVENDRA SINGH GAUR           DNHE01 DNHE02 DNHE03    
+  575 MLS-137140701   1619P       SHAMA NAHAR                     MLI101 MLI102    
+  576 MAH-137140780   1619P       SURAJMAL                        MHI01 MHI02     
+  577 MAPC-137140948  1619P       PRATISHTA JAIN                  MPC003 MPC006    
+  578 BDP-137141079   1619P       KUNNAMTHERI DEVIDSON PHANVEL    MTE02 MTE04 MTE05 MTE06     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   15
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1619P                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  579 BDP-137141617   1619P       VARSHA PREMBABU SAHU            FEG02 FST01 MTE01 MTE02     
+  580 MCA-137141846   1619P       ABHAY BACHCHA CHAUHAN           MCS012 MCS022 MCS023 MCS031 MCS032    
+                                                                  MCS033 MCS034 MCS035 MCSL017 MCSL025 MCSL036   
+  581 BDP-137142150   1619P       AMOD RAJENDRA RANE              BEGE102 BSHF101 ECO01 ECO02 FEG01     
+                                                                  FMT01     
+  582 MCA-137142167   1619P       ANITA MEHILAL GUPTA             BCS012 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL025 MCSL036   
+  583 BDP-137142340   1619P       PREETI NILESH VICHARE           BSHF101 FEG01 FEG02     
+  584 MCA-137142364   1619P       AJITKUMAR HARISHCHANDRA GUPTA   MCS012 MCS021 MCS022 MCS031 MCS032    
+                                                                  MCS033 MCS034 MCS035 MCSL036   
+  585 MCA-137142371   1619P       ANANDKUMAR KANHAIYALAL JAISWAL  MCS023 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  586 MCA-137142586   1619P       PANKAJ NANDKISHOR TAMBE         MCS031 MCS032 MCS033 MCS034 MCS035    
+                                                                  MCSL036   
+  587 BCA-137143287   1619P       SAIFALI ZARRAR IDRESI           BCS011 BCS031 BCSL021 BCSL022 BCSL032   
+                                                                  BCSL033 BCSL034 ECO02 MCS014 MCS021 MCS023    
+  588 BTS-137143491   1619P       SAURABH SUDHIR NIDHA            TS01 TS02      
+  589 MCA-137143517   1619P       SUJIT RAMRAKSHA YADAV           MCS022 MCS024 MCS031 MCS032 MCS033    
+                                                                  MCS034 MCS035 MCSL025 MCSL036   
+  590 MCA-137143760   1619P       NISHITA GANESH SHUKLA           MCS031 MCS032 MCS033 MCS034 MCS035    
+                                                                  MCSL025 MCSL036   
+  591 CNM-137143943   1619P       ADITI SANTOSH GHORPADE          BMS001    
+  592 MCA-137144185   1619P       AARTI DILIP MANE                BCS012 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL025 MCSL036   
+  593 BDP-137144802   1619P       BEENA PEREIRA                   BPC003 BPC004    
+  594 MCA-137145116   1619P       VINEETA GIRIJAPRASAD SINGH      MCS021 MCS022 MCS023 MCS031 MCS032    
+                                                                  MCS033 MCS034 MCS035 MCSL025 MCSL036   
+  595 MCA-137145360   1619P       MAYURESH ASHOK MANJREKAR        MCS012 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  596 BDP-137145495   1619P       ENOCH ISAAC DORAISWAMY          BSHF101 FEG02     
+  597 MCA-137145986   1619P       DELPHI KOVILRAJ                 MCS013 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  598 MCA-137146014   1619P       YOGESH BHARAT DALVI             MCS012 MCS021 MCS022 MCS031 MCS032    
+                                                                  MCS033 MCS034 MCS035 MCSL036   
+  599 MSW-137146433   1619P       ABHISHEK BHOJRAJ WANKHEDE       MSW006    
+  600 DAFE-137146710  1619P       VINITA RAMESH WAGARE            BFE101    
+  601 MPA-137146806   1619P       PRAKASH SINGH MEENA             MPA011 MPA012 MPA013 MPA014    
+  602 MCA-137146813   1619P       RIYA ABRAHAM                    MCS021 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  603 MCA-137147110   1619P       VIVEK VIJAYKANT DHUMAL          MCS031 MCS032 MCS033 MCS034 MCS035    
+                                                                  MCSL036   
+  604 MCOMMAFS-137147926                      1619P       DIPASHREE VILAS APHALE          MCO01 MCO03 MCO04 MCO06     
+  605 BDP-137148666   1619P       ROHIT KUMAR                     BHDF101 BSHF101 EHD01 EHD02 FHD02     
+  606 MAPC-137149350  1619P       SATNAM KAUR SALUJA              MPC006 MPCL007   
+  607 MCA-137150583   1619P       BRIJESH HAVALDAR PAL            MCS012 MCS013 MCS031 MCS032 MCS033    
+                                                                  MCS034 MCS035 MCSL036   
+  608 BCA-137151403   1619P       DALIA MUKHERJEE                 BCS011 BCS012 BCS031 BCSL032 BCSL033   
+                                                                  BCSL034 ECO02 MCS011 MCS012 MCS013 MCS014 MCS021 MCS023    
+  609 BCA-137151578   1619P       DHIRENDRA KUMAR YADAV           BCS011 ECO01 ECO02 MCS011 MCS012    
+  610 PGDIBO-1371520641619P       AJEET SINGH                     IBO01 IBO02 IBO03 IBO04     
+  611 MCA-137152254   1619P       BHUPENDER SINGH DARMAL          MCS031 MCS032 MCS033 MCS034 MCS035    
+                                                                  MCSL036   
+  612 MCA-137152372   1619P       SHEETAL KAUR DEVENDER SINGH CH  MCS031 MCS032 MCS033 MCS034 MCS035    
+                                                                  MCSL036   
+  613 MCA-137152594   1619P       SUNDARAM JAGDAMBA PATHAK        MCS012 MCS015 MCS021 MCS022 MCS023    
+  614 BDP-137152824   1619P       BHAVIKA BRIJMOHAN AGARWAL       LSE03     
+  615 BTS-137152831   1619P       SAURABH PRASANNA THATTE         TS01 TS02      
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   16
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1619P                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  616 DECE-137152950  1619P       MEENAL DEEPAK ARORA             DECE01 DECE02 DECE03    
+  617 BTS-137152967   1619P       POONAM SUBHASH SALUNKE          TS01 TS02      
+  618 BPP-137153080   1619P       VERUNIKA                        PCO       
+  619 MP-137153217    1619P       SATYAKAM PATTNAIK               MS01 MS02 MS03      
+  620 MP-137153249    1619P       PRASHANT VASUDEO JOSHI          MS04 MS09 MS10 MS11 MS91      
+  621 MPA-137153478   1619P       MD IFTEKHAR ANSARI              MPA011 MPA012 MPA013 MPA014    
+  622 MCA-137153690   1619P       MANALI PANDURANG DEVARDEKAR     MCS012 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL025 MCSL036   
+  623 DNHE-137154186  1619P       JAYASHRI KRISHNARAO DESHPANDE   DNHE01 DNHE03    
+  624 DNHE-137154219  1619P       PRANITA KULKARNI PANDITRAO      DNHE01 DNHE03    
+  625 DNHE-137154226  1619P       RUPALI SADASHIV BHANGALE        DNHE01 DNHE03    
+  626 MEC-137154494   1619P       ALOK KUMAR SINGH                MEC001 MEC002 MEC003 MEC004 MEC105    
+  627 BDP-137154850   1619P       GANPAT SINGH                    BPAE102 EPA01     
+  628 BCA-137155077   1619P       SAMRUDDHI RAJENDRA PARKAR       BCS031 BCSL032 BCSL033 BCSL034 MCS014    
+                                                                  MCS021 MCS023    
+  629 MCA-137155100   1619P       AKASHDEEP KUNDU                 MCS022 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  630 MCA-137155307   1619P       SHUBHANGI JAGANNATH KHARATE     MCS023 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL025 MCSL036   
+  631 MPS-137155550   1619P       SHEETAL DEVENDRA DIXITQ         MPS001 MPS002 MPS003 MPS004    
+  632 MCA-137155575   1619P       PREETI RAJENDRA SHUKLA          MCS031 MCS032 MCS033 MCS034 MCS035    
+                                                                  MCSL036   
+  633 MCA-137156165   1619P       SHWETA BABAN BHALERAO           BCS012 MCS012 MCS022 MCS023 MCS031    
+                                                                  MCS032 MCS033 MCS034 MCS035 MCSL036   
+  634 MPA-137156355   1619P       DINESH ASHOK CHAVAN             MPA011 MPA012 MPA013 MPA014    
+  635 MCA-137156410   1619P       KIRAN TANHAJI KORADE            MCS022 MCS023 MCS031 MCS032 MCS033    
+                                                                  MCS034 MCS035 MCSL025 MCSL036   
+  636 MCA-137156466   1619P       ANITA RAMCHANDRA GUPTA          MCS021 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  637 MCA-137156846   1619P       NAVNEET RAMESH SHIRSAT          MCS011 MCS012 MCS013 MCS031 MCS032    
+                                                                  MCS033 MCS034 MCS035 MCSL017 MCSL036   
+  638 MCA-137157103   1619P       PRANITA PRABHAKAR BAGAL         MCS022 MCS023 MCS031 MCS032 MCS033    
+                                                                  MCS034 MCS035 MCSL025 MCSL036   
+  639 MPS-137157325   1619P       KRISHNA SANJAY JADHAV           MPS001 MPS002 MPS003 MPS004    
+  640 MCA-137157530   1619P       SUJEET KUMAR SHUKLA             MCS023 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL025 MCSL036   
+  641 MCA-137157619   1619P       RAMBAHADUR SHOBHNATH MAURYA     MCS022 MCS023 MCS031 MCS032 MCS033    
+                                                                  MCS034 MCS035 MCSL025 MCSL036   
+  642 MLS-137157633   1619P       MOHD AZHARUDDIN AARIF ASLAM     MLIE102 MLII102   
+  643 MAPC-137157705  1619P       AKSHITA DINESH RAJGOR           MPC003 MPC005 MPC006    
+  644 BCA-137157959   1619P       PRATHAMESH ARUN SHINDE          BCS011 BCS012 BCS031 BCSL021 BCSL022   
+                                                                  BCSL032 BCSL033 BCSL034 ECO01 MCS014 MCS021 MCS023    
+  645 MCA-137158097   1619P       ELVIS JOHNNY FERNANDES          MCS031 MCS032 MCS033 MCS034 MCS035    
+                                                                  MCSL016 MCSL017 MCSL025 MCSL036   
+  646 BDP-137158151   1619P       NAVEEN KUMAR                    BPAE102 EPS11     
+  647 BDP-137158248   1619P       PURNIMA LAXMAN PRASAD MALHHYA   BSHF101 EHD01     
+  648 MCA-137158563   1619P       KAVITA SAMBODHILAL KEWAT        MCS014 MCS021 MCS022 MCS031 MCS032    
+                                                                  MCS033 MCS034 MCS035 MCSL025 MCSL036   
+  649 MCA-137158570   1619P       POONAM SURESH KATKADE           MCS022 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL025 MCSL036   
+  650 BCA-137159271   1619P       ANILKUMAR DALSUKHBHAI BANGAWAL  BCS011 BCS012 BCSL021 BCSL022 ECO01     
+                                                                  ECO02 MCS011 MCS012 MCS013 MCS015    
+  651 BDP-137159644   1619P       REKHA VANNAPPA MADIWAL          BSHF101 ECO01 ECO02 EEC11     
+  652 BDP-137159651   1619P       SUJATHA GOPAL POOJARY           ECO01 ECO02 EEC11     
+  653 MCA-137159952   1619P       SMITA DEEPAK TARAWADE           MCS031 MCS032 MCS033 MCS034 MCS035    
+                                                                  MCSL036   
+  654 MEC-137159991   1619P       ASHWINI KK MURALI               MEC001 MEC003    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   17
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1619P                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  655 MCA-137160212   1619P       AMRUTA DIGAMBAR NIMBALKAR       MCS012 MCS013 MCS023 MCS031 MCS032    
+                                                                  MCS033 MCS034 MCS035 MCSL025 MCSL036   
+  656 BDP-137160283   1619P       SANGEETA MADHUKAR KALE          BHDF101 FHD02     
+  657 BCA-137160323   1619P       PRASHANT KAMLAKAR KADUKAR       BCS011 BCS012 BCSL021 BCSL022 ECO02     
+                                                                  MCS011 MCS012 MCS013 MCS015    
+  658 MCA-137160355   1619P       VAISHALI SHAMRAO THANEKAR       MCS012 MCS022 MCS031 MCS032 MCS033    
+                                                                  MCS034 MCS035 MCSL036   
+  659 MAPC-137160387  1619P       ANITA JAGANNATH SATPUTE         MPC002 MPC004 MPC005 MPC006    
+  660 BDP-137160663   1619P       ARVINDER PAL SINGH              BSHF101 ESO11 ESO12 FEG01 FEG02     
+  661 MCA-137161364   1619P       MAYUR BHIMRAO PATNE             MCS012 MCS021 MCS022 MCS023 MCS031    
+                                                                  MCS032 MCS033 MCS034 MCS035 MCSL036   
+  662 MCA-137161809   1619P       KAMLESH MANOHAR RANE            MCS012 MCS014    
+  663 BDP-137162334   1619P       ELVINA FRANCIS BUTHELLO         BSHF101 ESO11 ESO12 FEG01 FEG02     
+  664 MEC-137162460   1619P       RIDHI HEMANT TANK               MEC001 MEC003 MEC004 MEC105    
+  665 PGDSLM-1371625311619P       KUM DIPTI GUPTA                 MES005    
+  666 MPA-137162714   1619P       MUKESH KUMAR                    MPA012 MPA013 MPA014    
+  667 BDP-137162721   1619P       PRAGATI SAHU                    ESO11 ESO12 FHD02     
+  668 MCA-137163114   1619P       POOJA ASHOK BHAWAR              MCS012 MCS024 MCS031 MCS032 MCS033    
+                                                                  MCS034 MCS035 MCSL036   
+  669 MCA-137163827   1619P       BHAVINI LALIT THAKKAR           MCS012 MCS022 MCS031 MCS032 MCS033    
+                                                                  MCS034 MCS035 MCSL036   
+  670 DNHE-137163977  1619P       HRISHIKESH KRISHNAKUMAR MADAN   DNHE01 DNHE02 DNHE03    
+  671 MCA-137163984   1619P       SANTOSH RAJKUMAR JAISWAL        MCS012 MCS013 MCS022 MCS031 MCS032    
+                                                                  MCS033 MCS034 MCS035 MCSL036   
+  672 MCA-137164005   1619P       ANITA KEWALPRASAD GUPTA         MCS012 MCS022 MCS023 MCS031 MCS032    
+                                                                  MCS033 MCS034 MCS035 MCSL025 MCSL036   
+  673 MCA-137164155   1619P       NILESH BAJARANG THORAT          MCS011 MCS012 MCS013 MCS022 MCS023    
+                                                                  MCS031 MCS032 MCS033 MCS034 MCS035 MCSL017 MCSL025   
+  674 MCA-137164187   1619P       RUPESH LAXMAN AKHADE            MCS012 MCS013 MCS024 MCS031 MCS032    
+                                                                  MCS033 MCS034 MCS035 MCSL025 MCSL036   
+  675 MCA-137164202   1619P       ABHAY SURYANARAYAN RATH         MCS012 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  676 BDP-137164740   1619P       PRADEEP KUMAR MISHRA            EHI01     
+  677 MAPC-137165100  1619P       SONOO UDHAV LAKHWANI            MPC001 MPC002 MPC003 MPC004 MPC005    
+                                                                  MPC006    
+  678 MCA-137165250   1619P       ANJUM SULTANA                   MCS012 MCS013 MCS014 MCS022 MCS031    
+                                                                  MCS033 MCSL016 MCSL017 MCSL025 MCSL036   
+  679 BCA-137605317   1619P       SHUBHAM  RASHMI                 BCS012 BCS031 BCSL021 BCSL022 BCSL032   
+                                                                  BCSL033 BCSL034 ECO02 MCS011 MCS012 MCS013 MCS014 MCS015 MCS021 MCS023    
+  680 MEC-137723217   1619P       UDAYAN TAT                      MEC001 MEC002 MEC003 MEC004 MEC105    
+  681 BLS-138101315   1619P       RAFIA                           BLS02     
+  682 MTM-140431720   1619P       FERNANDES LIA MARTINHO          MTM05 MTM06 MTM07 MTM08     
+  683 MCA-140962920   1619P       PANKAJ MADHUKAR SHINDE          MCS011 MCS012 MCS021 MCS022 MCS023    
+                                                                  MCS024 MCSL025   
+  684 MSW-140964117   1619P       BABY BINDU                      MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+  685 CPF-142314219   1619P       PANKAJ MAHAJAN                  OLP001    
+  686 BDP-142891311   1619P       BRIJESH SINGH YADAV             BHDF101 BPAE102 BSHF101 EHI01     
+                                                                  FEG01     
+  687 BDP-142920738   1619P       SHAYAM SUNDER YADAV             BSHF101 ECO01 ECO02 EEC11 FEG01     
+                                                                  FEG02     
+  688 MAPC-142920981  1619P       JAYASHREE MADHUKAR PATIL        MPC001 MPC002 MPCL007   
+  689 BPP-142921381   1619P       DEEPAK BHAGWAN CHANDRANI        OSS101 PCO       
+  690 PGDSLM-1429216361619P       SHEIKH MEENA MANSOOR            MES004 MES005 MES006 MES007 MES008    
+  691 MCA-142922011   1619P       PRAVIN MANOHAR PHANSEKAR        MCS012 MCS013 MCS021 MCS022 MCS023    
+                                                                  MCS024 MCSL025   
+  692 BDP-142922029   1619P       MAHATHY B N                     BEGE101 BPC003 BPC004 BSHF101 FEG01     
+                                                                  FEG02     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   18
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1619P                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  693 BDP-142922652   1619P       SHISHIR GAUTAM                  BSHF101 ECO01 ECO02 EHI01 FEG01     
+                                                                  FEG02     
+  694 BDP-142922677   1619P       SUNDEEP SHAW                    BSHF101 ECO01 ECO02 EHI01 FEG01     
+                                                                  FEG02     
+  695 MPS-142923504   1619P       DINESH KUMAR MAURYA             MPS001 MPS002    
+  696 MP-142923701    1619P       TUSHAR ANANDRAO GUJAR           MS05 MS06 MS07 MS08      
+  697 MCA-142923758   1619P       LAXMAN ARJUN GAWADE             MCS011 MCS012 MCS013 MCS021 MCS022    
+                                                                  MCS023 MCS024 MCSL025   
+  698 BDP-142924158   1619P       SUNANDA SHREEPAD GHAG           BSHF101 ECO01 ECO02 EEC11 FEG01     
+                                                                  FEG02     
+  699 MP-142924197    1619P       PRAMOD HIRALAL MALHOTRA         MS05 MS06 MS07 MS08      
+  700 PGDDM-142924283 1619P       RITESH KIRAN PAGARE             MED004 MPA001 MPA002 MPA003 MPA004    
+                                                                  MPA005 MPA006 MPA007    
+  701 BDP-142924545   1619P       SHIVENDU CHANDRAMOHAN GADKAR    BSHF101 ECO01 ECO02 EHI01 FEG01     
+                                                                  FEG02     
+  702 MP-142924807    1619P       NITESH SUDHAKAR CHAUDHARI       MS04 MS05 MS06 MS07 MS08      
+  703 MP-142924839    1619P       KUSHAL NAVNEET SHAH             MS02 MS04 MS05 MS06      
+  704 BDP-142924860   1619P       JITHVI TRESA JUSTIN             EHI01     
+  705 BDP-142925128   1619P       KM. KAMAL ZAIDI                 EHD01 ESO12 FEG01 FEG02     
+  706 MP-142925239    1619P       HARENDAR SINGH RAWAT            MS02 MS03 MS05 MS07      
+  707 MP-142925246    1619P       PRAVIN KESHAV LADE              MS02 MS03 MS04 MS05 MS06 MS07      
+                                                                  MS08      
+  708 MP-142925253    1619P       YASHWANT RAMBHAU GAWAND         MS01 MS02 MS03 MS04      
+  709 MP-142925285    1619P       VISHWAS SAHADEO DALVI           MS05 MS06 MS07 MS08      
+  710 MCOM-142925325  1619P       MILIND JAGANNANT MORE           IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  711 MCOM-142925332  1619P       SACHIN MAHESH WALAVALKAR        IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  712 MAPC-142925364  1619P       SAIMA ARIF                      MPC002 MPC003 MPC004 MPC005 MPCL007   
+  713 MP-142925586    1619P       RANI NARAYAN PODICHETTY         MS01 MS06 MS11 MS95      
+  714 MCA-142925626   1619P       DHANASHRI SURYAKANT LAWAND      MCS011 MCS013 MCS021 MCS022 MCS023    
+                                                                  MCS024 MCSL025   
+  715 MP-142925862    1619P       SUMATHI BALACHANDRAN            MS05 MS09 MS11 MS95      
+  716 DECE-142926359  1619P       SHYLA MATHAI C                  DECE01 DECE02 DECE03    
+  717 MAPC-142926825  1619P       PALLAVI IYER                    MPC001 MPC002 MPC003 MPC004 MPC005    
+                                                                  MPC006 MPCL007   
+  718 MHD-142926840   1619P       SINDHVASINI MISHRA              MHD02 MHD03 MHD04 MHD06     
+  719 MCOM-142927003  1619P       SHREERANG MUKUND KASHIKAR       IBO01 IBO02 IBO03     
+  720 MCOM-142927010  1619P       SUJATHA B                       IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  721 DNHE-142927390  1619P       ROCHAN GOVIND DAS KOTHARI       DNHE01 DNHE02 DNHE03    
+  722 DNHE-142927676  1619P       PRADNYA HANUMANT KHANDGE        DNHE01 DNHE02 DNHE03    
+  723 DNHE-142927683  1619P       PRATIKSHA RAVINDRA DALAL        DNHE01 DNHE02 DNHE03    
+  724 DNHE-142927730  1619P       FORAM DINESH MARU               DNHE01 DNHE02 DNHE03    
+  725 MPA-142927794   1619P       BAMBAPRASAD RAMACHAL CHAUHAN    MPA011 MPA012 MPA013 MPA014    
+  726 DNHE-142927938  1619P       KAREKAR CHAITANYAA GAJANAN      DNHE01 DNHE02 DNHE03    
+  727 MP-142927945    1619P       FORAM RAM NAGARE                MS01 MS02 MS03 MS04 MS05 MS06      
+                                                                  MS07 MS08      
+  728 MAEDU-142927991 1619P       R ANURADHA                      MES011 MES012    
+  729 MAEDU-142928090 1619P       VAISHALI RAVINDRA BHIDE         MES011 MES012    
+  730 MAPC-142928352  1619P       SHILPA HARIPRAKASH AGARWAL      MPC001 MPC002 MPC003 MPC004 MPC005    
+                                                                  MPC006 MPCL007   
+  731 BDP-142928424   1619P       VIVEK KUMAR JHA                 BHDF101 BSHF101 ECO01 ECO02 EEC11     
+                                                                  FHD02     
+  732 MAPC-142928470  1619P       S PANDI KUMAR                   MPC001 MPC002 MPC003 MPC004 MPC005    
+                                                                  MPC006 MPCL007   
+  733 MCA-142928581   1619P       JAYANT MURALIDHAR TRIPATHI      MCS011 MCS012 MCS021 MCS022 MCS023    
+                                                                  MCS024 MCSL025   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   19
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1619P                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  734 PGDDM-142928653 1619P       KIRAN KASHIRAM GURAV            MED004 MPA001 MPA002 MPA003 MPA004    
+                                                                  MPA005 MPA006 MPA007    
+  735 MCA-142929798   1619P       DIVYA ARAVIND PARAB             MCS011 MCS012 MCS021 MCS022 MCS023    
+                                                                  MCS024 MCSL016 MCSL017 MCSL025   
+  736 MCA-142929806   1619P       AJINKYA ULHAS GAIKAR            MCS011 MCS012 MCS021 MCS022 MCS023    
+                                                                  MCS024 MCSL016 MCSL017 MCSL025   
+  737 MP-142929917    1619P       NINAD SUDHAKAR NIKAM            MS05 MS06 MS07 MS08      
+  738 MAH-142929995   1619P       PANKAJ KUMAR                    MHI01 MHI02 MHI04 MHI05     
+  739 MAPC-142930262  1619P       SHAILAJA KASHINATH DATE         MPC001 MPC002 MPC003 MPC004 MPC005    
+                                                                  MPC006 MPCL007   
+  740 MAPC-142930785  1619P       VANDANA VASHISHT                MPC001 MPC002 MPC005 MPCL007   
+  741 MCA-142930896   1619P       DEEPAK RAJNATH JAISWAL          MCS011 MCS012 MCS013 MCS014 MCS021    
+                                                                  MCS022 MCS023 MCS024 MCSL016 MCSL017 MCSL025   
+  742 MCA-142930904   1619P       SANJAY RAMJI SINGH              MCS011 MCS012 MCS013 MCS014 MCS021    
+                                                                  MCS022 MCS023 MCS024 MCSL016 MCSL017 MCSL025   
+  743 DECE-142931042  1619P       KHAN SUMAIYA RIFAKAT ALI        DECE01 DECE02 DECE03    
+  744 BPP-142931304   1619P       PRAKASH SURESH GHADIGAONKAR     PCO       
+  745 MCA-142959490   1619P       AJINKYA SHRIDHAR CHILAP         BCS012 MCS011 MCS012 MCS014 MCS021    
+                                                                  MCS022 MCS023 MCS024 MCSL017 MCSL025   
+  746 MAPC-142959705  1619P       RASHMI SAURABH BHATT            MPC001 MPC002 MPC003 MPC004 MPC005    
+                                                                  MPC006 MPCL007   
+  747 MCA-142959720   1619P       ATTAMSINGH SARVANSINGH HEERO    MCS011 MCS021 MCS022 MCS023 MCS024    
+                                                                  MCSL025   
+  748 MAPC-142959744  1619P       PRIYANKA MUKUND PANDEY          MPC001 MPC002 MPC003 MPC004 MPC005    
+                                                                  MPC006 MPCL007   
+  749 MSO-142960068   1619P       YADAV KARAMDEV CHANDRJEET       MSO001 MSO002 MSO003 MSO004    
+  750 MAPC-142960186  1619P       NAIR SMITA MUKUNDAN             MPC001 MPC002 MPC003 MPC004 MPC005    
+                                                                  MPC006 MPCL007   
+  751 MAPC-142960620  1619P       MADHURA SHASHANK PRADHAN        MPC001 MPC002 MPC003 MPC004 MPC005    
+                                                                  MPC006 MPCL007   
+  752 MSW-142960684   1619P       MEGHNA SANJAY SALVI             MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+  753 MSW-142960749   1619P       SMITA ANIL SONAR                MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+  754 MCA-142960835   1619P       MAMTA SINGH                     MCS012 MCS013 MCS021 MCS022 MCS023    
+                                                                  MCS024 MCSL017 MCSL025   
+  755 DNHE-142961890  1619P       MONISHA SURENDRA RAWAT          DNHE01 DNHE02 DNHE03    
+  756 MAPC-142961923  1619P       TRIPTI SATISH NAIR              MPC001 MPC002 MPC003 MPC004 MPC005    
+                                                                  MPC006 MPCL007   
+  757 BDP-142962015   1619P       LIJY MATHEW                     BEGE101 BEGE102 BSHF101 FEG01     
+                                                                  FEG02     
+  758 MAPC-142962180  1619P       DR SEJAL NITIN SHAH             MPC001 MPC002 MPC003 MPC004 MPC005    
+                                                                  MPC006 MPCL007   
+  759 MHD-142962197   1619P       PRATIMA HARISHCHANDRA SINGH     MHD02 MHD03 MHD04 MHD06     
+  760 PGDIPR-1429623621619P       LAKHENDRA SINGH                 MIP101 MIP102 MIP103 MIP104 MIP105    
+                                                                  MIP106 MIP107 MIP108    
+  761 BED-142962925   1619P       RASHMI RAMESH SONDKAR           ES331 ES332 ES333 ES343 ES345     
+  762 MCA-142963088   1619P       HEMANT NAMDEV KATKAR            MCS011 MCS012 MCS014 MCS021 MCS022    
+                                                                  MCS023 MCS024 MCSL017 MCSL025   
+  763 BDP-142963150   1619P       VIJAY PRABHAKAR AMPAYYA         BSHF101 EPA01 ESO12 FEG01 FEG02     
+  764 BED-142963830   1619P       SHETTY SUBHASHINI NARESH        ES331 ES332 ES333 ES343 ES344     
+  765 BDP-143071190   1619P       ASHISH KUMAR PANDEY             BPSE212 BSHF101 EPS11 FEG01 FEG02     
+  766 BDP-143072518   1619P       GAURAV BHARDWAJ                 BHDF101 BPSE212 BSHF101 EPS11     
+                                                                  FHD02     
+  767 BDP-143072540   1619P       SURESH KUMAR                    BHDF101 BSHF101 EHI01 EHI02 FHD02     
+  768 BDP-143072730   1619P       VIKAS MEHTA                     BHDF101 BSHF101 EHI01 EHI02 FHD02     
+  769 BDP-143073075   1619P       MANOJ KUMAR                     BHDF101 BSHF101 EHI01 EHI02 FHD02     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   20
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1619P                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  770 BDP-143073598   1619P       RAVI RANJAN                     BHDF101 BSHF101 EHI01 EHI02 FHD02     
+  771 MEC-143170075   1619P       SACHAN MADHU SIDDHANATH MITHIL  MEC001 MEC002 MEC003 MEC004 MEC105    
+  772 BSCN-144505792  1619P       SHEELA SALVI                    BNS101 BNS102 BNS103 BNS104 BNS105    
+  773 MP-148001728    1619P       PRASHANT  KUMAR                 MS01 MS02 MS03 MS04      
+  774 BCA-148115413   1619P       ABHISHEK ARVIND KOKBANKAR       BCS011 BCS012 BCSL013 ECO01 FEG02     
+  775 MCA-148115588   1619P       NITIN HARIBA JADHAV             BCS012 MCS011 MCS012 MCS013 MCS014    
+                                                                  MCS015 MCSL016 MCSL017   
+  776 BPP-148115603   1619P       TINA JOSHI                      OSS101 PCO       
+  777 MCA-148115778   1619P       RAHUL SHANKARNARAYAN            MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  778 MCA-148115889   1619P       MAHESH GHANSHYAM GUPTA          MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  779 MP-148116010    1619P       SANDEEP ARUN DESHPANDE          MS03 MS05 MS07 MS10      
+  780 MCA-148116232   1619P       AMBRE AKSHAY MAHIPAT            MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  781 BCA-148116422   1619P       PRADNYA DEHADRAY                BCS011 BCS012 BCSL013 ECO01 FEG02     
+  782 MP-148117155    1619P       CHAITANYA MAMIDISETTI           MS04 MS08 MS45 MS495     
+  783 MP-148117162    1619P       USHA SINGH                      MS04 MS08 MS45 MS495     
+  784 BCA-148117961   1619P       GURAV PRATIK PRABHAKAR          BCS011 BCS012 BCSL013 ECO01 FEG02     
+  785 MCA-148118014   1619P       SAINATH PRAKASH  TUPEKAR        MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  786 MP-148118347    1619P       SHRIPAD ANANT THOSAR            MS01 MS02 MS03 MS04      
+  787 MCA-148118806   1619P       PAL RAJU RAGHUNATH              MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  788 MCA-148118813   1619P       SATISH KUMAR MEWALAL PAL        MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  789 BPP-148119830   1619P       VRUNDA YASHWANT ACHAREKAR       OMT101 PCO       
+  790 ACPDM-148119901 1619P       JYOTIRMAYA KHANDUAL             BEE001 BEE002 BEE003    
+  791 ACPDM-148119919 1619P       PRASHANT SHARMA                 BEE001 BEE002 BEE003    
+  792 BCA-148120264   1619P       AKLAQUE ALLAHBAKHSH GUNNAPUR    BCS011 BCS012 BCSL013 ECO01 FEG02     
+  793 MCA-148120644   1619P       LAKSHMI GANESAN                 MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  794 MCA-148120669   1619P       POOJARI RIKITA SADHU            MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  795 MP-148121463    1619P       PAREKH CHARMI NAVNEET           MS01 MS02 MS03 MS04      
+  796 MCA-148122759   1619P       IMRAN YAR MOHAMED SHAIKH        MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  797 BCA-148123395   1619P       NAWAB SHADAP SIRAJ              BCS011 BCS012 BCSL013 ECO01 FEG02     
+  798 MCA-148123861   1619P       BINODBIHARI DAKUA               MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  799 BCA-148123972   1619P       SHAIKH FIROZ                    BCS011 BCS012 BCSL013 ECO01 FEG02     
+  800 BPP-148124437   1619P       HARSHADA KAREKAR                OMT101 OSS101    
+  801 MCA-148124666   1619P       PATIL NILESH SUBHASH            MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  802 MCA-148125976   1619P       KAWLE PRASAD DILIP              MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  803 MCA-148126390   1619P       BISMAYA M C                     MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  804 MCA-148126409   1619P       SREEVIDYA A                     MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  805 BCA-148126573   1619P       KARKERA SHREYA OMPRAKASH        BCS011 BCS012 BCSL013 ECO01 FEG02     
+  806 MCA-148126620   1619P       PAWAR MAYUR NAVNATH             MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  807 BCA-148126660   1619P       VERMA VISHAL MANGURAM           BCS011 BCS012 BCSL013 ECO01 FEG02     
+  808 MCA-148126850   1619P       RINGE MAHENDRA                  MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  809 MP-148127013    1619P       SAWANT SUMAN SUNIL              MS01 MS02 MS03 MS04      
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   21
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1619P                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  810 CAHT-148127100  1619P       ASHWINI ADWANKAR                BLE031 BLE032 BLE033    
+  811 BCA-148127307   1619P       KIRAN ANIL PASI                 BCS011 BCS012 BCSL013 ECO01 FEG02     
+  812 MCA-148128276   1619P       AMTE PRASHANT PANDURANG         MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  813 BCA-148128989   1619P       SONI ABHISHEK ASHOK             BCS011 BCS012 BCSL013 ECO01 FEG02     
+  814 BCA-148129530   1619P       SHUKLA ANUP SHIVKUMAR           BCS011 BCS012 BCSL013 ECO01 FEG02     
+  815 BCA-148129927   1619P       KM ANNOD GUPTA                  BCS011 BCS012 BCSL013 ECO01 FEG02     
+  816 BPP-148129959   1619P       SHARMA VIJAY MEGHRAJ            OSS101 PCO       
+  817 MCA-148130620   1619P       NADAR JOHNSON PRABHAKAR         MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  818 MCA-148130677   1619P       SHRIRAM HARSHNATH KORGAONKAR    MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  819 MCA-148131307   1619P       HADAWALE SHITAL MAHADU          MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  820 BCA-148132538   1619P       POOJA WAMAN RAHATE              BCS011 BCS012 BCSL013 ECO01 FEG02     
+  821 BPP-148132900   1619P       PRIYANKA MADIWAL                OMT101 PCO       
+  822 MCA-148133332   1619P       SRIKANTA GOUDA                  MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  823 BCA-148134549   1619P       GOND MANVAT MAHENDRA            BCS011 BCS012 BCSL013 ECO01 FEG02     
+  824 BCA-148134871   1619P       MUNDAN PETER BENJAMIN           BCS011 BCS012 BCSL013 ECO01 FEG02     
+  825 BCA-148134911   1619P       PATIL ABHILASH JAYWANT          BCS011 BCS012 BCSL013 ECO01 FEG02     
+  826 BCA-148134936   1619P       SHINDE VIVEK VILAS              BCS011 BCS012 BCSL013 ECO01 FEG02     
+  827 BCA-148135755   1619P       TARUN SINGH                     BCS011 BCS012 BCSL013 ECO01 FEG02     
+  828 MCA-148136313   1619P       BHASKAR JYOTI KALITA            MCS011 MCS013 MCSL016   
+  829 BCA-148137440   1619P       PURAO AMRUTA SUBHASH            BCS011 BCS012 BCSL013 ECO01 FEG02     
+  830 BCA-148138370   1619P       ARATHI M S                      BCS011 BCS012 BCSL013 ECO01     
+  831 BCA-148138965   1619P       RAMAKRISHNA R V                 BCS011 BCS012 BCSL013 ECO01 FEG02     
+  832 MCA-148139380   1619P       TIWARI PRIYANKA RAGHVENDRAPRAT  MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  833 MCA-148139659   1619P       CHAVAN SUCHITRA SUNIL           MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  834 MCA-148139680   1619P       SHUKLA TARUNKUMAR ANAND         MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  835 BPP-148139870   1619P       VISHAL PRAKASH DHYALKAR         OSS101 PCO       
+  836 BCA-148140550   1619P       SAMEER WAMAN RATHOD             BCS011 BCS012 BCSL013 ECO01 FEG02     
+  837 MCA-148140796   1619P       DEEPA GAUTAM                    MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  838 MCA-148140979   1619P       SHAIKH MOHD FARID               MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  839 MCA-148141021   1619P       SIDDHESH NAGESH KHORJUVEKAR     MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  840 BCA-148141970   1619P       INSAFALI SAFIRALI               BCS011 BCS012 BCSL013 ECO01 FEG02     
+  841 BCA-148142324   1619P       FELIX JOSEPH DSOUZA             BCS011 BCS012 BCSL013 ECO01 FEG02     
+  842 BCA-148142467   1619P       MAURYA AMARDEEP                 BCS011 BCS012 BCSL013 ECO01 FEG02     
+  843 BCA-148142830   1619P       SHUBHAM SHUKLA                  BCS011 BCS012 BCSL013 ECO01 FEG02     
+  844 MCA-148143706   1619P       KIRAN DEVIDAS SUSLADE           MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  845 MCA-148143800   1619P       SANDEEP KUMAR PATEL             MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  846 MCA-148143856   1619P       RAMSINGH PRAJAPATI              MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  847 BCA-ID1152877   1619P       SALMAN SHAIKH                   BCS011 BCS031 BCS040 BCS041 BCS042    
+                                                                  BCS051 BCS052 BCS053 BCS054    
+        

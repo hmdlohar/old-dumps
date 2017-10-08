@@ -1,0 +1,12 @@
+#This file was created by the CookieSwap extension...see cookieswap.mozdev.org
+#NOTE: if this file's extension is 'tx1' then this is an
+# active profile and the cookies in here are old and will be overwritten by the 
+# cookies being managed by the browser
+.facebook.com	TRUE	/	TRUE	1499229514	lu	RhlWiv9EPMRpYlCRbR5tb4SA
+.facebook.com	TRUE	/	FALSE	1443933518	fr	0LFA2ckofJkjxZsgc.AWWyDH6hvi6-FNQhwFx2OPjYe7w.BVmgY8.TA.FWa.0.AWXZeE_r
+.facebook.com	TRUE	/	FALSE	0	reg_fb_gate	https%3A%2F%2Fmbasic.facebook.com%2Fmessages
+mbasic.facebook.com	FALSE	/	FALSE	0	nowfbloged	skshahrukh79@gmail.com
+.facebook.com	TRUE	/	FALSE	1504965054	datr	AaggVdK0nGhISZfDphWBhi1s
+.facebook.com	TRUE	/	FALSE	0	sfiu	AYiOJH-8T2gxExcCmlf2XP1w9MRtGzDCF7M-oSyd2uAJfGw_Mpl7F7hEnQJ44fUWEPY_5kLudwhZY70ySfLy7f9Y6FHM3HIOqQxYLKVhpRIFOmXei1Ad-dYu5DvcrPXYCc2a-TWKalTgoatbBNt_LIbAr_PF_A0tcc5su1zJYlxIRDNH7LTKde8nfAzy1F6GFSlTL1rZTWHPAoNQGfCRktXnQr2f2okHLWvp7e6bF7GjHg
+.facebook.com	TRUE	/	FALSE	0	reg_fb_ref	https%3A%2F%2Fmbasic.facebook.com%2Flogin%2F%3Fcuid%3DAYiVeFjl2Kn5FD4a6dgQEcPiw4x6G9RkCoH6TWdW4tW1Awp22_XJCArSnP_XYf1-lHzgqp_KmGKhLZmmbbmT4e-lQ4yODO3f9_IUWFpSyw8icaB3jQityRLfQtA3yyRUCbPmjv9rkuEHu9BodYTNzQsFJVf0SUBUjNFIO5gzGkYWBYc_kz2AhvUzaoi2EP0x7c-jU9NQjjjzbVa_tosLsoL5kKYWLVsneGD3bO2vU1yZMg%26li%3DtorxVYKWut6fihb_pNRqXxa1%26email%3Dskshahrukh79%2540gmail.com%26e%3D1348060%26refid%3D9%26refsrc%3Dhttps%253A%252F%252Fmbasic.facebook.com%252Fmessages
+.facebook.com	TRUE	/	FALSE	0	m_ts	1441893054

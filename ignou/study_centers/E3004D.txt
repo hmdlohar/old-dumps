@@ -1,0 +1,679 @@
+
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    1
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 3004D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+    1 BDP-096943990   3004D       SHAHBAZ AHMAD SHEIKH            AOR01 AST01 BCOA001 BSHF101 CHE05     
+                                                                  FEG01 FEG02 FST01 PHE01 PHE02 PHE04 PHE05 PHE06 PHE07 PHE09 PHE14 PHE15 PHE16     
+    2 MAH-100154301   3004D       RUBEENA HASSAN                  MHI03 MHI04 MHI05 MHI06 MHI08     
+                                                                  MPSE003 MPSE004   
+    3 MEC-100154367   3004D       RIFAT ARA                       MEC001 MEC002 MEC003 MEC004 MEC005    
+                                                                  MEC006 MEC007 MEC008 MEC009 MECE001 MECE004   
+    4 MSDFSM-1001544353004D       TABASUM AKHTAR                  MFN002    
+    5 MSO-105209134   3004D       HILAL AKRAM MIR                 MPS003 MSO002 MSOE001 MSOE003 MSOE004   
+    6 MSO-105209369   3004D       MOHAMMAD ASHRAF BHAT            MSO001    
+    7 MEG-105249215   3004D       MUDASIR RAFIQ FAROOQI           MEG05 MEG07     
+    8 MPS-105249432   3004D       JAVAID RAHIM RATHER             MED008    
+    9 MPS-105249638   3004D       MOHD MANSOOR ZARGAR             MPS001 MPS002 MPS003    
+   10 MPS-105256087   3004D       MOHD ASLAM WANI                 MED008    
+   11 MPS-105256336   3004D       AB MAJID WANI                   MED002 MED008 MPSE001 MPSE003 MPSE004   
+                                                                  MPSE006 MPSE007 MPSE008   
+   12 MEC-105258937   3004D       ARSHAD AHMAD GANIE              MECE001   
+   13 BDP-105270342   3004D       GH HASSAN DAR                   ANC01 EPS06 FST01     
+   14 BDP-105271015   3004D       MUNEERA BANOO                   ANC01 BSHF101 ESO13 ESO15 FST01     
+   15 MCOM-105701244  3004D       BASHARAT HUSSAIN MAGRAY         IBO02 MCO05 MCO06     
+   16 MEG-111079136   3004D       ARSHAD HUSSAIN SHAH             MEG01 MEG03 MEG07 MEG08     
+   17 MSO-111082618   3004D       SHOWKAT HUSSAIN ALLAIE          MSOE003 MSOE004   
+   18 MPS-111087656   3004D       PARVEZ AHMAD WANI               MED008 MPSE002 MPSE004 MPSE006 MPSE007   
+                                                                  MPSE008 MPSE009   
+   19 MSO-112024110   3004D       MOHD MAQBOOL SHAH               MPS003 MSOE001 MSOE003 MSOE004   
+   20 MEG-114000930   3004D       SHAYESTA JAN                    MEG04     
+   21 MPS-117361434   3004D       MOHD ASHRAF WANI                MPSE006 MPSE007   
+   22 MPS-117368340   3004D       TARIQ AHMAD RATHER              MPSE006   
+   23 MAH-117373944   3004D       FAROOQ AHMAD MIR                MHI03 MHI06 MHI08 MPSE003 MPSE004   
+   24 MSO-117382936   3004D       MAQSOOD ALI MIR                 MSOE003 MSOE004   
+   25 MSO-117387602   3004D       QUDSIE HASSAN                   MSO001 MSO002 MSO003 MSO004    
+   26 MEG-117395015   3004D       RAYAZ AHMAD NAJAR               MEG01 MEG03 MEG04 MEG05 MEG07     
+                                                                  MEG10 MEG11     
+   27 MEG-117398296   3004D       NISAR AHMAD AHANGER             MEG05 MEG06 MEG07 MEG08     
+   28 MAPC-117414029  3004D       FAYAZ AHMAD DAR                 MPC001 MPC003 MPC004 MPC005    
+   29 BDP-117417278   3004D       MUSHTAQ AHMAD KATARI            ANC01 EPS11 EPS15 ESO13 ESO14     
+                                                                  ESO16 FST01     
+   30 BDP-117420885   3004D       AMIT KOUL                       AOM01 ASP01 ECO02 ECO05 ECO07     
+                                                                  ECO08 ECO09 ECO11 ECO12 ECO14     
+   31 MPS-117422105   3004D       TABASUM HAMID                   MED002 MGP004 MGPE007 MGPE010 MGPE011   
+                                                                  MPSE004 MPSE007 MPSE009   
+   32 MARD-117435600  3004D       SIKANDAR HAMID                  MRDE002 MRDE003 MRDE101 RDD06     
+                                                                  RDD07     
+   33 MCOM-117462882  3004D       AIJAZ AHMAD DAR                 IBO03 IBO04 IBO05 IBO06     
+   34 MCOM-119136997  3004D       PEERZADA AIJAZ RASOOL           IBO01 IBO02 IBO04 IBO05 IBO06     
+   35 MCOM-119137018  3004D       BASHARAT AHMAD DAR              IBO01 IBO02 IBO04 IBO05 IBO06     
+   36 MCOM-119137040  3004D       FOZIA  MOHI UD DIN              MCO05     
+   37 MPS-119146056   3004D       FAYAZ AHMAD RATHER              MED002 MPSE006   
+   38 MPA-120104620   3004D       SAMEER AHMAD BHAT               MPA012 MPA013 MPA015 MPA016 MPA017    
+                                                                  MPA018 MPS003    
+   39 MAH-120106180   3004D       KHALIDA AKHTER                  MHI03 MHI06 MPSE003 MPSE004   
+   40 MPS-120110180   3004D       FIRDOS AHMAD BHAT               MPSE006   
+   41 BDP-120110584   3004D       MUSHTAQ NAZIR                   ACC01 ANC01 ESO15 ESO16     
+   42 BDP-120453605   3004D       IRSHADA AKHTER                  BPSE212 BSHF101 BSWE005 FST01     
+   43 MCOM-120453952  3004D       YASIR MOHMMAD ZARGAR            IBO04 IBO06 MCO01 MCO03 MCO05     
+                                                                  MCO06 MCO07     
+   44 MAH-120453960   3004D       NASEEMA BANO                    MHI03     
+   45 MPS-120454954   3004D       TAWSIF AHMAD DAR                MPSE001 MPSE002 MPSE003 MPSE004   
+                                                                  MPSE005 MPSE006 MPSE007 MPSE008   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    2
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 3004D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+   46 MSO-120455021   3004D       SUHEELA MANZOOR                 MSOE004   
+   47 MPS-120456349   3004D       HALEEMA AKHTER                  MPS001 MPS003    
+   48 MPS-120457182   3004D       HAMID ALI BHAT                  MED008 MPSE006   
+   49 MPS-120457254   3004D       ASIF MAQSOOD BEIGH              MED008 MPSE006   
+   50 MSO-120459946   3004D       BILAL AHMAD MOCHIE              MPS003    
+   51 MSO-120460277   3004D       RUKHSANA JABEEN                 MSOE002   
+   52 MEC-120461333   3004D       MASRAT JABINA                   MEC004    
+   53 MEG-120465054   3004D       NISAR AHMAD WANI                MEG07     
+   54 MSO-120465695   3004D       JASMEENA FAROOQ                 MSO003 MSOE003   
+   55 MSO-120467760   3004D       MOHD QASIM                      MSO003 MSO004    
+   56 MSO-120471707   3004D       SHABNAM ARA                     MSO001 MSO002 MSO004 MSOE003   
+   57 MEG-120476548   3004D       FAROOQ AHMAD WAR                MEG01 MEG02 MEG03 MEG04     
+   58 MEC-120476610   3004D       SUMEENA IQBAL BANDAY            MEC001 MEC003 MEC008    
+   59 MEG-120480895   3004D       MANZOOR AHMAD THOKAR            MEG05 MEG07 MEG10 MEG11     
+   60 MSO-124564571   3004D       MOHAMMAD ASHRAF YATOO           MPS003 MSOE001   
+   61 MSO-124566550   3004D       MUDASIR AHMAD BHAT              MSOE003   
+   62 MPS-124568389   3004D       REYAZ AHMAD RATHER              MED008 MPS004 MPSE004 MPSE006 MPSE009   
+   63 MEG-124588230   3004D       SHAZIA ASHRAF                   MEG01 MEG05     
+   64 MEG-124588484   3004D       MAQSOOD AHMAD DAR               MEG01 MEG03 MEG05 MEG07     
+   65 MCOM-124588818  3004D       QMAIL ALI ALLAIE                MCO03 MCO05 MCO06     
+   66 MSO-125136874   3004D       REHANA MOHEEN                   MPS003 MSO002 MSO003    
+   67 MPA-125138212   3004D       MOHD ALTAF DAR                  MPA015 MPA016 MPS003 MSO002    
+   68 MAH-125140527   3004D       ISHRAT BASHIR                   MHI03 MHI06 MHI08 MPSE003 MPSE004   
+   69 MSO-125140606   3004D       SYED SHAISTA MUBARK SHAH        MPA016 MPS003    
+   70 MPS-125140677   3004D       SYED RIFAT SHAFI                MED002 MED008 MPSE001 MPSE003 MPSE004   
+                                                                  MPSE006 MPSE007 MPSE008   
+   71 MAH-125140684   3004D       NEELOFER AKHTER                 MHI03 MHI06 MHI08 MPSE003 MPSE004   
+   72 MSO-125140731   3004D       ZAHOOR AHMAD MALIK              MPS003 MSOE001 MSOE003 MSOE004   
+   73 MSO-125140770   3004D       SUMY JAN                        MPS003 MSOE003   
+   74 MSO-125140795   3004D       ASIFA AKHTER                    MSO001 MSOE001   
+   75 MPS-125141210   3004D       TABASUM                         MED008 MPSE002 MPSE007 MPSE008   
+   76 MAH-125142466   3004D       AIJAZ AHMAD MALIK               MPSE004   
+   77 MPS-125142695   3004D       NARGIS ALI                      MPSE005 MPSE006 MPSE007 MPSE008   
+   78 MLS-125143017   3004D       NASEER AHMAD SHAH               MLI102    
+   79 MEC-125143150   3004D       SAREER AHMAD GANAIE             MEC006 MEC007    
+   80 MEG-125144477   3004D       RUBEENA                         MEG07     
+   81 MPS-125144595   3004D       SYED SAIMA MUSHTAQ              MPSE006   
+   82 MPS-125145311   3004D       JAVAID AHMAD BUDOO              MED002 MPSE003 MPSE006   
+   83 MPS-125146915   3004D       ARSHID ALI MIR                  MED008 MPS001 MPSE008   
+   84 MPS-125147512   3004D       MUJTABA HUSSAIN DAR             MED002 MED008 MPSE001 MPSE003 MPSE004   
+                                                                  MPSE006 MPSE007 MPSE008   
+   85 MAH-125147520   3004D       MANZOOR AHMAD                   MHI02 MHI04 MHI05     
+   86 MPS-125148600   3004D       MUBEENA RASOOL                  MED002 MED008 MPSE001 MPSE004 MPSE006   
+   87 MPS-125148618   3004D       TAWSEEFAH REHMAN                MPSE001 MPSE004 MPSE006 MPSE008   
+   88 MPS-125149071   3004D       MOHD SALEEM WANI                MPSE006   
+   89 MPS-125149928   3004D       MOHMAD RAFIQ DAR                MPSE006   
+   90 MAH-125150044   3004D       WAZEERA GULL                    MHI06     
+   91 MAH-125150051   3004D       SAKEENA BANO                    MHI06     
+   92 MAEDU-125150449 3004D       SAKEENA                         MES102 MES104    
+   93 MAEDU-125150456 3004D       MASRAT YOUSUF                   MES102 MES104    
+   94 MSO-125150488   3004D       MUNEER MUKHTAR                  MSO001 MSO002 MSO003 MSO004    
+   95 MAPC-125151354  3004D       MOHAMMAD SALEEM                 MPCE011 MPCE013   
+   96 MPS-125151806   3004D       ARSHAD AHAMAD BHAT              MPS001 MPS003 MPS004    
+   97 MEG-125151900   3004D       MANZOOR AHMAD TANTRY            MEG01     
+   98 MPS-125152048   3004D       NUSRAT AKTHER                   MED002 MED008 MPSE001 MPSE003 MPSE004   
+                                                                  MPSE006 MPSE007 MPSE008   
+   99 MPS-125152893   3004D       SHAKEEL MOHAMMAD DAR            MPSE006   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    3
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 3004D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  100 MPS-125153752   3004D       JAVEED AHMAD DAR                MED002 MED008 MPSE001 MPSE003 MPSE004   
+                                                                  MPSE007 MPSE008 MPSE011   
+  101 MSO-125154152   3004D       DAVOOD AZIZ                     MSOE001 MSOE003 MSOE004   
+  102 MAPC-125154160  3004D       TASEENA AKHTER                  MPC005 MPCE011 MPCE013   
+  103 MSO-125154200   3004D       MOHD VIKAR WANI                 MSO004    
+  104 MSO-125154231   3004D       GOUSIA MUSHTAQ                  MSO001 MSO002 MSO003 MSO004    
+  105 MPS-125154249   3004D       SHAGUFTA MOHI UD DIN            MPS001 MPS002 MPS003 MPS004    
+  106 MAPC-125154328  3004D       ASIA JAN                        MPC001 MPC005    
+  107 MEC-125156851   3004D       ISHRAT DILSHAD                  MEC002 MEC003 MEC004 MEC007    
+  108 MAPC-125157237  3004D       ROZIA QADIR                     MPC004 MPC006    
+  109 MSO-125157878   3004D       JAVAID AHMAD RESHI              MPS003 MSOE001 MSOE003 MSOE004   
+  110 MPS-125158389   3004D       NAZIR AHMAD TANTRAY             MED008 MPSE001   
+  111 MAPC-125158783  3004D       ARIFA AKHTER                    MPC006    
+  112 MAPC-125158790  3004D       MARAYAMA AKHTER                 MPC003 MPC004 MPC006    
+  113 MAPC-125159714  3004D       MOHD ASHRAF SOFI                MPC006 MPCE021 MPCE022 MPCE023 MPCE024   
+                                                                  MPCE025 MPCE026   
+  114 MAPC-125161480  3004D       HIMRANA QADIR                   MPC006 MPCE011 MPCE013   
+  115 MAPC-125161498  3004D       SHAGUFTA SHAHEEN                MPC005 MPC006 MPCE011   
+  116 MAPC-125161506  3004D       SNOBAR SULTAN BHAT              MPC003 MPC004 MPC005 MPC006 MPCE011   
+                                                                  MPCE012 MPCE013   
+  117 MAH-125161560   3004D       FAROOQ AHMAD WANI               MHI06 MHI08 MPSE004   
+  118 MPS-125162712   3004D       SHABIR AHMAD GANAIE             MPSE006   
+  119 MPS-125163327   3004D       SHABIR AHMAD WAGAY              MED008 MPSE001 MPSE002 MPSE004 MPSE006   
+                                                                  MPSE007 MPSE008 MPSE012   
+  120 MAH-125163341   3004D       IMTIYAZ AHMAD SHAH              MHI03 MHI06 MHI08 MPSE003 MPSE004   
+  121 MAH-125165187   3004D       REYAZ RASHID GANIE              MHI03 MHI06 MPSE003 MPSE004   
+  122 MPS-125166046   3004D       ISHFAQ ALI DAR                  MPS002    
+  123 MAPC-125166060  3004D       MASRAT JAN                      MPC005 MPCE016   
+  124 MSO-125166512   3004D       RAZIA HASSAN                    MSO001 MSOE003 MSOE004   
+  125 MPS-125166877   3004D       IMTIYAZ ALI WANI                MPSE006   
+  126 MPS-125167062   3004D       HILAL GULZAR PALAH              MPSE006   
+  127 MPS-125167070   3004D       ZUBAIR AHMAD DAR                MED008 MPSE006   
+  128 MPS-125167206   3004D       ASIFA ALTAF                     MED008    
+  129 BDP-125170243   3004D       SAHIRA SIMRAN BHAT              BSHF101 CHE01 CHE02     
+  130 MARD-125175661  3004D       MUSHTAQ AHMAD SHEIKH            MRDE002 MRDE004 MRDE101 RDD06     
+                                                                  RDD07     
+  131 MAH-125175733   3004D       NAZIR AHMAD MIR                 MPSE004   
+  132 MSO-125177221   3004D       LYALA RASOOL                    MPS003    
+  133 MCOM-125177364  3004D       JAVAID AHMAD PAUL               IBO03     
+  134 MEG-125178255   3004D       SANJAY BHAT                     MEG05 MEG07 MEG08 MEG10     
+  135 MEG-125179178   3004D       QUMAIL ALI DAR                  MEG05     
+  136 MPS-125180022   3004D       MUDASIR MAQBOOL RAINA           MPSE004 MPSE006   
+  137 MPS-125181214   3004D       SYED SHOWKAT AHMAD              MED002 MPSE006   
+  138 MEC-125181848   3004D       IRSHADA AKHTER                  MEC001 MEC003 MEC006 MEC007    
+  139 MSO-125182500   3004D       RUQAYA AHAD                     MPS003 MSOE004   
+  140 MAPC-125182990  3004D       TANVEER AHMAD SHEIKH            MPC001 MPC003 MPC004 MPC005 MPC006    
+  141 MPA-125186696   3004D       MUKHTAR AHMAD GASHROO           MPA012 MPA015 MPA016 MPA017 MPA018    
+                                                                  MPS003    
+  142 MCOM-125186775  3004D       SARAFRAZ ALI SHAHID             IBO06 MCO01 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  143 MEC-125189874   3004D       ROUFA SHAFI                     MEC007 MEC008 MEC009    
+  144 MPA-125192460   3004D       MUDASIR AHMAD SHEIKH            MPA016    
+  145 MPS-125196515   3004D       MUSTAFFA AHAMAD BHAT            MPS001 MPS002    
+  146 MEG-125196966   3004D       ARSHAD HUSSAIN BHAT             MEG07 MEG11     
+  147 MSO-125196998   3004D       MASARAT JAN                     MSO004    
+  148 MPS-125197359   3004D       MOHAMMAD RAFIQ GANAI            MED008 MPSE002 MPSE003 MPSE008   
+  149 MPS-125197911   3004D       ABID HUSSAIN DAR                MGP004 MGPE007 MGPE008 MPSE001 MPSE003   
+                                                                  MPSE004 MPSE007 MPSE008   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    4
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 3004D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  150 MCOM-125198841  3004D       MOHAMMAD IRFAN QURESHI          IBO03     
+  151 MSO-125199116   3004D       FAREEDA BANO                    MPA016 MPS003    
+  152 MEG-125199843   3004D       NARGIS FATIMA                   MEG07 MEG08     
+  153 MSO-125202443   3004D       MUZAMIL BANO                    MSOE003   
+  154 MSO-125203310   3004D       AASIF RASOOL                    MSO001 MSO002 MSO003 MSO004    
+  155 MSO-125204709   3004D       AMINA AKHTAR                    MPS003 MSOE001 MSOE003 MSOE004   
+  156 MSO-125208673   3004D       SHAHEENA SHAFI                  MPS003 MSOE004   
+  157 MPS-125209200   3004D       JAVAID AHMAD BHAT               MED002 MPSE002 MPSE003 MPSE004 MPSE008   
+                                                                  MPSE009   
+  158 MEC-125209485   3004D       NARGIS YOUSUF                   MEC001 MEC002 MEC003 MEC004 MEC006    
+                                                                  MEC007    
+  159 MSO-125209492   3004D       SHEERAZA GULL                   MSO001 MSO002 MSO003 MSO004    
+  160 MSO-125209629   3004D       MUNEERA QADIR                   MPS003 MSO002 MSOE001 MSOE003   
+  161 MPS-125210505   3004D       SANAM MOHAMMAD                  MPS002 MPS004    
+  162 MPS-125210520   3004D       SHUGUFTA ALI                    MPS001 MPS003    
+  163 MPS-125210537   3004D       RIZVANA ALI MIR                 MPS002 MPS004    
+  164 MPS-125210583   3004D       NAZIMA HYDER                    MPS002 MPS004    
+  165 MSO-125210820   3004D       SABIYA BASHIR                   MSOE001 MSOE003 MSOE004   
+  166 MARD-127473638  3004D       MUDASIR REHMAN SHAH             MRDE003 RDD06     
+  167 MEG-127473803   3004D       TABASSUM NAZ                    MEG05     
+  168 MSO-127474418   3004D       SAIMA MEHRAJ                    MSO001 MSO003    
+  169 BDP-127474536   3004D       UMAR MUKHTAR                    EPA04 EPS03 EPS11 FST01     
+  170 MEG-127475434   3004D       IRFAN AHMAD SOFI                MEG05     
+  171 MSO-127478010   3004D       SHAISTA RASHID                  MSOE001 MSOE004   
+  172 MEC-127500015   3004D       QAISAR GULL                     MEC001 MEC002 MEC004 MEC105    
+  173 MEG-127502556   3004D       SHABEER AHMAD CHOPAN            MEG01     
+  174 MPS-127504843   3004D       HILAL AHMAD SHAH                MPSE004 MPSE006   
+  175 BDP-127504882   3004D       ABDUL MAJEED MALLA              BULE001 BULE003 ESO14 FST01     
+  176 MSO-127507025   3004D       ILYAS YOUSUF                    MSOE001 MSOE003 MSOE004   
+  177 MSO-127507437   3004D       ASHAQ HUSSAIN DAR               MSOE004   
+  178 MCOM-127507738  3004D       FAROOZ AHMAD DAR                MCO05 MCO07     
+  179 MARD-127507824  3004D       SYED AAFAQ FAROOQI              MRDE002 MRDE003 MRDE004   
+  180 MSO-127509985   3004D       QURAT UL AIN                    MPA016 MSOE004   
+  181 MSO-127509992   3004D       LATIFA BANO                     MPA016 MSOE003 MSOE004   
+  182 MARD-127510062  3004D       SYED ISHFAQ AHMAD FARROQI       MRDE002 MRDE003 MRDE004   
+  183 MEG-127511791   3004D       HINNA ZAINAB                    MEG05 MEG07 MEG08 MEG10     
+  184 MPS-127511910   3004D       SYED EESAR MEHDI                MED008 MPS003 MPSE006 MPSE007 MPSE008   
+                                                                  MPSE011   
+  185 MSO-127512295   3004D       ALTAF AHMAD DAR                 MSOE001 MSOE003   
+  186 MAH-127512690   3004D       FANCY RASHID                    MHI08 MPSE003 MPSE004   
+  187 MSO-127515348   3004D       MOHD ASHRAF MIR                 MPS003    
+  188 MAH-127517255   3004D       TABASUM AHSAN                   MHI06 MHI08     
+  189 BDP-127520475   3004D       SYED ATIFA LUBNA                BPSE212 FST01     
+  190 MAH-127520887   3004D       KHURSHEED AHMAD WANI            MHI03 MHI06 MHI08 MPSE003 MPSE004   
+  191 MEC-127520894   3004D       REFAT JAN                       MEC003 MEC007 MEC008 MEC009 MPA015    
+  192 MSO-127654338   3004D       BANAZIR BANO                    MPS003 MSOE001 MSOE003 MSOE004   
+  193 MAH-127655014   3004D       MOHD ASHRAF BHAT                MHI06     
+  194 MSO-127655569   3004D       FIRDOUSA AKHTER                 MPS003    
+  195 MSO-127655576   3004D       FIRDOOSA AKHTAR                 MPS003    
+  196 MSO-127655852   3004D       ASMAT JAN                       MPS003    
+  197 MPS-127656300   3004D       SAKEENA KAREEM                  MPSE004 MPSE006 MPSE008   
+  198 MPS-127656317   3004D       KULSUMA AKHTER                  MPSE004 MPSE006 MPSE007   
+  199 PGDRD-130297292 3004D       MUBASHIR RAHMAN                 MRD101 MRD102 MRD103 RDD06     
+  200 MSO-130299709   3004D       AEJAZ AHMAD PARRAY              MPS003 MSO001 MSO002 MSO004    
+  201 MSO-130300416   3004D       RIYAZ AHMAD RATHER              MPS003 MSOE001 MSOE003 MSOE004   
+  202 DHHM-130301647  3004D       MASOOD AHMAD SHAH               DHHM01 DHHM02 DHHM03    
+  203 MSO-130302061   3004D       FIRDOUSA AKHTER                 MSO001 MSO002 MSO003 MSO004    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    5
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 3004D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  204 MAH-130302427   3004D       RIYAZ AHMAD GANIE               MHI01 MHI02 MHI04 MHI05     
+  205 MAH-130302434   3004D       SIRJOHN AHMAD DAR               MHI01 MHI02 MHI04 MHI05     
+  206 MSO-131350936   3004D       NUSRAT FAROOQ                   MSOE001 MSOE002 MSOE003 MSOE004   
+  207 MPS-131351192   3004D       SHABIR AHMAD BHAT               MED002 MED008 MPSE001 MPSE003 MPSE004   
+                                                                  MPSE005 MPSE007 MPSE008   
+  208 MAH-131351218   3004D       AJAZ AHMAD PARRAY               MHI03 MHI06 MHI08 MPSE003 MPSE004   
+  209 MEC-131351350   3004D       SAJAD HUSSAIN MIR               MEC003 MEC004    
+  210 MSO-131351382   3004D       MIR ALI ABASS HUSSAINE          MPS003 MSOE001 MSOE003 MSOE004   
+  211 MSO-131351390   3004D       JAVID HUSSAIN BHAT              MPS003 MSOE001 MSOE003 MSOE004   
+  212 MSO-131352685   3004D       ZAHIRA HASSAN                   MPS003 MSOE001 MSOE003 MSOE004   
+  213 MSO-131354317   3004D       ZULQAR NAIN AFTAB BHAT          MPS003 MSOE001 MSOE003 MSOE004   
+  214 MSO-131354324   3004D       SHAKEEL AHMAD BHAT              MPS003 MSOE001 MSOE003 MSOE004   
+  215 MCOM-131354356  3004D       SHAISTA RASHID                  MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  216 MAH-131358006   3004D       NEELOFAR JAN                    MHI03 MHI06 MHI08 MPSE003 MPSE004   
+  217 MAH-131358091   3004D       FARIDA MANZOOR                  MHI03 MHI06 MHI08 MPSE003 MPSE004   
+  218 MEG-131361004   3004D       ASIYA MUSHTAQ                   MEG05 MEG06 MEG07 MEG10     
+  219 MPS-131361487   3004D       UMER MANZOOR DAR                MED002 MED008 MPSE001 MPSE003 MPSE004   
+                                                                  MPSE006 MPSE007 MPSE008   
+  220 MEG-131361494   3004D       OWAIS AHMAD DAR                 MEG01 MEG03 MEG05 MEG06 MEG07     
+                                                                  MEG10     
+  221 MTM-131361645   3004D       MUSHTAQ AHMAD BHAT              MTM04 MTM05 MTM12 MTM13 MTM14     
+                                                                  MTM15     
+  222 MSO-131362170   3004D       QURATUL RASHID                  MSO001    
+  223 MCOM-131366035  3004D       GOWHER AHMAD DOOM GANAIE        MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  224 MSO-131366200   3004D       MURTAZA ALI RATHER              MSOE001 MSOE002 MSOE003 MSOE004   
+  225 MSO-131366945   3004D       AISHA AKHTER                    MPS003 MSOE001 MSOE003 MSOE004   
+  226 MSO-131366960   3004D       KULSOOMA AKHTER                 MPS003 MSOE001 MSOE003 MSOE004   
+  227 MAH-131367320   3004D       IMTIYAZ AHMAD BHAT              MHI03 MHI06 MHI08 MPSE003 MPSE004   
+  228 MEC-131368060   3004D       ROHEE AKHTER                    MEC001 MEC002 MEC003 MEC004    
+  229 MEG-131368845   3004D       PEER AB QUYOUM SHAH             MEG01 MEG02 MEG03 MEG04     
+  230 MAPC-131369972  3004D       MEHRAJ UL DIN                   MPC003 MPC004 MPC006 MPCE011 MPCE014   
+                                                                  MPCE015 MPCE016   
+  231 MAPC-131371725  3004D       SAIMA SHAFI                     MPC006    
+  232 MPS-131371757   3004D       ARIF MOHD PARAY                 MPS001 MPS002 MPS003 MPS004    
+  233 MSO-131372204   3004D       REFAT YOUSUF                    MSO001 MSO002 MSO003 MSO004    
+  234 MAH-131372268   3004D       MUZAMIL SUHAIL WANI             MHI03 MHI06 MHI08 MPSE003 MPSE004   
+  235 MPA-131372433   3004D       ALTAF HUSSAIN LONE              MPA013 MPA014    
+  236 MAH-131372472   3004D       FAROOQ AHMAD DAR                MHI01 MHI02 MHI03 MHI04 MHI06     
+                                                                  MHI08 MPSE003 MPSE004   
+  237 MCOM-131374602  3004D       RAMEEZ RAJA                     IBO01 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06     
+  238 MSO-131374666   3004D       MARYAM BANO                     MSOE001 MSOE003 MSOE004   
+  239 MSO-131374673   3004D       RAFIA JAN                       MSO001    
+  240 MCOM-131375793  3004D       MEHRAJ UD DIN SHEIKH            IBO01 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+  241 MAEDU-131377077 3004D       ZEENAT SHAMUSS                  MES101 MES102 MES103 MES104    
+  242 MSO-131378133   3004D       NEELOFAR ALI                    MPS003 MSOE001 MSOE003 MSOE004   
+  243 MAPC-131378710  3004D       YASMEENA JAN                    MPC001 MPC003 MPC005    
+  244 MAPC-131378735  3004D       NAZIMA AKHTER                   MPC001 MPC003 MPC005    
+  245 MED-131380939   3004D       ZAHOOR AHMAD DAR                MES051 MES052 MES053 MES054 MES055    
+                                                                  MES056 MESE061 MESE066   
+  246 MPS-131424818   3004D       ASHIQ HUSSAIN TANTRAY           MED002 MED008 MGP004 MGPE007 MGPE008   
+                                                                  MGPE010 MGPE011 MGPE013   
+  247 MEG-131425343   3004D       SERAJ AHMAD PARRY               MEG05 MEG07 MEG10 MEG11     
+  248 MPS-131427860   3004D       SUMEENA BANOO                   MPSE001 MPSE003 MPSE004 MPSE007   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    6
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 3004D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  249 MPS-131427891   3004D       MOHD YASSIN BHAT                MPS001 MPS002 MPS004 MPSE008   
+  250 MEG-131427900   3004D       ZAHOOR AHMAD DAR                MEG01 MEG03 MEG04 MEG08     
+  251 MEG-131427970   3004D       JAVAD AHMAD DAR                 MEG01     
+  252 BTS-131428395   3004D       MIAN MUNEER AHMAD               BSHF101 FEG01 FEG02 TS01 TS02      
+  253 MAH-131429437   3004D       AIJAZ AHMAD TANTRAY             MHI03 MHI06 MHI08 MPSE003 MPSE004   
+  254 MSO-131429509   3004D       RUHEENA AKHTAR                  MSOE001 MSOE003   
+  255 MAH-131429627   3004D       TANVEER AHMED LONE              MHI03 MHI06 MHI08 MPSE003 MPSE004   
+  256 MSO-131430155   3004D       MUSRATH SHAHEEN                 MPS003 MSOE001 MSOE003 MSOE004   
+  257 MSO-131430227   3004D       MUFEED UL ISLAM                 MPS003 MSOE001 MSOE003 MSOE004   
+  258 PGDRD-131430567 3004D       TAHIRA AKHTER                   MRD101 MRD102 MRD103 RDD06     
+  259 MAH-131430882   3004D       MASARAT SALAM                   MHI03 MHI06 MHI08 MPSE003 MPSE004   
+  260 MSO-131431465   3004D       MUDASIR AHMAD DAR               MPS003 MSOE001 MSOE003 MSOE004   
+  261 MSO-131431773   3004D       REHANA AKHTER                   MSO001 MSO002    
+  262 MPS-131431891   3004D       NAWAZ  HUSSAIN MIR              MED008 MGP004 MPS001 MPS002 MPS003    
+                                                                  MPSE001 MPSE003 MPSE004 MPSE007 MPSE008   
+  263 MEC-131692345   3004D       BILAL AHMAD GANAIE              MEC006 MEC007 MEC008 MEC009 MECE001   
+  264 MSO-131692725   3004D       MUDASIR HUSSAIN BHAT            MPS003 MSOE001 MSOE003 MSOE004   
+  265 MEG-131692771   3004D       SAJAD HUSSAIN MIR               MEG06 MEG10     
+  266 MAH-131839501   3004D       MOHD SHAFI PARRAY               MHI03 MHI06 MHI08 MPSE003 MPSE004   
+  267 MAH-131839637   3004D       MUDASIR AHMAD GANIE             MHI03 MHI06 MHI08 MPSE003 MPSE004   
+  268 MPS-131839716   3004D       TAJLEE NISA                     MPS002 MPS003 MPS004    
+  269 MSO-131841468   3004D       ROSHAN ARA                      MSO002 MSO003 MSO004    
+  270 MSO-131842151   3004D       SHAHIDHA MAJID                  MPS003 MSOE001 MSOE003 MSOE004   
+  271 MAEDU-136714301 3004D       JAMILA AKHTER                   MES011 MES012 MES014 MES016    
+  272 MCOM-136715421  3004D       SHOKHIYA YOUSUF                 IBO04     
+  273 MPS-136716645   3004D       MAHAPARA MOHI UD DIN            MPS003    
+  274 MSO-136716652   3004D       SAFEENA AKHTER                  MSO002    
+  275 MSO-136716828   3004D       JAVAID AHMAD KUMAR              MSO004    
+  276 MEG-136717392   3004D       SYED MOHD HUSSAIN               MEG01 MEG02 MEG03 MEG04     
+  277 MPS-136717772   3004D       IMTIYAZ AHMAD BHAT              MPS001 MPS002    
+  278 MSO-136717883   3004D       KULSUM AKHTER                   MSO001    
+  279 MSO-136718703   3004D       JAVED AHAMAD RATHER             MSO001 MSO002 MSO003 MSO004    
+  280 MPS-136720351   3004D       MUKHTAR AHMAD DAR               MPS001 MPS002 MPS003 MPS004    
+  281 MAPC-136721543  3004D       YASMEENA KHURSHEED              MPC004 MPC005 MPC006    
+  282 MARD-136722459  3004D       ABID AHMAD SHEER GOJREE         MRD004    
+  283 MEG-136724080   3004D       MUSHTAQ AHMAD BHAT              MEG01     
+  284 MCOM-136724137  3004D       FAROOZA AKHTER                  IBO04 IBO05 IBO06     
+  285 MEG-136725067   3004D       MANMEET SINGH                   MEG01 MEG02 MEG03 MEG04     
+  286 MPS-136725081   3004D       ZAHOOR AHMAD MIR                MPS003 MPS004    
+  287 MSO-136725225   3004D       DIVENDERMEET KOUR               MSO001 MSO002 MSO003 MSO004    
+  288 MPS-136725565   3004D       SAYAR AHMAD BHAT                MPS001 MPS002    
+  289 MSO-136728640   3004D       AB GANI DAR                     MSO001 MSO002 MSO003 MSO004    
+  290 MPS-136729523   3004D       SARVAR RAFIQ                    MPS002 MPS003 MPS004    
+  291 MSO-136730930   3004D       SHAZIA RASHID                   MSO001 MSO002 MSO003 MSO004    
+  292 MSO-136731092   3004D       GH HASSAN MIR                   MSO002 MSO004    
+  293 MPA-136733319   3004D       MUDASIR KHALIQ DAR              MPA013    
+  294 MAH-136734399   3004D       FAROOQ AHMAD BHAT               MHI04     
+  295 MPS-136734668   3004D       FEROOZ AHMED BHAT               MPS001 MPS002 MPS003 MPS004    
+  296 MSO-136738910   3004D       RUHEENA BASHIR                  MSO001 MSO002 MSO003 MSO004    
+  297 MPS-136741220   3004D       AB LATEEF BHAT                  MPS002    
+  298 MAPC-136742142  3004D       MOHAMMAD RAFIQ TANTRAY          MPC003 MPC005 MPC006    
+  299 MSO-136742680   3004D       NASEER AHMAD WANI               MSO003 MSO004    
+  300 MSO-136743176   3004D       CHESFEEDA AKTHER                MSO001 MSO002 MSO003 MSO004    
+  301 MARD-136743287  3004D       SHEIKH SAJAD HUSSAIN            MRD004 MRD103    
+  302 MAH-136743310   3004D       BASHIR AHMAD SHEIKH             MHI05     
+  303 MSW-136743366   3004D       TASLEEMA KOUSAR                 MSW001 MSW004    
+  304 MARD-136743438  3004D       RUQAYA RASHID BABA              MRD004 MRD101 MRD102 MRD103    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    7
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 3004D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  305 MSO-136743642   3004D       AABIDAH NABI                    MSO001 MSO002 MSO003 MSO004    
+  306 MCOM-136743840  3004D       IRSHAD AHMAD DAR                IBO04     
+  307 MCOM-136744960  3004D       SHAHNAWAZ SHREEF BHAT           IBO03 IBO04     
+  308 MSO-136746125   3004D       GH RASOOL PARRAH                MSO001 MSO002 MSO003 MSO004    
+  309 MEG-136746576   3004D       GULZAR AHMAD BHAT               MEG01     
+  310 MSO-136746662   3004D       ALTAF AHMAD WANI                MSO003 MSO004    
+  311 MPS-136746798   3004D       AJAZ AHMAD BHAT                 MPS003 MPS004    
+  312 MEG-136746931   3004D       MANZOOR AHMAD BHAT              MEG01 MEG04     
+  313 MCOM-136748111  3004D       ASHIQ HUSSAIN WANI              IBO01 IBO03 IBO04 IBO06     
+  314 MCOM-136748129  3004D       KHURSHEED AHMAD BHAT            IBO01 IBO03 IBO04 IBO06     
+  315 MSO-136748967   3004D       HEENA BANNO                     MSO002 MSO004    
+  316 MEC-136749138   3004D       NASIR ALI BHAT                  MEC001 MEC002 MEC003 MEC004 MEC105    
+  317 MSO-136749596   3004D       AIJAZ AHMAD SHEIKH              MSO003 MSO004    
+  318 MSO-136749604   3004D       MARYAMA                         MSO003 MSO004    
+  319 MEG-136751782   3004D       MANZOOR AHMAD GOWGOJREE         MEG01     
+  320 MSO-136752358   3004D       JAVID AHMAD DAR                 MSO002 MSO004    
+  321 MSO-136752365   3004D       TABASSUM AKHTER                 MSO001 MSO002 MSO003 MSO004    
+  322 MSO-136752372   3004D       NILOFER AKHTER                  MSO002 MSO004    
+  323 MSO-136752380   3004D       TAHSSINA ZAINAB                 MSO002 MSO004    
+  324 MAEDU-136752397 3004D       SAKEENA ZAINAB                  MES014 MES015 MES016    
+  325 MPS-136752451   3004D       WASEEM SAJAD                    MPS003    
+  326 MSO-136753106   3004D       MOHD AMIN RATHER                MSO002 MSO004    
+  327 MAH-136753446   3004D       HASSINA                         MHI01 MHI04     
+  328 MSO-136754147   3004D       YASMEENA AKHTER                 MSO002 MSO004    
+  329 MARD-136754272  3004D       WASEEM RAJA NAJAR               MRD004    
+  330 MSO-136754541   3004D       MEHJBEENA ALI                   MSO001 MSO002 MSO003 MSO004    
+  331 MSO-136754559   3004D       SHUGUFTA GUL                    MSO002 MSO004    
+  332 MSO-136754566   3004D       NASREENA BASHIR                 MSO001 MSO002 MSO003 MSO004    
+  333 MCOM-136754580  3004D       WAHEEDA AMIN                    IBO01 IBO03 IBO04 IBO06     
+  334 MSO-136754606   3004D       MUZAMIL HASSAN                  MSO001 MSO002 MSO003 MSO004    
+  335 MCOM-136756133  3004D       NAWAZ AHMAD DAR                 IBO03 IBO04 IBO06     
+  336 MAH-136757712   3004D       ABDUL BHASIT                    MHI01 MHI02 MHI04 MHI05     
+  337 MAH-136757720   3004D       IRSHAD HUSSAIN                  MHI01 MHI02 MHI04 MHI05     
+  338 MEG-136758287   3004D       MUDASAR NAZAR                   MEG01     
+  339 MAPC-136759486  3004D       PARVEENA AKHTER                 MPC001 MPC002 MPC006    
+  340 MAH-136760506   3004D       MUNSIFA AKRAM                   MHI04     
+  341 MSO-136760807   3004D       ARIFA AMIN                      MSO002 MSO004    
+  342 MSO-136761031   3004D       SYED NAHIDA MUKHTAR             MSO001 MSO002    
+  343 MAPY-136761135  3004D       ABID HUSSAIN BHAT               MPYE003 MPYE006   
+  344 MSO-136761490   3004D       RIFAT ARA                       MSO002 MSO004    
+  345 MSO-136761508   3004D       PARAMVEER KOUR                  MSO001 MSO002 MSO003 MSO004    
+  346 MARD-136761855  3004D       SAMEER AHMAD KHAN               MRD004 MRD103    
+  347 MARD-136761862  3004D       PARVAIZ AHMAD BHAT              MRD004 MRD103    
+  348 MEC-136762943   3004D       FIRDOUS AHMAD JOO AKHOON        MEC001 MEC002 MEC003 MEC004 MEC105    
+  349 MEC-136763834   3004D       ASHAQ HUSSAIN NAJAR             MEC001 MEC003 MEC004 MEC105    
+  350 MARD-136764037  3004D       NISAR AHMAD BHAT                MRD004 MRD101 MRD102 MRD103    
+  351 PGDRD-136764495 3004D       AIJAZ AHMAD GANIE               MRD101    
+  352 MAH-136765171   3004D       TARIQ AHMAD DAR                 MHI01 MHI02 MHI04 MHI05     
+  353 MAH-136765204   3004D       RAYEES AHMAD DAR                MHI01 MHI02 MHI04 MHI05     
+  354 MPS-136765537   3004D       GULSHAN BANO                    MPS003    
+  355 MPS-136765662   3004D       NIGHAT ARAH                     MPS003    
+  356 MSO-136765687   3004D       BASHIR AHMAD ALAIE              MSO004    
+  357 MSO-136765963   3004D       ARSHEEDA AKHTER                 MSO001 MSO002    
+  358 MPS-136766102   3004D       MUDASIR AHMAD WANI              MPS002 MPS004    
+  359 MSO-136766166   3004D       SAYIMA GUL                      MSO003 MSO004    
+  360 MSO-136767594   3004D       MUSHTAQ AHMAD PARRAY            MSO001 MSO002 MSO003 MSO004    
+  361 MEG-136769803   3004D       NUSRAT RAMZAN                   MEG01 MEG02 MEG03 MEG04     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    8
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 3004D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  362 BDP-136769978   3004D       RIDWANA ASHRAF                  CHE01 CHE02 FST01 LSE01 LSE02     
+  363 MEC-136770893   3004D       FAIZAN AHMAD BHAT               MEC002 MEC003 MEC004 MEC105    
+  364 MEC-136770901   3004D       ZUBAIR AHMAD THOKER             MEC001 MEC002 MEC004 MEC105    
+  365 MSO-136772184   3004D       SHAFIA RASHID                   MSO004    
+  366 MSO-136774654   3004D       SHAYISTA FATIMA                 MSO002 MSO004    
+  367 MSO-136774661   3004D       GAZALLA ASHRAF                  MSO002 MSO004    
+  368 MPS-136776142   3004D       TAHIRA AKHTER                   MPS001 MPS002    
+  369 MAEDU-136776450 3004D       WASEEM HASSAN WANI              MES014 MES015 MES016    
+  370 MPS-136776626   3004D       ARIFA BAQIR                     MPS002    
+  371 MEG-136776697   3004D       GHULAM MOHI UD DIN KHAN         MEG01 MEG02 MEG03 MEG04     
+  372 MCOM-136776751  3004D       ALI MOHAMMAD MALIK              IBO04     
+  373 MAEDU-136778834 3004D       NASIR ALI WANI                  MES014 MES015 MES016    
+  374 MAH-136778873   3004D       SAIMA AKHTER                    MHI02 MHI05     
+  375 MSO-136778920   3004D       SAMEENA JAFFER                  MSO002 MSO004    
+  376 MSO-136779843   3004D       SHAZIA AKHTER                   MSO002 MSO004    
+  377 MPS-136780260   3004D       MUDASIR AHMAD GANIE             MPS002 MPS003 MPS004    
+  378 MSO-136780443   3004D       MOHD ASHRAF WANI                MSO004    
+  379 MCOM-136780720  3004D       MOHD AFZAL MIR                  IBO04     
+  380 MCOM-136780737  3004D       FIRDOUS AHMAD ALAIE             IBO04     
+  381 MEC-136780959   3004D       SAJAD AHMAD BHAT                MEC001 MEC002 MEC003 MEC004    
+  382 MSO-136781778   3004D       SAIMA SAMAD                     MSO002 MSO004    
+  383 MSO-136783170   3004D       PARVAZ AHMAD MIR                MSO001 MSO002    
+  384 MAH-136784988   3004D       SHUGUFTA AKHTER                 MHI02 MHI04     
+  385 MSO-136785822   3004D       SHAZIA YOUSUF                   MSO002 MSO004    
+  386 MSO-136785861   3004D       NARGIS RASOOL                   MSO002 MSO004    
+  387 MSO-136785940   3004D       ULFAT JAN                       MSO001 MSO002 MSO004    
+  388 MPS-136786523   3004D       MOHD IQBAL DAR                  MPS001 MPS002 MPS003 MPS004    
+  389 MSCCFT-1367865943004D       MUDASIR AHMAD DAR               MCFT001 MCFT002 MCFT003 MCFT004   
+                                                                  MCFT005   
+  390 MAH-136787027   3004D       RAFIQ AHMAD BHAT                MHI01 MHI05     
+  391 MPS-136787557   3004D       ZUBAIR AKRAM KUTAY              MPS001 MPS002 MPS003 MPS004    
+  392 MPS-136787564   3004D       MUZAFFAR AHMAD RATHER           MPS001 MPS002 MPS003 MPS004    
+  393 MPS-136787571   3004D       SHOWKAT AHMAD DAR               MPS002 MPS004    
+  394 MCOM-136788770  3004D       SHUGUFTA GULZAR                 IBO04 IBO05 IBO06     
+  395 MCOM-136788795  3004D       KOUSAR JAN                      IBO03 IBO04 IBO05 IBO06     
+  396 MCOM-136788803  3004D       AABIEDA AKHTER                  IBO02 IBO04 IBO05     
+  397 MCOM-136788810  3004D       NAJMA ALI                       IBO04 IBO05 IBO06     
+  398 MSO-136788899   3004D       NASEEMA AKHTER                  MSO001 MSO002 MSO003 MSO004    
+  399 MPS-136789188   3004D       MIR SONI                        MPS002 MPS004    
+  400 MPS-136789195   3004D       MAHJABEEN AKHTER                MPS002 MPS004    
+  401 MPS-136789400   3004D       SHAHPARA ALI                    MPS001 MPS003 MPS004    
+  402 MCOM-136791145  3004D       PARVEEN YOUSUF                  IBO02 IBO03 IBO04 IBO06     
+  403 MSO-136791335   3004D       SAKEENA JAN                     MSO002 MSO003 MSO004    
+  404 MSO-136791500   3004D       ISHRAT HYDER                    MSO001 MSO003    
+  405 MPS-136791525   3004D       RIZWAN FATIMA                   MPS001 MPS003    
+  406 MEG-136792075   3004D       OMISA QASIM                     MEG01 MEG02 MEG03 MEG04     
+  407 MEC-136792233   3004D       MANZOOR AHMAD DAR               MEC001 MEC002 MEC003 MEC004    
+  408 MTM-136792383   3004D       HILAL AHMAD DAR                 MTM01 TS01 TS02 TS03      
+  409 MAPC-136792487  3004D       BILAL AHMAD SHEIKH              MPC001 MPC002 MPC003    
+  410 MEG-136792921   3004D       QUISAR AHMAD SOFI               MEG01     
+  411 MSO-136793013   3004D       UMER GUL                        MSO002    
+  412 MCOM-136795150  3004D       JOHN MOHMMAD DAR                IBO01 IBO03 IBO04 IBO05     
+  413 MPS-136795429   3004D       MOHD AMIN GANIE                 MPS003 MPS004    
+  414 MSO-136795783   3004D       ROUF AHMAD WANI                 MSO004    
+  415 MSO-136795870   3004D       MANZOOR AHMAD GANAIE            MSO001 MSO004    
+  416 MPS-136796026   3004D       MUZAMIL AHMAD KHAN              MPS001 MPS002 MPS004    
+  417 MSO-136796255   3004D       MUDASIR AHMAD GANIE             MSO002 MSO004    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    9
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 3004D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  418 MEG-136796650   3004D       BILAL AHMAD KHAN                MEG02 MEG04     
+  419 BDP-136796943   3004D       TANVEER AHMAD PARRY             ESO12     
+  420 MAH-136797114   3004D       TAHIRA GULL                     MHI01 MHI02 MHI04 MHI05     
+  421 BDP-136798811   3004D       FAYAZ AHMAD KHAN                BSHF101 ESO11 ESO12 FST01     
+  422 MSO-136799039   3004D       SYED ABID HUSSAIN               MSO003    
+  423 MCOM-136799053  3004D       MOHD SALEEM WAR                 IBO04     
+  424 MPS-136799282   3004D       MAHJABEENAH AKHTER              MPS001 MPS002 MPS003 MPS004    
+  425 MAEDU-136801088 3004D       SHABIR AHMAD BHAT               MES016    
+  426 MTM-136801450   3004D       AB MAJID DAR                    MTM01 TS03      
+  427 MPS-136801902   3004D       FAYAZ AHMAD AHANGER             MPS004    
+  428 MCOM-136801998  3004D       AADIL HUSSAIN BHAT              IBO04     
+  429 MPS-136802452   3004D       IRFAN AHMAD ZARGER              MPS001 MPS002 MPS003 MPS004    
+  430 MSO-136802628   3004D       JAMEELA BANO                    MSO002 MSO004    
+  431 MSDFSM-1368026673004D       MOHD RAFIQ BHAT                 MFN001 MFN002 MFN010    
+  432 MSO-136804789   3004D       FATIMA MOHIUDDIN                MSO002 MSO004    
+  433 MSO-136804954   3004D       TAHMEENA AKHTER                 MSO001 MSO002    
+  434 MSO-136804961   3004D       SALMA SHAFI                     MSO001 MSO002    
+  435 MSO-136804979   3004D       AASIFA BANO                     MSO001 MSO002    
+  436 MPS-136806822   3004D       SURIAYAH MOHI UD DIN            MPS001 MPS002 MPS003 MPS004    
+  437 MAH-136809004   3004D       MUDASIR AHMAD DAR               MHI05     
+  438 MAEDU-136809423 3004D       NUZHAT MAJID                    MES011 MES012 MES013 MES014 MES015    
+                                                                  MES016    
+  439 MAEDU-136809462 3004D       ASMA BASHIR                     MES011 MES012 MES013 MES014 MES015    
+                                                                  MES016    
+  440 MAEDU-136809494 3004D       ROKHSANA RASHID                 MES011 MES012 MES013 MES014 MES015    
+                                                                  MES016    
+  441 MCOM-136812905  3004D       DANISHWAR AHMAD BHAT            IBO01 IBO03 IBO04 IBO06     
+  442 MSO-136814622   3004D       AZRAH JAVAID                    MSO002 MSO004    
+  443 MSO-136814630   3004D       AALIDAH AKHTER                  MSO002 MSO004    
+  444 MEG-136816199   3004D       RAJA PARVAIZ AHMAD MIR          MEG01 MEG02 MEG03 MEG04     
+  445 MAPC-136818028  3004D       AASIA HASSAN                    MPC004 MPC005 MPC006    
+  446 MSO-136818050   3004D       YASMEENA AKHTER                 MSO001    
+  447 MAPC-136818067  3004D       MAHMOODA AKHTER                 MPC001 MPC002 MPC004 MPC005 MPC006    
+  448 MSO-136818558   3004D       MOHD IRFAN                      MSO002 MSO004    
+  449 MPS-136820340   3004D       MUZAMIL AMIN BANDAY             MPS001 MPS002 MPS003 MPS004    
+  450 MAEDU-136822519 3004D       HUMMERA NISAR DAR               MES012 MES013 MES014 MES016    
+  451 MPS-136825442   3004D       JAVID AHMAD DAR                 MPS001 MPS002 MPS003 MPS004    
+  452 MARD-136825467  3004D       JEHANGEER AHMAD PARRY           MRD004 MRD101 MRD102 MRD103    
+  453 MPS-136827708   3004D       SHREEFA BANO                    MPS002    
+  454 MAEDU-136828724 3004D       NUSRAT RASHID                   MES012 MES014 MES016    
+  455 MAEDU-136828731 3004D       SUMEENA ALI                     MES011 MES012 MES014 MES016    
+  456 MAH-136828788   3004D       KULSOOMA AKHTER                 MHI01 MHI02 MHI04 MHI05     
+  457 MSO-136828795   3004D       SABIYA AKHTER                   MSO001 MSO002 MSO003 MSO004    
+  458 MSO-136828803   3004D       MYMOONAH AKHTER                 MSO001 MSO002 MSO003 MSO004    
+  459 MSO-136828810   3004D       ABIDAH KARIM                    MSO001 MSO002 MSO003 MSO004    
+  460 MEG-136829020   3004D       ZEESHAN ALI DAR                 MEG02 MEG04     
+  461 MEG-136829038   3004D       RUMANA ALI                      MEG02 MEG04     
+  462 MAPC-136829916  3004D       SUMAIRAH AKHTER                 MPC001 MPC005 MPC006    
+  463 MAEDU-136829948 3004D       YASMEENA AKHTAR                 MES011 MES014 MES015    
+  464 PGDRD-138009385 3004D       ABID HUSSAIN BHAT               MRD101 MRD102 MRD103 RDD07     
+  465 BDP-138009772   3004D       SHOWKAT HUSSAIN KHANDAY         FST01     
+  466 MTM-138015619   3004D       RAHIL ZAHOOR QADRI              MTM04 MTM05 MTM06 MTM07 MTM08     
+  467 MPS-138017612   3004D       HANEEFA AKHTER                  MPS002    
+  468 MAPC-138017794  3004D       MUDASIR AHMAD PARAY             MPC003 MPC005 MPC006    
+  469 MARD-141901330  3004D       RAMEEZ BASHIR                   MRD004 MRD101 MRD102 MRD103    
+  470 MAH-141901362   3004D       ISHRAT GULL                     MHI01 MHI02 MHI04 MHI05     
+  471 MAH-141901624   3004D       HALIMA BANO                     MHI01 MHI02 MHI04 MHI05     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   10
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 3004D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  472 MAH-141901663   3004D       HILAL AHMAD RATHER              MHI01 MHI02 MHI04 MHI05     
+  473 MAH-141902095   3004D       RAMEEZ AHMAD SHEIKH             MHI01 MHI02 MHI04 MHI05     
+  474 MSO-141902103   3004D       AFROZA AKHTER                   MSO001 MSO002 MSO003 MSO004    
+  475 MSO-141902214   3004D       MUBASHIRA BASHIR                MSO001 MSO002 MSO003 MSO004    
+  476 MAH-141902823   3004D       MOHAMMAD UMAR JOHN              MHI01 MHI02 MHI04 MHI05     
+  477 MSO-141902887   3004D       ISHRAT RASHID                   MSO001 MSO002 MSO003 MSO004    
+  478 DPLAD-141903097 3004D       MOHD ABID LONE                  BPR001 BPR002 BPR003 BPR005    
+  479 MSO-141903151   3004D       MOHD ARIF MIR                   MSO001 MSO002 MSO003 MSO004    
+  480 MTM-141903825   3004D       MUDASIR AHMAD PARRAY            MTM03 MTM04     
+  481 MCOM-141903975  3004D       MEHRAJ DIN WANI                 IBO01 IBO02     
+  482 MCOM-141903982  3004D       RAZIYA SULTAN                   IBO01 IBO02     
+  483 MAPC-141905155  3004D       GOPAL KRISHAN PADY              MPC001 MPC002 MPC003 MPC004 MPC005    
+                                                                  MPC006 MPCL007   
+  484 BTS-141905234   3004D       MOHD ASHRAF MUGLOO              BSHF101 FEG01 FEG02 TS01 TS02      
+  485 MCOM-141908358  3004D       BILAL AHMAD RATHER              IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  486 MSO-141908627   3004D       ZUBAIR AHMAD DAR                MSO001 MSO002 MSO003 MSO004    
+  487 MARD-141909675  3004D       SHAZIA RASHID                   MRD004 MRD101 MRD102 MRD103    
+  488 BDP-141909715   3004D       KHALIDA NUSRAT                  BSHF101 FEG01 MTE01 MTE02 MTE04     
+  489 MAH-141909722   3004D       PARVAIZ AHMAD DAR               MHI01 MHI02 MHI04 MHI05     
+  490 MSO-141909779   3004D       MOHAMAD RAFI KHAN               MSO001 MSO002 MSO003 MSO004    
+  491 MEG-141910970   3004D       MARYAMA MEHMOOD                 MEG01 MEG03     
+  492 MSO-141912720   3004D       MIR SHAKEEL AHMAD               MSO001 MSO002 MSO003 MSO004    
+  493 MSO-141912738   3004D       MOHAMMAD AYOUB MIR              MSO001 MSO002 MSO003 MSO004    
+  494 MSO-141912745   3004D       IMRAN SALEEM SHAH               MSO001 MSO002 MSO003 MSO004    
+  495 MEG-141912777   3004D       JUNAID AHMAD                    MEG01 MEG02 MEG03 MEG04     
+  496 MEG-141912784   3004D       ISHFAQ GANI DAR                 MEG01 MEG02 MEG03 MEG04     
+  497 MSO-141912999   3004D       MEHJABEEN AKHTER                MSO001 MSO002 MSO003 MSO004    
+  498 MEG-141916355   3004D       SHADAD ALI BHAT                 MEG01 MEG04     
+  499 MPS-141916394   3004D       MANZOOR AHMAD DAR               MPS001 MPS003    
+  500 MPS-141917063   3004D       YOUNIS FAROOQ                   MPS001 MPS002 MPS003 MPS004    
+  501 MSO-141920885   3004D       ISHRAT RASHID                   MSO001 MSO002 MSO003 MSO004    
+  502 MPS-141922294   3004D       UMAR FAROOQ                     MPS001 MPS002 MPS003 MPS004    
+  503 MCOM-141923977  3004D       AIJAZ AHMAD WANI                IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  504 MEC-141925236   3004D       SHAHZADA QURAT UL AIN           MEC001 MEC002 MEC003 MEC004 MEC105    
+  505 PGDRD-141926141 3004D       SAJAD AHMAD GANIE               MRD101 MRD102 MRD103 MRDE101   
+  506 MSO-141926830   3004D       RIFAT ARA                       MSO001 MSO002 MSO003 MSO004    
+  507 MARD-141928722  3004D       MUDASSIR GUL                    MRD004 MRD101 MRD102 MRD103    
+  508 MPS-141929835   3004D       TASLEEMA BANO                   MPS001 MPS002 MPS003 MPS004    
+  509 MPS-141929842   3004D       NUSRAT BANO                     MPS001 MPS002 MPS003 MPS004    
+  510 DECE-141930206  3004D       QULSAMA BANO                    DECE01 DECE02 DECE03    
+  511 MSO-141930388   3004D       ROBINAH AKTHER                  MSO001 MSO002 MSO003 MSO004    
+  512 MAH-141930854   3004D       SHABIR AHMAD DAR                MHI01 MHI02 MHI04 MHI05     
+  513 MSO-141931168   3004D       SHAMEEM AHMAD BHAT              MSO001 MSO002 MSO003 MSO004    
+  514 MSO-141931222   3004D       MEHBOOBA AKHTER                 MSO001 MSO002 MSO003 MSO004    
+  515 MSO-141931293   3004D       SUBEENA ASHRAF                  MSO001 MSO002 MSO003 MSO004    
+  516 MSO-141931412   3004D       JAWHARA AKHTER                  MSO001 MSO002 MSO003 MSO004    
+  517 MSO-141931420   3004D       MASARAT NABI                    MSO001 MSO002 MSO003 MSO004    
+  518 MSO-141931444   3004D       SURAYAH REHMAN                  MSO001 MSO002 MSO003 MSO004    
+  519 BDP-141931659   3004D       AB QAYOOM GANAIE                BPSE212 BSHF101 EHI01 FEG01 FEG02     
+  520 MAH-141932138   3004D       SHOWKAT IQBAL RATHER            MHI01 MHI02 MHI04 MHI05     
+  521 MAH-141932754   3004D       SAJAD AHMAD DAR                 MHI01 MHI02 MHI04 MHI05     
+  522 MSO-141932819   3004D       ROOHI SHABNAM                   MSO001 MSO002 MSO003 MSO004    
+  523 MEG-141933645   3004D       AFREEN SIRAJUDDIN PEERZADA      MEG01 MEG02 MEG03 MEG04     
+  524 DECE-141933907  3004D       ROZY QADIR                      DECE01 DECE02 DECE03    
+  525 MEG-141934131   3004D       BILQUEESA SHAH                  MEG01 MEG02 MEG03 MEG04     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   11
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 3004D                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  526 MSO-141934339   3004D       ROZA AKHTER                     MSO001 MSO002 MSO003 MSO004    
+  527 MCOM-141935054  3004D       FAROOQ AHMAD PAUL               IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  528 MSO-141935688   3004D       MASSARAT JABEEN                 MSO001 MSO002 MSO003 MSO004    
+  529 MEG-141935695   3004D       ZAHOOR AHMED DAR                MEG01 MEG02 MEG03 MEG04     
+  530 BDP-141936396   3004D       SHEIKH NADEEM NABI              BPAE102 BSHF101 EPA01 FEG01 FEG02     
+  531 MAEDU-141936769 3004D       ISHFAQ MAQBOOL RAINA            MES011 MES012 MES013 MES014 MES015    
+                                                                  MES016    
+  532 BED-141939495   3004D       MOHAMMAD ASHRAF KHANDAY         ES331 ES332 ES333 ES341 ES343     
+  533 BED-141939542   3004D       RIAHANA HAMEED                  ES331 ES332 ES333 ES343 ES344     
+  534 MSO-141941603   3004D       SHABIR AHMAD MIR                MSO001 MSO002 MSO003 MSO004    
+  535 BTS-141941904   3004D       SYED ROHULLAH                   TS01 TS02      
+  536 MARD-141943868  3004D       REZWANAH SULTAN                 MRD101 MRD102    
+  537 MSO-141943922   3004D       GULAFROZA                       MSO001 MSO002 MSO003 MSO004    
+  538 MPS-141946516   3004D       MOHAMMAD YOUNIS MAGLOO          MPS001 MPS002 MPS003 MPS004    
+  539 MPS-141946974   3004D       AYJAZ HUSSAIN MALIK             MPS001 MPS002 MPS003 MPS004    
+  540 PGDRD-141947295 3004D       MUDASIR AHMAD WANI              MRD101 MRD102 MRD103 RDD06     
+  541 MPS-141949529   3004D       JAVEED AHMAD MIR                MPS001 MPS002 MPS003 MPS004    
+        

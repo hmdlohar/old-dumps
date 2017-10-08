@@ -1,0 +1,4 @@
+<form action="<?php $PHP_SELF ?>" method=GET>
+
+<input type=submit>
+</form>

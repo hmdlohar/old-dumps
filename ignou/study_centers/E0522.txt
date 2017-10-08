@@ -1,0 +1,991 @@
+
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    1
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0522                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+    1 MCA-054228286   0522        AMIT KUMAR                      MCS043    
+    2 BCA-054232777   0522        KUMUD RANJAN JHA                BCS061 CS71 CS74 MCS031 MCS032    
+                                                                  MCS033 MCS034 MCS035 MCS042 MCS051 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+    3 MCA-061395882   0522        NANDITA KUMARI                  MCSE003   
+    4 MCA-061399596   0522        RITESH KUMAR                    CS64 CS71 MCS043    
+    5 MCA-061402670   0522        NISHANT KUMAR                   CS60 CS71 MCSE004   
+    6 MCA-061405098   0522        NIKHIL KUMAR                    MCS043    
+    7 BCA-071948757   0522        AUCKY KUMAR                     CS05 CS06 CS60 CS62 CS63 CS64      
+                                                                  CS71 CS73      
+    8 BTCM-072074494  0522        ATUL MAHAN PATHAK               ET101A    
+    9 MCA-073204588   0522        OM SHEKHAR                      MCSE011   
+   10 BCA-073214715   0522        PRIYANKA KUMARI                 CS71      
+   11 MCA-073573270   0522        SHAILENDRA KUMAR                CS72P MCS034 MCS041 MCS042 MCS043    
+                                                                  MCSE011 MCSL036 MCSL045 MCSL054   
+   12 MCA-074851091   0522        RUBY KUMARI                     MCS051 MCS052 MCS053    
+   13 MCA-074851321   0522        SAPANA KUMARI                   MCS031 MCS032 MCS033 MCS041 MCS042    
+                                                                  MCS043 MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011   
+   14 MCA-074851360   0522        SHAMSHER ALI AZAD               CS71 MCS033 MCS041 MCS043 MCS052    
+                                                                  MCS053 MCSE003 MCSE004 MCSE011   
+   15 MCA-074852624   0522        AMIT KUMAR                      MCS035 MCS041 MCS053 MCSE011   
+   16 MCA-074853000   0522        SABOOHI NAASIR                  CS60 CS71 MCS041 MCS042 MCS051    
+                                                                  MCS053 MCSE004 MCSE011   
+   17 BCA-074853024   0522        PRINCE RAJ JAISWAL              CS74      
+   18 MCA-074853174   0522        MD ANISUR RAHMAN                MCS034 MCSE011   
+   19 MCA-074854438   0522        PRABHAT ANAND                   MCS011 MCS033    
+   20 BDP-075764959   0522        ABINASH KUMAR JHA               BSHF101 FEG01 FEG02 FST01 MTE04     
+                                                                  MTE05 MTE08 MTE09 MTE14 PHE01 PHE02     
+   21 BDP-075945444   0522        MD SAEED ANWAR                  ECO08 ECO14 FST01     
+   22 BDP-076203545   0522        KALPANA KUMARI                  ACC01     
+   23 BDP-076203577   0522        DIWAKAR ROY                     ACC01 EHI05 ESO11     
+   24 MP-081063930    0522        ASHISH KUMAR SRIVASTAYA         MS611 MS66 MS91      
+   25 MCA-082145090   0522        SUPRIYA KUMAR DEO               MCSE004   
+   26 MCA-082211634   0522        ABHISHEK                        MCS041 MCS042 MCSE004   
+   27 MCA-082212200   0522        SANJEEV KUMAR                   CS71 MCSE004 MCSE011   
+   28 MCA-082212249   0522        AMOD KUMAR MAHTO                MCS034 MCS041 MCS051 MCS052 MCS053    
+                                                                  MCSE004 MCSL054   
+   29 MCA-083596091   0522        MANOJ KUMAR GUPTA               MCS031 MCS032 MCS033 MCS034 MCS051    
+                                                                  MCS053 MCSE003 MCSE004 MCSE011   
+   30 BDP-084113598   0522        PRABHASH KUMAR JHA              EEG03 MTE02     
+   31 MCA-084210598   0522        POOJA SHARMA                    MCS033    
+   32 MCA-084215289   0522        MANJEET KUMAR JHA               MCS035 MCS042 MCS043 MCS051 MCS053    
+   33 MCA-084221308   0522        AMRIT JHA                       MCS051 MCS053 MCSE003   
+   34 MCA-084595891   0522        AKSHAYE AKASH                   CS72 MCS031 MCS041 MCS042 MCS043    
+                                                                  MCS051 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+   35 BCA-084596284   0522        PRAMOD KUMAR                    CS71      
+   36 MCA-084597523   0522        SUMIT KUMAR MISHRA              CS71 MCS033 MCS041 MCS042 MCS051    
+                                                                  MCSE004   
+   37 MCA-084597555   0522        CHANDRA SHEKHAR SINGH           CS71 MCS033 MCS041 MCS042 MCS043    
+                                                                  MCS051 MCS053 MCSE003   
+   38 MCA-084597706   0522        RAJIV KUMAR                     MCSE004   
+   39 MCA-084597713   0522        RAUNAK KUMAR                    MCS051 MCSE004   
+   40 MAH-084620007   0522        RAJU KUMAR JHA                  MHI01     
+   41 BDP-084767435   0522        AMBUJ KUMAR                     ECO14     
+   42 MAH-085550544   0522        SHAILESH KUMAR RAI              MHI05 MHI06     
+   43 MCA-085552476   0522        RAUSHAN KUMAR BHARTI            MCS033 MCS041 MCS051    
+   44 MCA-085552673   0522        DIVYA SINHA                     MCS031 MCS032 MCS033 MCS035 MCS041    
+   45 MP-091505308    0522        MITHILESH KUMAR SINGH           MS51 MS56 MS57 MS91      
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    2
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0522                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+   46 MCA-091794867   0522        SANJEET KUMAR                   MCS043 MCS051 MCS053 MCSE003   
+   47 BDP-092938103   0522        KANCHAN KUMARI                  ACC01 EPA04 EPS09 EPS15 FST01     
+   48 BDP-092938207   0522        SAKESH KUMAR                    BSHF101 FEG01 MTE01 MTE02 MTE04     
+                                                                  MTE05 MTE07 MTE10     
+   49 MCA-092941900   0522        DEOKUMAR DWIVEDI                MCS023    
+   50 BCA-092941932   0522        ASHUTOSH KUMAR                  CS63 CS71 CS72 CS74      
+   51 BCA-092942579   0522        NASRIN                          BCS061 BCS061P CS06 CS62 CS71      
+                                                                  CS73 CS74 CS75      
+   52 BCA-092943176   0522        CHANDA KUMARI                   BCS061P CS611P CS62P CS63P CS65      
+                                                                  CS67 CS68 CS68P CS70 CS71 CS72P CS74P     
+   53 BDP-092945400   0522        HIMANSHU KUMAR                  AMT01 EEG02 EHI04     
+   54 BDP-092945639   0522        DHYANI KUMAR MANDAL             ANC01     
+   55 BDP-092945757   0522        AMITESH KUMAR                   BHDF101 BSHF101 EHI01 EHI02 EHI03     
+                                                                  FHD02 FST01     
+   56 MCA-092948089   0522        SHAHEEN PARVEEN                 MCS035 MCSE004   
+   57 MCA-092948111   0522        RAJGEER SHARMA                  MCS032 MCS033 MCS042 MCS051 MCS052    
+                                                                  MCS053 MCSE003 MCSE004 MCSE011   
+   58 MCA-092948190   0522        PRIYANKA BHARTI                 MCS041 MCS042 MCS043 MCS052 MCSL054   
+   59 BCA-092948333   0522        JASLOK PRASAD                   CS62P CS63 CS73 CS74      
+   60 BCA-092948420   0522        PRAGATI KUMARI                  CS70 CS71 CS75      
+   61 BCA-092948451   0522        KUMARI SAPNA                    CS71      
+   62 MCA-092948469   0522        MEGHA KUMARI                    MCS033 MCS034 MCS041 MCS043 MCS051    
+                                                                  MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+   63 BCA-092949224   0522        NISHA SINHA                     CS62 CS72 CS72P CS74P CS75      
+   64 BCA-092949350   0522        NIKHAT PARWEEN                  CS75      
+   65 BCA-092949367   0522        RAFAT PERWEEN                   CS71 CS74 CS75      
+   66 BCA-092949421   0522        SHYAMANAND                      CS62 CS63 CS66 CS68 CS71 CS72      
+                                                                  CS73 CS74 CS75      
+   67 MAH-092951861   0522        DINKAR KUMAR THAKUR             MHI03     
+   68 MCA-092965497   0522        JAISHREE                        MCS031 MCS033 MCS053    
+   69 BCA-092965845   0522        THAKUR PREETAM KUMAR            CS63 CS72      
+   70 MCA-092965970   0522        RAJEEV KUMAR PANDEY             MCS043 MCS051 MCSE003   
+   71 BCA-092966141   0522        ARTI KUMARI                     CS06 CS62 CS63 CS71 MCS031 MCS032    
+                                                                  MCS033 MCS034 MCS035 MCSL036   
+   72 BCA-092966252   0522        ALQUAMA PERWEEN                 CS71      
+   73 MCA-092966331   0522        MD. SANJEEL                     MCS023    
+   74 BCA-094175783   0522        SHOBHASKAR PANDEY               CS71      
+   75 MCA-095058420   0522        KUMARI PRANOTI                  MCS043 MCS051 MCS053 MCSE003 MCSE004   
+                                                                  MCSE011   
+   76 BDP-095494618   0522        NARMADA KUMARI                  EHD02     
+   77 BDP-095494736   0522        VIKASH KUMAR                    ATR01     
+   78 BDP-095494775   0522        KESHAV KUMAR SAHANI             ACS01 BEGE104 BPAE102 EEG06     
+   79 BDP-095500893   0522        JYOTI KUMARI                    LSE05 PHE07     
+   80 BCA-095501000   0522        JAYDEEP KUMAR JHA               CS71 CS72      
+   81 MCA-095501025   0522        MONA KUMARI                     MCS032 MCS033 MCS041 MCS043 MCS051    
+                                                                  MCS052 MCS053 MCSE003 MCSE004 MCSE011   
+   82 MCA-095501208   0522        MAMTA GUPTA                     MCS033 MCS041 MCS042 MCS043 MCS051    
+                                                                  MCS052 MCS053 MCSE003 MCSE004 MCSE011   
+   83 MAH-095502453   0522        ARUN KUMAR                      MHI06     
+   84 BDP-095502518   0522        OM PRAKASH                      ATR01 EPS06 EPS15 ERD01     
+   85 MAH-095503226   0522        BABITA KUMARI                   MPSE003   
+   86 BCA-095503660   0522        SHASHI KANT KAMTI               CS60 CS71      
+   87 MCA-095504052   0522        SHUBHANSHU SHEKHAR              MCS033 MCS035 MCS041 MCS051 MCS052    
+                                                                  MCS053 MCSE003 MCSE004 MCSE011   
+   88 BDP-095504163   0522        LAKSHMI KUMARI                  BEGE105 EEG06     
+   89 BCA-095560075   0522        RITESH KUMAR CHOUDHARY          BCS061 BSHF101 CS05 CS06 CS611     
+                                                                  CS611P CS62 CS62P CS63 CS64 CS65 CS66 CS67 CS70 CS74 CS75      
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    3
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0522                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+   90 MCA-095716169   0522        RAKESH KUMAR PATHAK             MCSE004   
+   91 BCA-095746494   0522        SIDDHARTH SHANKAR               CS60 CS63 CS71 CS74 CS75      
+   92 BDP-096717955   0522        GULSHAN KUMAR                   ACC01 BSHF101 EPS11     
+   93 BCA-096721385   0522        DIVAKAR                         CS71      
+   94 BCA-096721590   0522        SONAM KUMARI                    CS72 CS74      
+   95 BCA-096721608   0522        AVINASH KUMAR                   CS71      
+   96 MCA-096725192   0522        SALEHA RAKHSHEEN                MCS031 MCS033 MCS051 MCS053 MCSE003   
+                                                                  MCSE004   
+   97 MCA-096725225   0522        VIBHA KUMARI                    MCS031 MCS033 MCS042 MCS043 MCS051    
+                                                                  MCS052 MCS053 MCSE003 MCSE004 MCSE011   
+   98 MCA-096731426   0522        LAKSHMI KUMARI                  MCS042 MCS051 MCS053 MCSE003 MCSE011   
+   99 MCA-096732324   0522        ARCHNA KUMARI                   MCS035 MCS042 MCS043 MCS053 MCSE003   
+                                                                  MCSE004   
+  100 MCA-096732442   0522        AKANCHHA KUMARI                 MCS032 MCS033 MCS035 MCS042 MCS043    
+                                                                  MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+  101 BCA-096732514   0522        NIKHILESH KUMAR JHA             CS71      
+  102 MCA-096732546   0522        FIDA MOHAMMAD                   MCS033 MCS051 MCS053 MCSE004 MCSE011   
+                                                                  MCSL054   
+  103 MCA-096732560   0522        GOVIND KUMAR JHA                MCS043 MCS051 MCS052 MCS053 MCSE003   
+                                                                  MCSE004 MCSE011 MCSL054   
+  104 BCA-096733032   0522        MUNNA KUMAR                     CS71      
+  105 BDP-100040458   0522        VIKRAM KUMAR JHA                EEC10     
+  106 BDP-100040507   0522        MITHILESH KUMARI                EHD02 FST01     
+  107 MAH-100041041   0522        HEMANT KUMAR CHOUDHARY          MPSE003   
+  108 MAH-100041120   0522        TARUN KUMAR                     MPSE003   
+  109 MCA-100041556   0522        SHALINI KUMARI                  MCS033 MCS042 MCS043 MCS051 MCS052    
+                                                                  MCS053 MCSE003 MCSE011   
+  110 BDP-100041607   0522        AMRENDER KUMAR                  ECO11 EEC11 EHI02     
+  111 BDP-100041868   0522        KUNAL MOHAN SINGH               MTE01 MTE04 MTE05     
+  112 BED-100907856   0522        PRIYANKA DAS                    BESE065 BESE066 ES334 ES335 ES362     
+  113 MP-101888702    0522        RAGHABENDRA MISHRA              MS01 MS05 MS08 MS09      
+  114 BCA-105045072   0522        AKHILESH KUMAR CHAUDHARY        CS65 CS73 CS74      
+  115 MCA-105045073   0522        SAURABH AGRAWAL                 CS72 CS74 MCS031 MCS033 MCS035    
+                                                                  MCS041 MCS042 MCS043 MCSL045   
+  116 MCA-105045076   0522        ANJALI SRIVASTAVA               CS72 CS74 CS75 MCS031 MCS033 MCS041    
+                                                                  MCS042 MCS043 MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+  117 BDP-105046098   0522        VINAY KUMAR  YADAY              AMT01     
+  118 BCA-105046101   0522        SIDDARTH SHANKAR ROY            CS60 CS62 CS63 CS68 CS70 CS71      
+                                                                  CS72 CS73 CS74 CS75      
+  119 BDP-105046103   0522        JYOTI KUMARI                    BPCE021   
+  120 BCA-105046110   0522        AFRIN                           CS72      
+  121 MHD-105046112   0522        CHANDAN KUMAR                   MHD01 MHD02 MHD03 MHD05 MHD07     
+                                                                  MHD13 MHD14 MHD15 MHD16     
+  122 BCA-105046116   0522        AKASH KUMAR                     CS71 CS73      
+  123 BCA-105046135   0522        ANURAG RANJAN                   CS06 CS68 CS70 CS71 CS72 CS73      
+                                                                  CS74 CS75      
+  124 MHD-105046158   0522        KUMARI RANI                     MHD01 MHD07 MHD13 MHD14 MHD15     
+                                                                  MHD16     
+  125 MARD-105046159  0522        NITESH KUMAR JHA                MRDE003 MRDE004 MRDE101 RDD06     
+                                                                  RDD07     
+  126 BDP-105046182   0522        NITYANAND SINGH                 EHI03     
+  127 MCA-105046194   0522        PRIYANKA KUMARI                 CS72 CS74 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCS041 MCS042 MCS043 MCS051 MCS052 MCSE003 MCSE004 MCSE011 MCSL036 MCSL054   
+  128 BDP-105046200   0522        SUPRIYA KUMARI                  ACC01 EEC11 EPS09 EPS15 FST01     
+  129 BCA-105046209   0522        MITHILESH KUMAR                 CS75      
+  130 BDP-105046212   0522        MANISH KUMAR JHA                EHD02     
+  131 BCA-105046220   0522        SHALINI CHOUDHARY               CS71 CS72 CS72P CS73 CS74 CS74P     
+                                                                  CS75      
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    4
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0522                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  132 BDP-105046243   0522        DEEPTI KUMARI                   ECO11 EEC11     
+  133 BDP-105046247   0522        SARVIND KUMAR THAKUR            BSWE004 EPS03 EPS07 EPS12 FHD02     
+                                                                  FST01     
+  134 MSO-105046257   0522        JYOTI                           MPS003 MSOE001   
+  135 BDP-105060047   0522        SURENDRA KUMAR YADAV            AWR01 CHE02 MTE01 MTE02 MTE04     
+                                                                  MTE05 MTE06 MTE07 MTE08 MTE09 MTE10     
+  136 BDP-105060176   0522        VARUN KUMAR TRIGUNAYAT          ESO13     
+  137 BDP-105060177   0522        RAVI RANJAN                     ESO13     
+  138 BDP-105060178   0522        NITISH KUMAR                    EEG06 EHI01     
+  139 BDP-105060300   0522        GOVIND KUMAR JHA                ATR01     
+  140 BDP-105060380   0522        KUMARI RENUKA KARN              EHD02     
+  141 BDP-105060409   0522        MANJU KUMARI                    BEGE105   
+  142 BDP-105060809   0522        KUMARI INDUBALA                 ANC01     
+  143 MCOM-105061338  0522        SHALINI KUMARI                  IBO02 IBO03 IBO04 IBO05 IBO06     
+  144 BDP-105061348   0522        RAUSHAN KUMAR SINGH             EHI01     
+  145 MAH-105061370   0522        SANTOSH KUMAR SINGH             MHI04 MHI05 MPSE003   
+  146 BCA-105061371   0522        SUMAN KUMAR                     CS63 CS72 CS74 CS75      
+  147 MHD-105061397   0522        SANJEEV KUMAR JHA               MHD13     
+  148 MAH-105084949   0522        MD HASSAN AZAD                  MHI04 MHI06 MHI08 MPSE003 MPSE004   
+  149 MCA-105165981   0522        KRISHNA KUMAR                   MCS031 MCS032 MCS034 MCS035 MCS041    
+                                                                  MCS042 MCS043 MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSL045 MCSL054   
+  150 MCA-105165985   0522        DHEERAJ KUAMR PANDEY            MCS031 MCS032 MCS034 MCS035 MCS041    
+                                                                  MCS042 MCS043 MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL045 MCSL054   
+  151 MAH-105246128   0522        GANESH SINGH                    MHI01 MHI06 MHI08 MPSE003   
+  152 BCA-105289003   0522        SWETA KUMARI                    CS60 CS71 CS73      
+  153 BCA-105289006   0522        SUNIL KUMAR MISHRA              CS73      
+  154 BCA-105289106   0522        RAJEEV KUMAR RAUT               CS71 CS72      
+  155 BCA-105289108   0522        JAY NARAYAN YADAV               CS71 CS73 CS74 CS75      
+  156 BCA-105289109   0522        AMITABH KUMAR                   CS72 CS73 CS74 CS75      
+  157 BDP-110175916   0522        NARESH KUMAR                    ACC01 EHD01 EHD02 EHD03 EHD04     
+                                                                  EHD07 FEG01 FST01     
+  158 BDP-110295787   0522        SHIV PRAKASH ARYA               ANC01 BPAE102 EPA01 EPA03 EPA04     
+                                                                  EPA06 FST01     
+  159 MP-111068513    0522        RAM NATH MISHRA                 MS42      
+  160 MP-111168952    0522        KUMARI PRIYANKA HEMBROM         MS28      
+  161 MP-111168960    0522        CHHOTE LAL TUDDU                MS94 MS95      
+  162 BCA-111393119   0522        ANUPAM BHARTI                   CS68 CS70 CS71 CS73 CS74 CS75      
+  163 BDP-111393158   0522        RUBY KUMARI                     EHI01     
+  164 BDP-111393348   0522        USHA KUMARI                     ACC01 BSWE004 EHI03 EHI05 EHI06     
+                                                                  FST01     
+  165 BCA-111393427   0522        DHARMENDRA KUMAR YADAV          CS60 CS73 CS74 CS75      
+  166 BDP-111393781   0522        KHUSHI LAL PASWAN               EHI06     
+  167 BDP-111393821   0522        EKALABYA KUMAR SAHNI            EHI04 EHI07     
+  168 BDP-111393839   0522        SANJAY KUMAR                    EHI03     
+  169 BDP-111393846   0522        ALOK KUMAR RANJAN               AHE01 EHI03     
+  170 BSW-111393853   0522        AMAR NATH MISHRA                BSHF101 BSWE003 BSWE005 BSWE006   
+  171 BCA-111393925   0522        AMIT KUMAR RAJ                  CS63 CS71 CS73 CS74 CS75      
+  172 MAH-111394221   0522        SURESH KUMAR YADAV              MHI01 MPSE003   
+  173 BDP-111394530   0522        HUKUMDEV YADAV                  EHI03     
+  174 BDP-111394626   0522        RITU KUMARI                     ANC01 EHI01 ESO13     
+  175 BDP-111394790   0522        AVINASH KUMAR ROY               BSHF101 EHD01 EHD02 EHI03     
+  176 MSO-111394830   0522        SONI KUMARI                     MSOE004   
+  177 MEG-111394862   0522        PINKY KUMARI                    MEG05     
+  178 MCA-111394959   0522        ANUSHA                          CS71 CS74 CS75 MCS031 MCS032 MCS033    
+                                                                  MCS034 MCS035 MCSL036   
+  179 BDP-111395065   0522        USHA KUMARI                     EHD04     
+  180 MHD-111395413   0522        PRITY KUMARI                    MHD05 MHD16     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    5
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0522                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  181 MHD-111395445   0522        KUMARI PAMMI CHOUDHARY          MHD05 MHD16     
+  182 BCA-111395840   0522        MURARI KUMAR                    CS06 CS60 CS63 CS71 CS72 CS73      
+                                                                  CS74 CS75      
+  183 MARD-111396042  0522        ANJALI VERMA                    MRDE003 MRDE101 RDD06     
+  184 BCA-111396074   0522        AANCHAL VERMA                   CS71      
+  185 MAH-111396218   0522        RENU KUMARI                     MHI08     
+  186 MARD-111396390  0522        RAJIV KUMAR                     MRD004 RDD07     
+  187 BDP-111397298   0522        RUPAM KUMARI                    BSHF101 BSWE004 ESO13 FST01     
+  188 BDP-111408835   0522        MIDU KUMARI                     EHI03     
+  189 DNHE-112033481  0522        BAIJU PRASAD                    DNHE01 DNHE02 DNHE03    
+  190 DNHE-112033514  0522        ARVIND KUMAR                    DNHE01 DNHE02 DNHE03    
+  191 DNHE-112033521  0522        RAJA RAM MAHTO                  DNHE01 DNHE02 DNHE03    
+  192 DNHE-112033560  0522        ARUN KUMAR                      DNHE01 DNHE02 DNHE03    
+  193 MP-112034555    0522        AMITABH KUMAR LAL DAS           MS09 MS11 MS21 MS22 MS23 MS24      
+  194 MP-112034627    0522        SHUBHANKAR KUMAR GANGULI        MS95      
+  195 MP-112034698    0522        SANTOSH KUMAR THAKUR            MS01 MS02 MS28 MS95      
+  196 BCA-112035779   0522        KAHKASHAN NAAZ                  CS71 CS73 CS74      
+  197 MSO-115606421   0522        JAI PRAKASH MANDAL              MSO001 MSO004    
+  198 MPA-115606865   0522        SHEKH ABID REZA                 MPA015    
+  199 MPA-115607161   0522        MUKESH KUMAR SINGH              MSO002    
+  200 BLS-115607376   0522        PINKI KUMARI                    BLS3P BLS4P     
+  201 BDP-115607494   0522        ANURANI KUMARI                  ANC01 EPS03     
+  202 BDP-115607684   0522        RISHI KUMAR JHA                 EPS03     
+  203 MCOM-115607691  0522        PRATIKA PRIYA                   MCO01 MCO07     
+  204 MCA-115607749   0522        RANI KUMARI                     MCS013 MCS023 MCS024 MCS031    
+  205 MCA-115608267   0522        ANKUR MANI                      MCS011 MCS023 MCS031 MCS033 MCS034    
+                                                                  MCS042 MCS043 MCS051 MCS052 MCS053 MCSE003 MCSE004   
+  206 BDP-115609165   0522        MINAKSHI NANDINI                ERD01     
+  207 MEG-115609957   0522        VISHWANATH PRASAD               MEG01 MEG02 MEG07     
+  208 MSO-115610500   0522        HARE KRISHAN PRASAD SINGH       MPS003 MSOE001 MSOE003 MSOE004   
+  209 BDP-115610604   0522        RUBY KUMARI                     ANC01     
+  210 BDP-115610611   0522        NITU KUMARI                     EHD01 ESO13 FST01     
+  211 BDP-115610629   0522        RAJEEV KUMAR                    ACC01     
+  212 BDP-115610636   0522        ASHOK KUMAR MALAKAR             BHDF101   
+  213 BDP-115610730   0522        BABITA KUMARI                   ACC01 EHI05 EHI06 ESO12     
+  214 BDP-115610858   0522        ABHINAV RAJ                     ATR01 BEGE104 BEGE105 EEG06 EPS03     
+  215 BDP-115610872   0522        ASHISH  KUMAR                   AFW01 AWR01 BEGE102 BEGE103   
+  216 BDP-115610990   0522        ARVIND KUMAR                    AFW01 BECE002   
+  217 BDP-115611193   0522        TRIBHUWAN CHOUDHARY             ANC01     
+  218 PGDRD-115611226 0522        MD ARSHAD ALI                   MRD101    
+  219 BDP-115611344   0522        MINI KUMARI                     ANC01 ESO13     
+  220 BDP-115611376   0522        NAVEEN KUMAR PASWAN             ANC01 EEC11     
+  221 MAH-115611430   0522        RAGHUNATH YADAV                 MPSE003   
+  222 BDP-115611470   0522        HEMA KUMARI                     ACC01 ANC01     
+  223 BDP-115611691   0522        BABY KUMARI                     ACS01 ERD01 ESO11 ESO16     
+  224 BDP-115612020   0522        SUKHDEV SAH                     EHI03 EHI04 EHI07 FST01     
+  225 BDP-115612038   0522        BRIJ KISHOR PRASAD              EHI03 EHI04 EHI07 FST01     
+  226 BDP-115612228   0522        SHAILENDRA KUMAR JHA            ECO01 ECO03 ESO13     
+  227 BDP-115612235   0522        MD AQUIL                        ANC01 BECE214 ESO15 ESO16     
+  228 BDP-115612242   0522        MD KALIM                        ANC01 BECE214 ESO15 ESO16     
+  229 MAH-115612250   0522        SANGEETA KUMARI                 MHI04 MHI05     
+  230 BDP-115612346   0522        SHAILENDRA KUMAR PANDEY         EHI01     
+  231 BDP-115612392   0522        RINKU KUMARI                    ACC01 ERD01 ESO15 ESO16     
+  232 MAH-115612418   0522        NITU KUMARI                     MHI02     
+  233 BDP-115612582   0522        MINAKSHI                        BEGE105 BPAE102 EEG04 EEG06 ERD01     
+  234 BDP-115612590   0522        MUKESH KUMAR PASWAN             ANC01 EEC11     
+  235 BDP-115612608   0522        BALESHWAR PASWAN                ANC01     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    6
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0522                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  236 BDP-115612615   0522        LALITA KUMARI                   ANC01     
+  237 BDP-115612758   0522        PAPPU KUMAR                     ANC01 EHI05 EHI06 EHI07     
+  238 BDP-115612765   0522        SUBHASH KUMAR                   ANC01 EHI05 EHI06 EHI07     
+  239 BDP-115612797   0522        SHAILENDRA KUMAR YADAV          ANC01     
+  240 BDP-115612820   0522        RAIHANATUR RASOOL               ACC01 EPS03 ESO13 ESO15 ESO16     
+                                                                  FST01     
+  241 BDP-115612890   0522        AJAY KUMAR SAHNI                ANC01 EHD06 ESO13 ESO14 ESO15     
+                                                                  ESO16     
+  242 BCA-115613140   0522        ABHISHEK RAM                    MCS022    
+  243 BCA-115613205   0522        KAUSHAL KUMAR THAKUR            BCS012 BCS031 BCS040 BCS041 BCS051    
+                                                                  BCS052 BCS053 BCS054 BCS062 BCSL063 MCS011 MCS014 MCS021 MCS022 MCS023 MCS024    
+  244 BCA-115613244   0522        MINAKSHI KUMARI                 BCS062 BCSL063 MCS022    
+  245 BCA-115613276   0522        GARIMA KUMARI                   BCS012 BCS031 BCS040 BCS041 BCS042    
+                                                                  BCS051 BCS052 BCS053 BCS055 FEG02 MCS011 MCS013 MCS014 MCS021 MCS022 MCS024    
+  246 BCA-115613387   0522        BAGISHWARI KUMARI               BCS041 BCS051 BCS052 BCS053 BCS054    
+                                                                  BCS055 BCSL056 BCSL057 BCSL058 MCS021 MCS023 MCS024    
+  247 BCA-115613410   0522        MD SHAFQAUT NAWAZ QAMAR         BCS012 BCS040 BCS042 BCS053 BCSL021   
+                                                                  BCSL022 MCS011 MCS021 MCS022    
+  248 MAH-115613473   0522        ANURADHA KUMARI                 MHI03 MHI04 MHI06 MHI08 MPSE003   
+                                                                  MPSE004   
+  249 MEC-115613480   0522        HIMANSHU KUMAR                  MEC002 MEC003 MEC004 MEC007 MEC008    
+                                                                  MEC009    
+  250 BCA-115613584   0522        SWATI KUMARI                    MCS022    
+  251 BDP-115613925   0522        JAY PRAKASH MAHTO               EHI02     
+  252 MAH-115614103   0522        SANJEEV KUMAR YADAV             MHI04 MPSE003 MPSE004   
+  253 BDP-115614150   0522        SARITA KUMARI                   ACC01 EHD02 ESO15 ESO16     
+  254 BDP-115614207   0522        PUNAM KUMARI                    ACC01 EHD02 ESO15 ESO16     
+  255 MAH-115614285   0522        SHYAMAL KUMAR LABH              MHI03 MHI04 MHI05 MHI06 MHI08     
+                                                                  MPSE003   
+  256 BCA-115614364   0522        RAJEEV RANJAN                   BCS040 BCS052 BCS062 MCS021 MCS022    
+                                                                  MCS024    
+  257 BDP-115614443   0522        MANOJ KUMAR THAKUR              ANC01     
+  258 MCA-115614482   0522        HARI OM JHA                     MCS022 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  259 BDP-115614697   0522        UTTAM KUMAR JHA                 ACC01 BMAF001 EHI01 EHI03 EHI05     
+                                                                  EHI06 ERD01 ESO11     
+  260 MEC-115614776   0522        SNEHA ANAND                     MEC003    
+  261 BDP-115614902   0522        DEO SHANKAR CHAUDHARY           ACC01 EHI03     
+  262 BCA-115615151   0522        PRIYADARSHI POOJA               BCS012 BCS031 BCS040 BCS051 BCS053    
+                                                                  BCS054 BCS062 BCSL063 MCS011 MCS021 MCS022 MCS023 MCS024    
+  263 BCA-115615183   0522        VIKASH KUMAR GUPTA              BCS012 BCS031 BCS040 BCS041 BCS051    
+                                                                  BCS052 BCS053 BCS062 BCSL063 MCS011 MCS012 MCS014 MCS022 MCS023    
+  264 MCA-115615223   0522        MANISH KUMAR                    MCS011 MCS012 MCS021 MCS022 MCS023    
+                                                                  MCS024 MCS031 MCS032 MCS033 MCS034 MCS042    
+  265 BDP-115615302   0522        GAUTAM KUMAR SINGH              EPS12     
+  266 BEDSE-115624136 0522        SUMAN KUMAR                     MMDE035   
+  267 BEDSE-115624247 0522        RENU KUMARI                     MMDE034 MMDE035   
+  268 BDP-115628799   0522        SEEMA KUMARI RAJAK              ANC01     
+  269 BDP-115649058   0522        AMBIKA KUMARI                   ANC01 ESO15     
+  270 BDP-115649262   0522        SANJAY KUMAR SUMAN              ANC01     
+  271 BDP-115649477   0522        ASHOK KUMAR YADAV               ESO13 FST01     
+  272 BDP-115649491   0522        NARESH KUMAR MUKHIYA            EPS11 ESO13 FST01     
+  273 BDP-115650378   0522        MAMTA KUMARI                    ANC01 EPS09 EPS15     
+  274 BCA-115652640   0522        PRAVIN KUMAR RAY                BCS031 BCS040 BCS041 BCS042 BCS052    
+                                                                  BCS062 BCSL013 BCSL032 BCSL044 BCSL063 MCS011 MCS012 MCS021 MCS022 MCS023 MCS024    
+  275 BCA-115652665   0522        POOJA KUMARI                    BCS031 BCS040 BCS041 BCS042 BCS051    
+                                                                  BCS052 BCS053 BCS062 BCSL063 MCS011 MCS012 MCS021 MCS022 MCS023 MCS024    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    7
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0522                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  276 MSO-115664462   0522        SUDHA KUMARI                    MSO002    
+  277 BCA-115666370   0522        MANISH KUMAR SINGH              BCS031 BCS041 BCS042 BCS051 BCS052    
+                                                                  BCS053 BCS054 BCS062 BCSL058 BCSL063 MCS011 MCS012 MCS021 MCS022 MCS024    
+  278 BCA-115666506   0522        VIDHI KUMARI                    BCS012 BCS040 BCS053 BCS054 BCS062    
+                                                                  BCSL063 MCS011 MCS022    
+  279 BCA-115666545   0522        RUBY KUMARI                     BCS012 BCS031 BCS040 BCS041 BCS042    
+                                                                  BCS053 BCS054 MCS011 MCS014 MCS021 MCS022 MCS023 MCS024    
+  280 BCA-115666584   0522        NIGAR FATMA                     BCS012 BCS031 FEG02 MCS011 MCS014    
+                                                                  MCS021 MCS022 MCS023    
+  281 MCA-115666617   0522        RAJAN RANJAN MISHRA             BCS012 BCS040 BCSL032 MCS011 MCS022    
+                                                                  MCS031 MCS032 MCS033 MCS034 MCS035 MCSL036   
+  282 BCA-115666649   0522        GAUTAM KUMAR CHOUDHARY          BCS040 BCS042 BCS054 MCS011 MCS021    
+                                                                  MCS022 MCS024    
+  283 BCA-115666703   0522        FARHEEN JAHAN                   BCS053 BCS062 BCSL063 MCS022    
+  284 BCA-115673408   0522        ANURADHA                        BCS053 BCS062 BCSL063 MCS022    
+  285 MCA-116093510   0522        PRAGYA BHARATI                  MCS053    
+  286 BDP-116514806   0522        RUPA MISHRA                     BSHF101 ECO01 MTE02 MTE06     
+  287 BCA-116937321   0522        GIRDHAR KUMAR ROY               BCS012 BCS031 BCS040 BCS042 BCS054    
+                                                                  BCS062 ECO02 MCS014 MCS021 MCS024    
+  288 BCA-117041665   0522        ASHISH KUMAR MISHRA             BCS031 BCS040 BCS041 BCS052 BCS053    
+                                                                  BCS054 BCS062 ECO02 MCS011 MCS021 MCS022 MCSL016   
+  289 BDP-117572857   0522        ALOK RANJAN JHA                 EHI01 EPA03 EPA04 EPA05 EPA06     
+                                                                  FST01     
+  290 BDP-117661390   0522        NISHA                           ECO11 EEG06     
+  291 BHM-118302813   0522        AMAN RAJ SINHA                  TS01      
+  292 DELVI-118579007 0522        AMIT KUMAR SRIWASTAB            BET022 BIEE028 BIEE030 BIEE032 BIEE035   
+                                                                  BIEE036 BIEE037 BIEE038 BIEEE005 BIEL027 BIMEE030  
+  293 BDP-121935660   0522        SARASWATI KUMARI                ATR01 EHD02 EHD04 EHD06 EHI05     
+  294 MAH-122229346   0522        UPMA KUMARI                     MHI04 MPSE003   
+  295 MCOM-122229360  0522        PRAMOD SAHANI                   IBO06     
+  296 MAH-122229385   0522        SUSHMA KUMARI CHAUHAN           MHI01 MHI02 MHI03 MHI04 MPSE003   
+  297 MAH-122229400   0522        ANJEERA KUMARI                  MHI04     
+  298 MAH-122229425   0522        DEENA NATH GIRI                 MHI08 MPSE004   
+  299 MPS-122229440   0522        MAHESH KUMAR MANDAL             MPSE004   
+  300 MAH-122229471   0522        KALPANA KUMARI                  MHI01 MHI02 MHI06 MPSE003 MPSE004   
+  301 MEG-122229489   0522        ANURADHA                        MEG05     
+  302 MSO-122229536   0522        SHILPI KUMARI                   MSOE001   
+  303 BDP-122229568   0522        INDU KUMARI                     ATR01 EPS11 ESO15 ESO16     
+  304 BDP-122229740   0522        PUNAM KUMARI                    ACC01 EHI05 EHI06     
+  305 BDP-122229820   0522        PRAVEEN KUMAR                   EHI03 EHI04 ERD01 FST01     
+  306 MCOM-122230548  0522        SHAMRAN ALAM KHAN               MCO01 MCO03 MCO07     
+  307 BDP-122230610   0522        KESHAV KISHOR                   ACC01 EHI05 EHI06 EPS03     
+  308 BDP-122230627   0522        BIPIN  KUMAR                    ACC01 EHI05 EHI06 EPS03     
+  309 BDP-122230634   0522        KUMARI SUSHMITA                 ANC01 BECE016 EEC11 EEC14 ERD01     
+                                                                  FHD02     
+  310 BCA-122230824   0522        KAUSTUBH KIRTIMAN               BCS031 BCS040 BCS041 BCS042 BCS051    
+                                                                  BCS052 BCS053 BCS062 BCSL032 BCSL063 MCS011 MCS014 MCS021 MCS022 MCS023 MCS024    
+  311 BDP-122234774   0522        AJAY KUMAR RAM                  ACC01 ANC01 EHI05 EHI06     
+  312 BCA-122242908   0522        MANI SHANKAR THAKUR             BCS053 BCS062 BCSL056 BCSL063 MCS022    
+  313 BCA-122243021   0522        RAHUL KUMAR                     BCS011 BCS012 BCS031 BCS040 BCS041    
+                                                                  BCS042 BCS052 BCS053 BCS054 BCS055 BCS062 BCSL063 MCS013 MCS023 MCS024    
+  314 BDP-122247161   0522        KUMAR UPRAJ                     BEGE105 ESO11 FST01     
+  315 BCA-122247494   0522        SIKKU KUMAR                     BCS012 BCS040 BCS041 BCS042 BCS052    
+                                                                  BCS053 BCS055 BCS062 BCSL063 MCS011 MCS012 MCS014 MCS021 MCS022 MCS023 MCS024    
+  316 BED-122276449   0522        SATISH CHANDRA PATHAK           BESE065 BESE066 ES334 ES335 ES342     
+                                                                  ES361     
+  317 BED-122277189   0522        RITESH KUMAR                    ES344     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    8
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0522                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  318 MED-122279831   0522        SHAGUFTA NIGAR                  MES056    
+  319 BDP-125693112   0522        SARASWATI                       BEGE102 EHI04     
+  320 BDP-126269888   0522        REKHA SINHA                     EPA04 FST01     
+  321 BDP-126618400   0522        ANKITA VINOD JHA                BPAE102 EPA01 EPA03 EPA04     
+  322 BDP-126663911   0522        ROHIT KUMAR PANDEY              EPA01 EPA03 EPA04 FST01     
+  323 MARD-126696049  0522        SHASHI PRABHA MISHRA            MRD101 MRDE002 MRDE003 RDD06 RDD07     
+  324 MSO-126696095   0522        VANDANA  KUMARI                 MSOE001   
+  325 MSO-126696239   0522        PRABHA KUMARI                   MPS003 MSOE001 MSOE003 MSOE004   
+  326 MHD-126696246   0522        HARISH CHANDRA JHA              MHD05 MHD14     
+  327 BDP-126696887   0522        ANITA KUMARI                    EPS11 ESO13 ESO14 FST01     
+  328 BDP-126696894   0522        SINGAR                          BSHF101 EHD02 EHD03 EHD05     
+  329 BDP-126696980   0522        PUSHPA KARN                     EHD01 ESO13 FHD02 FST01     
+  330 BDP-126697040   0522        JAY SHREE KUMARI                BHDF101 EHD01 ESO11 ESO13 FHD02     
+                                                                  FST01     
+  331 BDP-126697105   0522        RAVISHANKAR PASWAN              EHD05 EHI03 EHI04 FST01     
+  332 BDP-126697144   0522        ARTI KUMARI                     EHD01 ESO13     
+  333 BDP-126697151   0522        MANJU KUMARI                    EHI01 ESO13 FST01     
+  334 BDP-126697800   0522        KUMARI ARCHANA                  EHD06     
+  335 BDP-126697832   0522        SWATI                           EHD01 ESO13     
+  336 BDP-126698010   0522        MANJU  DEVI                     FST01     
+  337 BDP-126698074   0522        BINDU KUMARI                    BEGE102 EHI01     
+  338 MCOM-126698218  0522        BINOD KUMAR YADAV               MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  339 MARD-126698225  0522        SANJAY  KUMAR                   RDD06     
+  340 MSW-126698232   0522        MD  BAQAUDDIN                   MSW001 MSW006 MSW007 MSW008 MSW009    
+                                                                  MSWE001 MSWE003   
+  341 BDP-126698240   0522        DEVESH KUMAR JHA                FST01     
+  342 BDP-126698336   0522        SAPNA  KUMARI                   ERD01 ESO13 ESO14 FST01     
+  343 MSW-126698390   0522        MD MOZAHIRUL  ISLAM             MSW007 MSW008 MSW009 MSWE001 MSWE003   
+  344 BDP-126698415   0522        PAWAN KUMAR PASWAN              EHD05 EHI03     
+  345 BDP-126698422   0522        RAMBHA KUMARI                   EHD02 EHD03 EHD06 FST01     
+  346 BDP-126698637   0522        ARTI KUMARI                     BHDF101 ESO13 FST01     
+  347 MHD-126698802   0522        KHUSHBOO RANI                   MHD03 MHD07 MHD16     
+  348 BDP-126698938   0522        KAMINI KUMARI                   EHD01 ESO13     
+  349 BDP-126698952   0522        DEEPAK KUMAR                    EHI03     
+  350 BCA-126699155   0522        JYOTI KUMARI                    BCS031 BCS041 BCS051 BCS052 BCS053    
+                                                                  BCS054 BCS055 BCSL056 BCSL057 BCSL058 MCS021 MCS024    
+  351 BDP-126699170   0522        RAJA RAM YADAV                  EHI01 ESO13     
+  352 MHD-126699417   0522        RAM BABU SINGH                  MHD05     
+  353 MCA-126699431   0522        KRISHNA KUMARI                  BCS041 BCS051 BCS052 BCS053 BCS054    
+                                                                  BCS055 BCSL056 BCSL057 BCSL058 MCS023 MCS024    
+  354 BDP-126699456   0522        PARWATI KUMARI                  EHD01 ESO13 FST01     
+  355 BDP-126699470   0522        MANOJ KUMAR                     MTE06     
+  356 MCOM-126699535  0522        PREETI                          MCO01     
+  357 BCA-126699550   0522        ANIL KUMAR YADAV                BCS012 BCS031 BCS040 BCS041 BCS051    
+                                                                  BCS052 BCS053 BCS054 BCS055 BCSL056 BCSL057 BCSL058 MCS021 MCS023 MCS024    
+  358 BCA-126699574   0522        SUMAN KUMAR SAHU                BCS031 BCS040 BCS041 BCS051 BCS052    
+                                                                  BCS053 BCS054 BCS055 BCSL056 BCSL057 BCSL058 MCS011 MCS021 MCS023 MCS024    
+  359 BCA-126699660   0522        SWETA KUMARI                    BCS041 BCS051 BCS052 BCS053 BCS054    
+                                                                  BCS055 BCSL056 BCSL057 BCSL058 MCS011 MCS021 MCS023 MCS024    
+  360 BDP-126699685   0522        KAUSER FATMA                    BSHF101 EHI01     
+  361 BDP-126699692   0522        NISHAT FATMA                    BSHF101 EHI01     
+  362 MHD-126699718   0522        SHYAMA NAND JHA                 MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  363 BDP-126699764   0522        KUMARI BABITA                   EHD03 EHD06     
+  364 MARD-126699771  0522        ISHA SANDILYA                   MRD004 MRDE002 MRDE003 MRDE101 RDD06     
+                                                                  RDD07     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    9
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0522                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  365 BCA-126699804   0522        RAJA KUMAR BHAGAT               BCS051 BCS052 BCS053 BCS054 BCS055    
+                                                                  BCSL056 BCSL057 BCSL058 MCS024    
+  366 BCA-126699829   0522        SHIWANI SINGH                   BCS011 BCS012 BCSL021 BCSL022 BCSL032   
+                                                                  BCSL033 BCSL034 BCSL043 BCSL044 BCSL045 MCS012 MCS013 MCS015 MCS021 MCS023 MCSL016   
+  367 BCA-126699836   0522        NAVNIT KUMAR JHA                BCS041 BCS051 BCS052 BCS053 BCS054    
+                                                                  BCS055 BCSL056 BCSL057 BCSL058 MCS021 MCS024    
+  368 MAH-126699875   0522        MD MAZHAR ALAM                  MHI02 MHI05 MHI06 MHI08 MPSE003   
+                                                                  MPSE004   
+  369 BCA-126699961   0522        PRABHAT KUMAR                   BCS040 BCS041 BCS051 BCS052 BCS053    
+                                                                  BCS054 BCS055 BCSL056 BCSL057 BCSL058 MCS014 MCS021 MCS023 MCS024    
+  370 BDP-126700091   0522        CHANDAN  KUMAR CHAUDHARY        EHD03 EHD05 EHD06 FST01     
+  371 BCA-126700149   0522        DEEPAK KUMAR MISHRA             BCS041 BCS051 BCS052 BCS053 BCS054    
+                                                                  BCS055 BCSL056 BCSL057 BCSL058 MCS021 MCS023    
+  372 BDP-126700353   0522        HIMANSHU RAVI SHEKHAR           EPS11     
+  373 BDP-126700360   0522        DHARMENDRA  KUMAR               BSHF101 CHE04 MTE01 MTE04 MTE05     
+  374 BDP-126700425   0522        FULL KUMAR JHA                  EHD01 ESO13 FST01     
+  375 BDP-126700464   0522        KISHAN SAHANI                   BSWE004 ESO13 ESO14 FST01     
+  376 MAPC-126700471  0522        AYESHA                          MPCE021 MPCE022 MPCE023 MPCE024   
+                                                                  MPCE025 MPCE026   
+  377 MHD-126700615   0522        RITA KUMARI                     MHD04 MHD06 MHD07 MHD13 MHD14     
+                                                                  MHD15     
+  378 BCA-126700622   0522        ANUJ KUMAR JHA                  BCS012 BCS031 BCS041 BCS042 BCS051    
+                                                                  BCS052 BCS053 BCS054 BCS055 BCSL056 BCSL057 BCSL058 MCS011 MCS021 MCS023 MCS024    
+  379 MEG-126700661   0522        S. DAISY                        MEG05     
+  380 MEG-126700679   0522        AVILA THERESE                   MEG05     
+  381 BDP-126700686   0522        ANJANI KUMAR CHOUDHARY          EHI03     
+  382 MEG-126700805   0522        RAUSHAN KUMAR SINGH             MEG01 MEG02 MEG03 MEG05     
+  383 BCA-126700844   0522        RITESH KUMAR                    BCS041 BCS051 BCS052 BCS053 BCS054    
+                                                                  BCS055 BCSL045 BCSL056 BCSL057 BCSL058 MCS011 MCS021 MCS023 MCS024 MCSL016   
+  384 BDP-126700869   0522        RAM NARAYAN CHOUPAL             EHD01 EHI01     
+  385 MCOM-126700948  0522        SURAJ KUMAR MANDAL              IBO02     
+  386 MCOM-126700955  0522        RAHUL KUMAR                     IBO02     
+  387 BCA-126701093   0522        BIRENDRA KUMAR                  BCS012 BCS031 BCS040 BCS041 BCS051    
+                                                                  BCS052 BCS053 BCS054 BCS055 BCSL045 BCSL056 BCSL057 BCSL058 MCS011 MCS023 MCS024    
+  388 BCA-126701276   0522        ANKIT KUMAR MISHRA              BCS041 BCS051 BCS052 BCS053 BCS054    
+                                                                  BCS055 BCSL056 BCSL057 BCSL058 MCS011 MCS023 MCS024    
+  389 MEG-126701394   0522        KUMAR GAURAV                    MEG05 MEG07     
+  390 BDP-126701600   0522        CHANDAN KUMAR SAH               EHI03     
+  391 BDP-126701774   0522        KUMARI ARCHANA RANI             EHI03 FST01     
+  392 MEG-126709335   0522        PRINCE SARVAZNA                 MEG01 MEG02 MEG03 MEG04     
+  393 MSO-126712437   0522        ANNU KUMARI                     MPA016 MSOE001 MSOE003 MSOE004   
+  394 BEDSEHI-126715307                      0522        PALLAVI KUMARI                  MMDE028 MMDE030   
+  395 BCA-126748115   0522        JIBACHH SHARMA                  BCS031 BCS041 BCS051 BCS052 BCS053    
+                                                                  BCS054 BCS055 BCSL056 BCSL057 BCSL058 MCS011 MCS023 MCS024    
+  396 BDP-126906695   0522        MD AMIR HUSSAIN                 EPS03     
+  397 MAH-126909010   0522        MITHILESH KUMAR MANDAL          MPSE003 MPSE004   
+  398 MSW-126909139   0522        RAKESH KUMAR                    MSW007 MSW008 MSW009 MSWE001 MSWE003   
+  399 BDP-126910323   0522        AVINASH KUMAR                   EHD06 ESO13 FST01     
+  400 BDP-126910480   0522        NEHA KUMARI                     BHDF101 ESO13 FHD02     
+  401 BDP-126913114   0522        SOURABH KUMAR                   EHD06 ESO13     
+  402 BDP-126913121   0522        RANJAN KUMAR                    EHD06 ESO13     
+  403 BDP-126913350   0522        TANMAY SARKAR                   BEGE105 BEGE108 EHI07 FST01     
+  404 BCA-126913690   0522        GEETANJALI                      BCS041 BCS042 BCS051 BCS052 BCS053    
+                                                                  BCS054 BCS055 BCSL056 BCSL057 BCSL058 MCS011 MCS023 MCS024    
+  405 BCA-126913709   0522        CHANDAN KUMAR                   BCS012 BCS031 BCS040 BCS041 BCS051    
+                                                                  BCS052 BCS053 BCS054 BCS055 BCSL056 BCSL057 BCSL058 MCS023 MCS024    
+  406 BDP-126914155   0522        BALMIKI PURBEY                  CHE01 CHE04 CHE06 CHE09     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   10
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0522                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  407 BCA-126915900   0522        ABHISHEK  BHARDWAJ              BCS041 BCS051 BCS052 BCS053 BCS054    
+                                                                  BCS055 BCSL056 BCSL057 BCSL058 MCS024    
+  408 BCA-126915917   0522        JYOTI   KUMARI                  BCS031 BCS041 BCS051 BCS052 BCS053    
+                                                                  BCS054 BCS055 BCSL045 BCSL056 BCSL057 BCSL058 MCS011 MCS021 MCS023 MCS024    
+  409 BCA-126915949   0522        RAHUL KUMAR                     BCS051 BCS052 BCS053 BCS054 BCS055    
+                                                                  BCSL056 BCSL057 BCSL058   
+  410 BCA-126915963   0522        GAURI SHANKAR PASWAN            BCS011 BCS012 BCS051 BCS052 BCS053    
+                                                                  BCS054 BCS055 BCSL056 BCSL057 BCSL058 MCS021 MCS023 MCS024    
+  411 MCOMFT-1269964890522        SYED NISHAT AKHTER              IBO06 MCO01 MCO03 MCO04 MCO06     
+  412 MCOM-127145736  0522        AMAR NATH THAKUR                MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  413 BCOMAF-1273988230522        BRAJESH KUMAR                   FEG01     
+  414 MCOM-130167929  0522        MUKESH RAJAK                    IBO01 IBO04 IBO06 MCO01 MCO03     
+                                                                  MCO04 MCO05 MCO06 MCO07     
+  415 BDP-130195412   0522        ANKIT                           ECO03 ECO06 EEC10 EHI07 FST01     
+  416 MPA-130254888   0522        RAM KRISHNA YADAV               MPA015 MPA016 MPA017 MPA018 MPS003    
+  417 MAH-130258212   0522        PRAVIN KUMAR ROY                MHI01 MHI02 MHI04     
+  418 MEG-130260684   0522        PRATIBHA                        MEG01 MEG02 MEG03 MEG04 MEG05     
+                                                                  MEG06 MEG07 MEG10     
+  419 BDP-130260717   0522        ASHA KUMARI                     BSHF101 MTE01 MTE02 MTE04 MTE07     
+                                                                  MTE08 MTE09 MTE10 PHE06     
+  420 BDP-130260788   0522        SAURABH KUMAR JHA               BHDF101 BSHF101 EHI01 EHI02 FHD02     
+  421 BCA-130260921   0522        LOVELY CHAUHAN                  BCS031 BCS040 BCS041 BCS042 BCSL034   
+                                                                  BCSL043 BCSL044 BCSL045 ECO02 MCS014 MCS023 MCS024 MCSL016   
+  422 MAEDU-130261006 0522        NEETA SHUKLA                    MES016 MES031 MES032 MES033 MES034    
+  423 MAH-130261084   0522        SWATI KUMARI                    MHI01 MHI02 MHI05     
+  424 MCA-130261091   0522        CHHABI KUMARI                   MCS012 MCS014 MCS022 MCS023 MCS024    
+                                                                  MCS031 MCS032 MCS033 MCS041 MCS042 MCS043 MCSL025 MCSL036 MCSL045   
+  425 BDP-130261163   0522        ANILA KUMARI                    EHD01 EHI03 EHI04     
+  426 MEG-130261170   0522        SAURABH SUMAN                   MEG03 MEG04     
+  427 MSO-130261235   0522        REKHA KUMARI                    MSOE001 MSOE002 MSOE003 MSOE004   
+  428 BDP-130261353   0522        RATNA KUMARI                    BSHF101 FHD02 FST01     
+  429 BCA-130261471   0522        MRITYUNJAY JHA                  BCS031 BCS040 BCS041 BCS042 BCSL043   
+                                                                  BCSL044 MCS012 MCS021 MCS023 MCS024 MCSL016 MCSL045   
+  430 BDP-130261630   0522        ABHILASHA JHA                   BSHF101 CHE09 CHE10 LSE05 LSE06     
+                                                                  LSE07     
+  431 MTM-130261661   0522        RANJEET KUMAR                   MTM09 MTM10 MTM11 MTM12 MTM13     
+                                                                  MTM14 MTM15     
+  432 BCA-130261693   0522        PRIYANKA KUMARI                 BCS031 BCS040 BCS041 BCS042 BCSL043   
+                                                                  BCSL044 BCSL045 MCS021 MCS024 MCSL016   
+  433 PGDT-130261719  0522        ARUN KUMAR MANDAL               PGDT01    
+  434 BDP-130261726   0522        SHASHI RANJAN KUMAR             BSWE004 EPA03 EPA04 FST01     
+  435 MEG-130261765   0522        RANI KUMARI                     MEG05 MEG07 MEG10 MEG14     
+  436 MCOM-130261876  0522        PRABHAT NARAYAN MISHRA          IBO05     
+  437 BCA-130261930   0522        NEERAJ KUMAR CHOUDHARY          BCS040 BCS041 BCS042 BCSL043 BCSL044   
+                                                                  BCSL045 MCS021 MCS024 MCSL016   
+  438 MEG-130261994   0522        SANJEEV  SHRIVASTAVA            MEG02 MEG03 MEG04     
+  439 BDP-130262015   0522        SHUBHAM KUMARI                  BSHF101 CHE10 LSE05 LSE06 LSE07     
+  440 MEG-130262220   0522        MD IQBAL KHAN                   MEG01 MEG02 MEG03 MEG04     
+  441 MCA-130262498   0522        SANJAY  KUMAR RAUT              MCS012 MCS014 MCS031 MCS033 MCS035    
+  442 BDP-130262918   0522        RAJESH KUMAR SINGH              BHDF101 BSHF101 ESO11 ESO12 FHD02     
+  443 BDP-130263214   0522        CHANDAN KUMAR JHA               EEC11     
+  444 MHD-130263246   0522        MD TAFSIR AZAM GAUHAR           MHD01 MHD05 MHD06 MHD07 MHD13     
+                                                                  MHD14 MHD15 MHD16     
+  445 BCA-130263300   0522        NISHANT  RAJ                    BCS031 BCS040 BCS041 BCS042 BCSL043   
+                                                                  BCSL044 BCSL045 ECO02 MCS014 MCS023 MCS024 MCSL016   
+  446 BED-130266488   0522        ADITYA NATH JHA                 BESE065 BESE066 ES334 ES335 ES361     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   11
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0522                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  447 BED-130266542   0522        SANTOSH KUMAR SINGH             BESE065 BESE066 ES334 ES335 ES364     
+  448 BED-130266678   0522        PRABHAKAR KUMAR THAKUR          BESE065 BESE066 ES334 ES335 ES363     
+  449 BED-130266740   0522        MANISH KUMAR THAKUR             BESE065 BESE066 ES334 ES335 ES362     
+  450 BED-130266986   0522        ALKA PRASAD                     BESE065 BESE066 ES334 ES335 ES364     
+  451 BED-130267132   0522        RAM PRAKASH PASWAN              BESE065 BESE066 ES331 ES335 ES364     
+  452 BED-130267275   0522        ASHOK KUMAR PASWAN              BESE065 BESE066 ES334 ES335 ES364     
+  453 BED-130267354   0522        AMIT KUMAR SINGH                BESE065 BESE066 ES334 ES335 ES361     
+  454 BED-130267497   0522        RAMESH SAH                      BESE065 BESE066 ES334 ES335 ES364     
+  455 BED-130267505   0522        RAMAN KUMAR JHA                 BESE065 BESE066 ES334 ES335 ES364     
+  456 BED-130268030   0522        SANTOSH SHARMA                  BESE065 BESE066 ES334 ES335 ES364     
+  457 MARD-130288981  0522        DR ANAMIKA BORAH                MRD004 MRD101 MRD102 MRD103    
+  458 BDP-130344725   0522        BABITA RAI                      EEC13 EHD01 FST01     
+  459 BDP-130349899   0522        JAYANTI KUMARI                  EHI03 EHI07     
+  460 DNA-130400332   0522        SUMAN KUMARI                    BNS011    
+  461 BDP-131218512   0522        DIVYA PRIYADARSHINI             BSHF101 EHI03 EHI04 ERD01 FST01     
+  462 BED-131328343   0522        J SAJI                          BESE065 BESE066 ES334 ES335 ES361     
+  463 MSO-131534309   0522        NUTAN PRIYA                     MSOE001 MSOE002 MSOE003 MSOE004   
+  464 MHD-131556866   0522        RENU KUMARI SHARMA              MHD02 MHD03 MHD04 MHD06     
+  465 BDP-131565478   0522        MUKESH CHANDRA                  BPSE212 ESO13 ESO14 FST01     
+  466 MP-131600114    0522        NIDHI                           MS11 MS612 MS68 MS91      
+  467 BCA-131771347   0522        GANESH KUMAR                    BCS031 BCS040 BCS041 BCS042 BCSL043   
+                                                                  BCSL044 BCSL045 ECO02 MCS021 MCS023 MCS024 MCSL016   
+  468 MED-131772173   0522        LALAN KUMAR                     MES055 MES056 MESE067   
+  469 MED-131772324   0522        PRADIP KUMAR PRASAD             MES055 MES056 MESE061   
+  470 MED-131772349   0522        SHIV SHANKAR PRASAD             MES055 MES056 MESE060   
+  471 MED-131772370   0522        SUSHIL KUMAR YADAV              MES055 MES056 MESE060   
+  472 MED-131772428   0522        DAWAL RAM                       MES055 MES056 MESE064   
+  473 MED-131772435   0522        SATYA NARAYAN RAM               MES055 MES056 MESE058 MESE062   
+  474 MED-131772442   0522        NANDU KUMAR                     MES053 MES054 MES055 MES056 MESE067   
+  475 BED-131772546   0522        RAJU KUMAR MISHRA               BESE065 BESE066 ES334 ES335 ES364     
+  476 BED-131772618   0522        AMAR KUMAR DUTTA                BESE065 BESE066 ES334 ES335 ES363     
+  477 BED-131772664   0522        RAJEEV KUMAR                    BESE065 BESE066 ES334 ES335 ES364     
+  478 BCA-135590727   0522        NAVEEN KUMAR                    BCS012 BCS031 BCSL032 BCSL033 BCSL034   
+                                                                  ECO02 MCS012 MCS014 MCS021 MCS023    
+  479 CIT-137009296   0522        SHEKH ABID REZA                 CIT03 CITL001   
+  480 PGDESD-1370094150522        SANT BIHARI LAL DAS             MED001 MED002    
+  481 PGDRD-137009952 0522        ASHUTOSH MISHRA                 MRD101 RDD07     
+  482 DNHE-137011769  0522        DEEPMALA KUMARI                 DNHE01 DNHE02 DNHE03    
+  483 CIT-137012366   0522        PRAKRITI PRASUN                 CIT01 CIT02 CIT03 CITL001   
+  484 BDP-137020030   0522        BINIT VIKASH                    BEGE101 BEGE102 BSHF101 FEG01     
+                                                                  FEG02     
+  485 BLS-137021215   0522        SHANTANU KUMAR THAKUR           BLS01 BLS3P BLS4P     
+  486 BCA-137021247   0522        MD DANISH                       BCS012 BCS031 BCSL032 BCSL033 BCSL034   
+                                                                  ECO01 MCS011 MCS014 MCS021 MCS023    
+  487 BDP-137022145   0522        JAYPRAKASH  CHOUDHARY           BPAE102   
+  488 BDP-137024418   0522        SUSHILA  KUMARI                 BHDF101 EHI01 FHD02     
+  489 BCA-137024987   0522        SUPRIYA KUMARI                  BCS031 BCSL032 BCSL033 BCSL034 MCS014    
+                                                                  MCS021 MCS023    
+  490 BCA-137024994   0522        SAKSHI SIKHA                    BCS031 BCSL032 BCSL033 BCSL034 MCS014    
+                                                                  MCS021 MCS023    
+  491 BCA-137025030   0522        RAGHAV KUMAR MISHRA             BCS012 BCS031 BCSL032 BCSL033 BCSL034   
+                                                                  ECO02 MCS011 MCS014 MCS021 MCS023    
+  492 BCA-137025172   0522        SUNNY SAURABH                   BCS031 BCSL032 BCSL033 BCSL034 ECO02     
+                                                                  MCS014 MCS021 MCS023    
+  493 BCA-137025180   0522        MANISH KUMAR GUPTA              BCS031 BCSL032 BCSL033 BCSL034 MCS011    
+                                                                  MCS014 MCS021 MCS023    
+  494 BCA-137025205   0522        SAGAR KUMAR BHARADWAJ           BCS031 BCSL032 BCSL033 BCSL034 ECO02     
+                                                                  MCS011 MCS014 MCS021 MCS023    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   12
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0522                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  495 BDP-137026246   0522        SUBODH KUMAR KUSHWAHA           BHDF101 BSHF101 EHI01 EHI02 FHD02     
+  496 BDP-137027491   0522        ABHISHEK  KUMAR                 BEGE102 FEG01 FEG02     
+  497 BDP-137027667   0522        SURABHI  KUMARI                 EHI01     
+  498 BCA-137028945   0522        POOJA KUMARI                    BCS031 BCSL032 BCSL033 BCSL034 MCS014    
+                                                                  MCS021 MCS023    
+  499 BCA-137028952   0522        NADRA PARWEEN                   BCS031 BCSL032 BCSL033 BCSL034 MCS014    
+                                                                  MCS021 MCS023    
+  500 BCA-137028984   0522        ASHISH KUMAR                    BCS031 BCSL032 BCSL033 BCSL034 ECO02     
+                                                                  MCS014 MCS021 MCS023    
+  501 BCA-137029012   0522        SAUMYA                          BCS012 BCSL021 BCSL022 ECO02 MCS011    
+                                                                  MCS012 MCS013 MCS015    
+  502 BCA-137029020   0522        ANIMESH BHAGAT                  BCS012 BCS031 BCSL032 BCSL033 BCSL034   
+                                                                  ECO02 MCS011 MCS014 MCS021 MCS023    
+  503 BCA-137029037   0522        NEELU KUMARI                    BCS031 BCSL032 BCSL033 BCSL034 MCS014    
+                                                                  MCS021 MCS023    
+  504 BCA-137029076   0522        SONALI KUMARI                   BCSL032 BCSL033 BCSL034 MCS014    
+                                                                  MCS021 MCS023    
+  505 BCA-137029083   0522        NIHARIKA                        BCS031 BCSL032 BCSL033 BCSL034 ECO02     
+                                                                  MCS014 MCS021 MCS023    
+  506 BCA-137030658   0522        SUDHIR  KUMAR                   BCS011 BCS012 BCS031 BCSL032 BCSL033   
+                                                                  BCSL034 ECO02 MCS011 MCS012 MCS013 MCS014 MCS021 MCS023    
+  507 BCA-137030665   0522        SURENDRA  KUMAR SUMAN           BCS011 BCS012 BCSL021 BCSL022 ECO02     
+                                                                  MCS011 MCS012 MCS013 MCS015    
+  508 BCA-137030672   0522        NIRMAL  KUMAR YADAV             BCS011 BCS012 BCS031 BCSL032 BCSL033   
+                                                                  BCSL034 ECO02 MCS014 MCS021 MCS023    
+  509 BDP-137031642   0522        ANAMIKA  KUMARI                 EHI01     
+  510 BCA-137031778   0522        SHAISHTA    KHANAM              BCS031 BCSL032 BCSL033 BCSL034 ECO02     
+                                                                  MCS011 MCS014 MCS021 MCS023    
+  511 BCA-137031792   0522        RAJBEER  DAS                    BCS012 BCS031 BCSL032 BCSL033 BCSL034   
+                                                                  ECO02 MCS014 MCS021 MCS023    
+  512 BCA-137032336   0522        VINEET  MAYANK                  BCS011 BCS012 BCSL013 ECO01 FEG02     
+  513 BDP-137032920   0522        VIJAYJEE  KUMAR                 EEC11     
+  514 BCA-137035317   0522        SHUBHAM  KUMAR                  BCS031 BCSL032 BCSL033 BCSL034 MCS013    
+                                                                  MCS014 MCS023    
+  515 BCA-137035331   0522        ROHIT  KUMAR                    BCS031 BCSL032 BCSL033 BCSL034 MCS011    
+                                                                  MCS014 MCS021 MCS023    
+  516 BCA-137035435   0522        ADITYA CHAUDHARY                BCS031 BCSL032 BCSL033 BCSL034 ECO02     
+                                                                  MCS011 MCS012 MCS014 MCS021 MCS023    
+  517 BCA-137035481   0522        RASHMI KUMARI                   BCS031 BCSL032 BCSL033 BCSL034 ECO02     
+                                                                  MCS011 MCS014 MCS021 MCS023    
+  518 BCA-137035499   0522        MADHU YAMINI                    BCS011 BCS012 BCS031 BCSL032 BCSL033   
+                                                                  BCSL034 ECO02 MCS011 MCS012 MCS013 MCS014 MCS021 MCS023    
+  519 BCA-137035507   0522        NIKET KUMAR                     BCS031 BCSL032 BCSL033 BCSL034 ECO02     
+                                                                  MCS011 MCS014 MCS021 MCS023    
+  520 BCA-137035521   0522        SHASHIBHUSHAN RAY               BCS031 BCSL032 BCSL033 BCSL034 MCS011    
+                                                                  MCS012 MCS014 MCS021 MCS023    
+  521 BCA-137035539   0522        MUKESH KUMAR SHARMA             BCS011 BCS012 BCSL021 BCSL022 ECO02     
+                                                                  MCS011 MCS012 MCS013 MCS015    
+  522 BCA-137035553   0522        NEHA                            BCS012 BCS031 BCSL032 BCSL033 BCSL034   
+                                                                  MCS011 MCS012 MCS014 MCS021 MCS023    
+  523 BCA-137035578   0522        YASH KUMAR                      BCS031 BCSL032 BCSL033 BCSL034 ECO02     
+                                                                  MCS011 MCS012 MCS014 MCS021 MCS023    
+  524 BCA-137035618   0522        SONI KUMARI                     BCS031 BCSL032 BCSL033 BCSL034 MCS011    
+                                                                  MCS014 MCS015 MCS021 MCS023    
+  525 MAH-137054847   0522        KHUSHBOO KUMARI                 MHI01 MHI02 MHI04 MHI05     
+  526 MAH-137055208   0522        CHHAYA KUMARI                   MHI01 MHI02 MHI05     
+  527 MCOM-137055824  0522        SYED AAMIR ALI AFZAL            IBO01 IBO02 IBO03     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   13
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0522                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  528 MAEDU-137056034 0522        MAMATA ROY                      MES011 MES012 MES013 MES014    
+  529 MP-137056138    0522        SWETA GUPTA                     MS02 MS05      
+  530 MP-137056145    0522        ANSHU KUMARI                    MS01 MS02 MS03 MS05      
+  531 MP-137056224    0522        SUGANDHA JHA                    MS09 MS10 MS11 MS25      
+  532 MCOM-137056367  0522        NISHI KIRAN JHA                 IBO01 IBO02 IBO03 IBO05 IBO06     
+  533 MAH-137057036   0522        MENU KUMARI                     MHI01 MHI02 MHI04 MHI05     
+  534 MAPC-137057383  0522        NAZIA NAQUI                     MPC003    
+  535 MPS-137058647   0522        JITENDRA PRASAD KARNA           MPS001    
+  536 MSO-137058654   0522        KUMARI KIRAN JHA                MSO001 MSO002    
+  537 MAH-137058890   0522        NEELMANI KUMAR                  MHI01 MHI02 MHI04 MHI05     
+  538 MARD-137059290  0522        PRABHAKAR SUMAN                 MRD004 MRD101 MRD102 MRD103    
+  539 MHD-137059466   0522        RAJNI KANT KAMAT                MHD02 MHD03 MHD04 MHD06     
+  540 MAH-137059940   0522        RUPA KUMARI                     MHI01 MHI02 MHI04 MHI05     
+  541 MPS-137059989   0522        AVINASH KUMAR                   MPS001 MPS004    
+  542 MP-137060399    0522        PANKAJ  KUMAR                   MS01 MS02 MS03 MS06      
+  543 MPA-137517996   0522        SUMIT KUMAR                     MPA011 MPA012 MPA013 MPA014    
+  544 CFN-140201520   0522        MD NASEEM                       CFN01 CFN02 CFN03     
+  545 CFN-140201544   0522        MD ZAFIRUL HASAN                CFN01 CFN02 CFN03     
+  546 CFN-140201551   0522        SANJIV KUMAR MISHRA             CFN01 CFN02 CFN03     
+  547 CFN-140201569   0522        HEMA DEVI                       CFN01 CFN02 CFN03     
+  548 CFN-140201590   0522        MAHENDRA KUAMR SAHU             CFN01 CFN02 CFN03     
+  549 CFN-140201616   0522        JAGDISH JHA                     CFN01 CFN02 CFN03     
+  550 CFN-140201623   0522        SANJEET KUAMR PASWAN            CFN01 CFN02 CFN03     
+  551 CFN-140201630   0522        SHAVNAM KUMARI                  CFN01 CFN02 CFN03     
+  552 CFN-140201687   0522        RAM BINOD RAI                   CFN01 CFN02 CFN03     
+  553 CFN-140201710   0522        KUMAR GAURAV                    CFN01 CFN02 CFN03     
+  554 CFN-140201727   0522        RAKESH KUAMR MAHATO             CFN01 CFN02 CFN03     
+  555 CFN-140201766   0522        MANOJ KUMAR BHAGAT              CFN01 CFN02 CFN03     
+  556 CFN-140201806   0522        ANUJA BHARATI                   CFN01 CFN02 CFN03     
+  557 CFN-140201820   0522        SHABHU PRASAD SAH               CFN01 CFN02 CFN03     
+  558 CFN-140201838   0522        JAY YAY RAM YADAV               CFN01 CFN02 CFN03     
+  559 CFN-140201845   0522        KAMALCHANDRA JHA                CFN01 CFN02 CFN03     
+  560 CFN-140201852   0522        ANAND MOHAN THAKUR              CFN01 CFN02 CFN03     
+  561 DNHE-140202736  0522        AJAY KUMAR                      DNHE01 DNHE02 DNHE03    
+  562 DNHE-140202768  0522        PAPU PASWAN                     DNHE01 DNHE02 DNHE03    
+  563 DNHE-140202775  0522        JAGDEO DAS                      DNHE01 DNHE02 DNHE03    
+  564 DNHE-140202782  0522        MITHILESH KUMAR                 DNHE01 DNHE02 DNHE03    
+  565 DNHE-140202822  0522        ABNISH KUMAR MISHRA             DNHE01 DNHE02 DNHE03    
+  566 DNA-142107466   0522        KAVITA KUMARI                   BNS011 BNS012 BNS013 BNS014    
+  567 DNA-142107513   0522        SARITA KUMARI                   BNS011 BNS012 BNS013 BNS014    
+  568 DNA-142107617   0522        RIMA KUMARI                     BNS011 BNS012 BNS013 BNS014    
+  569 DNA-142107649   0522        KAVITA KUMARI                   BNS011 BNS012 BNS013 BNS014    
+  570 DNA-142107663   0522        VINEETA KUMARI                  BNS011 BNS012 BNS013 BNS014    
+  571 DNA-142107670   0522        POONAM KUMARI                   BNS011 BNS012 BNS013 BNS014    
+  572 DNA-142107688   0522        BANITA KUMARI                   BNS011 BNS012 BNS013 BNS014    
+  573 DNA-142107695   0522        CHANDA KUMARI                   BNS011 BNS012 BNS013 BNS014    
+  574 DNA-142107918   0522        SUSHILA KUMARI                  BNS011 BNS012 BNS013 BNS014    
+  575 MEG-142276220   0522        ANIMA JHA                       MEG02 MEG03 MEG04     
+  576 MAH-142386770   0522        RAM KRISHNA                     MHI01 MHI02 MHI04 MHI05     
+  577 BDP-142760952   0522        BIJAY KUMAR SAHU                BHDF101 BSHF101 ESO11 ESO12 FHD02     
+  578 BDP-142760984   0522        BABY KUMARI                     BHDF101 BSHF101 ESO11 ESO12 FHD02     
+  579 BDP-142761400   0522        AKHILESH KUMAR JHA              BHDF101 BPAE102 BSHF101 EPA01     
+                                                                  FHD02     
+  580 BDP-142761725   0522        MAHESH PANDIT                   BHDF101 BSHF101 EHI01 EHI02 FHD02     
+  581 BDP-142761740   0522        ARVIND KUMAR SAH                BSHF101 ESO11 FHD02     
+  582 BCA-142763926   0522        VIKASH  KUMAR                   BCSL021 BCSL022 MCS011 MCS012 MCS013    
+                                                                  MCS015    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   14
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0522                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  583 BCA-142763958   0522        SWATI KUMARI                    BCS012 BCSL021 BCSL022 ECO02 MCS011    
+                                                                  MCS012 MCS013 MCS015    
+  584 BCA-142763965   0522        VIVEK KUMAR KARN                BCS012 BCSL021 BCSL022 ECO02 MCS011    
+                                                                  MCS012 MCS013 MCS015    
+  585 BDP-142764040   0522        SANJAY KUMAR PASWAN             BHDF101 BSHF101 ECO01 ECO02 FEG01     
+  586 BDP-142764064   0522        SHRUTI  AGRAWAL                 BSHF101 ECO01 ECO02 EEC11 FEG01     
+                                                                  FEG02     
+  587 BDP-142764469   0522        MONA KUMARI                     BHDF101 BSHF101 EHI01 EHI02 FHD02     
+  588 BDP-142764888   0522        SIKANDAR  KUMAR PANJIYAR        BHDF101 BSHF101 ECO01 ECO02 EEC11     
+                                                                  FHD02     
+  589 BDP-142765145   0522        MUKESH KUMAR SAH                BHDF101 BSHF101 EHI01 EHI02 FHD02     
+  590 BDP-142765439   0522        SUBHASH  KUMAR THAKUR           BHDF101 BSHF101 ESO11 ESO12 FHD02     
+  591 BLS-142768552   0522        ANURADHA KUMARI                 BLS01 BLS02 BLS03 BLS04 BLS05     
+                                                                  BLS06 BLS07 BLS3P BLS4P     
+  592 BDP-142769128   0522        RAHUL KUMAR                     BSHF101 EHI01 EHI02     
+  593 BDP-142769633   0522        KUMARI ANITA RAJ                BHDF101 BSHF101 ESO11 ESO12 FHD02     
+  594 BDP-142769816   0522        SUSHMA SAH                      BHDF101 BSHF101 EHD01 FHD02     
+  595 BDP-142769848   0522        SATYAM KUMAR JHA                BHDF101 BSHF101 ESO11 ESO12 FHD02     
+  596 BLS-142769959   0522        NIRANJANA GARGI                 BLS01 BLS02 BLS03 BLS04 BLS05     
+                                                                  BLS06 BLS07 BLS3P BLS4P     
+  597 BCA-142771307   0522        PANKAJ KUMAR JHA                BCS011 BCS012 BCSL013 ECO01 FEG02     
+  598 BCA-142771314   0522        RAHUL KUMAR  CHOUDHARY          BCS012 BCSL021 BCSL022 ECO02 FEG02     
+                                                                  MCS011 MCS012 MCS013 MCS015    
+  599 CIT-142771590   0522        VARSHA KASHYAP                  CIT01 CIT02 CIT03 CITL001   
+  600 CFE-142774327   0522        ANISH KUMAR                     BEG004 BEG005 BEG006    
+  601 PGDRD-142774413 0522        RATISH KUMAR VERMA              MRD101 MRD102 MRD103 MRDE101   
+  602 COF-142774531   0522        ARVIND KUMAR                    BAP001 BAPI001 BAPI002 BAPI003   
+  603 PGDRD-142774990 0522        MANISH KUMAR                    MRD101 MRD102 MRD103 RDD07     
+  604 PGDRD-142775081 0522        DEEPAK KUMAR RAM                MRD101 MRD102 MRD103 RDD06     
+  605 DNHE-142775257  0522        KIRAN KUMARI                    DNHE01 DNHE02 DNHE03    
+  606 DNHE-142775709  0522        NANDINI KUMARI                  DNHE01 DNHE02 DNHE03    
+  607 PGDRD-142775716 0522        MANIKA KUMARI                   MRD101 MRD102 MRD103 MRDE101   
+  608 PGDRD-142775730 0522        SHOBHANA KUMARI                 MRD101 MRD102 MRD103 MRDE101   
+  609 MAH-142778062   0522        RAMESH KUMAR GUPTA              MHI01 MHI02 MHI04 MHI05     
+  610 MAH-142778070   0522        POONAM KUMARI                   MHI01 MHI02 MHI04 MHI05     
+  611 MAH-142778159   0522        DEJEE KUMARI                    MHI01 MHI02 MHI04 MHI05     
+  612 MSO-142778958   0522        SHWETA KUMARI                   MSO001 MSO002 MSO003 MSO004    
+  613 MHD-142779143   0522        RANGITA KUMARI                  MHD02 MHD03 MHD04 MHD06     
+  614 MHD-142779150   0522        ANURADHA MISHRA                 MHD02 MHD03 MHD04 MHD06     
+  615 MHD-142779168   0522        SITA KUMARI                     MHD02 MHD03 MHD04 MHD06     
+  616 MHD-142779175   0522        SAVITA KUMARI                   MHD02 MHD03 MHD04 MHD06     
+  617 MARD-142779222  0522        SUMITA DAS                      MRD004 MRD101 MRD102 MRD103    
+  618 MARD-142779254  0522        HARI OM KISHAN                  MRD004 MRD101 MRD102 MRD103    
+  619 MCOM-142779319  0522        RAJU KUMAR                      IBO01 IBO02 IBO03     
+  620 MCOM-142779326  0522        ABHIMANYU KUMAR KARN            IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  621 MCOM-142779817  0522        DINESH KUMAR SAHNI              IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  622 MARD-142779888  0522        AKSHAY KUMAR THAKUR             MRD004 MRD101 MRD102 MRD103    
+  623 MEG-142779935   0522        BHAWNA DEEP                     MEG01 MEG04     
+  624 MEG-142779942   0522        MD ASIF EQUBAL                  MEG01 MEG02 MEG03 MEG04     
+  625 MARD-142780069  0522        REWATI RAMAN JHA                MRD004 MRD101 MRD102 MRD103    
+  626 MARD-142780109  0522        SADAF PARWEEN                   MRD004 MRD101 MRD102 MRD103    
+  627 MEC-142780210   0522        VEENA VADINI                    MEC001 MEC002 MEC003 MEC004    
+  628 MAH-142780488   0522        SEEMA KUMARI                    MHI01 MHI02 MHI04 MHI05     
+  629 MSO-142781189   0522        PRATIBHA KUMARI                 MSO001 MSO002 MSO003 MSO004    
+  630 MSO-142781458   0522        PUNAM KUMARI                    MSO001 MSO002 MSO003 MSO004    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   15
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0522                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  631 MPS-142782009   0522        GURU PRASAD PASWAN              MPS001 MPS002 MPS003 MPS004    
+  632 MCA-142782180   0522        DILEEP KUMAR                    BCS012 MCS011 MCS013 MCS014 MCS021    
+                                                                  MCS022 MCS023 MCS024 MCSL016 MCSL017 MCSL025   
+  633 MCA-142782198   0522        ASHISH KUMAR NAPIT              MCS011 MCS021 MCS022 MCS023 MCS024    
+                                                                  MCSL025   
+  634 MSW-142782260   0522        SHIWANI KIRAN                   MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+  635 MSW-142782277   0522        MARIA ROSELIN M                 MSW001 MSW002 MSW003 MSW004    
+  636 MP-142782331    0522        KUMARI AMBIKA                   MS02      
+  637 MTM-142782370   0522        UJJWAL KUMAR                    MTM01 MTM02 MTM03 MTM04 MTM05     
+                                                                  MTM06 MTM07 MTM08     
+  638 MHD-142782782   0522        PHOOL KUMARI                    MHD02 MHD03 MHD04 MHD06     
+  639 MARD-142782879  0522        RANJEET KUMAR SAH               MRD004 MRD102 MRD103    
+  640 MEC-142783025   0522        SHWETA KUMARI                   MEC002 MEC004 MEC105    
+  641 MCOM-142783040  0522        SUJEET KUMAR                    IBO03 IBO04 IBO05     
+  642 MPS-142783168   0522        RAJEEV RANJAN PRASAD            MPS001 MPS002 MPS003 MPS004    
+  643 MED-142797808   0522        KALAMULLAH                      MES051 MES052 MES053 MES054 MESE057   
+  644 BED-142798182   0522        REENA YADAV                     ES331 ES332 ES333 ES344 ES345     
+  645 BED-142798791   0522        SHYAM SUNDAR PANDIT             ES331 ES332 ES333 ES343 ES345     
+  646 BED-142798817   0522        MOHAMMAD NAJMUDDIN              ES331 ES332 ES333 ES343 ES345     
+  647 BED-142799256   0522        PAPPU KUMAR                     ES331 ES332 ES333 ES341 ES343     
+  648 BED-142799295   0522        JEETENDRA KUMAR                 ES331 ES332 ES333 ES341 ES345     
+  649 MHD-143428706   0522        RUBY KUMARI                     MHD02 MHD03 MHD04 MHD06     
+  650 BCA-145243276   0522        ARYAN CHOUDHARY                 BCS011 BCS012 BCSL013 ECO01 FEG02     
+  651 BCA-147995017   0522        KUMAR SATYAH                    BCS011 BCS012 BCSL013 ECO01 FEG02     
+  652 BCA-147995024   0522        KAMINI  KUMARI                  BCS011 BCS012 BCSL013 ECO01 FEG02     
+  653 BCA-147995031   0522        DINKAR KUMAR                    BCS011 BCS012 BCSL013 ECO01 FEG02     
+  654 BCA-147995672   0522        UMESH KUMAR                     BCS011 BCS012 BCSL013 ECO01 FEG02     
+  655 BCA-147995697   0522        VISHAL KUMAR SINGH              BCS011 BCS012 BCSL013 ECO01 FEG02     
+  656 BCA-147996746   0522        BHAVISH KUMAR CHOUDHARY         BCS011 BCS012 BCSL013 ECO01 FEG02     
+  657 BCA-147996753   0522        PALLAVI                         BCS011 BCS012 BCSL013 ECO01 FEG02     
+  658 BCA-147996760   0522        PRANAY SHANDILYA                BCS011 BCS012 BCSL013 ECO01 FEG02     
+  659 BCA-147996778   0522        ANANYA                          BCS011 BCS012 BCSL013 ECO01 FEG02     
+  660 BCA-147996785   0522        POOJA KUMARI                    BCS011 BCS012 BCSL013 ECO01 FEG02     
+  661 BCA-147996792   0522        ANKIT KUMAR                     BCS011 BCS012 BCSL013 ECO01 FEG02     
+  662 BCA-147996800   0522        LOVELY KUMARI                   BCS011 BCS012 BCSL013 ECO01 FEG02     
+  663 BCA-147996825   0522        KALPNA KUMARI                   BCS011 BCS012 BCSL013 ECO01 FEG02     
+  664 BCA-147996832   0522        SAURAV JHA                      BCS011 BCS012 BCSL013 ECO01 FEG02     
+  665 BCA-147997050   0522        PURUSHOTTAM KUMAR ROY           BCS011 BCS012 BCSL013 ECO01 FEG02     
+  666 BCA-147997225   0522        PRAKASH ANAND                   BCS011 BCS012 BCSL013 ECO01 FEG02     
+  667 BCA-147997232   0522        NIRAJ KUMAR JHA                 BCS011 BCS012 BCSL013 ECO01 FEG02     
+  668 BCA-147997240   0522        MRINAL KUMAR                    BCS011 BCS012 BCSL013 ECO01 FEG02     
+  669 BCA-147997271   0522        SHUBHAM KUMAR                   BCS011 BCS012 BCSL013 ECO01 FEG02     
+  670 BCA-147997787   0522        MD SHAHID HUSSAIN               BCS011 BCS012 BCSL013 ECO01 FEG02     
+  671 BCA-147997794   0522        MAIKEL KUMAR SINGH              BCS011 BCS012 BCSL013 ECO01 FEG02     
+  672 BCA-147997810   0522        VAIBHAV KUMAR SINGH             BCS011 BCS012 BCSL013 ECO01 FEG02     
+  673 BCA-147997827   0522        BANISH KUMAR JHA                BCS011 BCS012 BCSL013 ECO01 FEG02     
+  674 BCA-147997834   0522        KANHAIYA KUMAR BHARTI           BCS011 BCS012 BCSL013 ECO01 FEG02     
+  675 BCA-147997859   0522        RAJ KUMAR JHA                   BCS011 BCS012 BCSL013 ECO01 FEG02     
+  676 BCA-147997898   0522        PRANAV SHEKHAR                  BCS011 BCS012 BCSL013 ECO01 FEG02     
+  677 MCA-148001670   0522        VIBHAV  RANJAN                  MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  678 MCA-148007521   0522        ABHISHEK KAMTI                  MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  679 CHR-148011696   0522        RANJEET KUMAR                   CHR11 CHR12     
+  680 CES-148012025   0522        PRATIBHA                        AHE01 TS05      
+  681 BPP-148012254   0522        PRIYA  NANDINI                  OMT101 OSS101    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   16
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 0522                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  682 CES-148012555   0522        AVINASH KUMAR                   AHE01 TS05      
+  683 CFN-148012967   0522        SHWETA KUMARI                   CFN01     
+  684 CUL-148013120   0522        DIPAK KUMAR SAHU                OUL001 OUL002    
+  685 CIT-148013152   0522        RISHI KUMAR PATHAK              CIT01 CIT02 CIT03 CITL001   
+  686 CMCHN-148014390 0522        SADHNA  GUPTA                   BNS017 BNS018 BNSL017   
+        

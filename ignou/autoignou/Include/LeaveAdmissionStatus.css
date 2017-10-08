@@ -1,0 +1,164 @@
+.hfont
+{
+    FONT-FAMILY: "Verdana","arial",  "helvetica", sans-serif;
+    COLOR: blue;
+    FONT-SIZE: 12pt
+}
+.Lfont
+{
+    FONT-FAMILY: "Verdana","arial",  "helvetica", sans-serif;
+    COLOR: #800000;
+    FONT-SIZE: 15pt
+}
+.cfont
+{
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 10pt
+}
+A.hcatlist:active
+{
+    FONT-FAMILY: Verdana;
+    COLOR: #0066ff;
+    FONT-SIZE: 10pt;
+    TEXT-DECORATION: none
+}
+A.hcatlistinactive:link
+{
+    FONT-FAMILY: Verdana, arial, helvetica, sans-serif;
+    COLOR: gray;
+    FONT-SIZE: 10pt;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+A.hcatlistinactive:visited
+{
+    FONT-FAMILY: Verdana, arial, helvetica, sans-serif;
+    COLOR: gray;
+    FONT-SIZE: 10pt;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+A.hcatlist:link
+{
+    FONT-FAMILY: Verdana, arial, helvetica, sans-serif;
+    COLOR: black;
+    FONT-SIZE: 10pt;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+A.hcatlist:visited
+{
+    FONT-FAMILY: Verdana, arial, helvetica, sans-serif;
+    COLOR: maroon;
+    FONT-SIZE: 10pt;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+A.hcatlist:hover
+{
+    BACKGROUND-ATTACHMENT: scroll;
+    BACKGROUND-REPEAT: repeat;
+    FONT-FAMILY: Verdana, arial, helvetica, sans-serif;
+    BACKGROUND-POSITION: 0% 50%;
+    COLOR: fuchsia;
+    FONT-SIZE: 10pt;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+A.hcatlists:link
+{
+    FONT-FAMILY: Verdana, arial, helvetica, sans-serif;
+    COLOR: #daa520;
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+A.hcatlists:visited
+{
+    FONT-FAMILY: Verdana, arial, helvetica, sans-serif;
+    COLOR: maroon;
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+A.hcatlists:hover
+{
+    BACKGROUND-ATTACHMENT: scroll;
+    BACKGROUND-REPEAT: repeat;
+    FONT-FAMILY: Verdana, arial, helvetica, sans-serif;
+    BACKGROUND-POSITION: 0% 50%;
+    COLOR: fuchsia;
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+.hpgcinfo
+{
+    BACKGROUND-COLOR: #edebe9;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 8pt
+}
+TABLE.bkCTable
+{
+    BACKGROUND-COLOR: ivory;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 10pt
+}
+.spanstyle
+{
+    POSITION: absolute;
+    VISIBILITY: visible;
+    COLOR: green;
+    FONT-SIZE: 9pt;
+    TOP: -50px;
+    FONT-WEIGHT: bold
+}
+.td1
+{
+    BACKGROUND-COLOR: #f7f7e0;
+    FONT-FAMILY: Verdana;
+    HEIGHT: 20pt;
+    FONT-SIZE: 10pt
+}
+.td2
+{
+    BACKGROUND-COLOR: #fffff0;
+    FONT-FAMILY: Verdana;
+    HEIGHT: 20pt;
+    FONT-SIZE: 10pt
+}
+.tdheader
+{
+    BACKGROUND-COLOR: #e0ad5b;
+    FONT-FAMILY: Verdana;
+    HEIGHT: 26pt;
+    COLOR: white;
+    FONT-SIZE: 12pt
+}
+.c2font
+{
+    FONT-FAMILY: Verdana;
+    COLOR: red;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bolder
+}
+.tdheader2
+{
+    BACKGROUND-COLOR: #d2b48c;
+    FONT-FAMILY: Verdana, Tahoma;
+    COLOR: black;
+    FONT-SIZE: 12pt;
+    FONT-WEIGHT: bold
+}
+.td3
+{
+    BACKGROUND-COLOR: #eee8aa;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 8pt
+}
+.td4
+{
+    BACKGROUND-COLOR: #eee8aa;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 8pt
+}

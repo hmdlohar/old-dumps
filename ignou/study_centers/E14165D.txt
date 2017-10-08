@@ -1,0 +1,630 @@
+
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    1
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 14165D                                  DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+    1 MCA-070451558   14165D      ARUN KRISHNAN                   MCS031 MCS032 MCS035 MCS041 MCS042    
+                                                                  MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011   
+    2 MCA-070452660   14165D      SHARATH CHANDRAN NAIR           CS64 MCS051 MCSE011 MCSL054   
+    3 MP-070475819    14165D      P.JAYAPRAKASH                   MS08      
+    4 MP-070481346    14165D      HIRON INGERSOLE                 MS11 MS25 MS26 MS91      
+    5 MP-070483389    14165D      AKHIL SOM                       MS92 MS95      
+    6 MP-070484112    14165D      RAZEENA RASHEED                 MS04 MS07 MS10 MS95      
+    7 MP-072376487    14165D      MAHAVARKAR AMIT KASHINATH       MS08 MS92      
+    8 MP-081011204    14165D      PREMOD D M                      MS04 MS11 MS51 MS52      
+    9 MP-081026900    14165D      K SIVAPRASAD                    MS07 MS08      
+   10 MP-081045275    14165D      SAMEERA T I                     MS01 MS02 MS03 MS04      
+   11 MP-081130492    14165D      BIBIN K JOSEPH                  MS03 MS51 MS57 MS92 MS95      
+   12 MP-081263575    14165D      RAJALAKSHMI                     MS95      
+   13 MP-083456196    14165D      PRASANNA KUMARI T P             MS07 MS41 MS96      
+   14 MCA-083770691   14165D      P.S. SHAH                       MCS042 MCS043 MCSE004 MCSL045   
+   15 MEG-084374611   14165D      JIJU GEORGE                     MEG01 MEG04 MEG05 MEG07 MEG10     
+   16 BNS-086477893   14165D      ARUN K V                        BNA012 BNA023 BNA051    
+   17 MCA-089018072   14165D      BIBIN VADASSERY K               MCS031 MCS032 MCS033 MCS035 MCS041    
+                                                                  MCS042 MCS043 MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL036 MCSL045 MCSL054   
+   18 MP-091399603    14165D      HANISH KADUVINAL BASHEER        MS95      
+   19 MEG-092149704   14165D      ANUPAMA.K.P.                    MEG05 MEG10     
+   20 MSDFSM-09216443814165D      ANIIE ANTONY                    MFN002    
+   21 MP-093850960    14165D      SARITHA P.M.                    MS01 MS02 MS03 MS05 MS06 MS07      
+                                                                  MS08 MS09 MS10 MS91 MS95      
+   22 MP-093881087    14165D      FEMILA JOSEPH K                 MS08      
+   23 MP-093915692    14165D      GEO M. ISSAC                    MS02 MS06 MS08 MS91      
+   24 BDP-094571455   14165D      VEENA A.V.                      BEGE102 BEGE103 FEG01 FEG02 FST01     
+   25 BDP-094571756   14165D      JASEELA C A                     BEGE105 EEG03 EEG06 FST01     
+   26 MCA-094580454   14165D      ANJU .K.T                       MCS051 MCS052 MCSE003 MCSE004 MCSE011   
+                                                                  MCSL036 MCSL045 MCSL054   
+   27 BCA-094581005   14165D      ROSY SWAPNA I J                 BCS061 CS68 CS69 CS70 CS71      
+   28 DME-097969925   14165D      SURESH M J                      BET037    
+   29 DME-097970010   14165D      SIBIN RAJ V M                   BET011 BET012 BET014 BET021 BET022    
+   30 MEG-100037531   14165D      SEMMI FRANCIS P                 MEG05 MEG07 MEG10 MEG14     
+   31 MP-101981697    14165D      SAMPOORNA. V. PAI               MS02      
+   32 MP-102501249    14165D      NOBLE JOHN                      MS04 MS08 MS66      
+   33 MP-102504552    14165D      SURESH BABU. T. C               MS56 MS58      
+   34 MP-102506035    14165D      P. RAJESH                       MS04 MS08 MS91      
+   35 MPA-105041591   14165D      DEEPAVALLI PERUMAL              MPA011 MPA012 MPA013 MPA014    
+   36 BDP-105043407   14165D      THACHAKOTTU SUNIL PURUSHOTHAMA  ECO03 ECO05 ECO13     
+   37 BDP-105043903   14165D      RENNY. K. JOSEPH                ANC01 ESO15     
+   38 MSW-105044283   14165D      MABLE DEODRA                    MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+   39 BTMEVI-10530119214165D      NIKHIL GEORGE                   BICE027 BIME002 BIME010 BIME013   
+                                                                  BIME016 BIME018 BIMEE015 BME018 BME020 ET101B ET105A    
+   40 MCA-105304280   14165D      JAYAN. C. A                     MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017 MCSL025   
+   41 BDP-105304354   14165D      ABEES. M. CHITTATHUKUDY         AED01 AMK01 AOM01 BSHF101 CHE10     
+                                                                  MTE08 PHE01 PHE02 PHE04 PHE05 PHE06 PHE07 PHE09 PHE13 PHE15 PHE16     
+   42 MHD-105304953   14165D      SUMA DEVI. C. P                 MHD13 MHD15 MHD16     
+   43 BCA-105305860   14165D      SYAM KRISHNAN                   BCS061 BCS061P CS05 CS06 CS63      
+                                                                  CS63P CS64 CS65 CS66 CS68 CS68P CS70 CS71 CS74 CS74P CS75      
+   44 MCA-105306257   14165D      SEETHA. C. M                    MCS022 MCS024 MCSL025 MCSL036   
+   45 BDP-105306264   14165D      VASIF SHAHUL                    BSHF101 EPS12 ESO14     
+   46 MAPC-105307335  14165D      PRANEETHA.P                     MPC005 MPC006    
+   47 BDP-105307458   14165D      SHEEBA GRACE FRANCIS            BPC003 BPC004 ESO11 FST01     
+   48 BMLT-105333132  14165D      ATHIRA VIJAYAN                  BAHI013   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    2
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 14165D                                  DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+   49 BTMEVI-10534076114165D      RAHUL SASIDHARAN                BICE027 BIME004 BIME009 BIME015   
+                                                                  BIME034 BME009 BME018 BME020 ET101A    
+   50 BDP-110339412   14165D      PRAVEENKUMAR V C                ANC01 BEGE103 BEGE107 EEG06     
+   51 MCOM-110422793  14165D      IFTHER.P                        IBO01 IBO04 IBO05 MCO04 MCO05     
+                                                                  MCO06     
+   52 BDP-110423874   14165D      PRASAD.R                        MTE06 MTE08 MTE09     
+   53 BCA-110426371   14165D      ABDUL RAHMAN.T.M                BCS061P CS05 CS60 CS62 CS62P CS63      
+                                                                  CS63P CS64 CS65 CS67 CS68P CS70 CS71 CS72P CS73 CS74P     
+   54 BCA-110426561   14165D      MUHAMMAD NAUPHAL T F            BCS061 CS05 CS60 CS64 CS70 CS71      
+                                                                  CS72 CS72P CS73      
+   55 MP-110428906    14165D      SHAJU MATHEW                    MS93      
+   56 MP-110438527    14165D      MANU.G                          MS56      
+   57 MAH-110441335   14165D      JITHIN VARGHESE                 MHI01 MHI02 MHI04     
+   58 PGDIBO-11044899314165D      EDWIN THOMAS                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+   59 BED-111852142   14165D      SONY VARGHESE                   BESE065 BESE066 ES343 ES344     
+   60 BDP-115526450   14165D      SIVALINGAM.V                    ANC01     
+   61 MP-115529881    14165D      KAVYA.GOPINATH                  MS07 MS95      
+   62 MP-115530696    14165D      VIVEK.K                         MS08      
+   63 BDP-115532643   14165D      ANTONY THOMAS P A               ACC01 BSWE005 ESO13 ESO15     
+   64 MP-115533462    14165D      GEORGE.N.ELDO                   MS45      
+   65 MP-115533487    14165D      SYAMKUMAR.M.M                   MS42 MS43 MS95      
+   66 BDP-115535821   14165D      SHANTI VIJAYAN                  ANC01 BEGE104 ECO08 ECO09 ECO10     
+                                                                  ECO11     
+   67 BDP-115536063   14165D      STEBY STEPHEN                   AMK01 ASP01 ECO08 ECO09 ECO10     
+                                                                  ECO11 ECO12 ECO13 EPA05     
+   68 BDP-115536088   14165D      ANJU TRESA                      AMK01 ASP01 ECO03 ECO08 ECO09     
+                                                                  ECO10 ECO11 ECO12 EPA05     
+   69 BTS-115545467   14165D      SWATHY.S                        AOM01 EHI01 TS03      
+   70 BDP-115546254   14165D      MUHAMMED MUNEER.K.M             BSHF101 EHI01 EHI02 FEG01 FML01     
+   71 BDP-115547747   14165D      FREEDA.K.M                      ACC01 EHI04 EHI06 EHI07     
+   72 MCA-115554538   14165D      MRUDUL BOSE                     MCS012 MCS014 MCS021 MCS022 MCS023    
+                                                                  MCS024 MCS031 MCS032 MCS033 MCS034    
+   73 BCA-115555411   14165D      AKHILRAJ DHARMAJAN V            BCS051 BCS052 BCS053 BCS055 BCS062    
+                                                                  BCSL043 BCSL056 BCSL057 BCSL063 MCS022 MCS024    
+   74 MEG-115557880   14165D      JACOB TITUS                     MEG01 MEG05 MEG07     
+   75 BDP-115560681   14165D      BABURAJ.M                       ACS01 BEGE104 ECO08 ECO09 ECO10     
+                                                                  ECO11 ECO14     
+   76 BDP-115566160   14165D      MEENU BABU                      ANC01 EPA03     
+   77 MSW-115571731   14165D      JANCY C V                       MSW008 MSW009    
+   78 BDP-115574207   14165D      MARY AMRUTHA                    BEGE103 BEGE105 ERD01 FST01     
+   79 MSDFSM-11557824314165D      SOUMYA.K.A                      MFN004 MFN007 MFN009    
+   80 BTS-115584326   14165D      VINI.K.V                        BSHF101 TS04 TS05      
+   81 BTS-117027696   14165D      FEMY MARY JOHN                  AFW01 BEGE103 TS03 TS06      
+   82 MP-117480716    14165D      ABISH K                         MS08      
+   83 MP-117481227    14165D      SHYAM.P.S                       MS66 MS95      
+   84 MP-117850540    14165D      MIDHUN T R                      MS01 MS02 MS03 MS04      
+   85 BMRHIT-11798673914165D      JIYA JOHN                       BAHI023   
+   86 DMEVI-118551326 14165D      ROBIN ABRAHAM                   BET011 BET014 BIME021 BME032 BME056    
+   87 DCLEVI-11855211314165D      DIVYA PAUL                      BICEE007  
+   88 DMEVI-118558296 14165D      CLINTON DEVASSY                 BIME024 BIME027   
+   89 DCLEVI-11855951014165D      FEMY FRANCIS                    BCE031 BCE032 BCE034 BET011 BET022    
+                                                                  BICE024 BICE028   
+   90 DMEVI-118559639 14165D      GEORGE MATHEW                   BIMEE030  
+   91 DMEVI-118560088 14165D      NIVIN JOSEPH                    BET021 BIME021 BIME027 BIME033 BME056    
+   92 DMEVI-118560128 14165D      GIRISH.G                        BET011 BET014 BET021 BET022 BIME024   
+                                                                  BIME026 BIME027 BIMEE031 BME052    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    3
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 14165D                                  DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+   93 DMEVI-118563930 14165D      LITTO ANTONY                    BET022 BIME023 BIME024 BIME027 BIMEE031  
+                                                                  BME050    
+   94 DMEVI-118564021 14165D      DALVIN JOHN                     BIME024 BIME026 BIME027 BIME028   
+                                                                  BIMEE031  
+   95 DMEVI-118564315 14165D      NIKHIL M C                      BET022 BIME026   
+   96 DMEVI-118564433 14165D      ARUN ASOKAN                     BET022    
+   97 DMEVI-118564623 14165D      EMMANUVEL PAULSON               BET011 BET021 BET022 BIME024 BIME026   
+                                                                  BIME027 BIMEE031 BME032    
+   98 DMEVI-118564670 14165D      MATHEWS GEORGE                  BET022    
+   99 DMEVI-118565127 14165D      AJAY KUMAR P S                  BIME027 BIME028   
+  100 DMEVI-118565198 14165D      DANIAL JOY                      BET011 BET022 BIMEE031  
+  101 DMEVI-118595635 14165D      SEBASTIAN LOUIS                 BET013 BET014 BIME021 BME032 BME056    
+  102 BDP-119169308   14165D      SANJAD SHA RAHIM                BCOA001 ECO08     
+  103 MP-120136800    14165D      LAKSHMI  B.S                    MS09 MS21 MS22 MS23 MS24 MS25      
+                                                                  MS91 MS95      
+  104 MP-120137231    14165D      ANZAD  V                        MS09 MS10 MS11 MS44 MS45 MS46      
+                                                                  MS91 MS95      
+  105 BDP-120322913   14165D      PREM KUMAR M                    ANC01 BEGE102 EHI01 ESO11 ESO14     
+                                                                  ESO15 ESO16 FEG02     
+  106 MP-121879208    14165D      SUMI YOHANNAN                   MS11 MS58 MS95 MS96      
+  107 MP-121879215    14165D      ASWIN RAJ ULLAS.P               MS07 MS08 MS56 MS57      
+  108 MP-121879483    14165D      RADHIKA.R.MENON                 MS05 MS10 MS11      
+  109 MP-121879673    14165D      RENU THOMAS                     MS27 MS28 MS97      
+  110 MP-121880234    14165D      SARATH.N                        MS54 MS95      
+  111 MP-121881211    14165D      ELIZABETH XAVIER                MS44 MS45 MS96      
+  112 MP-121882173    14165D      DIVYA.S.DAS                     MS23      
+  113 MP-121882743    14165D      ANTONY ROOSEVELT                MS08 MS28 MS29      
+  114 MP-121883397    14165D      ASHLIN.T.A                      MS01 MS02 MS03 MS10 MS41 MS45      
+                                                                  MS95      
+  115 BDP-122053520   14165D      RAKHI.P                         ACC01 ANC01 EPA05 ESO16     
+  116 MEG-122055523   14165D      SAJIMON JOSEPH                  MEG14     
+  117 MEC-122056010   14165D      SIJI.K.J                        MEC001 MEC002 MEC005    
+  118 BTS-122062045   14165D      ANIL KUMAR K P                  AOM01 BSHF101 TS02 TS03 TS04      
+                                                                  TS06 TS07      
+  119 BLS-122063079   14165D      SUBITHA.A.G                     BLS02 BLS07 BLS3P BLS4P     
+  120 MSMACS-12206781114165D      RAJASHREE P R                   MMT001    
+  121 BDP-122068322   14165D      JIJO JOY.C.J                    BEGE102 EPA03 EPA04 FST01     
+  122 MSW-122072118   14165D      MOLCY JOSEPH                    MSW002 MSW005 MSW007 MSW008 MSW009    
+                                                                  MSWE001 MSWE002   
+  123 MSW-122072308   14165D      JEETHMA.A                       MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006 MSW007 MSW008 MSW009 MSWE001   
+  124 BED-122077020   14165D      RESHMA RAJEEV                   BESE065   
+  125 DWM-125221640   14165D      NASARULLAH M B                  BNRI105   
+  126 BDP-125394609   14165D      ASWIN MURALIDHARAN              BEGE101 BSHF101   
+  127 BDP-125928089   14165D      ELDHO MATHEW                    EHI03 EHI04 EHI07 FST01     
+  128 BDP-125928516   14165D      SHONI.M.A                       EHI01 EHI02 EHI04 EHI07 FST01     
+  129 PGDFSQM-125932089                      14165D      ABY.T.P                         MVP002    
+  130 BBARL-125935307 14165D      BINYAS MOHAMMED.M               AMK01 BRL001 BRL003 BRL004 BRL008    
+                                                                  ECO01     
+  131 BCA-125935511   14165D      NITHIN TOM VARGHESE             BCS031 BCS041 BCS051 BCS052 BCS053    
+                                                                  BCS054 BCS055 BCSL022 BCSL032 BCSL056 BCSL057 BCSL058 ECO02 MCS011 MCS014 MCSL016   
+  132 BCA-125936054   14165D      ATHUL RAJENDRAN                 BCS011 BCS012 BCSL021 BCSL022 ECO01     
+                                                                  ECO02 FEG02 MCS011 MCS012 MCS013 MCS015    
+  133 BCA-125936101   14165D      AKHIL.B.MENON                   BCS031 BCS041 BCS051 BCS052 BCS053    
+                                                                  BCS054 BCS055 BCSL022 BCSL032 BCSL033 BCSL056 BCSL057 BCSL058 ECO02 MCS011 MCS014    
+  134 BCA-125936165   14165D      PRASANTH.P                      BCS012 BCSL032 BCSL033 BCSL034 ECO02     
+  135 BCA-125936244   14165D      JIBIN.M.S                       BCS012 BCS040 BCS051 BCS052 BCS053    
+                                                                  BCS054 BCS055 BCSL056 BCSL057 BCSL058 ECO02 MCS013 MCS014 MCS015 MCS021 MCS023    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    4
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 14165D                                  DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  136 BCA-125936860   14165D      KIRAN R                         BCS031 BCSL021 BCSL022 MCS011 MCS012    
+                                                                  MCS013 MCS014 MCS024    
+  137 BCA-125936932   14165D      HONEY.N.V                       BCS051 BCS052 BCS053 BCS054 BCS055    
+                                                                  BCSL013 BCSL044 BCSL056 BCSL057 BCSL058   
+  138 BCA-125937031   14165D      GIJO JOSEPH                     BCS012 BCSL043 BCSL044 BCSL045 BCSL056   
+                                                                  BCSL057 BCSL058 MCS012 MCS013    
+  139 BCA-125937049   14165D      PINCHIKA.K.M                    BCS041 BCS051 BCS052 BCS053 BCS055    
+                                                                  BCSL044 BCSL056 BCSL057 BCSL058 MCS023    
+  140 MP-125937586    14165D      ASWATHY.E.V                     MS09 MS10 MS11 MS42 MS43 MS44      
+                                                                  MS93 MS95      
+  141 MP-125937601    14165D      SHABARISH KESHAV                MS05 MS07 MS08 MS09 MS611 MS66      
+  142 MP-125938001    14165D      MICHAEL JUNIOR                  MS08 MS09 MS11 MS41 MS91 MS94      
+                                                                  MS95 MS96 MS97      
+  143 MP-125938223    14165D      ANTONY GEORGE.K                 MS10 MS56 MS58 MS95      
+  144 MP-125938380    14165D      GEOGY ROY                       MS56 MS58 MS95 MS96      
+  145 MP-125938943    14165D      NEERAJ AREEKAL                  MS51 MS57 MS58 MS91 MS94      
+  146 MEG-125946657   14165D      RITA NAIR.P.R                   MEG02 MEG03     
+  147 MEG-125947032   14165D      BIJU DEVASIA                    MEG02 MEG03 MEG05 MEG10     
+  148 MAPC-125950861  14165D      ABDUL NAZEER.V.H                MPC002 MPCE021 MPCE022 MPCE023   
+  149 MAH-125952080   14165D      CHITHIRA KRISHNA.K              MHI03 MHI06 MHI08 MPSE003 MPSE004   
+  150 MEC-125952761   14165D      GIRIJA P                        MEC008 MEC009 MECE001   
+  151 BDP-125960150   14165D      HARISANKAR.S                    BEGE103 BEGE105 BPC001 BPC002    
+  152 MP-125961840    14165D      ANSON ANTONY                    MS01 MS03      
+  153 MP-125961871    14165D      BELSSON VARGHESE                MS01 MS02      
+  154 MLS-125962913   14165D      ROSAMMA.N.K                     MLI102 MLIE103 MLIE106   
+  155 MEG-125963868   14165D      MARTIN.K.M                      MEG01 MEG05 MEG07 MEG10 MEG14     
+  156 BDP-125965926   14165D      NEETHU ELIZABETH JOHN           BEGE102   
+  157 BDP-125966610   14165D      MANJUSHA G MENON                EPA03 FST01     
+  158 BDP-125966666   14165D      SAVITHA S                       EHI04 EHI07     
+  159 BDP-125966673   14165D      DANY F JOSEPH                   BEGE102 BEGE103 BEGE105 BPC001    
+                                                                  BPC002 BSHF101 FST01     
+  160 BDP-125966967   14165D      DHIPIN DAS KOCHUPARAMBIL        EHI01 EHI04 EHI07     
+  161 BDP-125968867   14165D      FAISAL.K.HAMEED                 FST01     
+  162 BCA-125973281   14165D      MUHAMED FAIZAL P M              BCS053 BCS055 BCSL032 BCSL057 BCSL058   
+  163 MEG-125977977   14165D      SUJA GEORGE                     MEG05 MEG07 MEG14     
+  164 BTS-125978850   14165D      ARJUN .P.AJAY                   BSHF101 FST01 TS04 TS05      
+  165 BSW-126314754   14165D      SHEEJAMOL M MADHAVAN            BSWE002 BSWE004 FST01     
+  166 BSW-126314761   14165D      DHANYA V SEKHAR                 BSWE002 BSWE004 FST01     
+  167 BTS-126315050   14165D      MUHAMMED ASLAM MOOPPAN          FST01 TS04 TS05      
+  168 BDP-126318830   14165D      AJAY RAJAN                      BECE002 BECE214 EEC10 FST01     
+  169 BDP-126319190   14165D      SMITHA VARMA.C.K                BEGE108   
+  170 BED-130359607   14165D      BEETHA DAVIS                    BESE065 BESE066 ES334 ES335 ES362     
+  171 BED-130359836   14165D      BAIJU JOSEPH                    BESE065 BESE066 ES334 ES335 ES362     
+  172 BED-130360214   14165D      MANJU ZACHARIAH                 BESE065 BESE066 ES334 ES335 ES363     
+  173 MP-130361190    14165D      JAISON JOSE.K                   MS06 MS07 MS09 MS45 MS97      
+  174 MP-130361642    14165D      ALKA MATHEW                     MS04 MS05 MS08 MS21 MS25 MS27      
+                                                                  MS95      
+  175 MP-130362289    14165D      ANEESH JOHN                     MS05 MS06 MS07 MS08 MS10      
+  176 MP-130362461    14165D      VIVEK CHANDRAN                  MS08 MS09 MS10 MS11 MS44      
+  177 MEG-130363162   14165D      RISWANA.B                       MEG05 MEG06 MEG07 MEG14     
+  178 MEG-130363771   14165D      TEHSEEN YOUSEFF                 MEG05 MEG07 MEG10 MEG14     
+  179 MEG-130363796   14165D      SINI THOMAS                     MEG05 MEG07 MEG10 MEG14     
+  180 BDP-130364458   14165D      SHAM.K.S                        EPA04 ERD01 FST01     
+  181 BDP-130364877   14165D      KIRAN TOMY                      EHI01 EPA03 EPA04 FST01     
+  182 BDP-130366516   14165D      ABUBAKER SIDHIQUE               ECO03 ECO05 ECO07 ECO12 ECO13     
+                                                                  ECO14 FST01     
+  183 BDP-130366523   14165D      MUHAMMED SHAFI.B.M              ECO05 ECO07 ECO12 ECO13 ECO14     
+                                                                  FST01     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    5
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 14165D                                  DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  184 BDP-130366530   14165D      AFSAL.K.H                       ECO03 ECO05 ECO07 ECO12 ECO13     
+                                                                  ECO14 FST01     
+  185 BDP-130367500   14165D      GLADIA JOY                      ECO03 ECO05 ECO07 ECO12 ECO13     
+                                                                  ECO14 FST01     
+  186 MCOM-130368219  14165D      NEETHU JOSE                     IBO01 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+  187 MCA-130369590   14165D      REJITHA JUDE.K                  MCS031 MCS032 MCS041 MCS042 MCS043    
+                                                                  MCSL045   
+  188 MCA-130370659   14165D      NAFEENA NAZEER                  MCS013 MCS021 MCS022 MCS023 MCS024    
+                                                                  MCSL016 MCSL017 MCSL025   
+  189 MCOM-130371027  14165D      ARUN THOMAS.P                   IBO06 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+  190 MAPC-130371650  14165D      THASNEEM ISMAIL                 MPCE011 MPCE012 MPCE013 MPCE014   
+  191 BDP-130373170   14165D      AMBILY.C.S                      BSWE004 ESO13 ESO14 FST01     
+  192 BDP-130373188   14165D      SHANIJA.P.S                     BSWE004 ESO13 ESO14 FST01     
+  193 BDP-130373274   14165D      ALLAN HAROLD REX                BEGE103 BEGE105 FST01     
+  194 MEG-130373622   14165D      RAJESWARI.K                     MEG04 MEG05 MEG06 MEG07 MEG11     
+  195 BDP-130375103   14165D      APARNA KRISHNAN NAIR            BEGE101 BEGE102 BEGE103 BEGE105   
+                                                                  BSHF101 FST01     
+  196 BDP-130375181   14165D      JITHESH P RAJU                  EHI03 EHI04 ERD01 FST01     
+  197 BDP-130375790   14165D      ANJALI.R                        FEG01 FEG02     
+  198 BDP-130375959   14165D      JAYAKUMAR.M.S                   EHD01 ESO13 ESO14 FST01     
+  199 MEG-130376151   14165D      UNAIS.P.P                       MEG01 MEG02 MEG03 MEG04 MEG05     
+                                                                  MEG06 MEG07 MEG11     
+  200 MAH-130377028   14165D      GEETHU P M                      MHI02 MHI03 MHI06 MHI08 MPSE003   
+                                                                  MPSE004   
+  201 MAH-130377422   14165D      SHAJI MATHEW                    MHI03 MHI06 MHI08 MPSE003 MPSE004   
+  202 MSW-130378037   14165D      ALIAS.V.K                       MSW007 MSW008 MSW009 MSWE002   
+  203 MSW-130378234   14165D      ELDO.P.JOHN                     MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006 MSW007 MSW008 MSW009 MSWE002 MSWE003   
+  204 MSW-130378241   14165D      SIJO.K.V                        MSW006 MSW007 MSW008 MSW009 MSWE002   
+                                                                  MSWE003   
+  205 MSMACS-13038083214165D      SREENATH PRABHU.R               MMT001P MMT003 MMT004 MMT005 MMT006    
+                                                                  MMT007 MMT007P MMT008 MMT008P   
+  206 MSMACS-13038093614165D      MARY RANI C J                   MMT001 MMT003 MMT004 MMT006 MMT007    
+  207 BLS-130382391   14165D      DEVANAND.T.C                    BLS01 BLS02     
+  208 MAPC-130385254  14165D      NEENU SUSAN VARKEY              MPCE031 MPCE032 MPCE033 MPCE034   
+  209 MTM-130385856   14165D      AMOOLYA.K.R                     MTM06 MTM07 MTM09 MTM10     
+  210 MP-130680480    14165D      LEKSHMI N PILLAI                MS25 MS26 MS27 MS95      
+  211 MP-131393365    14165D      AJAY KUMAR VISHWAKARMA          MS10 MS58 MS94 MS95      
+  212 MCA-131835837   14165D      JAYAKRISHNAN.N.P                MCS012 MCS013 MCS014 MCS022 MCS023    
+                                                                  MCS024 MCS041 MCS042 MCS043 MCSL017 MCSL025 MCSL045   
+  213 BTS-131836480   14165D      MANU.M.T                        FST01 TS04 TS05      
+  214 MSW-131836853   14165D      RENJITH P J                     MSW003 MSW007 MSW008 MSW009 MSWE001   
+                                                                  MSWE002   
+  215 MCA-135212590   14165D      NISHA VARMA                     MCS011 MCS023 MCS031 MCS032 MCS033    
+                                                                  MCS034 MCS035 MCSL036   
+  216 MCA-135400375   14165D      KRISHNALAL M R                  MCS031 MCS032 MCS033 MCS034 MCS035    
+                                                                  MCSL036   
+  217 MCA-135400382   14165D      NITHYA VARMA N S                MCS011 MCS023 MCS024 MCS031 MCS032    
+                                                                  MCS033 MCS034 MCS035 MCSL036   
+  218 MCA-135400408   14165D      ARAVIND RADHAKRISHNAN           MCS022 MCS023 MCS024 MCSL016 MCSL017   
+  219 MP-135413221    14165D      ILIN RENKU CANCIS               MS02 MS03 MS04 MS06 MS08 MS09      
+                                                                  MS10 MS11 MS95      
+  220 MP-135413246    14165D      SREELAKSHMI NAIR                MS06 MS08 MS10 MS95      
+  221 MP-135413411    14165D      LAKSHMISREE.P                   MS09 MS10 MS11 MS95      
+  222 MP-135413436    14165D      ANEESH.K.K                      MS03 MS08 MS25 MS29 MS94      
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    6
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 14165D                                  DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  223 MP-135413680    14165D      SETHU RAM                       MS05 MS06 MS07 MS08      
+  224 MP-135413697    14165D      MARY ELOISE.K.A                 MS03 MS05 MS09 MS11 MS95      
+  225 MP-135413783    14165D      SHAJNA V G                      MS04 MS08 MS11      
+  226 MP-135413790    14165D      LAKSHMI.K.V                     MS08 MS10 MS11 MS27      
+  227 MP-135413816    14165D      RAJASREE.V                      MS04 MS08      
+  228 MP-135413862    14165D      HARIKRISHNAN.R                  MS04 MS06 MS10 MS25      
+  229 MP-135414001    14165D      BINITHA MOHAN                   MS07 MS08 MS09 MS10 MS26 MS27      
+  230 MP-135414270    14165D      DEEPTHI C V                     MS03 MS06 MS09 MS10 MS11 MS95      
+  231 MP-135414341    14165D      INDU M                          MS05 MS25 MS27 MS95      
+  232 MP-135414524    14165D      A G ARIF                        MS04 MS08 MS91      
+  233 MP-135414595    14165D      RAJANI JAYAKUMAR                MS04 MS05 MS08 MS09 MS11 MS25      
+  234 MP-135414635    14165D      PHILOMINA JUNITTA GONSALVEZ     MS02 MS03 MS04 MS05      
+  235 MP-135414674    14165D      MEENU JOSHY                     MS02 MS10 MS44 MS46 MS66 MS95      
+  236 MP-135414707    14165D      AJIT.M.S                        MS05 MS06      
+  237 MP-135415178    14165D      VEENA JACOB                     MS07 MS08 MS09 MS10 MS95      
+  238 MP-135415304    14165D      NIJU GEORGE M J                 MS07 MS08 MS09 MS10 MS11 MS91      
+  239 BDP-135416692   14165D      KALASELVI.P.G                   BSHF101   
+  240 BDP-135416718   14165D      SINI.K.X                        BEGE101   
+  241 BDP-135419333   14165D      SHIBU.U.V                       BEGE102 BSHF101   
+  242 BDP-135420574   14165D      LESLINE.K.GEORGE                BECE002 BHDF101 BSHF101 EEC11     
+                                                                  FEG01     
+  243 BDP-135420646   14165D      V.A.AMALA DEVI                  BEGE101   
+  244 MEG-135424288   14165D      SINDHU.P.S                      MEG01 MEG02 MEG03 MEG04     
+  245 MEG-135424478   14165D      CHRIS EMILY MARIA JOHN          MEG01 MEG02 MEG03 MEG04     
+  246 MEG-135425226   14165D      GEORGE SUNIL KALLARAKAL         MEG01 MEG02 MEG03 MEG04     
+  247 MEG-135425921   14165D      SIDHARTHA SIVAPRASAD            MEG01 MEG02 MEG03 MEG04     
+  248 MCOM-135426647  14165D      ATHIRA AJAY                     IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  249 MCOM-135426851  14165D      SHAMILA P A                     IBO01 IBO02 IBO03 IBO06     
+  250 MCOM-135427663  14165D      SHIYA P S                       IBO01 IBO03 IBO04 IBO06     
+  251 MAPC-135429950  14165D      HASHIM M H                      MPC001 MPC002 MPC003 MPC004 MPC005    
+                                                                  MPC006 MPCL007   
+  252 MAPC-135430440  14165D      TINCY TOM                       MPC001 MPC003 MPC004 MPC006    
+  253 MAPY-135432998  14165D      SUNDARESAN.P.K                  MGP005 MPY001 MPYE001 MPYE002 MPYE003   
+                                                                  MPYE004 MPYE007   
+  254 BCA-135434225   14165D      BILMI K K                       BCS011 BCS012 BCS031 BCSL032 BCSL033   
+                                                                  BCSL034 MCS011 MCS014 MCS015 MCS021 MCS023    
+  255 PGDDM-135435345 14165D      PARAMESWARAN PILLAI RAJAGOPAL   MED004 MPA001 MPA002 MPA003 MPA004    
+                                                                  MPA005 MPA006 MPA007    
+  256 PGDESD-13543554214165D      JETCY THOMAS                    MED001 MED002 MED004 MED005 MED006    
+                                                                  MED007 MED008    
+  257 BTS-135436157   14165D      DILNA BABY N                    BSHF101 FEG01 FEG02 TS02      
+  258 BTS-135436480   14165D      JERIN JAMES                     BSHF101 FEG01 FEG02 TS01 TS02      
+  259 BTS-135436505   14165D      DINTO BABY                      BSHF101 FEG01 FEG02 TS01 TS02      
+  260 BTS-135436766   14165D      JESHMA JAMES                    BHDF101 BSHF101 FEG01 TS01 TS02      
+  261 BTS-135437009   14165D      ROBIN.K.T                       BSHF101 FEG01 TS01 TS02      
+  262 MSW-135437356   14165D      LISSY E T                       MSW003 MSW005    
+  263 MSW-135437560   14165D      MOLLY PHILOMINA                 MSW003    
+  264 MSW-135437736   14165D      ANOOP VARGESE                   MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+  265 MAH-135438659   14165D      ANEESHA M H                     MHI04 MHI05     
+  266 BDP-135441260   14165D      DENNY MANOJ MATHEW              BSHF101 ECO01 ECO02     
+  267 BDP-135443263   14165D      NIYAS.P.Y                       ECO02 ESO11     
+  268 BDP-135445299   14165D      SRIKANTH SUKKA                  MTE01 MTE02 MTE04 MTE05 MTE06     
+  269 MLS-135446030   14165D      SOUMYA V S                      MLI101 MLI102 MLIE102 MLIE106 MLII101   
+                                                                  MLII102 MLII103 MLII104   
+  270 MLS-135446047   14165D      JYOTHI P V                      MLI101 MLI102 MLIE102 MLII101 MLII102   
+                                                                  MLII103 MLII104   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    7
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 14165D                                  DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  271 BCOMAF-13544852414165D      ARCHANA.N.KAMATH                AED01 BEGE104 BSHF101 ECO13 FEG01     
+                                                                  FEG02     
+  272 PGDFSQM-135449329                      14165D      PEARL KANNETH                   MVP001 MVP002 MVP003 MVP004 MVPI001   
+  273 BBARL-135450577 14165D      AJAS MOHAMMED.M                 BRL001 BRL002    
+  274 MCA-135450799   14165D      ABDUL MANAF.K.A                 MCS014 MCS022 MCS024 MCS031 MCS032    
+                                                                  MCS033 MCS034 MCS035 MCSL036   
+  275 MAPC-135451680  14165D      VIJU P V                        MPC001 MPC003 MPC004 MPC006    
+  276 BDP-135457942   14165D      ATHIRA.A                        BEGE101   
+  277 BTS-135458381   14165D      BELSSYMOL JOY                   BSHF101 FEG01 FEG02 TS01 TS02      
+  278 BTS-135458414   14165D      SONIA BENNY                     BHDF101 BSHF101 FEG01 TS01 TS02      
+  279 BDP-135462335   14165D      SAJU.M.S                        FML01 FST01 LSE03     
+  280 MAPC-135462905  14165D      EALIAS PAUL.E                   MPC001 MPC002 MPC004 MPC005 MPC006    
+  281 BCOMAF-13546437814165D      SREELAKSHMI.S                   AED01 BEGE104 BSHF101 ECO13 FEG01     
+                                                                  FEG02     
+  282 MP-136068154    14165D      DIVYA NAIR                      MS04 MS09 MS10 MS11      
+  283 MCA-136408817   14165D      ASWANI MP                       MCS021 MCS022 MCS023 MCS024 MCSL016   
+                                                                  MCSL017 MCSL025   
+  284 MP-136593037    14165D      VIBINDAS. P. S                  MS04 MS06 MS07 MS08      
+  285 MCA-137146275   14165D      SABNA SUSAN CHERIAN             MCS031 MCS032 MCS033 MCS034 MCS035    
+                                                                  MCSL025 MCSL036   
+  286 BCA-137194370   14165D      SURESH VERGHESE V               BCS011 BCS012 BCSL013 BCSL021 ECO01     
+                                                                  ECO02 FEG02 MCS015    
+  287 PGDIBO-13720246014165D      BIJESH   K K                    IBO01 IBO03 IBO05 IBO06     
+  288 MEG-140840058   14165D      APARNA NAMBOODIRIPAD            MEG01 MEG02 MEG03 MEG04     
+  289 MEG-140840563   14165D      SABITHA BABU                    MEG01 MEG02 MEG03 MEG04     
+  290 BED-140841257   14165D      SMITHA ELIZABETH GEORGE         ES331 ES332 ES333 ES343 ES344     
+  291 BED-140841605   14165D      JEENA DHARMAN M                 ES331 ES332 ES333 ES343 ES344     
+  292 BED-140841669   14165D      STIJA MARIE JOHN.P              ES331 ES332 ES333 ES341 ES344     
+  293 BED-140841984   14165D      MANJULA P J                     ES331 ES332 ES333 ES343 ES344     
+  294 MCA-140842037   14165D      VIJI.P.T                        MCS011 MCS012 MCS021 MCS022 MCS023    
+                                                                  MCS024 MCSL017 MCSL025   
+  295 MAPC-140842202  14165D      ANU PILLAI                      MPC001 MPC002 MPC003 MPC004 MPC005    
+                                                                  MPC006 MPCL007   
+  296 MAPC-140842259  14165D      RAJANI.P.V                      MPC001 MPC002 MPC003    
+  297 BDP-140844127   14165D      DIPIN GOPALAKRISHNAN            BSHF101 ECO01 ECO02 EPS11 FEG01     
+                                                                  FEG02     
+  298 MP-140844324    14165D      ANASWARA.S                      MS05 MS06 MS07 MS08      
+  299 MP-140844403    14165D      C.Y.ANWAR BABU                  MS01 MS04 MS07 MS10      
+  300 MP-140844435    14165D      VISHNU.A                        MS05 MS06 MS07 MS08      
+  301 MP-140844474    14165D      SHWETA.V.S                      MS01 MS04 MS07 MS10      
+  302 MP-140844640    14165D      P.S.SUBIN                       MS05 MS06 MS07 MS08      
+  303 MP-140845698    14165D      NITHA UNNIKRISHNAN.C            MS27 MS28      
+  304 MP-140845824    14165D      SREERANJINI.S.MENON             MS01 MS02 MS03 MS04 MS05 MS06      
+                                                                  MS07 MS08      
+  305 MP-140845849    14165D      DINESH.D                        MS04 MS25 MS26 MS96      
+  306 BDP-140847090   14165D      SAFEERA ERANHOL                 BSHF101 EEG01 EEG02 FEG01 FEG02     
+  307 MLS-140847700   14165D      PRIYA K PETER                   MLI101 MLI102 MLIE102 MLIE106 MLII101   
+                                                                  MLII102 MLII103 MLII104   
+  308 MP-140847842    14165D      DEEPA TRESSA CHERIAN            MS05 MS06 MS07 MS08      
+  309 BDP-140848170   14165D      ABIN.D.JAMES                    BEGE101 BEGE102 BSHF101 FEG01     
+                                                                  FEG02     
+  310 MSMACS-14084850414165D      JAMES.K.PAUL                    MMT001 MMT001P MMT008 MMT008P   
+  311 MEG-140848909   14165D      ASWATHY M S                     MEG01 MEG02 MEG03 MEG04     
+  312 BDP-140849663   14165D      THANFIYA.M                      BPAE102 BSHF101 ECO01 ECO02 FEG01     
+                                                                  FEG02     
+  313 BCOMAF-14084990014165D      AJAY GEORGE THOMAS              AED01 BEGE104 ECO13 FEG01 FEG02     
+                                                                  FST01     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    8
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 14165D                                  DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  314 BCOMAF-14084997114165D      ANANDAKRISHNAN.R                AED01 BEGE104 BSHF101 ECO13 FEG01     
+                                                                  FEG02     
+  315 BCOMAF-14085007314165D      ADERSH MATHEW                   AED01 BEGE104 BSHF101 ECO13 FEG01     
+                                                                  FEG02     
+  316 BCOMAF-14085010614165D      CHRISTO SUNNY                   AED01 BEGE104 BSHF101 ECO13 FEG01     
+                                                                  FEG02     
+  317 BCOMAF-14085012014165D      RACHITHA.R.KAMMATH              AED01 BEGE104 BSHF101 ECO13 FEG01     
+                                                                  FEG02     
+  318 BCOMAF-14085022414165D      JOSE KURIAN                     AED01 BEGE104 ECO13 FEG01 FEG02     
+                                                                  FST01     
+  319 BCOMAF-14085026314165D      JEVIN MATHEW                    AED01 BEGE104 ECO13 FEG01 FEG02     
+                                                                  FST01     
+  320 MEC-140850880   14165D      MIJA K S                        MEC002 MEC004 MEC105    
+  321 BPP-140852210   14165D      LAILA BEEVI A                   OMT101 OSS101    
+  322 MCA-140855097   14165D      MALINI RAVINDRANATH             MCS014 MCS015 MCS021 MCS023 MCS024    
+                                                                  MCSL016   
+  323 MCA-140855190   14165D      BIBIN ANIYAN                    MCS011 MCS012 MCS014 MCS021 MCS022    
+                                                                  MCS023 MCS024 MCSL017 MCSL025   
+  324 MCA-140855262   14165D      AKHIL RAJ.T.R                   MCS012 MCS013 MCS021 MCS022 MCS023    
+                                                                  MCS024 MCSL017 MCSL025   
+  325 MCA-140855721   14165D      SANDHYA.K.U                     MCS013 MCS021 MCS022 MCS023 MCS024    
+                                                                  MCSL017 MCSL025   
+  326 MCA-140855739   14165D      NISHA.T.THILAKAN                MCS011 MCS021 MCS022 MCS023 MCS024    
+                                                                  MCSL025   
+  327 BDP-140856107   14165D      JITHIN V.V.                     BSHF101 ECO01 ECO02 EPA01 FEG01     
+                                                                  FEG02     
+  328 BDP-140857646   14165D      SUPRIYA .A                      BEGE101 BEGE102 BSHF101 FEG01     
+                                                                  FEG02     
+  329 BDP-140857908   14165D      ANU.M.SOMAN                     BSHF101 ESO11 ESO12 FEG01 FEG02     
+  330 BDP-140858164   14165D      AJMAL.A                         BPSE212 BSHF101 EPS11 FEG01 FML01     
+  331 BDP-140858551   14165D      SRUTHI KRISHNA K                BEGE101 BEGE102 BSHF101 FEG01     
+                                                                  FML01     
+  332 PGDIBO-14085946714165D      T.MOHAN                         IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  333 MP-140859585    14165D      SREEDEV.S                       MS01 MS03 MS04 MS05 MS06 MS07      
+                                                                  MS08      
+  334 MAPC-140860035  14165D      PRAMY.P.P                       MPC001 MPC002 MPC003 MPC004 MPC005    
+                                                                  MPC006 MPCL007   
+  335 MAPC-140860074  14165D      LAVOSE.V.V                      MPC001 MPC002 MPC003 MPC004 MPC005    
+                                                                  MPC006 MPCL007   
+  336 PGCCL-140861653 14165D      SIJO.V.MATHEW                   MIR011 MIR012 MIR013 MIR014    
+  337 MCOM-140862021  14165D      ANCY ANTONY                     IBO02 IBO04 IBO05     
+  338 MCOM-140862053  14165D      KANNAN.T.DAS                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  339 MCOM-140862852  14165D      SANOOP JOSEPH SAIMON            IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  340 MCOM-140863467  14165D      HIBA.P.NAZAR                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  341 MCOM-140863499  14165D      MUHAMMED FAISAL.C.M             IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  342 BCA-140864208   14165D      DANIAL  JOSE                    BCS012 BCSL013 BCSL021 BCSL022 ECO01     
+                                                                  MCS011 MCS012 MCS015    
+  343 BCA-140864247   14165D      SIMI ANTONY  P.A.               BCS012 BCSL021 ECO01 ECO02 MCS011    
+                                                                  MCS012 MCS013 MCS015    
+  344 BCOMAF-14086485614165D      GEORGE FRANCIS                  AED01 BEGE104 ECO13 FEG01 FEG02     
+                                                                  FST01     
+  345 CFN-140864999   14165D      DEEPESH P P                     CFN02     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    9
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 14165D                                  DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  346 BDP-140865381   14165D      ARYADEVI.K.V                    CHE05 FEG01 FML01 FST01     
+  347 BDP-140865407   14165D      GREESHMA VIPIN                  FEG01 FST01 LSE01 LSE02 LSE03     
+  348 BDP-140865540   14165D      GEORGY OUSEPH                   BPHE101 FST01 PHE02 PHE04     
+  349 BCOMAF-14086576114165D      PRATHEEKSHA M PRABHASH          AED01 BEGE104 BSHF101 ECO13 FEG01     
+                                                                  FEG02     
+  350 BCOMAF-14086577914165D      AMAL THARAKAN                   AED01 BEGE104 BSHF101 ECO13 FEG01     
+                                                                  FEG02     
+  351 BCOMAF-14086578614165D      SUHAIL RASHEED                  AED01 BEGE104 BSHF101 ECO13 FEG01     
+                                                                  FEG02     
+  352 MTM-140866029   14165D      KRISHNAN NAMBOOTHIRI N S        TS03 TS06      
+  353 BCA-140866369   14165D      JUNISH THOMAS AUGUSTINE         BCSL021 BCSL022 ECO02 MCS011 MCS012    
+                                                                  MCS013 MCS015    
+  354 DTS-140866423   14165D      RESMI JAIMON                    TS01 TS02      
+  355 BTS-140866645   14165D      PHILSON  KURIAKOSE              BSHF101 FEG01 TS01 TS02      
+  356 BTS-140866788   14165D      PADMAJA  MANOJ                  BSHF101 FEG01 FEG02 TS01 TS02      
+  357 BTS-140866795   14165D      ARUN  K  PRATHAP                BSHF101 FEG01 FEG02 TS01 TS02      
+  358 BTS-140866835   14165D      RAY THOMAS T                    BHDF101 BSHF101 FEG01 TS01 TS02      
+  359 BTS-140866842   14165D      CHEMMATTU  UBAIDULLAH SAJID     BSHF101 FEG01 FEG02 TS01 TS02      
+  360 BTS-140866850   14165D      SUNITHA T S                     BSHF101 FEG01 FEG02 TS01 TS02      
+  361 BTS-140866899   14165D      SOUMYA  M.P                     BSHF101 FEG01 FEG02 TS01 TS02      
+  362 BTS-140867038   14165D      SAVANTH.K.BABU                  BSHF101 FEG01 FEG02 TS01 TS02      
+  363 BTS-140867045   14165D      TEENU JOY                       BHDF101 BSHF101 FEG01 TS01 TS02      
+  364 BTS-140867077   14165D      ANU BABU                        BHDF101 BSHF101 FEG01 TS01 TS02      
+  365 BTS-140867084   14165D      AJITH.T.A                       BSHF101 FEG01 FEG02 TS01 TS02      
+  366 BTS-140867091   14165D      ARUN RAJ                        BSHF101 FEG01 FML01 TS01 TS02      
+  367 MSW-140867360   14165D      ASHIRVAD.E.R                    MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+  368 MSW-140867797   14165D      AMBILY.P.R                      MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+  369 BSW-140869475   14165D      JOJO S. VARGHESE                BSHF101 BSWE001 FEG01     
+  370 BTS-140869870   14165D      AKSHAY K S                      BHDF101 BSHF101 FEG01 TS01 TS02      
+  371 BTS-140869934   14165D      SREEJITHA MANOHARAN             BSHF101 FEG01 FEG02 TS01 TS02      
+  372 MCOM-140870337  14165D      THARA MOHANAN                   IBO01 IBO02 IBO03     
+  373 MCA-140870580   14165D      KRISHNA PREMKUMAR               MCS011 MCS021 MCS022 MCS023 MCS024    
+                                                                  MCSL025   
+  374 BDP-140870914   14165D      TINKU B MATHEW                  BSHF101 ESO11 ESO12 FEG01 FEG02     
+  375 BDP-140870992   14165D      MANJU THOMAS                    BSHF101 EHD01 EHD02 FHD02 FML01     
+  376 BCOMAF-14087135314165D      SANA JAMES                      AED01 BEGE104 BSHF101 ECO13 FEG01     
+                                                                  FEG02     
+  377 BCOMAF-14087136014165D      ARSHA OOMMEN                    AED01 BEGE104 ECO13 FEG01 FEG02     
+                                                                  FST01     
+  378 MSW-140871719   14165D      SINI JANCY K T                  MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+  379 MAPC-140872251  14165D      RITHAM KUNHALIKUTTY MOHAMMED    MPC001 MPC002 MPC003 MPC004 MPC005    
+                                                                  MPC006 MPCL007   
+  380 MEG-140873490   14165D      ANJU ANTONY                     MEG01 MEG02 MEG03 MEG04     
+  381 MP-142446765    14165D      BIYAMOL  BABU                   MS05 MS06 MS07 MS08      
+  382 MP-142446837    14165D      SHERIN  SHAJAN                  MS01 MS03 MS05 MS07      
+  383 MP-145892003    14165D      JAZEENA AZEEZ T                 MS05 MS06 MS07 MS09      
+  384 MP-145948051    14165D      JAIN JOSEPH                     MS01 MS02 MS03 MS04      
+  385 MP-145948069    14165D      SUNIL P V                       MS01 MS02      
+  386 MP-145948109    14165D      MANJULAKSHMI V                  MS01 MS02 MS04 MS07      
+  387 MP-145948162    14165D      ANU S VARSHA                    MS01 MS02 MS03 MS04      
+  388 MP-145948170    14165D      ROONIA BEHANAN                  MS01 MS03 MS06 MS09      
+  389 MP-145948360    14165D      SIMON JOSE                      MS01 MS02 MS03 MS04      
+  390 BPP-145953694   14165D      SIBI  MC                        OSS101 PCO       
+  391 MCA-145963237   14165D      ASIYA FIRDOUS                   MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   10
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 14165D                                  DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  392 MCA-145963560   14165D      LAYA APPUKUTTAN                 MCS012    
+  393 CTS-145966841   14165D      ANILA PAILY                     TS01 TS02      
+  394 MP-145972472    14165D      NIGIL THOMAS                    MS44 MS45 MS46      
+  395 BCA-145973016   14165D      SHOBIN DAS                      BCS011 BCS012 BCSL013 ECO01     
+  396 MP-145973220    14165D      REKHA P.G                       MS01 MS03      
+  397 MP-145974025    14165D      AMRUTHA A S                     MS02      
+  398 MCA-145975342   14165D      ALBIN JOSE                      MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  399 CFN-145976638   14165D      SINDHU SHENOY S                 CFN01 CFN02 CFN03     
+  400 MP-145979769    14165D      KR  SRIJIT                      MS04 MS08 MS45 MS494     
+  401 MCA-145981726   14165D      AKHIL  SG                       MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  402 BCA-145983862   14165D      DEEPAK N P                      BCS011 BCS012 BCSL013 ECO01 FEG02     
+  403 BCA-145984040   14165D      NIKHILA HEMANTH                 BCS011 BCS012 BCSL013 ECO01 FEG02     
+  404 BCA-145989469   14165D      MUHAMMAD SHIJAS M               BCS011 BCS012 BCSL013 ECO01 FEG02     
+  405 MCA-145990503   14165D      RINSON PETER P T                MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  406 BCA-145991820   14165D      JYOTHISH MOHAN                  BCS011 BCS012 BCSL013 ECO01 FEG02     
+  407 BCA-145991845   14165D      GEORGES ALPHONS                 BCS011 BCS012 BCSL013 ECO01 FEG02     
+  408 BCA-145991931   14165D      ARUNKUMAR V A                   BCS011 BCS012 BCSL013 ECO01 FEG02     
+  409 BCA-145992016   14165D      AKHIL PRASANNAN                 BCS011 BCS012 BCSL013 ECO01 FEG02     
+  410 BCA-145992030   14165D      VISHNU N RAJAN                  BCS011 BCS012 BCSL013 ECO01 FEG02     
+  411 BCA-145992087   14165D      LENIN M S                       BCS011 BCS012 BCSL013 ECO01 FEG02     
+  412 BCA-145992094   14165D      ARYA P MURALIDHARAN             BCS011 BCS012 BCSL013 ECO01 FEG02     
+  413 BCA-145992277   14165D      ATHIRA P MURALIDHARAN           BCS011 BCS012 BCSL013 ECO01 FEG02     
+  414 MCA-146079565   14165D      MANJU PAULACHAN                 MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  415 BCA-147741860   14165D      DEEPAK O R                      BCS011 BCS012 BCSL013 ECO01 FEG02     
+  416 BDP-ID1158348   14165D      FATHIMA RINOZA MOHAMED SADIQ    AED01 BCOA001 BEGE103 ECO07 ECO08     
+                                                                  ECO09 ECO10 ECO11     
+  417 BDP-ID1158355   14165D      FATHIMA RUKSHANA MOHAMED SADIQ  AED01 BCOA001 BEGE103 BSHF101 ECO07     
+                                                                  ECO08 ECO09 ECO10 ECO11 EPA01     
+        

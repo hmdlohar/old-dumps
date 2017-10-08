@@ -1,0 +1,12 @@
+#This file was created by the CookieSwap extension...see cookieswap.mozdev.org
+#NOTE: if this file's extension is 'tx1' then this is an
+# active profile and the cookies in here are old and will be overwritten by the 
+# cookies being managed by the browser
+.facebook.com	TRUE	/	TRUE	1502713541	lu	SgzbmO7ipRXH7gYb0QaKYWSg
+.facebook.com	TRUE	/	FALSE	1502713541	datr	2JlUVXATwzSaC9plFevw0daF
+.facebook.com	TRUE	/	TRUE	1447417541	c_user	100003824656547
+.facebook.com	TRUE	/	FALSE	1447417541	fr	0M3kOpgDXaYB1gArl.AWVENp3Vp1T66qLUSBdzhAMZKo4.BVzy_F.D_.AAA.0.AWXNJ7n5
+.facebook.com	TRUE	/	TRUE	1447417541	xs	119%3ACH2-F7iPJP3sWQ%3A2%3A1439641541%3A2767
+.facebook.com	TRUE	/	FALSE	1447417541	csm	2
+.facebook.com	TRUE	/	TRUE	1447417541	s	Aa4LL-f3vkb4BXJT.BVzy_F
+.facebook.com	TRUE	/	FALSE	1447417541	m_user	0%3A0%3A0%3A0%3Av_1%2Cajax_0%2Cwidth_0%2Cpxr_0%2Cgps_0%3A1439641541%3A2

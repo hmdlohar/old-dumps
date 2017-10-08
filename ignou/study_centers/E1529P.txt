@@ -1,0 +1,601 @@
+
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    1
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1529P                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+    1 BCA-070509055   1529P       KRISHAN KUMAR SHARMA            CS05 CS71 CS73      
+    2 MCA-070518971   1529P       RAJESH KUMAR KHARCHE            CS60 MCS035 MCSE004   
+    3 BCA-072609031   1529P       AJIT SINGH                      CS64 CS71 CS72 CS73      
+    4 MCA-082816224   1529P       CHETAN SWARUP KOTWANI           MCS042    
+    5 MCA-083790851   1529P       SACHIN SINGH RAJPUT             MCS031    
+    6 MCA-083795069   1529P       MANGESH SAITWAL                 MCS043 MCS051 MCS052 MCSE003 MCSE011   
+    7 MCA-092188673   1529P       ARVIND PATIDAR                  MCS021 MCS031 MCS033 MCS041 MCS042    
+                                                                  MCS043 MCS053 MCSE004 MCSE011 MCSL054   
+    8 MCA-094607620   1529P       ANIL JAT                        MCS041 MCS053    
+    9 MCA-094609061   1529P       SUNNY JARWAL                    MCS035 MCS052 MCS053 MCSE003 MCSE004   
+                                                                  MCSE011   
+   10 BDP-098283050   1529P       PRIYANKA SHRIVASTAVA            CHE05 LSE05     
+   11 MSDFSM-0983733161529P       LALITA YADAV                    MFN009    
+   12 MCA-098373885   1529P       PARUL JAIN                      CS60 MCS031    
+   13 BCA-098576050   1529P       ANSHUL MARKANDEY                CS06 CS63 CS64 CS70 CS71 CS72      
+                                                                  CS73 CS74P CS75      
+   14 BCA-098576108   1529P       MANISH MANGESHKAR               CS64 CS71 CS72 CS75      
+   15 MCA-098576115   1529P       MEGHA VERMA                     MCS032 MCS033 MCS041 MCS051 MCSE003   
+   16 MCA-098576219   1529P       VARSHA VERMA                    MCS032 MCS041 MCS051 MCS052 MCS053    
+                                                                  MCSE003   
+   17 MCA-098576320   1529P       SALONI SHARMA                   MCS031 MCS033 MCS041 MCS053 MCSE003   
+                                                                  MCSE004   
+   18 MCA-100026049   1529P       EKTA DUBEY                      MCS051 MCS053    
+   19 MCA-100026078   1529P       PUSHPA CHANDRAVANSHI            MCS013 MCS033 MCS053 MCSL025 MCSL036   
+   20 BCA-100029227   1529P       DINESH KUMAR NAGORE             BSHF101 CS05 CS62 CS70 CS72 CS74      
+                                                                  CS75 FST01     
+   21 MCA-101259827   1529P       RUCHITA CHELANI                 MCS041    
+   22 MP-101898506    1529P       ARCHANA ACHARYA                 MS95      
+   23 MP-101907200    1529P       SHILPA GABRIEL                  MS08      
+   24 BCA-102318512   1529P       KAPIL CHOUDHARY                 CS71 CS72 CS73      
+   25 BDP-102318515   1529P       JAGJEEVAN DHURVE                AMK01 AOM01 EHI04 EPS15 ESO16     
+   26 MSDFSM-1023185181529P       RANI BANOUDHIYA                 MFN005    
+   27 MSW-102318538   1529P       MUKESH YADAV                    MSW006 MSW007 MSW009    
+   28 MCA-102318553   1529P       ASHISH PATIDAR                  MCS012 MCS014 MCS022 MCS033 MCS042    
+                                                                  MCS052 MCS053 MCSE003   
+   29 BDP-102318587   1529P       AKHILESH PATIDAR                AMK01 ECO02 ECO07 ECO08 ECO09     
+                                                                  ECO10 ECO11     
+   30 MP-102516239    1529P       NEHA JAISWAL                    MS41 MS42 MS92      
+   31 MP-102516260    1529P       VICKY BAHAL                     MS08      
+   32 MCA-105032351   1529P       SHAILENDRA MALVIYA              MCS012 MCS022 MCS031 MCS034 MCS042    
+                                                                  MCS043    
+   33 MCA-105097165   1529P       ANUBHAV AGARWAL                 MCS031 MCS041 MCS051 MCS053 MCSE004   
+   34 MARD-105618416  1529P       RAVI PATHAK                     MRDE003   
+   35 MSDFSM-1056184701529P       TRUPTI SAMEER KHANDELWAL        MFN004 MFN005 MFN007 MFN009    
+   36 BDP-105618495   1529P       NITASHA MALVIYA                 AMK01 EHI04     
+   37 MP-105618552    1529P       ANKITA AWHAD                    MS25 MS26 MS27 MS94      
+   38 BDP-105618567   1529P       JOHN P Y                        AMK01 ECO03 ECO05 ECO08 ECO09     
+                                                                  ECO12     
+   39 BDP-105618580   1529P       KAPIL KUSHWAH                   BCOA001   
+   40 BDP-105618583   1529P       NIRMALA PARMAR                  AEC01 CHE05 CHE10 LSE03 LSE05     
+                                                                  LSE06     
+   41 MCA-105618584   1529P       JUMANA HUSAIN                   MCS022    
+   42 MEG-105618585   1529P       RUMAISA RALA                    MEG05 MEG06     
+   43 MCA-105618594   1529P       SUNNY KASERA                    MCS031 MCS034 MCS041 MCS042 MCS051    
+                                                                  MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+   44 MCA-105618637   1529P       NAUMITA GODNE                   MCS035 MCS041 MCS042 MCS043 MCS051    
+                                                                  MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    2
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1529P                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+   45 BCA-105618638   1529P       BHUSHAN RAGHUWANSHI             CS71 CS72 MCS031 MCS032 MCS033    
+                                                                  MCS041 MCS042 MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL054 MTE03     
+   46 MCA-105618641   1529P       DILIP HINGWE                    MCS031 MCS032 MCS034 MCS041 MCS042    
+                                                                  MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+   47 BDP-105618642   1529P       AWADHESH KUMAR SAHU             ECO10 ECO14     
+   48 BDP-105618643   1529P       SANDEEP PORWAL                  BCOA001   
+   49 BDP-105618645   1529P       VANDNA RAMESH VERMA             AMK01 BCOA001 ECO08 ECO09 ECO10     
+                                                                  ECO11 ECO14 EEC07     
+   50 BDP-105618661   1529P       RAKESH RAJPUT                   AEC01 CHE01 CHE05 CHE10 LSE05     
+   51 BDP-105618662   1529P       OMPRAKASH RAJPUT                CHE01 CHE05 CHE10 LSE05 LSE06     
+   52 BDP-105618688   1529P       SUBHASH CARPENTER               AMK01 AOM01 EHI04 EPA03 EPS07     
+                                                                  EPS15 ESO16 FST01     
+   53 BDP-105618692   1529P       NILESH YADAV                    BCOA001 FST01     
+   54 BDP-105618721   1529P       NEELIMA SHARMA                  ECO08 ECO11     
+   55 BDP-105618724   1529P       INDRAJEET SHARMA                ECO08     
+   56 BDP-105618727   1529P       CHITRANSH HANDEL                MTE01 MTE02 MTE04 MTE05 PHE01     
+                                                                  PHE02 PHE04 PHE05     
+   57 MCA-110468132   1529P       NAKUL PAITHANKAR                MCS051    
+   58 MCA-110526979   1529P       DEEPIKA GABRANI                 MCS051 MCS053 MCSE003 MCSE004   
+   59 MCA-110528965   1529P       PRIYANKA CHANDRASINGH PAWAR     BCS040 BCS042 BCS051 BCS053 BCS054    
+                                                                  ECO02 MCS012 MCS022 MCS024 MCS032 MCS034 MCSL036   
+   60 BED-111715307   1529P       LAVINA NINAMA                   BESE065 BESE066 ES331 ES333 ES334     
+                                                                  ES335 ES345 ES362     
+   61 BED-111718406   1529P       ABDUL HAFIZ BANARSI             ES333     
+   62 MCA-111726671   1529P       MANISH VAISHNAV                 CS60 MCS011 MCS021 MCS042 MCS052    
+                                                                  MCS053 MCSE011   
+   63 MCA-111730349   1529P       TWINKLE AWASTHI                 MCS031 MCS033 MCS035 MCS041 MCS042    
+                                                                  MCS051 MCS052 MCS053    
+   64 MCA-111732761   1529P       RUPALI RAI                      MCS022 MCS035 MCS041 MCS051 MCS053    
+                                                                  MCSE003 MCSE004 MCSL017 MCSL025 MCSL036 MCSL045 MCSL054   
+   65 MCA-111732833   1529P       NIKITA PATEL                    BCS041 BCS054 MCS011 MCS031 MCS032    
+                                                                  MCS033 MCS034 MCS035 MCSL036   
+   66 MCA-114007300   1529P       VIMALA TIWARI                   MCS011 MCS031 MCS032 MCS041 MCS042    
+                                                                  MCS043 MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+   67 BDP-114019597   1529P       MAHESH SINGH KHERIYA            AMK01 AOM01 EHI04 EPS15 ESO16     
+   68 BDP-114019651   1529P       PARMANAND KUSHWAH               AMK01 AOM01 EHI04 EPS15 ESO16     
+   69 MP-114020093    1529P       ANKITA DUBEY                    MS08      
+   70 BDP-114042787   1529P       ARVIND KUMAR SHUKLA             AMK01 AOM01 EHI02 EHI04 EPA03     
+                                                                  EPS07 EPS15 FST01     
+   71 BDP-114051840   1529P       SASHMITA NANDA                  ECO09     
+   72 BDP-114057185   1529P       ADHISH SONI                     BCOA001 ECO09 FST01     
+   73 BDP-114057368   1529P       SHEELA SANWARE                  FST01     
+   74 BDP-114083671   1529P       MANOJ NAGAR                     AMK01 AOM01 EHI04 EPS15 ESO16     
+   75 BDP-114083729   1529P       GIRISH KUMAR DUBEY              AMK01 AOM01 EHI04 EPS15 ESO16     
+   76 MP-114166703    1529P       MAHENDRA VAIDYA                 MS04 MS08 MS51 MS95      
+   77 MP-114166728    1529P       SANJAY SHARMA                   MS08      
+   78 MP-114166821    1529P       GOKUL KUMAR SHARMA              MS03 MS04 MS08 MS10 MS25 MS26      
+                                                                  MS27 MS95      
+   79 MP-114166892    1529P       ROSHANI GANGLE                  MS21 MS22 MS92      
+   80 MP-114167024    1529P       RAMANDEEP SINGH BHATIA          MS08 MS95      
+   81 MP-114167095    1529P       RAJESH BORDE                    MS61 MS92      
+   82 MP-114167332    1529P       KAMLESH MALAKAR                 MS08      
+   83 MP-114167364    1529P       AJAYKUMAR BUM                   MS08      
+   84 MP-114167404    1529P       CHANDANI KHATRI                 MS04 MS08 MS92 MS95      
+   85 MP-114167626    1529P       NIDHI BABEL                     MS07      
+   86 MP-114167658    1529P       ABHISHEK JOSHI                  MS92      
+   87 MP-114167737    1529P       MANISH RATHORE                  MS04 MS05 MS08 MS92 MS95      
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    3
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1529P                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+   88 MP-114168058    1529P       ARVIND KUMAR MAKODE             MS04 MS05 MS11 MS51 MS52 MS92      
+                                                                  MS95      
+   89 MP-114168105    1529P       SANDHYA KUSHWAH                 MS92      
+   90 MP-114168169    1529P       SUNIL KUSHWAHA                  MS61 MS94      
+   91 MP-114168183    1529P       SACHIN PATIL                    MS51 MS94      
+   92 MP-114168595    1529P       SAPNA BHATT                     MS44 MS45 MS94      
+   93 MP-114168739    1529P       NEHA SHARMA                     MS28 MS29      
+   94 MP-114168753    1529P       GAURAV SHARMA                   MS28 MS94      
+   95 MP-114168990    1529P       PREMENDRA GANGRADE              MS51      
+   96 MCA-117067969   1529P       NIRALI MANSUKHLAL VIRANI        MCS033    
+   97 BCA-117886805   1529P       RITU BHADORIYA                  BCS011 BCS053 MCS011 MCS012 MCS021    
+                                                                  MCS024    
+   98 MCA-118538151   1529P       APURVA GITE                     MCS031 MCS032 MCS033 MCS034 MCS035    
+                                                                  MCSL036   
+   99 BDP-119032360   1529P       MAHESH PATIDAR                  BCOA001 ECO09 ECO10 ECO14 EEC07     
+                                                                  FST01     
+  100 BDP-119032805   1529P       SURENDRA CARPENTER              ECO09 ECO14 FST01     
+  101 BDP-119033323   1529P       AARTI SHARMA                    BCOA001 ECO09 ECO10 ECO12 ECO14     
+                                                                  EEC11     
+  102 BDP-119033459   1529P       NEHA GOUR                       AMK01 BCOA001 ECO03 ECO05 ECO09     
+                                                                  ECO14 EEC07 EEC11     
+  103 BDP-119033560   1529P       DEEPAK KHATRI                   AMK01 ECO08 ECO09 ECO10 ECO11     
+                                                                  ECO14     
+  104 BDP-119033663   1529P       KAPIL KHATRI                    AMK01 BCOA001 ECO02 ECO08 ECO09     
+                                                                  ECO10 ECO11 ECO14 EEC07     
+  105 MCA-119036991   1529P       VIVEK KUMAR SINGH               MCS032 MCS042 MCS052 MCS053 MCSE011   
+  106 MCA-119037037   1529P       RAKESH JOSHI                    CS60 MCS032    
+  107 MCA-119037123   1529P       DHEERAJ SHRIVASTAVA             MCS021 MCS031 MCS032 MCS041 MCS042    
+                                                                  MCS053 MCSE003 MCSE004 MCSE011 MCSL045 MCSL054   
+  108 MCA-119037187   1529P       VIKAS GOME                      MCS011 MCS031 MCS032 MCS033 MCS041    
+                                                                  MCS052 MCS053 MCSE004 MCSL045   
+  109 MP-119037796    1529P       SHRADHA JAIN                    MS44      
+  110 MP-119039055    1529P       POOJA BHATIA                    MS66      
+  111 MP-119043919    1529P       SHREYAS DHARKAR                 MS94      
+  112 MP-119044666    1529P       LOKESH KUMAR                    MS612     
+  113 MP-119044784    1529P       BHOOPENDRA SAKRE                MS51 MS54 MS56 MS57 MS94      
+  114 MP-119045113    1529P       AYUSHI KHANDELWAL               MS612     
+  115 MP-119046258    1529P       VINOD KUMAR KAG                 MS612     
+  116 MP-119047077    1529P       SUJITH T                        MS08 MS25 MS26 MS27 MS94      
+  117 MP-119047170    1529P       VIKRAM SINGH TANWAR             MS94      
+  118 MP-119047378    1529P       EKTA PORWAL                     MS25      
+  119 BDP-119051124   1529P       BHARTI KAROLE                   AEC01 CHE04 CHE05 CHE10 LSE05     
+                                                                  LSE06     
+  120 BDP-119051210   1529P       VINAY PRATAP SINGH TOMAR        AEC01 ANC01 LSE01 LSE03 LSE05     
+                                                                  LSE06     
+  121 BCA-119052860   1529P       MUKHLESH KUMAR PANDEY           BCS040 BCS041 BCS042 BCSL043 BCSL044   
+                                                                  BCSL045 MCS024 MCSL016   
+  122 BDP-119053751   1529P       ASHISH SHARMA                   AMK01 AOM01 EHI04 EPS15 ESO16     
+                                                                  FST01     
+  123 BDP-119068221   1529P       SUREKHA SISODIA                 AMK01 BCOA001 ECO08 ECO09 ECO11     
+                                                                  ECO14 EEC07 FST01     
+  124 MP-119073667    1529P       ASHISH SHINDE                   MS94      
+  125 MCA-119074264   1529P       NAVEEN GAIKWAD                  BCS040 BCS041 BCS051 MCS011 MCS031    
+                                                                  MCS032 MCS033 MCS034 MCS035 MCSL036   
+  126 MEG-119144693   1529P       SUNRBHI ONKAR                   MEG10     
+  127 MCA-119144930   1529P       SUMIT YADAV                     BCS012 BCS031 BCS040 BCS041 MCS011    
+                                                                  MCS014 MCS021 MCS023 MCS024 MCS031 MCS032 MCS033 MCS034 MCS035 MCSL036   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    4
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1529P                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  128 BCA-119145649   1529P       NITESH RATHORE                  BCS041 BCS051 BCS054 BCSL022 MCS011    
+                                                                  MCS022 MCS023 MCS024    
+  129 MP-119146199    1529P       SACHIN SHARMA                   MS04 MS08 MS10 MS11 MS62 MS63      
+                                                                  MS66 MS94      
+  130 MP-119146292    1529P       DUSHYANT GOUR                   MS04 MS08 MS61 MS612 MS62 MS66      
+                                                                  MS91 MS94      
+  131 BDP-119150823   1529P       BRAJESH SINGH PANWAR            AEC01 CHE05 CHE10 LSE03 LSE05     
+  132 BDP-119151058   1529P       DILEEP RATHORE                  AEC01 ANC01 BSHF101 FST01 LSE01     
+                                                                  LSE02 LSE03 LSE05     
+  133 BDP-119153456   1529P       PRATEEKSHA BHATT                BCOA001 ECO09 ECO10 ECO11 ECO14     
+                                                                  EEC11 FST01     
+  134 BDP-119153574   1529P       VINOD NANERIYA                  AMK01 BCOA001 ECO02 ECO08 ECO11     
+                                                                  ECO14 EEC07 FST01     
+  135 BDP-119154039   1529P       VISHI VYAS                      ECO14 EEC07     
+  136 BDP-119154361   1529P       ANKIT GUPTA                     BCOA001 ECO02 ECO10 EEC07 FST01     
+  137 BDP-119155704   1529P       SARITA FARKARE                  FST01     
+  138 BDP-119155893   1529P       PINKY TIWARI                    EHI02 EHI04 EPS07 EPS15 ESO16     
+  139 BDP-119156208   1529P       PRADEEP SINGH SOLAKI            FST01     
+  140 BDP-119156254   1529P       SURESH HASLE                    FST01     
+  141 BDP-119192268   1529P       BHAVNA BILLORE                  FST01     
+  142 BCOMAF-1201629161529P       RUHI JAIN                       AED01 ECO13 EEG04 FEG01 FEG02     
+                                                                  FHS01     
+  143 MCA-120163940   1529P       POONAM CHOPRA                   MCS052    
+  144 MCA-120164966   1529P       KAVITA AGNIHOTRI                CS60 MCS011 MCS022 MCS033 MCS042    
+                                                                  MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL016 MCSL017   
+  145 MCA-120166350   1529P       NIDHI SINGH KUSHWAHA            MCS032 MCS033 MCS042 MCS051 MCSE003   
+                                                                  MCSE004 MCSE011 MCSL017 MCSL045 MCSL054   
+  146 MCA-120166368   1529P       HUSAIN NAJMUDDIN BARWANIWALA    MCS011 MCS041 MCS042 MCS043 MCS052    
+                                                                  MCS053 MCSE004 MCSL054   
+  147 MCA-120166913   1529P       SARITA NAYAK                    MCS042 MCS043 MCS052 MCS053 MCSE011   
+                                                                  MCSL045 MCSL054   
+  148 BCA-120170565   1529P       RAJESHRI MAHAJAN                BCS062 BCSL063 MCS022    
+  149 MCA-120172734   1529P       RENU PAL                        MCS012 MCS022 MCS023 MCS031 MCS041    
+                                                                  MCS042 MCS051 MCSL054   
+  150 MCA-120172798   1529P       AZHAR UDDIN SHEIKH              MCS011 MCS012 MCS014 MCS021 MCS022    
+                                                                  MCS023 MCS024 MCS032 MCS034    
+  151 MCA-120174111   1529P       KHUSHBOO JAIN                   CS60 MCS012 MCSE004   
+  152 MCA-121031775   1529P       RAHUL SWAMY                     MCS021 MCS022 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCS041 MCS042 MCS043 MCSE004   
+  153 BCA-121032627   1529P       VIVEK MAHAJAN                   BCS041 BCS042 BCS052 BCS055 BCS062    
+                                                                  BCSL043 BCSL044 BCSL045 BCSL056 BCSL057 BCSL058 BCSL063 MCS011 MCS013 MCSL016   
+  154 BED-121461533   1529P       DISHA BHAWNANI                  BESE065 BESE066 ES334 ES335 ES363     
+  155 MP-124507532    1529P       MAYURI PANDEY                   MS08      
+  156 MP-124508763    1529P       ABHILASHA AGARWAL               MS28 MS29 MS91      
+  157 MP-124509091    1529P       AMIT TALREJA                    MS41 MS42 MS44 MS91      
+  158 MP-124509432    1529P       SURAJ PARASHAR                  MS08      
+  159 MP-124509686    1529P       JASWANT SINGH RAJPOOT           MS08 MS61 MS612 MS62 MS66      
+  160 MP-124509876    1529P       SAPNA CHAUHAN                   MS62 MS66 MS94      
+  161 MP-124509994    1529P       NIKITA MITTAL                   MS21      
+  162 MP-124510208    1529P       HEMLATA SAHARE                  MS21      
+  163 MP-124510895    1529P       RAHUL KUMAR SONI                MS08 MS22 MS27 MS94 MS95      
+  164 MP-124511342    1529P       KHUSHBOO JAIN                   MS44 MS45      
+  165 MP-124511460    1529P       RAVI KUMAR BANGAR               MS08 MS44      
+  166 MP-124511518    1529P       MONIKA MATHUR                   MS08      
+  167 MP-124511708    1529P       VAISHALI JAISWAL                MS08      
+  168 MP-124511833    1529P       NARENDRA BATHAM                 MS08 MS44      
+  169 MP-124516294    1529P       SMITA AGRAWAL                   MS21 MS22 MS91      
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    5
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1529P                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  170 MP-124516366    1529P       DEEPSHREE AJMERA                MS95      
+  171 MP-124516491    1529P       MEENAKSHI RAI                   MS08 MS94      
+  172 MP-124516517    1529P       DURGESH YADAV                   MS44 MS94      
+  173 MP-124516570    1529P       MAYURI VERMA                    MS08      
+  174 MP-124517486    1529P       KANCHAN KUKREJA                 MS42 MS44 MS45 MS46 MS95      
+  175 MP-124518417    1529P       ALKA KACHHWAHA                  MS04 MS08 MS21 MS22 MS27 MS91      
+                                                                  MS94      
+  176 MP-124524403    1529P       ASHISH RAKESH DEENDAYAL         MS08 MS51 MS52 MS56 MS91 MS94      
+                                                                  MS95      
+  177 MP-124525587    1529P       PIYUSH VERMA                    MS612     
+  178 MP-124526120    1529P       RAJKUMAR PATWARE                MS08 MS44 MS94      
+  179 MP-124526160    1529P       AYUSHI BAHETI                   MS08 MS44      
+  180 MP-124526421    1529P       VISHAL WANKHADE                 MS51      
+  181 MP-124526920    1529P       ANKUSH JAIN                     MS08 MS612 MS66      
+  182 MP-124527068    1529P       KAPIL DUBEY                     MS08      
+  183 MP-124527717    1529P       NEHA KANUNGO                    MS08      
+  184 BDP-124536390   1529P       KEERTI VISHWAKARMA              ANC01 MTE01 MTE02 MTE04 MTE07     
+                                                                  MTE08 MTE11 MTE12 PHE02 PHE04 PHE05 PHE09 PHE10 PHE11     
+  185 BDP-124536683   1529P       PREETI GUPTA                    ANC01 MTE01 MTE02 MTE08 MTE11     
+                                                                  MTE12 PHE02 PHE04 PHE05 PHE07 PHE09 PHE10 PHE11     
+  186 MP-124542125    1529P       SAMEER MEER                     MS27      
+  187 MCA-124543997   1529P       SHAIFALI JAISWAL                MCS051 MCS052 MCS053 MCSE004 MCSE011   
+                                                                  MCSL054   
+  188 BDP-124544548   1529P       DHEERAJ KAPOOR                  AMK01 BCOA001 ECO08 ECO09 ECO10     
+                                                                  ECO11 ECO13 ECO14 EEC07     
+  189 BDP-124544791   1529P       ABILASHA KOLHE                  ECO03 ECO05 ECO07 ECO12 ECO13     
+                                                                  ECO14 EEC11     
+  190 BDP-124545310   1529P       SONAL BAHAL                     AMK01 BCOA001 ECO08 ECO09 ECO10     
+                                                                  ECO11 ECO14 EEC07     
+  191 BDP-124548008   1529P       KHUSHBOO BALANI                 AMK01 BCOA001 ECO08 ECO09 ECO10     
+                                                                  ECO11     
+  192 BDP-124548061   1529P       ANNAPURNA SAHU                  AMK01 BCOA001 ECO08 ECO09 ECO10     
+                                                                  ECO11 ECO14 EEC07     
+  193 BDP-124548119   1529P       HANSA SOLANKI                   AMK01 BCOA001 ECO08 ECO09 ECO10     
+                                                                  ECO11 ECO14 EEC07     
+  194 BDP-124548290   1529P       KAMAKSHI BHADALE                AMK01 BCOA001 ECO02 ECO08 ECO09     
+                                                                  ECO10 ECO11 ECO13 ECO14 EEC07 FST01     
+  195 BDP-124548427   1529P       BHAVNA SHARMA                   AMK01 BCOA001 ECO08 ECO09 ECO10     
+                                                                  ECO11 ECO14 EEC07     
+  196 BDP-124557243   1529P       CHERRY JAIN                     AMK01 AOM01 EHI04 EPS15 ESO16     
+  197 MP-124558102    1529P       NISHA SHARMA                    MS41 MS42 MS44 MS91 MS94      
+  198 MP-124558331    1529P       ABHISHEK PAURANIK               MS44 MS45 MS46 MS94 MS95      
+  199 MP-124558349    1529P       AJAY SINGH THAKUR               MS08 MS61 MS62 MS66 MS91      
+  200 MP-124560210    1529P       ABHAY GUPTA                     MS21 MS22 MS26 MS27 MS91      
+  201 MP-124560377    1529P       NEHA CHOPRA                     MS08 MS21 MS22 MS91      
+  202 MP-124561852    1529P       ARVINDRA SINGH TOMAR            MS51      
+  203 MP-124562213    1529P       KAUSTUBH PANDIT                 MS08 MS41 MS42 MS94      
+  204 BDP-124565154   1529P       SARITA RAJPUT                   AEC01 ANC01 CHE10 LSE05     
+  205 MP-124565369    1529P       JAYA THAKUR                     MS08      
+  206 BDP-124565850   1529P       MRIDULA BHARGAVA                AMK01 AOM01 EHI04 EPS15 ESO16     
+  207 BDP-124565874   1529P       NEHA CHOUHAN                    AMK01 BCOA001 ECO08 ECO09 ECO10     
+                                                                  ECO11 ECO14 EEC07     
+  208 BDP-124565960   1529P       PUJA SHARMA                     AMK01 BCOA001 ECO08 ECO09 ECO10     
+                                                                  ECO11 ECO14 EEC07     
+  209 BDP-124566006   1529P       NAMAMI SHUKLA                   AMK01 AOM01 EHI04 EPS15 ESO16     
+  210 BDP-124579439   1529P       AVINI SINGH GEHLOT              AMK01 AOM01 EHI04 EPS15 ESO16     
+  211 BDP-124579643   1529P       REENA SEN                       FST01     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    6
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1529P                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  212 BDP-124581094   1529P       LAXMI PANWAR                    FST01     
+  213 BDP-124581238   1529P       AJAJ KHAN                       AMK01 AOM01 EHI04 EPS15 ESO16     
+                                                                  FST01     
+  214 BDP-124581300   1529P       SEVAKRAM KANAPURIYA             AMK01 AOM01 EHI04 EPS15 ESO16     
+  215 BDP-124581521   1529P       MUKESH PATEL                    EHI02 EPA03 EPS07 FST01     
+  216 BDP-124581886   1529P       SONIKA PARMAR                   AMK01 AOM01 EHI04 EPS15 ESO16     
+  217 BDP-124581919   1529P       SANJAY KUMAWAT                  AMK01 AOM01 EHI04 EPS15 ESO16     
+  218 BDP-124594431   1529P       HEMENDRA VERMA                  AMK01 AOM01 EHI04 EPS15 ESO16     
+                                                                  FST01     
+  219 BDP-124594542   1529P       RAJU BHURIA                     AMK01 AOM01 EHI04 EPA03 EPS15     
+                                                                  ESO16     
+  220 BDP-124594621   1529P       PINKY AGRAWAL                   AMK01 AOM01 EHI04 EPS15 ESO16     
+  221 BDP-124594993   1529P       DEEPIKA VERMA                   EHI02 EPA03 EPS07 FST01     
+  222 BDP-124595078   1529P       MITESH PATIDAR                  AMK01 AOM01 EHI02 EHI04 EPS15     
+                                                                  ESO16     
+  223 BDP-124595157   1529P       SUNNY SAHU                      EHI02 EPA03 EPS07 FST01     
+  224 BDP-124595236   1529P       NEHA SHARMA                     AMK01 AOM01 BPAE102 EHI02 EHI04     
+                                                                  EPS15 ESO16     
+  225 BDP-124596539   1529P       ABHA GUPTA                      AMK01 BCOA001 ECO08 ECO09 ECO10     
+                                                                  ECO11 EEC07     
+  226 MCA-126505344   1529P       USHA AHEERE                     MCS012 MCS014 MCS021 MCS023 MCS031    
+                                                                  MCS032 MCS033 MCS034 MCS035 MCS042 MCS043 MCSE004 MCSE011 MCSL054   
+  227 MCA-126505369   1529P       PRAGYA B VYAS                   MCS022 MCS024 MCS031 MCS032 MCS035    
+                                                                  MCS042 MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+  228 MCA-126505376   1529P       NIHARIKA SHRIVAS                MCS033 MCS051 MCS052 MCS053 MCSE003   
+                                                                  MCSE004 MCSE011 MCSL025 MCSL054   
+  229 MCA-126505383   1529P       ANIL KUMAR GUPTA                MCS021 MCS031 MCS033 MCS042 MCS051    
+                                                                  MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL045 MCSL054   
+  230 MCA-126505390   1529P       TARANNUM KHAN                   MCS035 MCS041 MCS042 MCS051 MCS052    
+                                                                  MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+  231 MCA-126505416   1529P       NEHA TAKKAR                     MCS011 MCS022 MCS023 MCS024 MCS031    
+                                                                  MCS032 MCS042 MCS043 MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+  232 MCA-126505448   1529P       VINOD KUMAR JALKHARE            MCS021 MCS022 MCS031 MCS033 MCS041    
+                                                                  MCS042 MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL025 MCSL054   
+  233 BCA-126508357   1529P       SWATI VYAS                      BCS040 BCS051 BCS052 BCS053 BCS054    
+                                                                  BCS055 BCSL043 BCSL056 BCSL057 BCSL058 MCS013 MCS021    
+  234 BCA-126508364   1529P       SHAILENDRA KHARWAR              BCS051 BCS052 BCS053 BCS054 BCS055    
+                                                                  BCSL056 BCSL057 BCSL058 MCS011 MCS013    
+  235 BCA-126508371   1529P       VIKAS KOTWAL                    BCS040 BCS042 BCS051 BCS052 BCS053    
+                                                                  BCS054 BCS055 BCSL056 BCSL057 BCSL058 MCS021 MCS023 MCS024    
+  236 BCA-126508396   1529P       DINESH DORIYA                   BCS012 BCSL021 BCSL022 ECO02 MCS011    
+                                                                  MCS012 MCS013 MCS015    
+  237 MCA-126508619   1529P       PARAMJEET KAUR KHALSA           MCS022 MCS024 MCS032 MCS033 MCS034    
+                                                                  MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL016 MCSL025 MCSL036 MCSL045 MCSL054   
+  238 MCA-126508633   1529P       MADHURIMA PURANIK               CS60 MCS051 MCS052 MCS053 MCSE003   
+                                                                  MCSE004 MCSE011 MCSL054   
+  239 MCA-126508640   1529P       SHWETA YADAV                    MCS014 MCS022 MCS023 MCS024 MCS042    
+  240 MCA-126508672   1529P       POONAM PAWAR                    MCS014 MCS021 MCS051 MCS052 MCS053    
+                                                                  MCSE003 MCSE004 MCSE011 MCSL025 MCSL054   
+  241 MCA-126509209   1529P       NAMRATA VERMA                   MCS051 MCS052 MCS053 MCSE003 MCSE004   
+                                                                  MCSE011 MCSL054   
+  242 BCA-126509818   1529P       POOJA CHOUHAN                   BCS051 BCS052 BCS053 BCS054 BCS055    
+                                                                  BCSL032 BCSL056 BCSL057 BCSL058 MCS011 MCS021    
+  243 MCA-126510006   1529P       RASHMI JAIN                     MCS051 MCS052 MCS053 MCSE003 MCSE004   
+                                                                  MCSE011 MCSL054   
+  244 MCA-126511781   1529P       JAYA MAURYA                     MCS012 MCS041 MCS051 MCS052 MCS053    
+                                                                  MCSE003 MCSE004 MCSE011 MCSL054   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    7
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1529P                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  245 MCA-126511839   1529P       BHIM SINGH GOUD                 MCS021 MCS022 MCS031 MCS032 MCS041    
+                                                                  MCS042 MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+  246 MCA-126511885   1529P       MOHAMMAD NADEEM ANSARI          MCS021 MCS022 MCS023 MCS051 MCS052    
+                                                                  MCS053 MCSE003 MCSE004 MCSE011 MCSL025 MCSL054   
+  247 BCA-126515090   1529P       GAURAV JOSHI                    BCS040 BCS041 BCS042 BCSL032 BCSL033   
+                                                                  BCSL034 BCSL043 BCSL044 BCSL045 MCS011 MCS012 MCS013 MCS021 MCS023 MCS024 MCSL016   
+  248 MCA-126516236   1529P       ANKIT SANGHVI                   MCS021 MCS022 MCS023 MCS024 MCS031    
+                                                                  MCS032 MCS033    
+  249 MADE-126516315  1529P       SUSHMA BHATT                    MDE412 MDE414 MDE419    
+  250 MCA-126516569   1529P       PRAVIN KUMAR GUPTA              MCS033 MCS042 MCS043 MCS051 MCS052    
+                                                                  MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+  251 MCA-126519858   1529P       KRATIKA PANDEY                  MCS033 MCS051 MCS052 MCS053 MCSE003   
+                                                                  MCSE004 MCSE011 MCSL054   
+  252 BCA-127192165   1529P       BRIJESH BHATORE                 BCS011 BCS031 BCS041 BCS053 BCS055    
+                                                                  BCSL056 BCSL057 BCSL058 ECO02 MCS011 MCS012 MCS013 MCS014 MCS021 MCS023    
+  253 BCA-127805762   1529P       POOJA VASUDEV SABNANI           BCS051 BCS052 BCS053 BCS054 BCS055    
+                                                                  BCSL013 BCSL043 BCSL056 BCSL057 BCSL058 MCS021 MCSL016   
+  254 MCA-130072520   1529P       RICHA SAXENA                    MCS021 MCS022 MCS031 MCS032 MCS033    
+                                                                  MCS041 MCS042 MCS043 MCSL045   
+  255 MCA-130073181   1529P       VANDANA MALVIYA                 MCS012 MCS014 MCS021 MCS022 MCS031    
+                                                                  MCS032 MCS033 MCS034 MCS041 MCS042 MCS043 MCSL025 MCSL036 MCSL045   
+  256 BED-130077995   1529P       PURNIMA VERMA                   BESE065 BESE066 ES334 ES335 ES363     
+  257 BED-130078141   1529P       NIREESH KUMAR PAWAR             BESE065 BESE066 ES334 ES335 ES361     
+  258 BED-130078277   1529P       BULBUL VIJAYVARGIYA             BESE065 BESE066 ES334 ES335 ES362     
+  259 BED-130079064   1529P       NEELAM HADA                     BESE065 BESE066 ES334 ES335 ES361     
+  260 BED-130079111   1529P       SHWETA GUPTA                    BESE065 BESE066 ES334 ES335 ES363     
+  261 BED-130079129   1529P       POOJA MANOHAR AGWANI            ES331 ES332 ES333 ES342 ES344     
+  262 BED-130081308   1529P       ASHISH VERMA                    ES331 ES332 ES333 ES341 ES342     
+  263 BED-130083641   1529P       INDIRA AHIRWAR                  BESE065 BESE066 ES334 ES335 ES364     
+  264 BED-130084708   1529P       BARKHA JHALA                    BESE065 BESE066 ES334 ES335 ES361     
+  265 BED-130085122   1529P       ANJU AGRAWAL                    BESE065 BESE066 ES334 ES335 ES363     
+  266 BED-130086210   1529P       JENIFER LEWIS                   BESE065 BESE066 ES334 ES335 ES361     
+  267 BED-130086837   1529P       RISHI SONI                      BESE065 BESE066 ES334 ES335 ES362     
+  268 BED-130089556   1529P       SWATI SHARMA                    ES331 ES332 ES333 ES341 ES344     
+  269 BED-130090170   1529P       RANJANA MAWAR                   BESE065 BESE066 ES334 ES335 ES362     
+  270 BED-130093477   1529P       PRIYA DABI                      BESE065 BESE066 ES334 ES335 ES363     
+  271 BED-130094329   1529P       HEMLATA CHOUHAN                 BESE065 BESE066 ES334 ES335 ES361     
+  272 BED-130094350   1529P       REENA SENDHAV                   BESE065 BESE066 ES334 ES335 ES362     
+  273 BED-130094415   1529P       GEETA SHARMA                    BESE065 BESE066 ES334 ES335 ES362     
+  274 MCA-130197494   1529P       VICKY SHARMA                    MCS021 MCS022 MCS031 MCS032 MCS033    
+                                                                  MCS034 MCS041 MCS042 MCS043 MCSL045   
+  275 MCA-130197724   1529P       CHETAN DESHMUKH                 MCS031 MCS032 MCS033 MCS034 MCS041    
+                                                                  MCS042 MCS043 MCSL045   
+  276 MCA-130197731   1529P       PALAK PANDEY                    MCS031 MCS041 MCS042 MCS043 MCSL045   
+  277 MCA-130199283   1529P       KAVITA TIWARI                   MCS021 MCS022 MCS023 MCS032 MCS033    
+                                                                  MCS034 MCS041 MCS042 MCS043 MCSL045   
+  278 MCA-130199309   1529P       SIDRA SHAHID                    MCS012 MCS041 MCS042 MCS043 MCSL045   
+  279 MCA-130199316   1529P       ANKITA THAKUR                   MCS012 MCS022 MCS023 MCS024 MCS032    
+                                                                  MCS033 MCS034 MCS041 MCS042 MCS043 MCSL025 MCSL036 MCSL045   
+  280 MCA-130199330   1529P       GUNJAN JOSHI                    MCS012 MCS021 MCS022 MCS023 MCS024    
+                                                                  MCS031 MCS032 MCS033 MCS034 MCSL045   
+  281 MCA-130199348   1529P       BHUPENDRA PATIDAR               MCS031 MCS033 MCS041 MCS042 MCS043    
+                                                                  MCSL045   
+  282 BED-130205892   1529P       NEHA CHAUDHARY                  BESE065 BESE066 ES334 ES335 ES361     
+  283 BED-130416785   1529P       SREEJATA GHOSH                  BESE065 BESE066 ES334 ES335 ES363     
+  284 MPA-130492556   1529P       SHWETA KUMARI                   MPA014 MPA015 MPA016 MPA017 MPA018    
+                                                                  MPS003    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    8
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1529P                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  285 MCOMFT-1372200241529P       SMIT SONI                       IBO06 MCO01 MCO03 MCO04 MCO06     
+  286 BCA-137220619   1529P       PALAK PRIYA OJHA                BCS012 BCS031 BCSL032 BCSL033 BCSL034   
+                                                                  MCS011 MCS013 MCS014 MCS021 MCS023    
+  287 BCA-137220626   1529P       SOUDIP MONDAL                   BCS031 BCSL022 BCSL032 BCSL033 BCSL034   
+                                                                  MCS011 MCS013 MCS014 MCS021 MCS023    
+  288 BCA-137220633   1529P       AMAN KUMAR JAISHWAL             BCS031 BCSL032 BCSL033 BCSL034 ECO02     
+                                                                  MCS011 MCS012 MCS013 MCS023    
+  289 MCA-137220744   1529P       ARCHANA JOSHI                   BCS012 MCS013 MCS014 MCS023    
+  290 BCA-137220751   1529P       HARSHITA AKOLKAR                BCS012 BCS031 BCSL032 BCSL033 BCSL034   
+                                                                  MCS014 MCS021 MCS023    
+  291 BCA-137220776   1529P       POOJA NAYAK                     BCS031 BCSL032 BCSL033 BCSL034 MCS011    
+                                                                  MCS014 MCS021 MCS023    
+  292 MCA-137220816   1529P       MANALI MULCHANDANI              MCS031 MCS032 MCS033 MCS034 MCS035    
+                                                                  MCSL036   
+  293 MCA-137220823   1529P       SHELENDRA KUSHWAH               MCS021 MCS022 MCS024 MCS031 MCS032    
+                                                                  MCS033 MCS034 MCS035 MCSL036   
+  294 MCA-137220848   1529P       LAVEE GORAKHPURIYA              MCS031 MCS032 MCS033 MCS034 MCS035    
+                                                                  MCSL036   
+  295 MCA-137220862   1529P       ANSHUL RATHORE                  MCS021 MCS022 MCS023 MCS031 MCS032    
+                                                                  MCS033 MCS034 MCS035 MCSL036   
+  296 MCA-137220934   1529P       SAPNA YADAV                     MCS021 MCS022 MCS024 MCS031 MCS032    
+                                                                  MCS033 MCS034 MCS035 MCSL036   
+  297 MCA-137221105   1529P       SAMTA GODHA                     MCS013 MCS021 MCS022 MCS031 MCS032    
+                                                                  MCS033 MCS034 MCS035 MCSL036   
+  298 MCA-137221112   1529P       MRUNALINI R SHINDE              MCS011 MCS021 MCS022 MCS024 MCS031    
+                                                                  MCS032 MCS033 MCS034 MCS035 MCSL036   
+  299 MCA-137221190   1529P       SUNIL YADAV                     MCS021 MCS022 MCS031 MCS032 MCS033    
+                                                                  MCS034 MCS035 MCSL036   
+  300 MCA-137221216   1529P       DVIJESH SHARMA                  MCS011 MCS021 MCS022 MCS023 MCS024    
+                                                                  MCS031 MCS032 MCS033 MCS034 MCS035 MCSL017 MCSL025 MCSL036   
+  301 BCA-137221262   1529P       SANJAY MISHRA                   BCS011 BCS012 BCS031 BCSL032 BCSL033   
+                                                                  BCSL034 ECO02 MCS012 MCS013 MCS014 MCS015 MCS021 MCS023    
+  302 BTS-140900042   1529P       GIRISH KUMAR SUNKAR             BSHF101 FEG01 FEG02 TS01 TS02      
+  303 MCA-140912799   1529P       PRIYA GANDHI                    MCS011 MCS014 MCS021 MCS022 MCS023    
+                                                                  MCS024 MCSL025   
+  304 BCA-140912925   1529P       SHAILJA JOSHI                   BCS012 BCSL021 BCSL022 ECO02 MCS011    
+                                                                  MCS012 MCS013 MCS015    
+  305 BCA-140918048   1529P       SOMDUTT SHARMA                  BCS011 BCS012 BCSL013 BCSL021 BCSL022   
+                                                                  ECO01 ECO02 MCS011 MCS012 MCS013 MCS015    
+  306 MCA-140918062   1529P       VAIBHAV JOSHI                   BCS012 MCS011 MCS014 MCS021 MCS022    
+                                                                  MCS023 MCS024 MCSL025   
+  307 BCA-140918110   1529P       ABHINAV KHANGER                 BCSL021 BCSL022 ECO02 MCS011 MCS012    
+                                                                  MCS013 MCS015    
+  308 MCA-140918291   1529P       PRIYANKA DWIVEDI                MCS011 MCS013 MCS014 MCS021 MCS022    
+                                                                  MCS023 MCS024 MCSL025   
+  309 MCA-140918300   1529P       MARIE FERNANDES                 MCS021 MCS022 MCS023 MCS024 MCSL025   
+  310 MCA-140918324   1529P       SUNIL PATIL                     MCS012 MCS013 MCS014 MCS021 MCS022    
+                                                                  MCS023 MCS024 MCSL016 MCSL017 MCSL025   
+  311 MCA-140918331   1529P       HRISHABH SHARMA                 MCS014 MCS021 MCS022 MCS023 MCS024    
+                                                                  MCSL025   
+  312 BED-140920044   1529P       ADIBA ZEESHAN KHAN              ES331 ES332 ES333 ES341 ES342     
+  313 BED-140920090   1529P       SWATI LAHOTI                    ES331 ES332 ES333 ES341 ES342     
+  314 BED-140920202   1529P       CHHAYA PATIL                    ES331 ES332 ES333 ES343 ES345     
+  315 BED-140920280   1529P       ARAVIND SHARMA                  ES331 ES332 ES333 ES343 ES345     
+  316 BED-140920503   1529P       NEHA TIWARI                     ES331 ES332 ES333 ES344 ES345     
+  317 BED-140920740   1529P       MADHUSUDAN SINGH GAUTAM         ES331 ES332 ES333 ES341 ES342     
+  318 BED-140920930   1529P       PRIYANKA MALVIYA                ES331 ES332 ES333 ES342 ES343     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    9
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1529P                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  319 BED-140921014   1529P       ANOOP BHAWALKAR                 ES331 ES332 ES333 ES342 ES345     
+  320 BED-140921250   1529P       SHIKHA TIWARI                   ES331 ES332 ES333 ES341 ES345     
+  321 BED-140921590   1529P       MONITA SEN                      ES331 ES332 ES333 ES341 ES345     
+  322 BED-140921956   1529P       RITU TIWARI                     ES331 ES332 ES333 ES343 ES345     
+  323 BED-140921988   1529P       DEEPAK DARSHE                   ES331 ES332 ES333 ES341 ES344     
+  324 BED-140922016   1529P       DIVYA MADHURI NAGESIYA          ES331 ES332 ES333 ES343 ES344     
+  325 BED-140922023   1529P       SHWETA SOLANKI                  ES331 ES332 ES333 ES342 ES345     
+  326 BED-140925154   1529P       PANKAJ MUNDEL                   ES331 ES332 ES333 ES343 ES345     
+  327 BED-140925788   1529P       KAMAL SINGH PATEL               ES331 ES332 ES333 ES343 ES345     
+  328 BED-140925907   1529P       VIPIN TAMRAKAR                  ES331 ES332 ES333 ES343 ES345     
+  329 BED-140926149   1529P       LAXMI CHANDRA DANGI             ES331 ES332 ES333 ES343 ES345     
+  330 BED-140926464   1529P       USHA YADAV                      ES331 ES332 ES333 ES343 ES344     
+  331 BED-140927030   1529P       MUJAHYDA PARVEEN                ES331 ES332 ES333 ES341 ES342     
+  332 BED-140927061   1529P       PRAMILA BARASKAR                ES331 ES332 ES333 ES343 ES345     
+  333 BED-140927552   1529P       BHAVANA RATHORE                 ES331 ES332 ES333 ES343 ES345     
+  334 BED-140927781   1529P       VAHMALA WANKHADE                ES331 ES332 ES333 ES343 ES345     
+  335 BED-140928031   1529P       RAMESHVRI BARSIA                ES331 ES332 ES333 ES341 ES345     
+  336 BED-140928056   1529P       NIRMLA KATARIYA                 ES331 ES332 ES333 ES343 ES345     
+  337 BED-140928285   1529P       NIRMALA KADAM                   ES331 ES332 ES333 ES343 ES345     
+  338 BED-140928515   1529P       SURANJANA NASKAR                ES331 ES332 ES333 ES344 ES345     
+  339 BED-140928633   1529P       RADHIKA RAMESHCHANDRA PARMAR    ES331 ES332 ES333 ES341     
+  340 BED-140928910   1529P       KAVITA SAD                      ES331 ES332 ES333 ES343 ES345     
+  341 BED-140930210   1529P       SWETA RAWAT                     ES331 ES332 ES333 ES343 ES345     
+  342 BED-140930489   1529P       AKSHAY GIRI                     ES331 ES332 ES333 ES343 ES345     
+  343 BED-140930923   1529P       VARSHA RAYAKWAR                 ES331 ES332 ES333 ES343 ES345     
+  344 BED-140931054   1529P       PALLAVI RAJE                    ES331 ES332 ES333 ES343 ES344     
+  345 BED-140932199   1529P       RAKHI SOLANKI                   ES331 ES332 ES333 ES342 ES344     
+  346 BED-140932436   1529P       SHWETA PANDIT                   ES331 ES332 ES333 ES342 ES345     
+  347 BED-140933058   1529P       SHEETAL MALVIYA                 ES331 ES332 ES333 ES343 ES345     
+  348 BCA-146038600   1529P       SIMRAN BAJAJ                    BCS011 BCS012 BCSL013 ECO01 FEG02     
+  349 BCA-146038656   1529P       DIPALI JOSHI                    BCS011 BCS012 BCSL013 ECO01     
+  350 BCA-146038670   1529P       KOMAL AGRAWAL                   BCS011 BCS012 BCSL013 ECO01 FEG02     
+  351 BCA-146038735   1529P       HARSHIT PATIDAR                 BCS011 BCS012 BCSL013 ECO01 FEG02     
+  352 BCA-146038742   1529P       SHUBHAM PATIDAR                 BCS011 BCS012 BCSL013 ECO01 FEG02     
+  353 BCA-146038750   1529P       JITENDRA PATIDAR                BCS011 BCS012 BCSL013 ECO01 FEG02     
+  354 BCA-146038767   1529P       ARCHANA JADON                   BCS011 BCS012 BCSL013 ECO01 FEG02     
+  355 BCA-146038774   1529P       SUNIL PRAJAPAT                  BCS011 BCS012 BCSL013 ECO01 FEG02     
+  356 BCA-146038781   1529P       SOURODIPTO MUKHOPADHYAY         BCS011 BCS012 BCSL013 ECO01 FEG02     
+  357 BCA-146038821   1529P       ANKIT SHARMA                    BCS011 BCS012 BCSL013 ECO01 FEG02     
+  358 BCA-146038839   1529P       MITHIL GORANA                   BCS011 BCS012 BCSL013 ECO01 FEG02     
+  359 BCA-146038853   1529P       SHUBHAM SAHU                    BCS011 BCS012 BCSL013 ECO01 FEG02     
+  360 BCA-146038878   1529P       PRIYANKA YADAV                  BCS011 BCS012 BCSL013 ECO01     
+  361 CIT-146040108   1529P       PULOMA TOMAR                    CIT01 CIT02 CIT03 CITL001   
+  362 CCITSK-1460432461529P       JOSHUA SATYA KUMAR              BPOI006 BPOI007   
+  363 MCA-146056923   1529P       TARANJEET SINGH ARORA           MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  364 MCA-146056955   1529P       SHIKHA JOSHI                    MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  365 MCA-146056987   1529P       ARPITA JAIN                     MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  366 MCA-146057008   1529P       RICHA RATHORE                   MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  367 MCA-146057022   1529P       RAKSHIT CHHAJED                 MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  368 MCA-146057047   1529P       NISHA GUPTA                     MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  369 MCA-146057054   1529P       DARSHAY AGRAWAL                 BCS012 MCS011 MCS012 MCS013 MCS014    
+                                                                  MCS015 MCSL016 MCSL017   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   10
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1529P                                   DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  370 MCA-146057086   1529P       AMNINDER KAUR                   MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  371 MCA-146057101   1529P       AVINASH RAJPUT                  MCS011 MCS012 MCS013 MCS014 MCSL016   
+                                                                  MCSL017   
+  372 MCA-146057165   1529P       ASHOK ARYA                      BCS012 MCS011 MCS012 MCS013 MCS014    
+                                                                  MCS015 MCSL016 MCSL017   
+        

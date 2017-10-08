@@ -1,0 +1,469 @@
+
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    1
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 2509                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+    1 BCA-052679050   2509        BALA SUBRAMANYAM P R            BCS061 CS05 CS06 CS60 CS610 CS612     
+                                                                  CS62 CS63 CS64 CS66 CS68 CS70 CS73 CS74 CS75 FST01 MCS031 MCS032 MCS034 MCS035 MCS041 MCS042 MCS043 MCS051 MCS053 MCSE003 MCSE004 MCSE011   
+    2 BDP-084040156   2509        MANIVANNAN M                    CHE05 MTE01 MTE02     
+    3 MCA-088631372   2509        DEVI K                          MCS032 MCS033 MCS035 MCS042 MCS051    
+                                                                  MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+    4 MCA-088631490   2509        KANIMOZHI K                     MCS032 MCS041 MCS042 MCS051 MCS052    
+                                                                  MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+    5 MCA-088631784   2509        SHOBA M                         MCS032 MCS033 MCS035 MCS042 MCS043    
+                                                                  MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+    6 MCA-092529815   2509        MARIA SELVI S                   CS60 CS73 MCS031 MCS033 MCS034    
+                                                                  MCSE004   
+    7 BDP-094962662   2509        MANJULA S                       PHE04 PHE05 PHE16     
+    8 MCA-098579095   2509        PREM KUMAR I                    MCS031 MCS032 MCS033 MCS041 MCS042    
+                                                                  MCS043 MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+    9 MCA-098579135   2509        SATHYAMOORTHY G                 MCS032 MCS041 MCS042 MCS043 MCS051    
+                                                                  MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+   10 BCA-098579658   2509        PRIYANKA S                      CS72      
+   11 BED-100911587   2509        PREM PUJA SINGH                 BESE065 BESE066   
+   12 BDP-105039058   2509        KOMATHI P                       BEGE103 FST01     
+   13 BDP-105040275   2509        UMA MAGESWARI K                 BEGE103   
+   14 BTCLEVI-105308094                      2509        GUNASEKARAN.P                   BICE005 BICE006 BICE012 BICE013   
+                                                                  BICE014 BICE017 BICE021 BICE025 BICE026 BICEE001 BICEE023 BICEE024 BICEL009 BICEL010 BICEL011 BICEP003  
+   15 BCA-105576839   2509        SYED MUBEEN R                   CS73      
+   16 BDP-110787232   2509        SUGANYA J                       ASP01 BEGE105 CTE05     
+   17 BED-111929202   2509        SASI KALA DEVI J                ES334     
+   18 BCA-115509865   2509        CHELLADURAI P                   BCS012 BCS040 BCS052 BCS053 BCS055    
+                                                                  BCS062 BCSL056 BCSL057 BCSL063 MCS022    
+   19 BTS-115514154   2509        SALVA SHAFEEQ MEERLABBAI        ASP01 TS03 TS06 TS07      
+   20 BTS-115514161   2509        AAQIB ZAFAR J                   TS03      
+   21 BDP-115514691   2509        RAJ KUMAR RAM                   EHD01 EHD06 FST01     
+   22 MSDFSM-1155150382509        NATHIYA M                       MFN001 MFN003 MFN004 MFN005 MFN006    
+                                                                  MFN007 MFN009    
+   23 BCA-119173092   2509        PRIYA S                         BCS012 MCS011 MCS012 MCS021 MCS022    
+   24 BDP-121567024   2509        RAMANI THILAGAM A               BEGE104 BPAE102 CTE03 CTE05 EEG06     
+   25 BED-121770997   2509        VIJAYALAKSHMI S                 ES342     
+   26 BED-121775892   2509        KANIMOZHI V                     ES361     
+   27 BED-121778558   2509        SHANMUGAM K                     BESE065 ES331 ES332 ES335 ES363     
+   28 MP-122134231    2509        ANANDHA VISALAKSHI V            MS28      
+   29 MCA-125230159   2509        SOWDHAMANI G                    MCS012 MCS032 MCS033 MCS051 MCS052    
+                                                                  MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+   30 MCOM-125230578  2509        NANDHI C                        IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+   31 BCA-125230729   2509        SAROJINI V                      BCS011 BCS031 BCS041 BCS051 BCS052    
+                                                                  BCS054 BCS055 BCSL056 BCSL057 BCSL058 MCS012 MCS021    
+   32 BCA-125237223   2509        PRAKASH D                       BCS041 BCS051 BCS052 BCS053 BCS054    
+                                                                  BCS055 BCSL056 BCSL057 BCSL058   
+   33 MEG-125237857   2509        MOHNRAJ S                       MEG01 MEG02 MEG03 MEG04     
+   34 MPA-125243875   2509        VIKRAM SINGH P                  MSO002    
+   35 BDP-127552267   2509        DEEPA DAS                       ESO13 FHD02 FST01     
+   36 BED-130115558   2509        KEROLIN X                       BESE065 BESE066 ES334 ES335 ES363     
+   37 BED-130116194   2509        KALIYAPPAN G                    BESE065 BESE066 ES334 ES335 ES363     
+   38 BED-130116646   2509        G SELLAMMAL                     BESE065 BESE066 ES334 ES335 ES363     
+   39 BED-130117039   2509        KAVITHA G                       BESE065 BESE066 ES334 ES335 ES363     
+   40 BED-130117189   2509        YUVARAJAN M                     BESE065 BESE066 ES334 ES335 ES363     
+   41 BED-130118428   2509        SANGEETHA V                     BESE065 BESE066 ES334 ES335 ES361     
+   42 BED-130118625   2509        MAHESWARI E                     BESE065 BESE066 ES334 ES335 ES363     
+   43 BED-130119935   2509        VENKATESA PERUMAL S             BESE065 BESE066 ES331 ES334 ES335     
+                                                                  ES361     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    2
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 2509                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+   44 BED-130119942   2509        THIRUPATHY G                    BESE065 BESE066 ES334 ES335 ES363     
+   45 BED-130120266   2509        RAJASHREE M                     BESE065 BESE066 ES334 ES335 ES363     
+   46 BED-130121520   2509        PURUSHOTHAMAN K                 BESE065 BESE066 ES334 ES335 ES363     
+   47 BED-130121616   2509        GNANAPPALANI S                  BESE065 BESE066 ES334 ES335 ES363     
+   48 BED-130122159   2509        VINOTH KUMAR V C                BESE065 BESE066 ES334 ES335 ES363     
+   49 BED-130123208   2509        GOWTHAMI R                      BESE065 BESE066 ES334 ES335 ES363     
+   50 BED-130123254   2509        DHIVYA N                        BESE065 BESE066 ES331 ES334 ES335     
+                                                                  ES363     
+   51 BED-130123286   2509        SAGAYAMARY G                    BESE065 BESE066 ES334 ES335 ES363     
+   52 BED-130123319   2509        HEMALATHA M                     BESE065 BESE066 ES334 ES335 ES363     
+   53 BED-130123444   2509        SATHIYAWAKEESWARAN N            BESE065 BESE066 ES334 ES335 ES363     
+   54 BED-130123602   2509        SELVI T                         BESE065 BESE066 ES334 ES335 ES363     
+   55 BED-130125090   2509        ASFIA SULTHANA S                BESE065 BESE066 ES334 ES335 ES363     
+   56 BED-130126156   2509        SELVIN V                        BESE065 BESE066 ES334 ES335 ES363     
+   57 BED-130126195   2509        SAGAYAMARY A                    BESE065 BESE066 ES334 ES335 ES363     
+   58 BED-130126353   2509        THAMARAISELVI G                 BESE065 BESE066 ES334 ES335 ES363     
+   59 BED-130126496   2509        SHYAMALA S                      BESE065 BESE066 ES334 ES335 ES363     
+   60 BED-130126582   2509        AYESHA TABASSUM                 BESE065 BESE066 ES334 ES335 ES363     
+   61 BED-130126615   2509        SARASA N                        BESE065 BESE066 ES334 ES335 ES363     
+   62 BED-130126622   2509        JACQUELINE P                    BESE065 BESE066 ES334 ES335 ES363     
+   63 BED-130127015   2509        MUDLIYAR YESHODA VELU           BESE065 BESE066 ES334 ES335 ES363     
+   64 BED-130127022   2509        SRIDEVI T                       BESE065 BESE066 ES334 ES335 ES363     
+   65 BED-130128135   2509        JAYANTHI R                      BESE065 BESE066 ES334 ES335 ES361     
+   66 BED-130129223   2509        THAAJ MOHAMMED K                BESE065 BESE066 ES334 ES335 ES363     
+   67 BED-130129248   2509        MANGAIYARKARASI M               BESE065 BESE066 ES334 ES335 ES342     
+                                                                  ES363     
+   68 BED-130130281   2509        GUNASEELAN A                    BESE065 BESE066 ES334 ES335 ES363     
+   69 BED-130130314   2509        JAYAKODI K                      BESE065 BESE066 ES334 ES335 ES363     
+   70 BED-130130432   2509        VASANTHI S                      BESE065 BESE066 ES334 ES335 ES363     
+   71 BED-130130504   2509        SUDALAI PANDI P                 BESE065 BESE066 ES334 ES335 ES363     
+   72 BED-130131022   2509        ROZARIO AROKIARAJ P             BESE065 BESE066 ES334 ES335 ES361     
+   73 BED-130131742   2509        MUSTAJAB AHMED P J              BESE065 BESE066 ES334 ES335 ES363     
+   74 BED-130131767   2509        KARIM BASHA P M                 BESE065 BESE066 ES334 ES335 ES363     
+   75 BED-130131846   2509        ATHEEQUE AHMED B                BESE065 BESE066 ES334 ES335 ES363     
+   76 BED-130132848   2509        PRIYA R                         BESE065 BESE066 ES334 ES335 ES363     
+   77 BED-130133137   2509        KANIMOZHI K                     BESE065 BESE066 ES334 ES335 ES361     
+   78 BED-130133681   2509        EZHIL ARASAN A                  BESE065 BESE066 ES334 ES335 ES361     
+   79 BED-130133911   2509        THENMOZHI C                     BESE065 BESE066 ES334 ES335 ES361     
+   80 BED-130134794   2509        CHELAMBARASAN P                 BESE065 BESE066 ES334 ES335 ES363     
+   81 BED-130134898   2509        VETRIVEL C                      BESE065 BESE066 ES334 ES335 ES363     
+   82 BED-130135306   2509        THAMAYANTHI V                   BESE065 BESE066 ES334 ES335 ES361     
+   83 BED-130135607   2509        KALA V                          BESE065 BESE066 ES334 ES335 ES363     
+   84 BED-130135757   2509        PRABAKARAN M                    BESE065 BESE066 ES334 ES335 ES342     
+                                                                  ES363     
+   85 BED-130136046   2509        SANTHI M                        BESE065 BESE066 ES331 ES334 ES335     
+                                                                  ES363     
+   86 BED-130136290   2509        MAHALAKSHMI P                   BESE065 BESE066 ES334 ES335 ES361     
+   87 BED-130136662   2509        DURGESWARI T                    BESE065 BESE066 ES334 ES335 ES361     
+   88 BED-130137560   2509        REVATHI M                       BESE065 BESE066 ES334 ES335 ES363     
+   89 BED-130137632   2509        KARPAGAM J                      BESE065 BESE066 ES334 ES335 ES361     
+   90 BED-130137640   2509        GRIJA S                         BESE065 BESE066 ES334 ES335 ES363     
+   91 BED-130138064   2509        ANNAMALAI K                     BESE065 BESE066 ES331 ES334 ES335     
+                                                                  ES361     
+   92 BED-130138752   2509        REHAN AHMED N                   BESE065 BESE066 ES334 ES335 ES363     
+   93 BED-130140393   2509        MOHAMED ASGHARALI K             BESE065 BESE066 ES334 ES335 ES361     
+   94 BED-130141521   2509        ALTHAF AHMED K                  BESE065 BESE066 ES334 ES335 ES363     
+   95 BED-130141618   2509        KAVITHA K                       BESE065 BESE066 ES334 ES335 ES361     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    3
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 2509                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+   96 BED-130141657   2509        KALAIVANI G                     BESE065 BESE066 ES334 ES335 ES361     
+   97 BED-130142089   2509        RATHINAVELU S                   BESE065 BESE066 ES334 ES335 ES363     
+   98 BED-130142096   2509        YAMINI N                        BESE065 BESE066 ES334 ES335 ES363     
+   99 BED-130142150   2509        SENTHILKUMAR S                  BESE065 BESE066 ES334 ES335 ES363     
+  100 BED-130142182   2509        PUSHPA V                        BESE065 BESE066 ES334 ES335 ES363     
+  101 BED-130142254   2509        ALTHAJ A                        BESE065 BESE066 ES334 ES335 ES361     
+  102 BED-130142928   2509        SHENBAGAVALLI S                 BESE065 BESE066 ES334 ES335 ES361     
+  103 BED-130142950   2509        MALATHI R                       BESE065 BESE066 ES333 ES334 ES335     
+                                                                  ES363     
+  104 BED-130143604   2509        THENMOZHI U                     BESE065 BESE066 ES334 ES335 ES363     
+  105 BED-130143629   2509        DEVI R                          BESE065 BESE066 ES334 ES335 ES361     
+  106 BED-130143801   2509        SATHYA M                        BESE065 BESE066 ES334 ES335 ES363     
+  107 BED-130144652   2509        MAHESWARI P                     BESE065 BESE066 ES334 ES335 ES363     
+  108 BED-130144828   2509        GOPINATH P A                    BESE065 BESE066 ES334 ES335 ES361     
+  109 BED-130145013   2509        SELVI R                         BESE065 BESE066 ES334 ES335 ES361     
+  110 BED-130145020   2509        KALEEM BASHA K                  BESE065 BESE066 ES334 ES335 ES363     
+  111 BED-130145131   2509        SELVANAYAKI R                   BESE065 BESE066 ES334 ES335 ES363     
+  112 BED-130145188   2509        SATHIYAVATHI N                  BESE065 BESE066 ES334 ES335 ES363     
+  113 BED-130145210   2509        PADMINI S                       BESE065 BESE066 ES334 ES335 ES363     
+  114 BED-130145228   2509        KALAVATHI N                     BESE065 BESE066 ES334 ES335 ES363     
+  115 BED-130146728   2509        KALAIVANI C                     BESE065 BESE066 ES334 ES335 ES342     
+                                                                  ES363     
+  116 BED-131659390   2509        SHIVAJI P                       BESE065 BESE066 ES334 ES335 ES363     
+  117 BED-131659842   2509        SHABEENA K                      BESE065 BESE066 ES334 ES335 ES363     
+  118 BED-131660370   2509        ELAVARASI K V                   BESE065 BESE066 ES331 ES334 ES335     
+                                                                  ES361     
+  119 MED-131660450   2509        KALAVATHI G                     MES055 MES056 MESE060 MESP068   
+  120 MED-131660474   2509        SANTHOSHKUMAR M                 MES055 MES056 MESE066 MESP068   
+  121 MED-131660632   2509        UKESH K                         MES055 MES056 MESE066 MESP068   
+  122 CFN-135401660   2509        RAGUL V                         CFN03     
+  123 BPP-135402662   2509        VELAYUTHAM M G                  OSS101    
+  124 MEG-135402687   2509        KALAIVANI R                     MEG03     
+  125 BDP-135403395   2509        SHANMUGA PRIYA K                FST01     
+  126 BDP-135404483   2509        MUZAMIL A                       FST01     
+  127 BDP-135404548   2509        SHANMUGA PRIYA P                FST01     
+  128 BDP-135404562   2509        NEVETHA K                       FST01     
+  129 BDP-135404570   2509        DURGA R                         FST01     
+  130 BDP-135404594   2509        AARTHI R                        FST01     
+  131 BDP-135404659   2509        RIZWANA M                       FST01     
+  132 BDP-135404666   2509        KALAISELVI T                    BEGE101 BEGE102 FEG02 FST01     
+  133 BDP-135404706   2509        VASEEMA FATHIMA A               FST01     
+  134 BDP-135404738   2509        KOUSALYA T                      FST01     
+  135 BDP-135404760   2509        KEERTHIKA S                     FST01     
+  136 BDP-135404791   2509        KALAIVANI A                     FST01     
+  137 BDP-135404849   2509        PAVITHRA L                      BEGE101 FST01     
+  138 BDP-135404981   2509        SRIDHAR P                       BEGE102 FST01     
+  139 BDP-135405002   2509        YAMINI R                        FST01     
+  140 BDP-135405059   2509        KAMALI C                        FST01     
+  141 BDP-135405073   2509        PAVITHRA K                      BEGE101 BEGE102 FST01     
+  142 BDP-135405106   2509        KOKILA T                        BEGE102 FST01     
+  143 BDP-135405152   2509        JAYADURGA J                     BEGE101 BEGE102 FST01     
+  144 BDP-135405177   2509        ANITHA R                        BEGE101 BEGE102 BSHF101 FEG01     
+                                                                  FST01     
+  145 BDP-135405184   2509        THANGAMANI C                    BEGE101 BEGE102 FST01     
+  146 BDP-135405249   2509        SUNANDHA K                      BEGE101 BEGE102 FST01     
+  147 BDP-135405335   2509        ANUSHA S                        BEGE101 BEGE102 FST01     
+  148 BDP-135405374   2509        NITHYA V                        FST01     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    4
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 2509                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  149 BDP-135405381   2509        PRIYANKA R                      BEGE101 FEG01 FST01     
+  150 BDP-135405407   2509        NAVEENA R                       FST01     
+  151 BDP-135405414   2509        NANDHINI M                      BEGE101 FEG01 FST01     
+  152 BDP-135405439   2509        POORNIMA N                      BEGE101 FST01     
+  153 BDP-135405446   2509        ATCHAYA S                       FST01     
+  154 BDP-135405478   2509        SRIMATHI G                      FST01     
+  155 BDP-135405485   2509        NAZIYA HASEEN S                 BEGE101 FST01     
+  156 MEG-135405643   2509        JABEEN SULTHANA G               MEG01 MEG02 MEG03 MEG04     
+  157 CIT-135405747   2509        ARUL C                          CIT02     
+  158 BPP-135405858   2509        ALTAF AHMED V                   PCO       
+  159 MEG-135408670   2509        NAUREEN NAAZ K                  MEG01     
+  160 MEG-135408688   2509        ROOHI NAAZ T K                  MEG01     
+  161 BED-141410468   2509        MEENALOCHINI P                  BESE046 ES331 ES332 ES333 ES341     
+  162 BED-141410790   2509        BOSCO SUBASH BABU S             ES331 ES332 ES333 ES341 ES344     
+  163 BED-141410927   2509        JAYAPRAKASH S                   ES331 ES332 ES333 ES342 ES344     
+  164 BED-141412035   2509        ANBUPPRIYA S                    BESE046 ES331 ES332 ES333 ES342     
+  165 BED-141412486   2509        RAMASAMY N                      ES331 ES332 ES333 ES342 ES344     
+  166 BED-141412620   2509        MANJULA G                       BESE046 ES331 ES332 ES333 ES343     
+  167 BED-141412669   2509        DEEPA THOMAS P                  ES331 ES332 ES333 ES343 ES344     
+  168 BED-141413051   2509        SIVALAKSHMI K                   BESE046 ES331 ES332 ES333 ES343     
+  169 BED-141413639   2509        VELU A                          BESE046 ES331 ES332 ES333 ES343     
+  170 BED-141413757   2509        VANITHA J                       BESE046 ES331 ES332 ES333 ES344     
+  171 BED-141414171   2509        SHOBANA S                       ES331 ES332 ES333 ES342 ES344     
+  172 BED-141414694   2509        JEYANTHI M                      ES331 ES332 ES333 ES342 ES344     
+  173 BED-141415016   2509        TAMILARASAN S                   ES331 ES332 ES333 ES341 ES344     
+  174 BED-141415141   2509        MERLIN SAMUEL J                 BESE046 ES331 ES332 ES333 ES343     
+  175 BED-141416340   2509        HEMAVANI G                      ES331 ES332 ES333 ES342 ES344     
+  176 BED-141416358   2509        MAGESWARAN A                    ES331 ES332 ES333 ES343 ES344     
+  177 BED-141419052   2509        PACKIALAKSHMI A                 BESE046 ES331 ES332 ES333 ES343     
+  178 BED-141419418   2509        P. KAVITHA                      BESE046 ES331 ES332 ES333 ES343     
+  179 BED-141419630   2509        KANNAMMAL S                     BESE046 ES331 ES332 ES333 ES341     
+  180 BED-141420570   2509        PARVATHI N                      BESE046 ES331 ES332 ES333 ES341     
+  181 BED-141420641   2509        KARTHIKEYAN R                   BESE046 ES331 ES332 ES333 ES341     
+  182 BED-141420800   2509        ANUSIA A                        BESE046 ES331 ES332 ES333 ES341     
+  183 BED-141420935   2509        RAJESWARI K                     BESE046 ES331 ES332 ES333 ES343     
+  184 BED-141422265   2509        TAMILARASI S                    BESE046 ES331 ES332 ES333 ES342     
+  185 BED-141422272   2509        RAJA K                          BESE046 ES331 ES332 ES333 ES344     
+  186 BED-141422638   2509        BHUVANESWARI  J                 ES331 ES332 ES333 ES343     
+  187 BED-141423060   2509        ARULMOZHI D                     BESE046 ES331 ES332 ES333 ES343     
+  188 BED-141423719   2509        VIJAYALAKSHMI G                 ES331 ES332 ES333 ES341 ES344     
+  189 BED-141424054   2509        FEMILA ANGELINE K S             ES331 ES332 ES333 ES343 ES344     
+  190 BED-141424617   2509        GEETHA R                        BESE046 ES331 ES332 ES333 ES341     
+  191 BED-141424940   2509        KOMATHI K                       ES331 ES332 ES333 ES342 ES344     
+  192 BED-141425325   2509        SARALA P                        BESE046 ES331 ES332 ES333 ES343     
+  193 BED-141425586   2509        VIJAYALAKSHMI V                 BESE046 ES331 ES332 ES333 ES343     
+  194 BED-141425665   2509        SIVA M                          BESE046 ES331 ES332 ES333 ES343     
+  195 BED-141425998   2509        ARUL SUNDARRAJ M                BESE046 ES331 ES332 ES333 ES343     
+  196 BED-141426366   2509        LATHA G                         BESE046 ES331 ES332 ES333 ES343     
+  197 BED-141426531   2509        HAFSA BEGUM P                   ES331 ES332 ES333 ES341 ES343     
+  198 BED-141426570   2509        MAGESHWARI D                    BESE046 ES331 ES332 ES333 ES343     
+  199 BED-141428431   2509        RAMANI G                        BESE046 ES331 ES332 ES333 ES343     
+  200 BED-141428574   2509        SASIKALA A                      BESE046 ES331 ES332 ES333 ES342     
+  201 BED-141428789   2509        DHANALAKSHMI V                  ES331 ES332 ES333 ES341 ES344     
+  202 BED-141430549   2509        BOOPATHY G                      BESE046 ES331 ES332 ES333 ES343     
+  203 BED-141431081   2509        LAKSHMI P                       BESE046 ES331 ES332 ES333 ES343     
+  204 BED-141431192   2509        PRAKASAM A                      BESE046 ES331 ES332 ES333 ES343     
+  205 BED-141431572   2509        SOFIA T R                       ES331 ES332 ES333 ES342 ES344     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    5
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 2509                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  206 BED-141431952   2509        UMA RANI T                      BESE046 ES331 ES332 ES333 ES343     
+  207 BED-141432352   2509        KALAISELVI A                    BESE046 ES331 ES332 ES333 ES343     
+  208 BED-141432463   2509        NIRMALA JAYASEELI A             BESE046 ES331 ES332 ES333 ES343     
+  209 BED-141432495   2509        LAKSHMI T                       BESE046 ES331 ES332 ES333 ES343     
+  210 BED-141432732   2509        MURALI M                        BESE046 ES331 ES332 ES333 ES343     
+  211 BED-141432757   2509        SIVAPRAKASAM D                  BESE046 ES331 ES332 ES333 ES343     
+  212 BED-141433426   2509        ESTHER G                        BESE046 ES331 ES332 ES333 ES342     
+  213 BED-141433670   2509        RUBY K                          BESE046 ES331 ES332 ES333 ES343     
+  214 BED-141433759   2509        SHAHINAS S                      BESE046 ES331 ES332 ES333 ES343     
+  215 BED-141434009   2509        SIVAGAMI S                      BESE046 ES331 ES332 ES333 ES343     
+  216 BED-141434016   2509        SARITHA A                       BESE046 ES331 ES332 ES333 ES341     
+  217 BED-141434428   2509        UMARANI  M                      BESE046 ES331 ES332 ES333 ES343     
+  218 BED-141435018   2509        NALINAKUMARI K                  BESE046 ES331 ES332 ES333 ES343     
+  219 BED-141435104   2509        VITHYAA N                       ES331 ES332 ES333 ES343 ES344     
+  220 BED-141435397   2509        SAVITHA S                       BESE046 ES331 ES332 ES333 ES344     
+  221 BED-141435720   2509        INDIRA P                        BESE046 ES331 ES332 ES333 ES343     
+  222 BED-141436905   2509        SIVAKUMAR N                     BESE046 ES331 ES332 ES333 ES343     
+  223 BED-141436944   2509        HAJIRA BANU A                   ES331 ES332 ES333 ES341 ES344     
+  224 BED-141438100   2509        SUDHA J                         BESE046 ES331 ES332 ES333 ES343     
+  225 BED-141438489   2509        JAYALAKSHMI S                   BESE046 ES331 ES332 ES333 ES343     
+  226 MED-141439663   2509        JAYA SUDHA K                    MES051 MES052 MES053 MES054 MESE058   
+  227 MED-141439839   2509        DEEPA LAKSHMI C                 MES051 MES052 MES053 MES054 MESE059   
+  228 MED-141439925   2509        SATHEES KUMAR K                 MES051 MES052 MES053 MES054 MESE057   
+  229 MED-141439989   2509        G SAMBASIVAM                    MES051 MES052 MES053 MES054 MESE058   
+  230 BDP-143322874   2509        MD AFTAB ALAM                   BSHF101 ESO11 ESO12 FHD02 FUD01     
+  231 BDP-146520056   2509        SATHISH KUMAR B                 BSHF101 FEG01 FEG02     
+  232 PGDIS-146520318 2509        KARTHIK P                       MSE024 MSEI021 MSEI022 MSEI023   
+  233 CTS-146530680   2509        S EBINESAR SAMUEL               TS01 TS02      
+  234 CTS-146530698   2509        LOKESH C                        TS01 TS02      
+  235 CTS-146530706   2509        VENGATESAN S                    TS01 TS02      
+  236 CTS-146530713   2509        KILBERTLEO M                    TS01 TS02      
+  237 CTS-146530738   2509        G DAVID KUMAR                   TS01 TS02      
+  238 CTS-146530752   2509        R SRIDHAR                       TS01 TS02      
+  239 CTS-146530760   2509        A ELANGOVAN                     TS01 TS02      
+  240 CTS-146530791   2509        KAVITHA M                       TS01 TS02      
+  241 CTS-146530817   2509        INFANY BEAUTY M                 TS01 TS02      
+  242 CTS-146530824   2509        DANIEL G A                      TS01 TS02      
+  243 CTS-146530831   2509        THIRUMAL D                      TS01 TS02      
+  244 CTS-146530849   2509        MADIYALAGAN M                   TS01 TS02      
+  245 CTS-146530856   2509        STEPHENRAJ S                    TS01 TS02      
+  246 CTS-146530863   2509        OMER FAROOQ R                   TS01 TS02      
+  247 CTS-146530888   2509        UDAYAPRAKASH P                  TS01 TS02      
+  248 CTS-146530895   2509        LEOPRAKASH A                    TS01 TS02      
+  249 CTS-146530903   2509        DINESH V J P                    TS01 TS02      
+  250 CTS-146530910   2509        VENKATESAN A                    TS01 TS02      
+  251 CTS-146530928   2509        PRASANTH M                      TS01 TS02      
+  252 CTS-146530935   2509        VENKATESAN R                    TS01 TS02      
+  253 CTS-146530950   2509        GEETHA P                        TS01 TS02      
+  254 CTS-146530967   2509        ASWINI R                        TS01 TS02      
+  255 CTS-146530981   2509        GOPI M                          TS01 TS02      
+  256 CTS-146531002   2509        KARTHIKEYAN M                   TS01 TS02      
+  257 CTS-146531010   2509        SELVAPRAKASH S                  TS01 TS02      
+  258 CNM-146531041   2509        VANAJA S                        BMS001 BMS002 BMS003    
+  259 CNM-146531098   2509        KEERTHANA J                     BMS001 BMS002 BMS003    
+  260 CNM-146531120   2509        DEVI A                          BMS001 BMS002 BMS003    
+  261 CNM-146531145   2509        S MEENAKSHI                     BMS001 BMS002 BMS003    
+  262 CNM-146531224   2509        P CHANDRU                       BMS001 BMS002 BMS003    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    6
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 2509                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  263 CNM-146531303   2509        SELVAM D                        BMS001 BMS002 BMS003    
+  264 CBS-146531310   2509        SARANYA M                       BCOA001 CITL001 ECO01 PCO       
+  265 CBS-146531335   2509        PUSHPA B                        BCOA001 CITL001 ECO01 PCO       
+  266 CBS-146531342   2509        BERNADINJASMINE A               BCOA001 CITL001 ECO01 PCO       
+  267 CBS-146531367   2509        P JOHN CREMLIN                  BCOA001 CITL001 ECO01 PCO       
+  268 CBS-146531381   2509        S NELSON MICHEAL BHARATHI       BCOA001 CITL001 ECO01 PCO       
+  269 CBS-146531407   2509        SELVA KUMAR M                   BCOA001 CITL001 ECO01 PCO       
+  270 CBS-146531414   2509        ARUMUGAM G                      BCOA001 CITL001 ECO01 PCO       
+  271 CBS-146531446   2509        MOHAN S                         BCOA001 CITL001 ECO01 PCO       
+  272 CBS-146531460   2509        ARUN KUMAR A                    BCOA001 CITL001 ECO01 PCO       
+  273 CBS-146531492   2509        PILAYARAJA                      BCOA001 CITL001 ECO01 PCO       
+  274 CBS-146531518   2509        R MANI                          BCOA001 CITL001 ECO01 PCO       
+  275 CBS-146531525   2509        D PARTHIBAN                     BCOA001 CITL001 ECO01 PCO       
+  276 CBS-146531540   2509        S GUNASEKARAN                   BCOA001 CITL001 ECO01 PCO       
+  277 CBS-146531589   2509        C DURAIDINESHKUMAR              BCOA001 CITL001 ECO01 PCO       
+  278 CBS-146531690   2509        S SANTHOSH KUMAR                BCOA001 CITL001 ECO01 PCO       
+  279 CIT-146531747   2509        JAYASUDHA J                     CIT01 CIT02 CIT03 CITL001   
+  280 CIT-146531754   2509        RATHIPRIYA P                    CIT01 CIT02 CIT03 CITL001   
+  281 CIT-146531761   2509        VAISHNAV KUMAR G                CIT01 CIT02 CIT03 CITL001   
+  282 CIT-146531779   2509        SHAHID ZUHAIR M Z               CIT01 CIT02 CIT03 CITL001   
+  283 CIT-146531786   2509        KARTHIKEYAN P                   CIT01 CIT02 CIT03 CITL001   
+  284 CIT-146531793   2509        CARMEL RAJ A                    CIT01 CIT02 CIT03 CITL001   
+  285 CIT-146531801   2509        VEERA PANDIYAN G                CIT01 CIT02 CIT03 CITL001   
+  286 CIT-146531819   2509        L MERVIN LOVIS MARIA FRANCIS    CIT01 CIT02 CIT03 CITL001   
+  287 CIT-146531826   2509        CHINNAPPA RAJ J                 CIT01 CIT02 CIT03 CITL001   
+  288 CIT-146531833   2509        JERALD XAVIER L                 CIT01 CIT02 CIT03 CITL001   
+  289 CIT-146531840   2509        SUMAN XAVIER PM                 CIT01 CIT02 CIT03 CITL001   
+  290 CIT-146531858   2509        SANTHI P                        CIT01 CIT02 CIT03 CITL001   
+  291 CIT-146531865   2509        S DAVID AROCKIA SELVI           CIT01 CIT02 CIT03 CITL001   
+  292 CIT-146531872   2509        PAUL ANBALAGAN P                CIT01 CIT02 CIT03 CITL001   
+  293 CIT-146531880   2509        GOKULASELVAN T                  CIT01 CIT02 CIT03 CITL001   
+  294 CIT-146531897   2509        HARSHA R                        CIT01 CIT02 CIT03 CITL001   
+  295 CIT-146531912   2509        SUBASH S                        CIT01 CIT02 CIT03 CITL001   
+  296 CIT-146531920   2509        DHARANI P                       CIT01 CIT02 CIT03 CITL001   
+  297 CIT-146531937   2509        M THOMMAI MICHAEL               CIT01 CIT02 CIT03 CITL001   
+  298 CIT-146531944   2509        A LIDWIN MARK                   CIT01 CIT02 CIT03 CITL001   
+  299 CIT-146531976   2509        PRAVEEN G                       CIT01 CIT02 CIT03 CITL001   
+  300 CIT-146532004   2509        C ARCHANA                       CIT01 CIT02 CIT03 CITL001   
+  301 CIT-146532011   2509        KOMALA B                        CIT01 CIT02 CIT03 CITL001   
+  302 CIT-146532029   2509        LOKESHWARI N                    CIT01 CIT02 CIT03 CITL001   
+  303 CFE-146532050   2509        K KEERTHANA                     BEG004 BEG005 BEG006    
+  304 CFE-146532082   2509        SHARMILA DEVI P                 BEG004 BEG005 BEG006    
+  305 CFE-146532090   2509        YUVA PRIYA M                    BEG004 BEG005 BEG006    
+  306 CFE-146532122   2509        RAGHUL G R                      BEG004 BEG005 BEG006    
+  307 CFE-146532130   2509        KATHIRAVAN R                    BEG004 BEG005 BEG006    
+  308 CFE-146532147   2509        M PAVITHRA                      BEG004 BEG005 BEG006    
+  309 CFE-146532161   2509        N KALPANA                       BEG004 BEG005 BEG006    
+  310 CFE-146532179   2509        R SOWMIYA                       BEG004 BEG005 BEG006    
+  311 CFE-146532226   2509        S POONGODI                      BEG004 BEG005 BEG006    
+  312 CFE-146532233   2509        E MONIKA                        BEG004 BEG005 BEG006    
+  313 CFE-146532240   2509        A SUMITHRA                      BEG004 BEG005 BEG006    
+  314 CFE-146532258   2509        S GAYATHRI                      BEG004 BEG005 BEG006    
+  315 CFE-146532272   2509        A VIGNESH                       BEG004 BEG005 BEG006    
+  316 CFN-146532297   2509        M JAYANTHI                      CFN01 CFN02 CFN03     
+  317 CFN-146532312   2509        S SABARI                        CFN01 CFN02 CFN03     
+  318 CFN-146532320   2509        NITHYA G                        CFN01 CFN02 CFN03     
+  319 CFN-146532337   2509        GEORGE AVINASH J                CFN01 CFN02 CFN03     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    7
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 2509                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  320 CFN-146532344   2509        HARIKRISHNAN P                  CFN01 CFN02 CFN03     
+  321 CFN-146532351   2509        NAGARAJAN M                     CFN01 CFN02 CFN03     
+  322 CFN-146532376   2509        NAGARAJ M                       CFN01 CFN02 CFN03     
+  323 CFN-146532383   2509        JAMRUTH BEGAM K                 CFN01 CFN02 CFN03     
+  324 CFN-146532390   2509        PRIYANKA S                      CFN01 CFN02 CFN03     
+  325 CFN-146532409   2509        MAHADEVAN P                     CFN01 CFN02 CFN03     
+  326 CFN-146532416   2509        M NAVEEN                        CFN01 CFN02 CFN03     
+  327 CFN-146532423   2509        G HARI KESAVAN                  CFN01 CFN02 CFN03     
+  328 CFN-146532430   2509        P RAGHUL                        CFN01 CFN02 CFN03     
+  329 CFN-146532448   2509        CATHERIN PRIYA J                CFN01 CFN02 CFN03     
+  330 CFN-146532455   2509        G VIJAYAKUMAR                   CFN01 CFN02 CFN03     
+  331 CBS-146532462   2509        JAYA MOHAN V                    BCOA001 CITL001 ECO01 PCO       
+  332 CFN-146532470   2509        FRANCISPAUL D                   CFN01 CFN02 CFN03     
+  333 CFN-146532487   2509        S NAZIA                         CFN01 CFN02 CFN03     
+  334 CIG-146532527   2509        ARUNACHALAM R                   NES101 NES102 NES103 NES104    
+  335 CIG-146532620   2509        SANDHIYA M                      NES101 NES102 NES103 NES104    
+  336 CIG-146532638   2509        EZHILARASAN P                   NES101 NES102 NES103 NES104    
+  337 CIG-146532645   2509        THIRUPATHI S                    NES101 NES102 NES103 NES104    
+  338 CIG-146532652   2509        PREM S                          NES101 NES102 NES103 NES104    
+  339 CIG-146532677   2509        INBARASI V                      NES101 NES102 NES103 NES104    
+  340 CIG-146532684   2509        INDHUMATHI M                    NES101 NES102 NES103 NES104    
+  341 CIG-146532691   2509        SIVARANJANI D                   NES101 NES102 NES103 NES104    
+  342 CIG-146532700   2509        MUZAKKIRA Y                     NES101 NES102 NES103 NES104    
+  343 CIG-146532731   2509        GEETHANJALI R                   NES101 NES102 NES103 NES104    
+  344 CIG-146532749   2509        SEENIVASAN G                    NES101 NES102 NES103 NES104    
+  345 CIG-146532756   2509        ARUNA N                         NES101 NES102 NES103 NES104    
+  346 CIG-146532763   2509        NAVEEN S                        NES101 NES102 NES103 NES104    
+  347 CIG-146532770   2509        DHARUMAN V                      NES101 NES102 NES103 NES104    
+  348 CIG-146532788   2509        NAGALAKSHMI S                   NES101 NES102 NES103 NES104    
+  349 CIG-146532803   2509        NANDHINI K                      NES101 NES102 NES103 NES104    
+  350 CIG-146532810   2509        ELAVARASI B R                   NES101 NES102 NES103 NES104    
+  351 CIG-146532835   2509        POOVENDIRAN N                   NES101 NES102 NES103 NES104    
+  352 CIG-146532842   2509        SANGEETHA P                     NES101 NES102 NES103 NES104    
+  353 CIG-146532850   2509        VIGNESH J                       NES101 NES102 NES103 NES104    
+  354 CIG-146532867   2509        MALATHI C                       NES101 NES102 NES103 NES104    
+  355 CIG-146532874   2509        MURALI A                        NES101 NES102 NES103 NES104    
+  356 CIG-146532921   2509        RENUKA D                        NES101 NES102 NES103 NES104    
+  357 CIG-146532939   2509        MOHANRAJ R                      NES101 NES102 NES103 NES104    
+  358 CIG-146532946   2509        SANTHIYA S                      NES101 NES102 NES103 NES104    
+  359 CIG-146532953   2509        MINNALPRIYA V                   NES101 NES102 NES103 NES104    
+  360 CIG-146532960   2509        SABARISH S                      NES101 NES102 NES103 NES104    
+  361 CIG-146532985   2509        PRAVEENKUMAR L                  NES101 NES102 NES103 NES104    
+  362 CIG-146532992   2509        SIVA PRAKASH S                  NES101 NES102 NES103 NES104    
+  363 CIG-146533006   2509        SURENDHIRAN M                   NES101 NES102 NES103 NES104    
+  364 CIG-146533013   2509        LAKSHMANAN A                    NES101 NES102 NES103 NES104    
+  365 CIG-146533020   2509        NIVETHA V                       NES101 NES102 NES103 NES104    
+  366 CIG-146533052   2509        PRIYADHARSHINI G                NES101 NES102 NES103 NES104    
+  367 CIG-146533060   2509        PRAVEENA D                      NES101 NES102 NES103 NES104    
+  368 CIG-146533077   2509        SHEIK MUZZAMMIL A               NES101 NES102 NES103 NES104    
+  369 CIG-146533084   2509        SILAMBARASAN R                  NES101 NES102 NES103 NES104    
+  370 CIG-146533091   2509        SEETHA S                        NES101 NES102 NES103 NES104    
+  371 CIG-146533100   2509        RAJESHKUMAR R                   NES101 NES102 NES103 NES104    
+  372 CIG-146533117   2509        SINDHU C                        NES101 NES102 NES103 NES104    
+  373 CIG-146533149   2509        APROSE S                        NES101 NES102 NES103 NES104    
+  374 CIG-146533170   2509        SANDHIYA R                      NES101 NES102 NES103 NES104    
+  375 CIG-146533188   2509        FIRDOUSE S                      NES101 NES102 NES103 NES104    
+  376 CIG-146533203   2509        ALLWIN RICHARD Y                NES101 NES102 NES103 NES104    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    8
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 2509                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  377 CIG-146533210   2509        VINODHINI V                     NES101 NES102 NES103 NES104    
+  378 CIG-146533228   2509        KAVIYARASAN R                   NES101 NES102 NES103 NES104    
+  379 CIG-146533242   2509        SUBER S                         NES101 NES102 NES103 NES104    
+  380 CBS-146533440   2509        SURESH M                        BCOA001 CITL001 ECO01 PCO       
+        

@@ -1,0 +1,271 @@
+
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    1
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 2710                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+    1 MCA-073170495   2710        AVNEESH KUMAR                   MCSE004   
+    2 MCA-074563312   2710        SURABHI SRIVASTAV               CS71 MCS032 MCS051 MCSE004   
+    3 MCA-074569875   2710        SHIVANI SRIVASTAVA              MCS031 MCS032 MCS033 MCS041 MCS043    
+                                                                  MCS051 MCS053 MCSE004   
+    4 MCA-082558099   2710        SARFARAZ ALAM                   MCS042 MCS043 MCS051 MCS052    
+    5 MP-083331215    2710        NIDHI SHRIVASTAVA               MS43 MS91 MS95      
+    6 BCA-092851003   2710        AMIT KUMAR MISHRA               BCS061 BSHF101 CS05 CS60 CS611     
+                                                                  CS611P CS62 CS66 CS68 CS70 CS71 CS72 CS73 CS74 CS75 FST01     
+    7 MCA-092852850   2710        REETU SINGH                     CS71 MCS033 MCS043 MCS051 MCS053    
+                                                                  MCSE003   
+    8 MCA-092856715   2710        RIYAZ NASIM                     MCS033 MCS041 MCS042 MCS043 MCSE004   
+    9 BCA-092861122   2710        RISHI PAL SINGH                 CS05 CS60 CS612 CS75      
+   10 MCA-092861850   2710        SHWETA YADAV                    CS60 CS71 CS73 MCS033 MCS043 MCS053    
+                                                                  MCSE004   
+   11 MCA-100136695   2710        SHAILESH KUMAR MISHRA           MCS031 MCS032 MCS033 MCS034 MCS035    
+                                                                  MCSL036   
+   12 MCA-100139271   2710        PRATIBHA TIWARI                 CS71 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+   13 MCA-100146822   2710        RAJMANI YADAV                   MCS011 MCS021 MCS041 MCS042 MCS051    
+                                                                  MCS053 MCSE004 MCSL017 MCSL025 MCSL036 MCSL045 MCSL054   
+   14 BLS-100156823   2710        RAHUL TIWARI                    BLS4P     
+   15 MP-101844733    2710        SWETA TIWARI                    MS05      
+   16 MP-102040821    2710        RAM CHANDRA                     MS46      
+   17 MP-102500149    2710        PRAMOD KUMAR SINGH              MS41 MS44      
+   18 BDP-105202615   2710        PRAVEEN SINGH YADAV             BPAE102 EPA01 EPA03 EPA04 EPA05     
+                                                                  EPA06     
+   19 BDP-105213031   2710        OM PRAKASH TIWARI               ECO08     
+   20 BEDSE-105262594 2710        SHYAMA DEVI BUBEY               MMD013 MMDE034   
+   21 DELVI-105346597 2710        ASHWINI KUMAR                   BET022 BIEEE006  
+   22 DMEVI-105346600 2710        GYANDEEP SHUKLA                 BET022    
+   23 DCLEVI-1053466052710        SHASHI KANT VERMA               BET011 BET021 BET022 BICE028   
+   24 DCLEVI-1053466062710        RAJ KUMAR                       BICE028   
+   25 DMEVI-105346607 2710        SANDEEP                         BIME033   
+   26 BCA-110856487   2710        VARTIKA SRIVASTAVA              BCS041 BCS052 BCS053 BCSL063 MCS011    
+                                                                  MCS012 MCS014 MCS023    
+   27 MCA-110858552   2710        DEEPAK KUMAR SHARMA             MCS011 MCS012 MCS021 MCS023 MCS024    
+                                                                  MCS031 MCS032 MCS034 MCS041 MCS042 MCS043    
+   28 MCA-110859404   2710        NEELESH SINGH                   MCS022 MCS023 MCS033 MCS034 MCS041    
+                                                                  MCS053 MCSE004   
+   29 MCA-110859411   2710        NEETU PANDEY                    CS60 MCS011 MCS012 MCS013 MCS021    
+                                                                  MCS033 MCS043 MCSE004   
+   30 BED-112232513   2710        DURGA WATI                      BESE065 BESE066 ES334 ES335 ES364     
+   31 BLS-116742021   2710        KAPIL DEO YADAVA                BLS03 BLS04 BLS4P     
+   32 MCA-116794273   2710        UPMA SINGH                      MCS011 MCS012 MCS013 MCS021 MCS023    
+                                                                  MCS024 MCS031 MCS032 MCS033 MCS042 MCS043 MCS051 MCS052 MCS053 MCSE003 MCSE004   
+   33 BCA-116796173   2710        SURABHI SRIVASTAVA              BCSL063   
+   34 BCA-116796206   2710        TABISH ZIA                      BCS040 BCS041 BCS042 BCS051 BCSL013   
+                                                                  BCSL032 BCSL043 BCSL044 BCSL045 MCS011 MCS012 MCS014 MCS021 MCS024 MCSL016   
+   35 BEDSEHI-118226548                      2710        ASHWANI KUMAR TIWARI            MMDE019 MMDE029   
+   36 DMEVI-118573060 2710        ATARSEN YADAV                   BET021 BIME021 BME032    
+   37 DMEVI-118573084 2710        AVINASH                         BIME021   
+   38 DELVI-118573235 2710        PRADEEP KUMAR SINGH             BET011 BET021 BIEE033 BIEE035 OIEE001   
+   39 DECVI-118573392 2710        RAZIYA BANO                     BET013 BICSE006  
+   40 DCLEVI-1185735292710        VIVEK KUMAR                     BET013 BICE028   
+   41 DMEVI-118583440 2710        MAHENDRA PRATAP                 BET021    
+   42 DCLEVI-1185873762710        DEVENDRA KUMAR                  BET011 BET013    
+   43 DMEVI-118587383 2710        MANOJ KUMAR                     BET011 BET021    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    2
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 2710                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+   44 BED-120621172   2710        REKHA DEVI                      BESE065 BESE066 ES334 ES335 ES361     
+   45 BED-120626361   2710        SANTOSH KUMAR                   ES335     
+   46 MED-120631879   2710        CHAKRA DHARACHARY MISHRA        MES056 MESE066   
+   47 MED-120631933   2710        PRABHA PANDEY                   MES056    
+   48 MP-120641142    2710        SHEELAM TIWARI                  MS92      
+   49 MP-120641325    2710        DEEPAK MISHRA                   MS27 MS28 MS29      
+   50 MP-120641887    2710        SACHIN SINGH                    MS09 MS10 MS11 MS52 MS57 MS58      
+                                                                  MS95 MS96      
+   51 MP-120642420    2710        DURGESH SINGH                   MS27 MS91 MS95 MS97      
+   52 MP-120642500    2710        PRAMENDRA SINGH                 MS11 MS57 MS58 MS95 MS96      
+   53 BED-121518021   2710        HARE RAM RAI                    BESE065 BESE066 ES335     
+   54 BED-122109300   2710        ANEETA KUMARI KANAUJIYA         ES335     
+   55 BEDSE-125955237 2710        BHAWNA PANDEY                   MMDE035   
+   56 MSW-126447013   2710        MANOJ KUMAR CHAURASIYA          MSW007 MSW008 MSWE002   
+   57 MPS-126448441   2710        PRASHANT SINGH                  MPS001    
+   58 MP-126451346    2710        RAM AWASTHI                     MS612 MS66 MS95 MS96      
+   59 MP-126451471    2710        AJAYA KUMAR YADAV               MS05 MS08      
+   60 MEG-126463104   2710        ZEBA FATIMA                     MEG01 MEG03     
+   61 BLS-126469484   2710        RAGINI YADAV                    BLS07     
+   62 BLS-126469681   2710        VIVEK KUMAR SINGH               BLS07     
+   63 MCA-126473778   2710        SHUBHAM  MISHRA                 MCS011 MCS012 MCS013 MCS014 MCS021    
+                                                                  MCS022 MCS023 MCS024 MCS031 MCS033 MCS034 MCS035 MCSL017 MCSL025 MCSL036   
+   64 BEDSEHI-126629886                      2710        JAI PRAKASH MAURYA              MMD011 MMD012 MMD013 MMDE019 MMDE029   
+                                                                  MMDE030   
+   65 BDP-127042441   2710        VIRDHA RAM                      BEGE101 BSHF101 EPS03 EPS07 EPS11     
+                                                                  EPS12 FST01     
+   66 BEDSE-128107832 2710        SURENDRA NATH MISHRA            MMD012 MMD013 MMD014 MMDE019 MMDE033   
+                                                                  MMDE034 MMDE035   
+   67 BEDSE-128111460 2710        DEVENDRA KUMAR MISHRA           MMD012 MMD013 MMD014 MMDE019 MMDE033   
+                                                                  MMDE034 MMDE035   
+   68 BED-130285069   2710        GEETESH SINGH                   BESE065 BESE066 ES334 ES335 ES363     
+   69 BED-130455114   2710        SAURABH PANDEY                  BESE065 BESE066 ES334 ES335 ES362     
+   70 BDP-130605633   2710        ABHISHEK PANDEY                 EHD01 ESO13 ESO14 FST01     
+   71 BED-130926000   2710        RAJESH KUMAR MAURYA             BESE065 BESE066 ES334 ES335 ES361     
+   72 BED-130926468   2710        BIPIN KUMAR                     BESE065 BESE066 ES334 ES335 ES362     
+   73 BED-130926769   2710        VINAI KUMAR SINGH               BESE065 BESE066 ES334 ES335 ES363     
+   74 BED-130926830   2710        ARUN KUMAR SRIVASTAVA           BESE065 BESE066 ES334 ES335 ES363     
+   75 BED-130928042   2710        AUDHESH NARAYAN  PANDEY         BESE065 BESE066 ES334 ES335 ES362     
+   76 BED-130928139   2710        SAPNA TIWARI                    BESE065 BESE066 ES334 ES335 ES362     
+   77 BED-130928461   2710        BRIJESH KUMAR                   BESE065 BESE066 ES334 ES335 ES364     
+   78 BED-130928723   2710        VIJAY BHAN                      BESE065 BESE066 ES334 ES335 ES361     
+   79 BED-130928730   2710        AMAR BAHADUR YADAV              BESE065 BESE066 ES334 ES335 ES364     
+   80 BED-130928834   2710        MUNAUWAR HUSAIN                 BESE065 BESE066 ES334 ES335 ES363     
+   81 BED-130929044   2710        ASHOK KUMAR                     BESE065 BESE066 ES334 ES335 ES363     
+   82 BED-130929210   2710        SHIKSHA                         BESE065 BESE066 ES334 ES335 ES361     
+   83 BED-130929692   2710        POONAM GUPTA                    BESE065 BESE066 ES334 ES335 ES361     
+   84 BLS-131052919   2710        KRITIKA SRIVASTAVA              BLS04     
+   85 BLS-131054288   2710        SANGEETA TIWARI                 BLS3P BLS4P     
+   86 BED-131065424   2710        AWANISH KUMAR TIWARI            BESE065 BESE066 ES334 ES335 ES364     
+   87 BED-131066315   2710        ROOP RANI RAWAT                 BESE065 BESE066 ES334 ES335 ES364     
+   88 BED-131066648   2710        SHIV RAJ                        BESE065 BESE066 ES334 ES335 ES361     
+   89 BED-131067238   2710        PRADEEP KUMAR                   BESE065 BESE066 ES334 ES335 ES361     
+   90 BED-131067704   2710        MOHAMMAD MOYEEN                 BESE065 BESE066 ES334 ES335 ES364     
+   91 BED-131067768   2710        RAJ KUMAR YADAV                 BESE065 BESE066 ES334 ES335 ES364     
+   92 BED-131067782   2710        ANSAR AHAMAD                    BESE065 BESE066 ES334 ES335 ES361     
+   93 BED-131067815   2710        PRADEEP KUMAR YADAV             BESE065 BESE066 ES334 ES335 ES364     
+   94 BED-131068032   2710        JITENDRA KUMAR VERMA            BESE065 BESE066 ES334 ES335 ES363     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    3
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 2710                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+   95 BED-131079676   2710        SHYAM KARAN PANDEY              BESE065 BESE066 ES334 ES335 ES361     
+   96 BED-131141183   2710        KESHARI KUMAR SHUKLA            BESE065 BESE066 ES334 ES335 ES361     
+   97 BED-131142010   2710        DEEPAK KUMAR SINGH              BESE065 BESE066 ES334 ES335 ES362     
+   98 BED-131142178   2710        AKHILESH BAHADUR SINGH          BESE065 BESE066 ES334 ES335 ES361     
+   99 BED-131142185   2710        SHUBHA SRIVASTAVA               BESE065 BESE066 ES334 ES335 ES362     
+  100 BED-131142493   2710        OM PRAKASH GARG                 BESE065 BESE066 ES334 ES335 ES361     
+  101 BED-131143044   2710        PANKAJ KUMAR                    BESE065 BESE066 ES334 ES335 ES361     
+  102 BED-131143700   2710        MOHD ATEER                      BESE065 BESE066 ES334 ES335 ES361     
+  103 BED-131408900   2710        RANJEET VERMA                   BESE065 BESE066 ES334 ES335 ES361     
+  104 BED-131548733   2710        ZAKIA AKHTAR                    BESE065 BESE066 ES334 ES335 ES363     
+  105 BED-131548758   2710        GOVIND NARAIN PANDEY            BESE065 BESE066 ES334 ES335 ES364     
+  106 BED-131548890   2710        RAJ KISHOR TIWARI               BESE065 BESE066 ES334 ES335 ES361     
+  107 BED-131549251   2710        RAJENDRA PRASAD                 BESE065 BESE066 ES334 ES335 ES363     
+  108 BED-131549538   2710        CHETANA SINGH                   BESE065 BESE066 ES334 ES335 ES362     
+  109 BED-131549600   2710        PYARE LAL                       BESE065 BESE066 ES334 ES335 ES361     
+  110 BDP-131763103   2710        AVNISH KUMAR TIWARI             BSHF101 CHE01 CHE02 CHE04 MTE01     
+                                                                  MTE02 PHE06     
+  111 BED-131766116   2710        ASHOK KUMAR TIWARI              BESE065 BESE066 ES331 ES332 ES333     
+                                                                  ES334 ES335 ES341 ES342 ES361     
+  112 BDP-136594694   2710        PURUSHOTTAM KUMAR               BPSE212 BSHF101 EPS11 FEG01 FEG02     
+  113 MSO-137096511   2710        EKATA SINGH                     MSO001 MSO002 MSO003 MSO004    
+  114 BLS-137112236   2710        AZAD AHMAD KHAN                 BLS02 BLS03 BLS04     
+  115 MEC-137113166   2710        MADHURI SINGH                   MEC001 MEC002 MEC003 MEC004 MEC105    
+  116 DDT-137118205   2710        RANDEEP SINGH                   BPVI011 BPVI012 BPVI013 BPVI014   
+                                                                  BPVI015 BPVI016 BPVI017 BPVI018   
+  117 DDT-137120240   2710        ANAND VERMA                     BPVI011 BPVI012 BPVI013 BPVI014   
+                                                                  BPVI015 BPVI016 BPVI017 BPVI018   
+  118 MCOM-137120867  2710        PRADEEP KUMAR SHUKLA            IBO02 IBO04 IBO05     
+  119 BDP-140318948   2710        POOJAM KUMARI                   BSHF101 ECO01 ECO02 EEC11 FEG01     
+                                                                  FEG02     
+  120 BED-141559947   2710        ISHAN GUPTA                     ES331 ES332 ES333 ES341 ES342     
+  121 BED-141560000   2710        KOMAL SANGTANI                  ES331 ES332 ES333 ES341 ES342     
+  122 BED-141561420   2710        ANIL KUMAR SINGH                ES331 ES332 ES333 ES343 ES344     
+  123 BED-141561950   2710        MANOJ KUMAR KHARE               ES331 ES332 ES333 ES341 ES344     
+  124 BED-141562028   2710        VIJAY LAXMI KHARE               ES331 ES332 ES333 ES343 ES344     
+  125 BED-141568580   2710        ZEESHAN AHMAD                   ES332 ES333 ES343 ES345     
+  126 BED-141568717   2710        ESTIYAK ALI                     ES331 ES332 ES333 ES343 ES344     
+  127 BED-142871380   2710        ADITYA NARAYAN TIWARI           ES331 ES332 ES333 ES343 ES345     
+  128 BED-142871699   2710        PRAMOD KUMAR                    ES331 ES332 ES333 ES343 ES345     
+  129 BED-142871800   2710        MOHAMMAD SARWAR                 ES331 ES332 ES333 ES343 ES345     
+  130 BED-142872526   2710        AMAR DEEP TIWARI                ES331 ES332 ES333 ES343 ES345     
+  131 BED-142875009   2710        JUHI SINGH                      ES331 ES332 ES333 ES343 ES345     
+  132 BED-142875016   2710        SUDHA SINGH                     ES331 ES332 ES333 ES343 ES345     
+  133 BED-142875023   2710        SUBHASH KUMAR UPADHYAY          ES331 ES332 ES333 ES341 ES343     
+  134 BED-142875030   2710        BILKIS BANO                     ES331 ES332 ES333 ES343 ES345     
+  135 BED-142875048   2710        PRAVESH KUMAR SHUKLA            ES331 ES332 ES333 ES341 ES342     
+  136 BED-142875055   2710        VIJAY BAHADUR YADAV             ES331 ES332 ES333 ES343 ES345     
+  137 BED-142875062   2710        MOHD ALAM                       ES331 ES332 ES333 ES343 ES345     
+  138 BED-142875070   2710        PAVAN KUMAR MISHRA              ES331 ES332 ES333 ES343 ES344     
+  139 BED-142875087   2710        MOHAMMAD ISMAIL                 ES331 ES332 ES333 ES343 ES345     
+  140 BED-142875238   2710        RASHMI VERMA                    ES331 ES332 ES333 ES341 ES344     
+  141 BED-142875245   2710        SK KAEM                         ES331 ES332 ES333 ES343 ES344     
+  142 BED-142875252   2710        DINESH KUMAR SAHU               ES331 ES332 ES333 ES343 ES345     
+  143 BED-142875260   2710        NEELAM SINGH                    ES331 ES332 ES333 ES344 ES345     
+  144 BED-142875277   2710        SHARAD KUMAR SRIVASTAVA         ES331 ES332 ES333 ES343 ES345     
+  145 BED-142875291   2710        BIPIN KUMAR PANDEY              ES331 ES332 ES333 ES343 ES345     
+  146 BED-142875317   2710        RAMESH KUMAR MISHRA             ES331 ES332 ES333 ES341 ES342     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    4
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 2710                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  147 BED-142875324   2710        SURABHI GONAR                   ES331 ES332 ES333 ES341 ES344     
+  148 BED-142875331   2710        RAM PRATAP TIWARI               ES331 ES332 ES333 ES344 ES345     
+  149 BED-142875349   2710        BRIJENDRA KUMAR YADAV           ES331 ES332 ES333 ES341 ES342     
+  150 BED-142875370   2710        SAUMYA TRIGUNAYAT               ES331 ES332 ES333 ES343 ES344     
+  151 BED-142875388   2710        MOHAMMAD AZMAT KHAN             ES331 ES332 ES333 ES343 ES345     
+  152 BED-142875410   2710        AKHILESH TIWARI                 ES331 ES332 ES333 ES343 ES345     
+  153 BED-142875428   2710        MATLOOB AHMAD                   ES331 ES332 ES333 ES343 ES345     
+  154 BED-142875435   2710        MANGLA YADAV                    ES331 ES332 ES333 ES341 ES342     
+  155 BED-142875467   2710        JAKIR KHAN                      ES331 ES332 ES333 ES343 ES344     
+  156 BED-142875521   2710        JITENDRA PRATAP SAXENA          ES331 ES332 ES333 ES343 ES345     
+  157 BED-142875585   2710        ANITA YADAV                     ES331 ES332 ES333 ES343 ES345     
+  158 BED-142875592   2710        ADIL RASHEED                    ES331 ES332 ES333 ES343 ES345     
+  159 BED-142875625   2710        SHAMA ANJUM                     ES331 ES332 ES333 ES343 ES345     
+  160 BED-142875671   2710        NEELAM SINGH                    ES331 ES332 ES333 ES343 ES345     
+  161 BED-142875704   2710        SANDEEP KUMAR GUPTA             ES331 ES332 ES333 ES341 ES342     
+  162 BED-142875711   2710        MOHAMMAD SAJID                  ES331 ES332 ES333 ES341 ES344     
+  163 BED-142875729   2710        NAZIA BANO                      ES331 ES332 ES333 ES343 ES345     
+  164 BED-142875736   2710        PAPPU                           ES331 ES332 ES333 ES343 ES345     
+  165 BED-142875743   2710        IRFAN AHMAD                     ES331 ES332 ES333 ES343 ES345     
+  166 BED-142875750   2710        KIRAN YADAV                     ES331 ES332 ES333 ES343 ES345     
+  167 BED-142875768   2710        POONAM VERMA                    ES331 ES332 ES333 ES343 ES345     
+  168 BED-142875790   2710        GANGA RAM YADAV                 ES331 ES332 ES333 ES343 ES345     
+  169 BED-142875854   2710        NAGHMA SHAHEEN                  ES331 ES332 ES333 ES343 ES345     
+  170 BED-142875886   2710        NAZRIN BANO                     ES331 ES332 ES333 ES343 ES345     
+  171 BED-142875901   2710        GHULAM ALI ASGHAR               ES331 ES332 ES333 ES343 ES345     
+  172 BED-142875958   2710        SHAKILA BANO                    ES331 ES332 ES333 ES343 ES345     
+  173 BED-142875972   2710        SUNITA RAJAK                    ES331 ES332 ES333 ES343 ES345     
+  174 BED-142875997   2710        RAHUL KUMAR                     ES331 ES332 ES333 ES341 ES342     
+  175 BED-142876903   2710        SUMAIYA KHATOON                 ES331 ES332 ES333 ES343 ES345     
+  176 BED-142877951   2710        VIPIN KUMAR SHUKLA              ES331 ES332 ES333 ES343 ES345     
+  177 BED-142877969   2710        JITENDRA KUMAR VERMA            ES331 ES332 ES333 ES344 ES345     
+  178 BED-142877976   2710        MADHU BALA SHARMA               ES331 ES332 ES333 ES343 ES345     
+  179 BED-142878068   2710        BIRENDRA DHAR SHUKLA            ES331 ES332 ES333 ES341 ES345     
+  180 BED-142878186   2710        DILIP KUMAR PANDEY              ES331 ES332 ES333 ES343 ES345     
+  181 BED-142878193   2710        RAJENDRA PRASAD YADAV           ES331 ES332 ES333 ES341 ES342     
+  182 BED-142878369   2710        RAJESH SINGH                    ES331 ES332 ES333 ES343 ES345     
+  183 BED-142878409   2710        JYOTI MISHRA                    ES331 ES332 ES333 ES343 ES345     
+  184 BED-142878502   2710        BASANT LAL                      ES331 ES332 ES333 ES343 ES345     
+  185 BED-142878770   2710        SAVITRI TIWARI                  ES331 ES332 ES333 ES343 ES345     
+  186 BDP-142880261   2710        AMIT KUMAR                      BHDF101 BPAE102 BSHF101 EPA01     
+                                                                  FHD02     
+  187 BDP-142880420   2710        VIKASH SINGH                    BEGE101 BEGE102 BHDF101 BSHF101   
+                                                                  FHD02     
+  188 BDP-142880509   2710        ARUN KUMAR SAH                  BHDF101 BSHF101 EHI01 EHI02 FHD02     
+  189 PGDT-142883457  2710        DHIRENDRA PRATAP SINGH          PGDT01 PGDT02 PGDT03 PGDT04    
+  190 BLS-142884172   2710        SHAILESH SINGH YADAVA           BLS01 BLS02 BLS03 BLS04 BLS05     
+                                                                  BLS06 BLS07 BLS3P BLS4P     
+  191 BLS-142884180   2710        RINKI YADAVA                    BLS01 BLS02 BLS03 BLS04 BLS05     
+                                                                  BLS06 BLS07 BLS3P BLS4P     
+  192 BLS-142884197   2710        SANJAY KUMAR                    BLS01 BLS02 BLS03 BLS04 BLS05     
+                                                                  BLS06 BLS07 BLS3P BLS4P     
+  193 CFN-142888843   2710        RANI DAVI                       CFN02     
+  194 PGDT-142893734  2710        PRABHAT KUMAR YADAV             PGDT01 PGDT02 PGDT03 PGDT04    
+  195 BED-143022047   2710        SITA RAM                        ES331 ES332 ES333 ES343 ES345     
+  196 BPP-148067559   2710        KULDEEP PATHAK                  OSS101 PCO       
+  197 MCA-148071677   2710        MOHAMMAD KARIM                  MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    5
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 2710                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  198 BCA-148084018   2710        DEEPAK KUMAR PAL                BCS011 BCS012 BCSL013 ECO01 FEG02     
+  199 BCA-148084071   2710        PRABH JOT SINGH                 BCS011 BCS012 BCSL013 ECO01 FEG02     
+        

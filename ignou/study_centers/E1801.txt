@@ -1,0 +1,1733 @@
+
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    1
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1801                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+    1 BCA-072700514   1801        RAM KUMAR SARKI                 BCS061 BCS061P CS06 CS62 CS62P     
+                                                                  CS63 CS63P CS65 CS66 CS67 CS68 CS72 CS72P CS74 CS74P CS75      
+    2 BDP-075626763   1801        KARTIK CHANDRA GHORAI           EPS03 EPS09     
+    3 BDP-075806304   1801        SARALIN MARWEIN                 BEGE102   
+    4 BDP-076280561   1801        INDUMATI                        FHD02 FST01     
+    5 MP-081046768    1801        DIWARSON NONGRANG               MS08 MS42 MS44 MS95      
+    6 MP-083434294    1801        SHYAM SUNDAR SINGH              MS22 MS23 MS95      
+    7 BDP-083878756   1801        YEBHA LANONG                    CHE02 CHE09 PHE06     
+    8 BDP-083879820   1801        ANIL KUMAR C K                  ESO14 ESO15 FST01     
+    9 BDP-083879987   1801        DANIEL KUPAR NONGSIEJ           EHI03 EHI07     
+   10 MCA-083880326   1801        JOHN GILBERT SHABONG            MCS035 MCS041 MCS042 MCS043 MCSL045   
+   11 MCA-083880358   1801        ABHISHEK DEBNATH                MCS043 MCS052 MCS053 MCSE011 MCSL054   
+   12 MEG-085224993   1801        MARIA GORETTI MARSHIANGBAI      MEG01 MEG05 MEG07     
+   13 MSO-085786438   1801        LH THONGKHOLEN KHONGSAI         MPS003    
+   14 BED-090295582   1801        SUMITA CHANDA                   BESE065 BESE066 ES361     
+   15 BED-090296133   1801        KYNTIEWBUROM WAHLANG            BESE065 BESE066 ES334 ES335 ES344     
+                                                                  ES362     
+   16 MP-091345887    1801        AMIT RAI                        MS08 MS09 MS21      
+   17 MP-091566939    1801        HARLYNE S LANGSHIANG            MS04 MS05 MS06 MS07      
+   18 BSW-092305474   1801        SANGRILA THAPA                  BSWE006 FST01     
+   19 MEG-092306999   1801        DIPANJANA GUPTA                 MEG05     
+   20 BDP-093130258   1801        RAJIV SINGH                     BEGE103 FST01     
+   21 BDP-094729187   1801        SABYASACHI CHOUDHURY            EEC11     
+   22 BDP-094729528   1801        MANJU DAS                       ANC01 FST01     
+   23 BSW-094730998   1801        DIANA LALRINMAWII KAWLNI        BSWE002 BSWE004 FST01     
+   24 BDP-094732533   1801        LUCY ANNE MARY SANGRIANG        ECO08 ECO11 EEC11 FST01     
+   25 BDP-094732605   1801        RAGHUBIR RAI                    ECO11     
+   26 BTS-094735467   1801        EMILIA LYNGDOH MAWPHLANG        FST01 TS02 TS06      
+   27 BDP-094735815   1801        EUSIBIUS SANGRIANG              ECO08 ECO09 ECO11 FST01     
+   28 BDP-094737177   1801        SANGITA SANGMA                  ESO11     
+   29 MCA-094739267   1801        ARIJIT CHATTERJEE               MCS011 MCS033 MCS035 MCS041 MCS042    
+                                                                  MCS043 MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSL025 MCSL036 MCSL045 MCSL054   
+   30 BDP-095357692   1801        SINIMOL MATHEW                  AED01 AFW01 AOM01 ECO11 ECO12     
+                                                                  ECO14 FST01     
+   31 MCA-096118535   1801        UMMED SINGH RATHORE             MCS031 MCS033 MCS042 MCS051 MCSE011   
+   32 BDP-096352284   1801        SURYAVESH                       EPA04 EPA05 EPA06     
+   33 MEG-100087570   1801        LOVELY SHARMA                   MEG01     
+   34 MEG-100096242   1801        SANT SHARAN                     MEG05 MEG07 MEG08 MEG10     
+   35 MCA-100116552   1801        ANISH PRATAP SINGH              CS60 MCSE003 MCSE011   
+   36 BDP-100143348   1801        DEV RAM                         FST01     
+   37 BDP-100143413   1801        HARIKESH KUMAR SINGH            EHD01 ESO13 ESO14 FST01     
+   38 MEG-100143764   1801        SWASTIKA BHATTACHARJEE          MEG05     
+   39 MEC-100143805   1801        POMPI DAS                       MEC003    
+   40 BDP-100144007   1801        SBC BEIREIKHEI NOHRO            AMT01     
+   41 BDP-100144085   1801        PREMITA MARAK                   ACC01 EHD01 ERD01 FST01     
+   42 BDP-100144094   1801        PRABODH HAZONG                  ANC01     
+   43 BDP-100144128   1801        SAKUNTALA THAPA                 EPS03 ERD01 FST01     
+   44 BDP-100144157   1801        EKTA RAJAK                      FST01     
+   45 BDP-100144165   1801        NEELAM SINHA                    BHDE107 BHDE108   
+   46 MED-100144445   1801        KUMAR BAGCHI                    MES052 MES055    
+   47 MAEDU-100144499 1801        SHEAFFERS NALLE MALNGIANG       MES013 MES015 MES031 MES033 MES034    
+   48 BED-100767449   1801        IBASHISHA KHARNGAPKYNTA         BESE065 BESE066 ES331 ES333     
+   49 MP-102504866    1801        GANAPATI DHAR                   MS03 MS09 MS10      
+   50 MP-102513871    1801        SAMBHU SHAH                     MS01 MS07 MS11      
+   51 BDP-105039022   1801        MANISH CHAUDHARY                ACS01 EHI01 EPS03 EPS09 FST01     
+   52 MSO-105068847   1801        LE ALODIA GRACIA WARJRI         MSO002 MSO003 MSOE001 MSOE004   
+   53 BCA-105074733   1801        ANJALESH KUMAR MISHRA           CS63P CS68 CS68P CS70 CS71 CS72      
+                                                                  CS72P CS73 CS74 CS75      
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    2
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1801                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+   54 MCA-105177588   1801        PAVANA CHAKRADHAR JADA          MCS041 MCSE004   
+   55 MHD-105193777   1801        ANUP KUMAR                      MHD01 MHD02 MHD03 MHD04 MHD05     
+                                                                  MHD06 MHD07 MHD13 MHD14 MHD15 MHD16     
+   56 BDP-105193925   1801        RAJIV BARUAH                    EPS12 ERD01 FST01     
+   57 BDP-105194066   1801        BENJILA J MARAK                 ERD01     
+   58 BDP-105194127   1801        SAINKUR SINGH SYIEMLIEH         BEGE103 BEGE105 BSHF101 EPS12     
+                                                                  FST01     
+   59 BDP-105194130   1801        SEVERINUS MAWLONG               FST01     
+   60 BDP-105194161   1801        IBASHISHA NONGKHLAW             EHD03     
+   61 BDP-105194187   1801        ANTHONY SOHKHLET                ANC01     
+   62 BDP-105194240   1801        SALMA KHATUN                    FST01     
+   63 BDP-105194290   1801        A PAMREISHANG                   FST01     
+   64 BDP-105194325   1801        ALOK MISHRA                     EEG06 FST01     
+   65 BDP-105194331   1801        SEPHALI BALA HAJONG             ANC01 EHI01 EHI05 EPA06 FST01     
+   66 MEG-105194451   1801        BHAWANA CHETTRI                 MEG04 MEG06 MEG07     
+   67 MEG-105194455   1801        BIDYA RAI                       MEG02 MEG04 MEG07     
+   68 MCA-105194578   1801        SHAH NAWAZ AHMED                MCS035 MCS041 MCS052 MCSE003 MCSE004   
+                                                                  MCSE011 MCSL054   
+   69 MCA-105194581   1801        PHAIREMBAM DINESH SINGH         MCS051 MCS052 MCS053 MCSE003 MCSE004   
+                                                                  MCSE011 MCSL054   
+   70 MCA-105194583   1801        RAJA RAJAK                      MCS012 MCS014 MCS021 MCS024 MCS031    
+                                                                  MCS032 MCS033 MCS034 MCS035 MCS041 MCS042 MCS043 MCS051 MCS052    
+   71 MCA-105194587   1801        SUKJAI LYNGDOH                  MCS053 MCSE004   
+   72 BCA-105194627   1801        RAMU THAPA                      BCS061 CS05 CS06 CS62 CS64 CS68P     
+                                                                  CS71 CS72 CS73 CS74 MTE03     
+   73 MCOM-105194678  1801        MARIOHDOR TYMMENNIANG           MCO05     
+   74 MSO-105194745   1801        YELENA ZAKOVA N SANGMA          MSO001 MSO002 MSO003 MSO004    
+   75 MSO-105194760   1801        SHANKAR PANDEY                  MSOE001 MSOE003   
+   76 MSO-105194769   1801        NAKRIBON SONGTHIANG             MPA016 MPS003 MSOE001 MSOE004   
+   77 MSO-105194770   1801        BIANGMON SUJA                   MPA016 MPS003 MSO001 MSO002 MSOE001   
+                                                                  MSOE004   
+   78 MEG-105195113   1801        REBECCA M NONGDHAR              MEG02 MEG03 MEG05 MEG10 MEG14     
+   79 MARD-105195183  1801        VAN SHANBORLANG BUHPHANG        MRDE002 MRDE101 RDD06 RDD07     
+   80 MAEDU-105195214 1801        SHARMILA DIENGNGAN              MES104    
+   81 MHD-105195370   1801        ARPITA SARKAR                   MHD05 MHD07 MHD14     
+   82 BDP-105195378   1801        BRENNA KACEY MAWLONG            BPCE021   
+   83 BDP-105196018   1801        SURAJ DEO KR PANDIT             BEGE101   
+   84 BDP-105196057   1801        LALREMRUOT HMAR                 ACS01 ECO09 ECO10 ECO11 ECO14     
+                                                                  EEC11 FST01     
+   85 MARD-105548811  1801        IBADONLANG SWEETY MAJAW         MRDE002 RDD07     
+   86 MPA-110143174   1801        DINESH KUMAR                    MPA011 MPA013 MPA014 MPA015    
+   87 BCA-110162468   1801        RAJESH SHARMA                   BCS061P CS05 CS64 CS68P CS70      
+                                                                  CS75      
+   88 MSO-110559461   1801        KEGITAR L LYNGKHOI              MPA016 MPS003 MSOE001 MSOE004   
+   89 MSO-110595436   1801        BINITA SHARMA                   MPS003    
+   90 MARD-110596287  1801        XAVIER DEXTER SUNN              MRD102 MRD103 MRDE101 RDD06 RDD07     
+   91 MARD-110596500  1801        MANSAN MARVIN RYNGHANG          MRD103 RDD07     
+   92 BDP-110596721   1801        IBADARIHUN KHARKONGOR           EHI04 EHI06 ESO11     
+   93 BDP-110596840   1801        SAROJ SINGH                     ACC01 EHD02 EHD05 ESO15     
+   94 MPS-110597099   1801        PROMINUS R MARAK                MPS001 MPS002 MPS003 MPS004    
+   95 MPS-110597382   1801        LEOBERTH RONGMUTHU SANGMA       MED008 MPSE006 MPSE007 MPSE008   
+   96 MPA-110597533   1801        LAKYNTI KHARPURI                MPA012 MPA015 MPA016 MPA017 MPA018    
+                                                                  MPS003    
+   97 MCOM-110597676  1801        DEBOJANI BHATTACHARJEE          MCO04     
+   98 BTS-110597952   1801        WANDAKARU SLONG KHARKONGOR      ASP01 FST01     
+   99 BTS-110597960   1801        SHAMINA N SANGMA                TS02 TS03      
+  100 MSW-110598170   1801        PHILARIORA KHARBITHAI           MSW002 MSW008 MSW009    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    3
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1801                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  101 MEC-110598313   1801        SITA RAJAK                      MEC004 MEC006 MEC007 MEC009    
+  102 MEC-110598384   1801        KASHMIR KHONGLIAR               MEC001 MEC008    
+  103 BDP-110602707   1801        AMANPREET KAUR                  AOM01 BEGE102 CTE03 CTE04 ECO06     
+                                                                  ECO08 ECO09 ECO14 FST01     
+  104 BDP-110602746   1801        AMANDEEP KAUR                   ECO02 ECO06 ECO14 FST01     
+  105 BDP-110603770   1801        PRETTY NONGKHLAW                BEGE102 BEGE103   
+  106 MCA-110605687   1801        DOLI RANI SINHA                 MCS012 MCS013 MCS021 MCS023 MCS024    
+                                                                  MCS031 MCS032 MCS033 MCS034 MCS035 MCS041    
+  107 MHD-110938033   1801        SAVITRI RAI                     MHD01 MHD05 MHD06 MHD07 MHD14     
+                                                                  MHD15     
+  108 BDP-111451726   1801        ANTHONY SOW LAHNA H             ECO03 ECO05 ECO07 ECO12 ECO13     
+                                                                  ECO14 FST01     
+  109 BED-111960328   1801        JANGKHOLAM HAOKIP               ES331 ES332 ES333 ES341     
+  110 BED-111960460   1801        EVADAYARISA DKHAR               BESE066 ES331 ES332 ES334 ES335     
+  111 BED-111960596   1801        MUN MUN MUKHIM                  BESE065 BESE066 ES331 ES332 ES333     
+                                                                  ES334 ES335 ES343 ES344 ES363     
+  112 BED-111961494   1801        JULIE KALITA NONGKYNRIH         BESE065 ES332 ES343 ES363     
+  113 BED-111961914   1801        VASHY LIMSONG                   ES363     
+  114 BED-111962052   1801        RIKYNTI K KYNTA                 BESE065 BESE066 ES334 ES335 ES363     
+  115 MAH-112250006   1801        V LAMMINLUN                     MHI03 MHI04 MHI05     
+  116 MAH-112250091   1801        DISENSTAR PDAI                  MHI03     
+  117 MEG-112251197   1801        ADITI DUTTA                     MEG01 MEG04 MEG05 MEG06     
+  118 MEG-112251670   1801        NISHA CHETTRI                   MEG05     
+  119 MAEDU-112251853 1801        BALAMONSHISHA SIANGSHAI         MES013    
+  120 MP-112252443    1801        MASKARLAND KHARKONGOR           MS09 MS66 MS95      
+  121 MP-112252490    1801        KAMAL KUMAR DAS                 MS01      
+  122 MED-112252658   1801        LAIKIN SUTING                   MES051    
+  123 BDP-112334053   1801        BHUPINDER SINGH                 ACC01 BEGE101 EHI03 EHI04 EHI05     
+                                                                  EHI06     
+  124 BDP-112335317   1801        UDIT KUMAR SHARMA               EPA04     
+  125 MHD-115936065   1801        NAMITA DEVI CHAKMA              MHD05 MHD07 MHD14     
+  126 BDP-116662580   1801        AMRIT NARAYAN NEWAR             BPAE102 EPA01 EPS03 FST01     
+  127 BDP-117235931   1801        GOPAL SINGH                     ACC01 BPSE212 ERD01     
+  128 MSW-117236317   1801        DOLLY SYIEMLIEH                 MSW001 MSW004 MSW006    
+  129 MSW-117236363   1801        LAVEENEA MARY KHONGLAM          MSW006    
+  130 MSW-117236428   1801        TANYA KOKSI SANGMA              MSW004 MSW007 MSW008 MSW009 MSWE001   
+                                                                  MSWE003   
+  131 MSW-117236499   1801        RUWNGLAR ELLY ANAL              MSW001 MSW004 MSW005 MSW007 MSW008    
+                                                                  MSW009 MSWE001   
+  132 MPS-117237706   1801        PINKEY M SANGMA                 MED008 MPS001 MPS002 MPS004 MPSE001   
+                                                                  MPSE003 MPSE007 MPSE008   
+  133 MPS-117238160   1801        DEIDASHISHA PALIAR              MED002 MPSE001 MPSE004 MPSE007   
+  134 MEC-117238500   1801        PRECIOUSLY BAREH                MEC004 MEC006 MEC007 MEC008    
+  135 MEC-117238525   1801        TIIORIS KHARNGI                 MECE001   
+  136 MPA-117239566   1801        BAVILLA  E  SHYLLA              MPA015 MPA017 MPA018    
+  137 MPA-117239749   1801        MACHALTY MYRTHONG               MPA018    
+  138 MHD-117239921   1801        FALGUNI  CHACRABORTY            MHD05 MHD07 MHD13 MHD14 MHD15     
+                                                                  MHD16     
+  139 MHD-117239946   1801        KIRAN THAKUR                    MHD05     
+  140 MHD-117239953   1801        SNEHA SUMAN                     MHD05 MHD07 MHD14     
+  141 MHD-117239978   1801        BARNALI DHAR                    MHD05 MHD07     
+  142 MHD-117239985   1801        RITA ROY                        MHD05 MHD06     
+  143 BDP-117240331   1801        PARBATI DEVI SIKDEL             ACS01 ECO14     
+  144 BDP-117240450   1801        BABUL KUMAR ROY                 ECO10 ECO11     
+  145 BDP-117240481   1801        SAGAR GURUNG                    ECO11     
+  146 BDP-117240507   1801        MUONEEDIN LASKAR                AOM01 ECO10 ECO11 FST01     
+  147 BDP-117240546   1801        ABHISHEK THAPA                  ANC01 ECO07 ECO09 ECO10 ECO14     
+                                                                  FST01     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    4
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1801                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  148 BDP-117240553   1801        SANKU PAUL                      ECO14 FST01     
+  149 BDP-117240585   1801        RIONA NONGSPUNG                 ECO10 ECO11     
+  150 BDP-117240657   1801        ANUJHA SYIEMLIEH                AFW01 AOM01 BEGE103 ECO05 ECO06     
+                                                                  ECO08 ECO09 ECO10 ECO11 FST01     
+  151 BDP-117240743   1801        CAROL THABAH                    BCOA001 BECE002 ECO11 ECO14     
+  152 BDP-117240750   1801        JOHNNY C CHANGSAN               ECO02 ECO05 ECO12 ECO13 FST01     
+  153 BDP-117240775   1801        KYRSHANBOR PUWEIN               AOM01 ECO08 ECO09 ECO10 ECO11     
+                                                                  ECO12 ECO14 EEC13 FST01     
+  154 MAH-117240879   1801        SAPHA SHYLLA                    MHI03     
+  155 MAH-117240893   1801        BANTEINAM KHARBITHAI            MHI03 MHI06 MHI08 MPSE003 MPSE004   
+  156 MAH-117240901   1801        HAJANMI PYNGROPE                MHI03 MHI05 MHI06 MHI08 MPSE003   
+  157 MAH-117241089   1801        TINA PAULCHOUDHURY              MHI04 MHI05     
+  158 MAH-117241673   1801        SARASWATI SUNAR                 MHI03 MHI06 MHI08 MPSE003 MPSE004   
+  159 MSO-117241856   1801        ARUNDHATI SEN                   MSOE003 MSOE004   
+  160 MSO-117242080   1801        DAISY JONES SYIEMLIEH           MPA016 MPS003 MSOE004   
+  161 MSO-117242650   1801        DIDSY WARJRI                    MSO002 MSO003    
+  162 MSO-117242722   1801        PANCHI B SANGMA                 MPS003    
+  163 MSO-117242761   1801        LARIHUN KHARKONGOR              MSOE002 MSOE003   
+  164 MTM-117242969   1801        RISHILDA MARNGAR                MTM01 MTM02 MTM03 MTM04 MTM05     
+                                                                  MTM06 MTM07 MTM08     
+  165 MTM-117242990   1801        TRESSICA DALE LAMARE            MTM09 MTM11     
+  166 MEG-117243369   1801        LONGSHISHA SHABONG              MEG01 MEG04 MEG05 MEG07 MEG11     
+  167 MEG-117243390   1801        MELODY L FAIHRIEM               MEG01 MEG05 MEG07 MEG11 MEG14     
+  168 BSW-117244045   1801        BINAROI SHABONG                 BSWE003   
+  169 BLS-117244464   1801        HINIPAIA SARI                   BLS3P     
+  170 MEG-117244733   1801        SACHARISA KHARMAWPHLANG         MEG05 MEG08 MEG11     
+  171 MP-117244970    1801        RAKSHAN CH MARAK                MS04 MS63      
+  172 MP-117244994    1801        BALARIHUN WARJRI                MS68 MS95 MS96      
+  173 MP-117245015    1801        BRINDA B RYMBAI                 MS03 MS08      
+  174 BTS-117245473   1801        PAOMINTHANG R VAIPHEI           BSHF101 FEG02 TS01 TS02      
+  175 BDP-117246142   1801        AMITA KUMARI                    CHE04 CHE05 LSE05 LSE06     
+  176 MAPC-117246450  1801        SHARON ZEPHANIAH BLAH           MPCE022   
+  177 MAPC-117246490  1801        LALNUNMAWI                      MPCE022   
+  178 MCOM-117247341  1801        RAJIV DEB                       MCO01 MCO03 MCO05 MCO06     
+  179 BTS-117247531   1801        WASAN PYRBOT                    TS04 TS05      
+  180 MEG-117247760   1801        FANCYFUL GASSAH                 MEG05     
+  181 BDP-117247840   1801        RAHBOKLANG TARIANG              BECE016 EEC10 ERD01 FST01     
+  182 MCOM-117248762  1801        JULIANA MARY NONGRUM            IBO05 MCO01 MCO03 MCO05 MCO07     
+  183 MCOM-117248770  1801        RONALD S NONGRUM                MCO05     
+  184 MCOM-117248802  1801        T EVANGELLIN L MAWLONG          MCO05     
+  185 MCOM-117248880  1801        CHEDRACK ALLYA                  MCO05     
+  186 MCOM-117249020  1801        EKTA KHANAL                     MCO03     
+  187 MCOM-117249130  1801        BANJOPLIN KHARSOHNOH            MCO05     
+  188 MCOM-117249227  1801        ANUP KUMAR SINGH                MCO01 MCO04 MCO05 MCO07     
+  189 MCOM-117249400  1801        SAMBORLANG RANGAT               IBO03 IBO04 MCO01 MCO05     
+  190 BDP-117251549   1801        PHIDAHUN MARY LANO              BEGE103 CTE03 CTE05 ESO15 ESO16     
+  191 BDP-117251556   1801        GUDDU PRASAD                    ANC01     
+  192 BDP-117251904   1801        CHUMKI CHOUDHURY                ANC01 FST01     
+  193 BDP-117251936   1801        FREEMAN M KHARKONGOR            EPS11     
+  194 BDP-117252050   1801        FLORENCER A SANGMA              ACC01 BPSE212 EPA06 ESO15     
+  195 BDP-117252153   1801        DARSHAN SINGH                   ACC01 ERD01 ESO12 ESO15 ESO16     
+  196 BDP-117252479   1801        SHUKLA SINHA                    ERD01 FST01     
+  197 BDP-117252519   1801        DAPKUPAR DKHAR                  ANC01 EHI02 EHI05 EPS03 EPS07     
+                                                                  EPS09 EPS11 FEG01 FST01     
+  198 BDP-117252669   1801        TARNI P THAKUR                  ANC01 ERD01 ESO15 FST01     
+  199 BDP-117252898   1801        RAZIA AHMED                     BEGE101 BPY003 FST01     
+  200 BDP-117252945   1801        AMAR BORO                       BPSE212 BSHF101 ESO13 FST01     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    5
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1801                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  201 MARD-117253313  1801        ANDREA MICHELLE NONGKYNRIH      MRDE002   
+  202 MARD-117253574  1801        VERONICA NARTIANG               MRD004 MRD101 MRD103 MRDE002 MRDE003   
+                                                                  RDD06 RDD07     
+  203 MARD-117253581  1801        MARBIANGKI PASSAH               MRD004 MRD101 MRD103 MRDE002 MRDE003   
+                                                                  RDD06 RDD07     
+  204 MARD-117253740  1801        SHNALAD WANMI BAREH             MRD004 MRD103 MRDE101 RDD06     
+  205 MARD-117253836  1801        MARY JOANS KURBAH               MRDE003 RDD07     
+  206 MARD-117253843  1801        BADIANGHUN KHARLYNGKA           MRDE004 MRDE101 RDD07     
+  207 MARD-117253993  1801        BARIMON MUKHIM                  MRD102 RDD07     
+  208 BDP-117263851   1801        BATSKHEMBOR NONGLAIT            BEGE104 BEGE105 CTE03 CTE05 ECO08     
+                                                                  ECO09 EEC10     
+  209 BDP-117263909   1801        MOHAN SUNAR                     BEGE103 BEGE105 ESO11 FST01     
+  210 BDP-117264158   1801        DEIBIANG R SOHTUN               EPA05 EPA06 FST01     
+  211 BDP-117264283   1801        NISHA LYNGDOH                   ANC01 ERD01 ESO11 ESO13 ESO14     
+                                                                  ESO15 ESO16 FST01     
+  212 BDP-117265561   1801        RINITA NONGRUM                  EPS03 ESO12 FST01     
+  213 BDP-117265790   1801        LOFARLING KONGWANG              ACC01 BEGE101 ESO11 ESO15 ESO16     
+                                                                  FST01     
+  214 BDP-117266270   1801        EDWINA LYNGDOH                  ANC01     
+  215 BDP-117267748   1801        SUPARNA DEB                     ERD01     
+  216 BDP-117267960   1801        JUBANLAK PHAWA                  ACC01 ANC01 BEGE102 ESO15 ESO16     
+                                                                  FEG01 FEG02     
+  217 BDP-117267977   1801        POOJA THAPA                     BSHF101 EPS12 ESO11 FEG01 FEG02     
+  218 BDP-117268090   1801        NEETU SUNAR                     ERD01 FST01     
+  219 BDP-117268116   1801        WUNGREINGAM N KASHUNG           AMK01 AOM01 EEC14 ERD01 ESO12     
+                                                                  FST01     
+  220 BDP-117268417   1801        BASHISHALYNE S PHANRANG         BEGE103 CTE03 CTE05 ESO15 ESO16     
+  221 BDP-117268542   1801        SANTOSH CHANDRA HAJONG          ANC01     
+  222 BCA-117269419   1801        MAQBOOL KHARKRANG               BCS011 BCS031 BCS041 BCS042 BCSL013   
+                                                                  BCSL021 MCS011 MCS012 MCS014 MCS021 MCS023 MCS024    
+  223 BCA-117269465   1801        RUNNER MAXWELL WAHLANG          BCS011 BCS012 BCS031 BCS041 BCS042    
+                                                                  BCS051 BCS052 BCS053 BCSL022 BCSL045 BCSL063 FEG02 MCS011 MCS012 MCS021 MCS023    
+  224 BCA-117269505   1801        BANJOPHUN GASSAH                BCS011 BCS041 BCS042 BCS053 MCSL016   
+  225 BCA-117269734   1801        SAIRA VENITHA SANGMA            BCS011 BCS012 MCS011 MCS015    
+  226 BLS-117592289   1801        SHRAVAN KUMAR                   BLS05 BLS3P BLS4P     
+  227 BDP-117704332   1801        RAMSHANKAR BARMAN               EEG05 EHI02     
+  228 MARD-117704744  1801        DAKASHWA PACHIANG               RDD07     
+  229 MEG-117704934   1801        MANFRED E KURBAH                MEG01     
+  230 MEG-117704966   1801        SARITA SUNAR                    MEG02 MEG03     
+  231 MPA-118200900   1801        NAVLESH PRATAP                  MPA012 MPA014 MPA015    
+  232 MPS-120165452   1801        FAYAZ AHMAD SOFI                MED008 MPS001 MPSE001 MPSE004 MPSE005   
+                                                                  MPSE007   
+  233 MHD-121367238   1801        SUNIL KUMAR SINGH               MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  234 BDP-121915121   1801        MEENAKSHI THAPA                 AFW01 AWR01 BEGE104 CTE03 CTE04     
+                                                                  ESO15 FST01     
+  235 BDP-121915139   1801        MARIA DOMINICA SUTING           BEGE101 BEGE102 BEGE103 BEGE105   
+                                                                  BSWE004 FST01     
+  236 BDP-121915185   1801        BORNITA DEY                     ACC01 CTE04 ESO15 ESO16     
+  237 BDP-121915232   1801        SHUBHAM CHOUDHARY               FST01     
+  238 BDP-121915311   1801        CLEMENTINA I BANG               BEGE101 ESO13 ESO14 FST01     
+  239 BDP-121915493   1801        LEONARDO LYNGDOH                EPS03 EPS07 FST01     
+  240 BDP-121915690   1801        MEDRINA NONGBRI                 ANC01 BEGE104 BSWE004 ERD01 ESO15     
+  241 BTS-121916757   1801        DAMAPHISHA KINNER SOHTUN        AOM01 TS03 TS06 TS07      
+  242 BSW-121916954   1801        BYNTA MEAI LYNGWA               BSWE002 BSWE003 FST01     
+  243 BSW-121916961   1801        PETER PAUL RYNTATHIANG          BSWE003 BSWE005 BSWE006   
+  244 MCA-121917670   1801        EUSEBIA WANNIANG                MCS035 MCS041 MCS042 MCS043 MCSL036   
+                                                                  MCSL045   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    6
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1801                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  245 MCA-121917710   1801        PRETISHA M DIENGDOH             MCS014 MCS021 MCS041 MCS042 MCS043    
+                                                                  MCS052 MCSE011 MCSL054   
+  246 MCA-121917741   1801        KONTHOUJAM PRIYA DEVI           MCS011 MCS021 MCS041 MCSE003 MCSL054   
+  247 MEG-121919254   1801        BEAMMY MAWTHOH                  MEG04 MEG05 MEG07 MEG10 MEG11     
+  248 MHD-121919610   1801        AJIT PRATIM BORUAH              MHD05 MHD07     
+  249 MSW-121919863   1801        JOSHUA DANIEL SOHKHLET          MSW001 MSW005 MSW006    
+  250 MEC-121920338   1801        HABATHMULANG DKHAR              MEC001 MEC003 MECE003 MECE004   
+  251 MEC-121920360   1801        KOMALAVALLY O                   MEC002 MEC004 MEC005    
+  252 MPS-121921092   1801        RISTA KHONGTHAH                 MPS002 MPS003 MPS004    
+  253 MPS-121921433   1801        DEBJANI BHATTACHARJEE           MPS002 MPS003    
+  254 MSO-121921798   1801        MACHAMWANGBOU NEWMAI            MPS003 MSOE003   
+  255 MADE-121922474  1801        TODARISAIN PALE                 ES315 ES316 ES317 ES319     
+  256 BED-121922854   1801        DAIALYN KHARSYNNIANG            ES335     
+  257 BED-121922933   1801        RIAZ AHMED AZAD                 BESE065 BESE066   
+  258 BED-121923752   1801        WRIGHTMEGO  LYNGDOH             BESE065 BESE066 ES334 ES335 ES361     
+  259 DNA-121923791   1801        LORIS MARY SOHSHANG             BNS014    
+  260 DNA-121923824   1801        KYRSEIMON SOHTUN                BNS012    
+  261 DNA-121923831   1801        THEMHOIKIM SITLHOU              BNS013 BNS014    
+  262 DNA-121923870   1801        LAWANDA ISHISHA M BASAIAWMOIT   BNS012    
+  263 MP-121923910    1801        SHANBORLANG WARJRI              MS42 MS43 MS92      
+  264 MP-121923935    1801        CASSANDRA M SANGMA              MS09 MS10 MS11 MS41 MS42 MS43      
+                                                                  MS44 MS46 MS91 MS92 MS95      
+  265 MP-121923950    1801        E KYNTIEWLIN SUSNGI             MS41 MS46      
+  266 MP-121923967    1801        ANDREW SHABONG                  MS10 MS11 MS61      
+  267 MP-121924010    1801        BISHNU GNAWALI                  MS04 MS09 MS11 MS41 MS44 MS95      
+  268 MED-121924374   1801        BADALIN PYNGROPE                MES051 MES055    
+  269 MED-121924399   1801        MANA CORIANDA KHARHUNAI         MES051 MES052 MES053 MES054 MESE057   
+  270 BED-121925534   1801        MARPLINA RYNTATHIANG            BESE065 BESE066 ES331     
+  271 BED-121927047   1801        WANPLILINDA KHARHUNAI           ES331 ES332 ES333 ES343 ES344     
+  272 BED-121927180   1801        JULITA L LYNGKHOI               BESE065 BESE066 ES334 ES335 ES363     
+  273 BED-121927410   1801        BANNEHRITI M WARBAH             BESE065 BESE066 ES334     
+  274 BDP-121929857   1801        ANU CHETTRI                     BEGE101 BEGE103 BEGE105 BSHF101   
+                                                                  ESO11 FST01     
+  275 BDP-121930780   1801        HARDEEP KUMAR                   ACC01 BPSE212 ESO15 ESO16     
+  276 BDP-121930869   1801        KULDEEP SINGH                   ACC01 EPS09 EPS15 ESO12     
+  277 BDP-121930970   1801        DEVENDER CHAUHAN                BEGE104 BHDE107 BPAE102 CTE03     
+                                                                  CTE04     
+  278 BTS-122325186   1801        DOKATCHI K MARAK                AFW01 TS03 TS06 TS07      
+  279 MP-122486347    1801        SHARAD KUMAR KULSHRESHTHA       MS04 MS05 MS08 MS10 MS95      
+  280 BDP-125581058   1801        LAMJINGSHAI KHARMUJAI           BPAE102 BSHF101 EPA01 FEG01 FEG02     
+  281 BDP-125581176   1801        DEBONI M SANGMA                 ERD01 ESO13 ESO14 FST01     
+  282 BDP-125581366   1801        MELINDA LYNGDOH                 BECE002 EEC11 EPA04 FST01     
+  283 BDP-125581373   1801        SUMI DEB                        ERD01 ESO12 ESO14     
+  284 BDP-125582296   1801        ROSAMYSTICASOPHIA DKHAR         BEGE103 FEG02 FST01     
+  285 BDP-125582422   1801        HIMANI NATH                     ERD01 ESO13 ESO14 FST01     
+  286 BDP-125582810   1801        PARAMJEET SINGH                 ERD01 ESO14 FST01     
+  287 BDP-125583202   1801        WANBORLANG SYAD                 BEGE102 BSHF101 EPS11 FEG01     
+  288 BDP-125583542   1801        DEEPAK SAH                      EHD01 EHI04 FST01     
+  289 BDP-125583692   1801        SATYA PRAKASH                   EPA03 EPA04 ERD01     
+  290 BDP-125585166   1801        ROZI BARUA                      ERD01 FST01     
+  291 BDP-125586358   1801        SENGCHU RANGSHA MARAK           BSHF101 ESO11 ESO12 FEG01     
+  292 BDP-125586523   1801        ASUNTA BUHPHANG                 BEGE103 EPA04 EPS11 ERD01 ESO12     
+                                                                  FST01     
+  293 BDP-125586950   1801        MANOJ KR SHARMA                 EHI02 EHI07     
+  294 BDP-125586974   1801        JENNETH R DARNEI                BSHF101 BSWE004 EPA03 EPA04 ESO11     
+                                                                  ESO12 FST01     
+  295 BDP-125586981   1801        DARRYLYNE NONGRUM               BEGE102 BEGE103 FST01     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    7
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1801                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  296 BDP-125587002   1801        JEUSH R MARAK                   BSHF101 EPS11 EPS12     
+  297 BDP-125587407   1801        EVALYN DHAR                     BEGE101 ESO13 ESO14 FST01     
+  298 BDP-125587414   1801        DARIHUN KSHIAR                  BEGE103 BEGE105 FST01     
+  299 BDP-125587604   1801        LARICIA K JYRWA                 BEGE103 BEGE105 ESO12 FST01     
+  300 MP-125588090    1801        RAMANAND SHARMA                 MS55 MS57 MS91      
+  301 MP-125588108    1801        GAJENDER SINGH                  MS55 MS57 MS91      
+  302 MP-125588115    1801        VISHVAMBHAR NATH                MS55 MS57 MS91      
+  303 MP-125588122    1801        SUSHIL TRIPATHI                 MS55 MS57 MS91      
+  304 MP-125588130    1801        RAKESH R MARAK                  MS05 MS08 MS29 MS91      
+  305 MTM-125591557   1801        DARISHA L MAWPHLANG             MTM01 MTM05 MTM06 MTM09 MTM10     
+                                                                  MTM11 MTM12     
+  306 MTM-125591611   1801        AIKMENLANG DOHLING              TS03      
+  307 MTM-125591650   1801        KITBOKLANG SHYLLA               MTM09 MTM10 MTM11     
+  308 MTM-125591715   1801        EUGENIA W LAMO                  MTM05 MTM06 MTM07 MTM08     
+  309 MSW-125591983   1801        CLAUDIA JESSICA BAMON           MSW004 MSW006 MSW007 MSW008 MSW009    
+                                                                  MSWE001 MSWE002   
+  310 MSW-125592011   1801        AMANDA DEANNE LYNGDOH           MSW007 MSW008 MSW009 MSWE002 MSWE003   
+  311 MSW-125592043   1801        PYNHOI TANG                     MSW001 MSW003 MSW004 MSW006    
+  312 MSW-125592082   1801        RIBHALIN WARJRI                 MSW006 MSW007 MSW009 MSWE001   
+  313 MSW-125592090   1801        HABUNG OMO                      MSW009    
+  314 MSW-125592108   1801        BATSKHEMLANG CHYNE              MSW008 MSW009    
+  315 MSW-125592115   1801        NAYANTARA HAZARIKA              MSW005 MSW007 MSW009    
+  316 MSW-125592161   1801        KERCYLIVIA MAWLONG              MSW001 MSW005 MSW007 MSW009    
+  317 MSW-125592186   1801        SWEETY MERRY WANNIANG           MSW007 MSW008 MSW009    
+  318 MSW-125592193   1801        IBAKHAMKORDORSHISHA SYIEMLIEH   MSW007 MSW008 MSW009    
+  319 MSW-125592201   1801        SESSMEMORY LYNGDOH MARSHILLONG  MSW008 MSWE002   
+  320 PGDDM-125592280 1801        PRETTY C HMAR                   MPA007    
+  321 MAH-125592369   1801        HUNTORA DEORI                   MHI01 MHI03 MPSE003 MPSE004   
+  322 MAH-125592677   1801        SUFFICE G MOMIN                 MHI03 MHI04 MHI05 MHI06 MHI08     
+                                                                  MPSE003 MPSE004   
+  323 MAH-125592756   1801        H ABEL                          MHI03 MHI04 MHI05 MHI06 MHI08     
+                                                                  MPSE003 MPSE004   
+  324 MAH-125592835   1801        FRIDAY P SYNGKON                MHI02 MHI04     
+  325 MAH-125592899   1801        BALAKULARHUN MAWNAI             MHI03     
+  326 MAH-125592992   1801        SARITA PANDEY PRADHAN           MHI03 MHI04 MHI08     
+  327 MAH-125593163   1801        SHEMJINGSUK KHARBULI            MHI02     
+  328 MCA-125593686   1801        PHIDAMON DKHAR                  MCS041 MCS042 MCS043 MCSL025 MCSL045   
+  329 MCA-125593740   1801        PHYRNAI JUNE NONGKHLAW          CS60 MCS012 MCS013 MCS014 MCSL016   
+                                                                  MCSL017   
+  330 MCA-125593772   1801        SANDY OSMOND KHONGMAWPAT        MCS023 MCS031 MCS035 MCS041 MCS042    
+                                                                  MCS043 MCSL045   
+  331 BCA-125593812   1801        ANABELL B BUHROY                BCS011 ECO02 MCS011 MCS013 MCS023    
+  332 BDP-125594323   1801        SELINA L MYRTHONG               BEGE101 BEGE102 FST01     
+  333 BDP-125594799   1801        SURAJ TURHA                     BSWE004   
+  334 BDP-125594932   1801        OPHILASUK WANKHAR               BEGE103 BEGE105 EPS11 FST01     
+  335 BDP-125595626   1801        ARSON K MARAK                   EPS11 ESO13 ESO14 FST01     
+  336 BDP-125595776   1801        THERISIA SWER                   BSHF101 FEG02     
+  337 BDP-125595887   1801        SUPRIYA PAUL                    BSHF101 EEC11 FEG01 FEG02     
+  338 BDP-125596460   1801        K C VANLALNUNPUIA               ESO14 FST01     
+  339 BDP-125596477   1801        RAVI KUMAR                      FST01     
+  340 BDP-125596484   1801        KERLANG WARJRI                  BPAE102   
+  341 BDP-125596595   1801        WANPYRKHAT SUTONG               BEGE103 BEGE105 ESO11 FST01     
+  342 BDP-125596650   1801        HACHWAMIKY NONGSPUNG            BEGE101 BEGE103 BSHF101 FST01     
+  343 BDP-125597003   1801        MORIOUS L THABAH                BSHF101 ESO11 ESO12 FEG01     
+  344 BDP-125597898   1801        SUNIL D CHOUDHURY               ERD01 FST01     
+  345 BDP-125597913   1801        SIKANDAR KR RAJAK               BSHF101 BSWE004 EPS12 FST01     
+  346 BDP-125597938   1801        BIDHAN GHOSH                    FST01     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    8
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1801                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  347 BDP-125597960   1801        LEOTHRONY M MARAK               BSHF101 ESO12 FEG01     
+  348 BDP-125598090   1801        GENEVIEVE SOHTUN                BSHF101 ESO11 ESO12     
+  349 BDP-125598116   1801        SHILPI DAS                      BEGE102 BEGE103 EEC11 EPA04 ERD01     
+                                                                  FST01     
+  350 BDP-125598130   1801        FIRSTBORN KHONGWIR              BEGE103 BPY003 BPY004 EPS07 FST01     
+  351 BDP-125598162   1801        HESINLE TEP                     BEGE105 BEGE108 FST01     
+  352 BDP-125598194   1801        KENNETH L H DARNEI              BSWE004 EPA03 EPA04 FST01     
+  353 BDP-125598280   1801        RAHUL GURUNG                    EHI02 EHI03 FST01     
+  354 MAH-125599480   1801        WILINBOU NEWMEI                 MHI03 MHI06     
+  355 MSO-125599609   1801        DARIHUN SLONG                   MPS003 MSOE001 MSOE003 MSOE004   
+  356 MSO-125599616   1801        SONA SUNAR                      MPS003 MSOE004   
+  357 MSO-125599734   1801        SHABNAM PARVEEN                 MPS003    
+  358 MSO-125599773   1801        AMRITA CHETTRI                  MPS003    
+  359 MSO-125599806   1801        RAKHI RAY                       MPS003 MSOE001 MSOE003 MSOE004   
+  360 MSO-125599877   1801        SHIMTI DEB                      MSO002 MSO004    
+  361 MSO-125599884   1801        ZEBA HUSSAIN                    MSO002 MSO003    
+  362 MSO-125600086   1801        MAYORITA NONGKYNRIH             MSOE001 MSOE003   
+  363 MSO-125600387   1801        LAHUNLINA DKHAR                 MPS003    
+  364 MSO-125600410   1801        WANEBOR PASSAH                  MPA016 MPS003 MSOE001 MSOE004   
+  365 MSO-125600520   1801        BASUKLIN KHARLYNGDOH            MPA016 MPS003 MSO001 MSO003 MSOE001   
+                                                                  MSOE002   
+  366 MSO-125600750   1801        EMIKA WAR                       MPS003 MSOE001 MSOE003 MSOE004   
+  367 MSO-125600846   1801        GEETA RYMAL                     MPA016 MPS003 MSO003 MSOE001 MSOE004   
+  368 MSO-125601017   1801        NGURTHANSANGI SAILO             MSOE001   
+  369 MEG-125601894   1801        ANDREA JANE SUCHIANG            MEG01     
+  370 MEG-125601902   1801        IOHLAD BAMON                    MEG01 MEG05 MEG07     
+  371 MEG-125601934   1801        MOUMITA CHAKARBORTY             MEG05 MEG07 MEG14     
+  372 MEG-125601966   1801        WAHIDA AKTAR CHOUDHURY          MEG01 MEG02 MEG03 MEG04 MEG05     
+                                                                  MEG08 MEG10 MEG11     
+  373 MEG-125602001   1801        EVERYDIANT SYNDAI               MEG04 MEG05 MEG08 MEG10     
+  374 MEG-125602072   1801        MERCIFUL DHAR                   MEG01 MEG05 MEG06     
+  375 MEG-125602209   1801        USHA CHETTRI                    MEG05 MEG07 MEG10 MEG14     
+  376 MEG-125602248   1801        EUGINIA LALOO                   MEG03 MEG05 MEG06 MEG08 MEG11     
+  377 MEG-125602262   1801        PRATIMA RAI                     MEG05 MEG06 MEG08 MEG11     
+  378 MEG-125602366   1801        MRINAL KANTI CHAKRABORTY        MEG01 MEG06     
+  379 MEG-125602420   1801        AJUNGLA JAMIR                   MEG01 MEG04 MEG05 MEG06 MEG07     
+                                                                  MEG14     
+  380 MEG-125602642   1801        TARA DEVI SUNAR                 MEG05 MEG06     
+  381 MEG-125602792   1801        POOJA CHOUDHARY                 MEG05 MEG07     
+  382 MEG-125602904   1801        NICOLE LALMANGAIHI PARIAT       MEG05     
+  383 MEG-125602950   1801        BASANTA PRASAD                  MEG03 MEG04     
+  384 MEG-125603003   1801        JOPLIN SUCHIANG                 MEG05 MEG06 MEG07 MEG08     
+  385 MEG-125603146   1801        JAYA SHARMA                     MEG05 MEG10 MEG11     
+  386 MPS-125603597   1801        TOKETO ZHIMO                    MPS001 MPSE001 MPSE003 MPSE004 MPSE006   
+                                                                  MPSE007 MPSE011   
+  387 MPS-125603620   1801        CLARA BATSKHEM NONGHULOO        MED002 MED008 MPSE001 MPSE005 MPSE006   
+                                                                  MPSE007 MPSE008 MPSE009   
+  388 MSDFSM-1256040761801        BINOY KUMAR SUNAR               MFN004 MFN005 MFN007 MFN009    
+  389 MPS-125604400   1801        ANJUM KAUSAR                    MPS002 MPS004 MPSE001 MPSE002 MPSE003   
+                                                                  MPSE004 MPSE006 MPSE007 MPSE008 MPSE009   
+  390 MPS-125604463   1801        HMINGTHIENGHLIM HRANGATE        MPS001 MPS003 MPSE001 MPSE004 MPSE011   
+  391 MPS-125604488   1801        RICKY RYNJAH                    MPS002 MPS004    
+  392 MPS-125604510   1801        IOHDAHUN LYNGDOH                MED002 MED008 MPS003 MPSE001 MPSE003   
+                                                                  MPSE004 MPSE006 MPSE007 MPSE008   
+  393 MPS-125604535   1801        IBETBANSARA KHARMAWSHUN         MED008 MPSE001 MPSE002 MPSE003 MPSE004   
+                                                                  MPSE006 MPSE007   
+  394 MPS-125604542   1801        AIBANSUKLANG RANI               MED008 MPSE001 MPSE002 MPSE003 MPSE004   
+                                                                  MPSE006 MPSE007   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    9
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1801                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  395 MPS-125604875   1801        SUNITA JOSHI                    MED008 MPSE001 MPSE006 MPSE007 MPSE008   
+  396 MPS-125604882   1801        MOUSHUMI SHEEL                  MPS001 MPSE001   
+  397 MPS-125604922   1801        BAMONLANG M DKHAR               MED002 MED008 MPS001 MPS002 MPS004    
+                                                                  MPSE001 MPSE003 MPSE004 MPSE006 MPSE007 MPSE008   
+  398 MPS-125605282   1801        BASHISHA KHYNRIAM               MPS002    
+  399 MPS-125605290   1801        DASHISHA K KHYNRIAM             MPS002 MPS003    
+  400 MAH-126791425   1801        VISHANA RAM                     MHI03 MHI06 MHI08 MPSE003 MPSE004   
+  401 BDP-127294734   1801        SHER BAHADUR GURUNG             FST01     
+  402 BDP-127295729   1801        DIL BAHADUR SHIRIS              BEGE102 FEG01 FST01 MTE01 MTE05     
+  403 MSO-127329148   1801        BHARAT CHETTRI                  MPA016 MSOE001 MSOE003 MSOE004   
+  404 BDP-127490071   1801        ANKIT KUMAR MANDAL              EHD01 EHI03 EHI04 FST01     
+  405 BDP-127624224   1801        KAMLESH RAKHOLIYA               EHI01 EPA03 EPA04 FST01     
+  406 BDP-127624350   1801        BHUPENDRA KUMAR                 FST01     
+  407 MHD-127624650   1801        MANJU SHARMA                    MHD05     
+  408 MCOM-127692639  1801        MANISHA KHATRI                  MCO05     
+  409 MCOM-127692804  1801        PARITOSH KUMAR DAS              IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  410 MCOM-127693021  1801        TANUSHREE DUTTA                 MCO04     
+  411 MCOM-127693132  1801        BADASHISHA NONGSPUNG            IBO01 IBO06 MCO01 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+  412 MCOM-127693229  1801        ARPITA DAS                      IBO06 MCO01 MCO03 MCO04 MCO05     
+                                                                  MCO06 MCO07     
+  413 MCOM-127693308  1801        BIMLA CHETTRI                   MCO01 MCO03     
+  414 MCOM-127693315  1801        ARATI THAPA                     MCO01 MCO03 MCO05     
+  415 MCOM-127693361  1801        VIJAY KUMAR ROY                 MCO01 MCO03 MCO04 MCO05     
+  416 MCOM-127693670  1801        LILYMA LANONG                   MCO01 MCO03 MCO04     
+  417 MARD-127694166  1801        AGNES NONGBSAP                  MRD004 MRDE002 MRDE003 MRDE101 RDD06     
+                                                                  RDD07     
+  418 MARD-127694395  1801        KUNALIN K MARAK                 MRD004 MRD103 MRDE003 MRDE004 MRDE101   
+                                                                  RDD06 RDD07     
+  419 MARD-127694664  1801        MAYTALYNE SHADAP                MRD004 MRD103    
+  420 MARD-127694743  1801        WANDASHISHA KHARSATI            MRDE003 RDD07     
+  421 MARD-127694861  1801        JOHN ESSHWA PASSAH              MRD004 MRDE002 MRDE003 MRDE004 MRDE101   
+                                                                  RDD06     
+  422 MARD-127694879  1801        ANGELEEN KHARMAWSHUN            MRD004 MRDE002 MRDE004 RDD07     
+  423 MARD-127694886  1801        ALFAE DAYAN MARBANIANG          MRDE003 MRDE004 MRDE101 RDD06     
+                                                                  RDD07     
+  424 MARD-127694933  1801        BAIAKMENLANG SUMER              MRDE002 MRDE004 MRDE101 RDD06     
+                                                                  RDD07     
+  425 MARD-127695150  1801        M BEERSHEBA SUTNGA              MRDE002 MRDE003 MRDE004 MRDE101   
+                                                                  RDD06     
+  426 MARD-127695182  1801        ADELLA SHIMTI SYIEM             MRDE002 MRDE004 MRDE101 RDD06     
+                                                                  RDD07     
+  427 MARD-127695340  1801        KENINGSTAR NONGRUM              MRDE003 MRDE004 MRDE101 RDD06     
+                                                                  RDD07     
+  428 MEC-127695627   1801        NAZEEMA KHATUN                  MEC007 MEC009 MPA015    
+  429 MEC-127695641   1801        JOHN MARTIAS M SANGMA           MEC003 MEC008 MEC009 MECE001   
+  430 MEC-127695706   1801        KYRMENSKHEM RYNDEM              MEC001 MEC004 MEC009 MECE004   
+  431 MEC-127695738   1801        RIDALIN L MAWLONG               MEC003    
+  432 MEC-127695888   1801        ZION MUNGREI                    MEC006 MEC007 MEC008 MEC009 MECE001   
+                                                                  MECE003   
+  433 MEC-127696059   1801        ALLWINSTAR D SHIRA              MEC001 MEC002 MEC003 MEC004 MEC008    
+                                                                  MEC105    
+  434 MEC-127696098   1801        LASTLY WOOD KHARBULI            MEC002 MEC003    
+  435 MEC-127696138   1801        KOLANSTAR SONGTHIANG            MEC001 MEC002 MEC003 MEC004 MEC105    
+  436 MEC-127696145   1801        MOLINDA HINGE                   MEC001 MEC002 MEC003    
+  437 MPA-127696270   1801        PARAMVEER SINGH                 MPA015 MPA016 MPA017 MPA018 MPS003    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   10
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1801                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  438 MPA-127696342   1801        GAMALIYEL THOMAS                MPA015 MPS003    
+  439 MPA-127696446   1801        RAYMOND MYLLIEMPDAH             MPA011 MPA013 MPA015 MPS003    
+  440 MPA-127696500   1801        JOHN KERPHIDA MAJAW             MPA011 MPA012 MPA013 MPA014    
+  441 MPA-127696629   1801        AMANDA KHARDUIT                 MPS003    
+  442 MPA-127696650   1801        LH THONGKHOLEN KHONGSAI         MPA011 MPA013 MPA015 MPA016 MPA018    
+  443 MPA-127696675   1801        TANGTHAUH REANG                 MPA012 MPA013 MPA015 MSO002    
+  444 MPA-127696786   1801        ANDY G MOMIN                    MPA011 MPA012 MPA014    
+  445 BDP-127696990   1801        SENGMITH A SANGMA               BSHF101 ECO01 ECO02 EEC11 FEG01     
+                                                                  FEG02     
+  446 BDP-127697050   1801        ANAMIKA ROY                     ECO07 ECO12 ECO14 FST01     
+  447 BDP-127697122   1801        DINESH CHOUDHURY                ECO03 ECO05 ECO06 ECO07 ECO12     
+                                                                  ECO14 FEG02 FST01 MTE06     
+  448 BDP-127697161   1801        DAIAHUNLANG KHARSOHNOH          BSHF101 ECO05 ECO06 ECO07 ECO12     
+                                                                  ECO14 ESO12 FST01     
+  449 BDP-127697233   1801        D POLESTAR BT LYNGDOH           ECO14 FEG02 FST01     
+  450 BDP-127697312   1801        RAJESH KUMAR THAKUR             ECO05 FST01     
+  451 BDP-127697383   1801        SUBHANKAR LOHAR                 ECO03 ECO05 ECO07 ECO12 ECO13     
+                                                                  ECO14 FEG02 FST01     
+  452 BDP-127697620   1801        AKHLESH KR ROY                  BSHF101 CHE01 CHE04 CHE05 CHE06     
+                                                                  CHE09 FST01 PHE09 PHE15     
+  453 BTS-127697960   1801        IGNATIUS SOHSHANG               FST01 TS04 TS05      
+  454 BTS-127698131   1801        KYNTIEWLANG KHARJAHRIN          FST01 TS02 TS05      
+  455 BSW-127698418   1801        NURCENA M SANGMA                BSWE002 FST01     
+  456 BSW-127698511   1801        DIGROS D SHIRA                  BSHF101 BSWE001 FEG01 FEG02     
+  457 BLS-127698686   1801        ROYALDEVI RYNSHIANG             BLS01 BLS03 BLS04 BLS05 BLS06     
+                                                                  BLS3P     
+  458 MHD-127699309   1801        MAGDALINA LANGSTIEH             MHD01 MHD03 MHD05 MHD07 MHD13     
+                                                                  MHD14 MHD15 MHD16     
+  459 MHD-127699316   1801        BHARATI DEVI                    MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  460 MHD-127699330   1801        NAMITA SEN                      MHD01 MHD05 MHD07 MHD14 MHD15     
+  461 MHD-127699387   1801        DHARMENDRA K CHAUDHARI          MHD02 MHD03 MHD04 MHD06     
+  462 MHD-127699402   1801        KAUSALIA SHARMA                 MHD07     
+  463 MHD-127699410   1801        RAKHI SHARMA                    MHD01 MHD05     
+  464 MHD-127699427   1801        SUSMITA DAS                     MHD02 MHD03 MHD04 MHD06     
+  465 DAFE-127699656  1801        NICKIE K PAKYNTEIN              BFE101 BFE102 BFEE101 BFEE102 BFEE103   
+                                                                  BFEE104   
+  466 DAFE-127699670  1801        ARBILIAN DOHTDONG               BFE101 BFE102 BFEE101 BFEE102 BFEE103   
+                                                                  BFEE104   
+  467 MAEDU-128052936 1801        FOUNDSIFERR JOAN W KYLLA        MES041 MES042 MES043 MES044    
+  468 MAEDU-128052943 1801        BANRILANG RYNTONG               MES041 MES042 MES043 MES044    
+  469 BDP-128192175   1801        BRENDA SILGRIKME W.MOMIN        BEGE103 ESO11 ESO14 FST01     
+  470 BDP-130015506   1801        JAGDISH CHANDRA JOSHI           BPSE212 EPA03 EPS07 FST01     
+  471 BDP-130015591   1801        PRATAP SINGH BISHT              ESO12     
+  472 BDP-130015617   1801        BANBARI LAL                     EHI01 EHI04 EPS03 FST01     
+  473 BDP-130015624   1801        JAI PARKASH                     BSHF101 EHD02 EPS11 FEG01     
+  474 BDP-130033489   1801        HARIDAS SARKAR                  BSHF101 EHI01 FAS01 FEG01 MTE02     
+                                                                  MTE06     
+  475 BPP-130311852   1801        DIBISHON MALAI                  OMT101    
+  476 BPP-130312711   1801        PRIYA GHOSH                     PCO       
+  477 MAEDU-130313895 1801        GURPREET SINGH                  MES012 MES016    
+  478 MAEDU-130313910 1801        RANU BISWAS                     MES041 MES042 MES043 MES044    
+  479 MAEDU-130313928 1801        BANRILANG RYNGNGA               MES011 MES014 MES016    
+  480 MAEDU-130313935 1801        FLORA P LYNGDOH                 MES015 MES101 MES102 MES103 MES104    
+  481 MAEDU-130314002 1801        POONAM RAI                      MES101 MES102 MES103 MES104    
+  482 MAEDU-130314027 1801        MEILINA SHYLLA                  MES041 MES042 MES043 MES044    
+  483 DNA-130314145   1801        BARBARA BAMON                   BNS012 BNS014    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   11
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1801                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  484 DNA-130314184   1801        MANISH KUMAR MISHRA             BNS011 BNS012 BNS013 BNS014    
+  485 BED-130314374   1801        SANJANA KHONGSNI                BESE065 BESE066 ES334 ES335 ES363     
+  486 BED-130314414   1801        POOJA BISWA                     BESE065 BESE066 ES331 ES334 ES335     
+                                                                  ES362     
+  487 BED-130314421   1801        K SANJOY SINGHA                 BESE065 BESE066 ES334 ES335 ES363     
+  488 BED-130314439   1801        SHARLI SINHA                    BESE065 BESE066 ES334 ES335 ES361     
+  489 BED-130314453   1801        POMPI DAS                       ES331 ES332 ES333 ES342 ES344     
+  490 BED-130314478   1801        SANKER CHETTRI                  BESE065 BESE066 ES334 ES335 ES361     
+  491 BED-130314500   1801        INDRA SUNAR                     BESE065 BESE066 ES334 ES335 ES363     
+  492 BED-130314518   1801        RIDASHISHA L KHONGSNGI          BESE065 BESE066 ES334 ES335 ES363     
+  493 BED-130314564   1801        CHIBORDON N BAREH               BESE065 BESE066 ES334 ES335 ES363     
+  494 BED-130314589   1801        UTTAM BHATTACHARJEE             BESE065 BESE066 ES334 ES335 ES363     
+  495 BED-130314596   1801        GENTRY MARWEIN                  BESE065 BESE066 ES334 ES335 ES362     
+  496 BED-130314604   1801        KONGKA SUNGOH                   BESE065 BESE066 ES334 ES335 ES363     
+  497 MP-130314629    1801        JOSAPHIA WANKHAR                MS09      
+  498 MP-130314643    1801        JITENDRA KUMAR SHARMA           MS05 MS06 MS07 MS91 MS95      
+  499 MP-130314675    1801        RADHIKA THAPA                   MS06 MS07 MS08      
+  500 BCA-130314786   1801        VIVEK ANAND SINGH               ECO02 MCS011 MCS012 MCS014 MCS021    
+                                                                  MCS023    
+  501 BDP-130315351   1801        NGAITLANG SUTNGA                BPSE212 BSHF101 ESO13 ESO14 FST01     
+  502 BDP-130315369   1801        LEINIDAWAN SHULLET              BPSE212 ESO13 ESO14 FST01     
+  503 BDP-130315430   1801        SHINI M O                       BPY005 BPY008 BPYE001 BPYE002 EHI01     
+                                                                  FST01     
+  504 BDP-130315448   1801        SUSHMA SMITA SOREN              BPY005 BPY008 BPYE001 BPYE002 ESO11     
+                                                                  FST01     
+  505 BDP-130315510   1801        DESHRAJ SWAMI                   BEGE102 BEGE103 BEGE105   
+  506 BDP-130315652   1801        NAMJU A MARAK                   EHI04 EPS03 EPS11 FST01     
+  507 BDP-130316615   1801        NANDINI DAS                     BEGE101 BEGE102 BEGE103 BEGE105   
+                                                                  ESO11 FEG02 FST01     
+  508 BDP-130316654   1801        CHANCHAL DEVI                   EHD02 EHD03 EHD05 EHD06 FHD02     
+                                                                  FST01     
+  509 BDP-130317054   1801        TUMPA DAS                       BSHF101 EPS11 ESO12 FEG01 FEG02     
+  510 BDP-130317577   1801        MD SHANOOR LASKAR               BECE002 BECE214 BSWE005 FEG02     
+                                                                  FST01     
+  511 BDP-130318063   1801        YOGENDER SINGH                  BPAE102 BSHF101 EPA01 FEG01 FEG02     
+  512 BDP-130318103   1801        VERENA H MALNGIANG              BSWE004 FST01     
+  513 MSO-130318221   1801        RAJAN THAPA                     MPS003 MSOE001 MSOE003 MSOE004   
+  514 MSO-130318246   1801        METHILDA SYIEMIONG              MSO001 MSO002 MSO003 MSO004    
+  515 MSO-130318278   1801        SYLVANIA KHARPRAN               MPS003 MSO001 MSOE001 MSOE003 MSOE004   
+  516 MSO-130318285   1801        YASHMI NALO                     MPA016 MPS003 MSOE003 MSOE004   
+  517 MSO-130318404   1801        JERETH G LAMARE                 MPS003 MSOE001 MSOE003 MSOE004   
+  518 MSO-130318436   1801        FELIX D DKHAR                   MSO001 MSO002 MSO003 MSO004    
+  519 MSO-130318450   1801        LENITHA M SANGMA                MPS003 MSOE001 MSOE003 MSOE004   
+  520 MSO-130318490   1801        RINKU MANDAL                    MSO001 MSO002 MSO003 MSO004    
+  521 MSO-130318515   1801        SUNNY SAIGAL                    MSO001 MSO002 MSO003 MSO004    
+  522 MSO-130318522   1801        PROTIMA LANONG                  MSOE001 MSOE002 MSOE003 MSOE004   
+  523 MARD-130319065  1801        BANISHA M RYNDEM                MRDE002 MRDE003 MRDE004 MRDE101   
+                                                                  RDD06     
+  524 MARD-130319072  1801        DARIHUNLANG SOHKHLET            MRDE002 MRDE003 MRDE004 MRDE101   
+                                                                  RDD06     
+  525 MARD-130319120  1801        STOCKBORLANG MYNSONG            MRD004 MRD101 MRD102 MRD103    
+  526 MARD-130319137  1801        NONGRIBASHISHA M DKHAR          MRDE101 RDD07     
+  527 MEG-130319484   1801        SULTAN SINGH CHOUDHARY          MEG01 MEG02 MEG04     
+  528 MEG-130319721   1801        MARLENE G MYRBOH                MEG01 MEG03 MEG04     
+  529 MPS-130320006   1801        L GIN SUAN THANG                MPS001 MPS002 MPS003 MPSE001 MPSE002   
+                                                                  MPSE003 MPSE004 MPSE005 MPSE006 MPSE007 MPSE008   
+  530 MPS-130320267   1801        AGATHA G MOMIN                  MPSE001 MPSE003 MPSE004 MPSE006   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   12
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1801                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  531 MPS-130320314   1801        IBAHUNLANG KHARBUKI             MED002 MED008 MGPE010 MGPE011 MGPE013   
+                                                                  MPSE006 MPSE007 MPSE008   
+  532 MED-130320425   1801        MADONA BUDON                    MES054 MES055 MES056 MESE066   
+  533 MED-130320504   1801        ELIDITH BELONA MARBANIANG       MES053 MES054 MES055 MES056 MESE066   
+  534 MED-130320511   1801        LAKYNTIEWNAM MAWROH             MES055 MES056 MESE064   
+  535 MED-130320543   1801        PERINA DKHAR                    MES055 MES056 MESE067   
+  536 MAH-130320693   1801        ABRAHAM R MARAK                 MHI02 MHI04 MHI05     
+  537 MAH-130320883   1801        ONISHA DIENGDOH                 MHI05     
+  538 MAH-130320909   1801        SUMONA CHOUDHURY                MHI03 MHI06 MHI08 MPSE003 MPSE004   
+  539 MCOM-130321101  1801        ROMESH DKHAR                    MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  540 MCOM-130321220  1801        SUPARNA CHOUDHURY               MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  541 MEC-130321434   1801        ASHA MAHTO                      MEC001 MEC002 MEC003 MEC006 MEC007    
+                                                                  MEC008 MEC009 MPA015 MPA017    
+  542 MHD-130321624   1801        ASHA THAPA                      MHD01 MHD03 MHD05 MHD07 MHD13     
+                                                                  MHD14 MHD15 MHD16     
+  543 MHD-130321631   1801        SANJAY KUMAR GOUR               MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  544 MPA-130321846   1801        ALBERT MAWLONG                  MPA015 MPA016 MPA017 MPA018 MPS003    
+  545 MPA-130321853   1801        KAPLIANTHANG                    MPA015 MPA016 MPS003 MSO002    
+  546 MPA-130321885   1801        HABAMUTLANG LYNGDOH             MPA011 MPA012 MPA013 MPA014    
+  547 BDP-130322214   1801        ADELBERT M KHARMIH              BECE002 BSHF101 ECO01 ECO02 ECO03     
+                                                                  ECO05 ECO06 ECO07 ECO12 ECO14 FST01     
+  548 BLS-130322475   1801        LAVINIA KHONGSIT                BLS05     
+  549 PGDT-130322626  1801        DEVENDRA SINGH                  PGDT01 PGDT02 PGDT03 PGDT04    
+  550 MTM-130322672   1801        KENNETH B KHARSYNTIEW           MTM03 MTM05 MTM06 MTM07 MTM08     
+  551 PGDESD-1303228301801        BRINDA B K RYMBAI               MED002 MED004 MED006 MED007    
+  552 BED-130322959   1801        SANJIB SENAPATI                 BESE065 BESE066 ES331 ES334 ES335     
+                                                                  ES363     
+  553 BED-130322966   1801        RINKU CHANDA                    BESE065 BESE066 ES334 ES335 ES363     
+  554 BED-130322973   1801        BAIAHUNLANG SOHLANG             BESE065 BESE066 ES331 ES334 ES335     
+                                                                  ES363     
+  555 BED-130323019   1801        JUDICIA KYNTIEWLIN LANONG       BESE065 BESE066 ES334 ES335 ES363     
+  556 BED-130323026   1801        BARIJUBAN GIRI                  BESE065 BESE066 ES334 ES335 ES362     
+  557 BED-130323033   1801        DEVIANA SYIEM                   BESE065 BESE066 ES334 ES335 ES363     
+  558 BED-130323040   1801        SEJUTI SARKHEL                  BESE065 BESE066 ES334 ES335 ES362     
+  559 BED-130323058   1801        BIZORA LAWAI                    BESE065 BESE066 ES334 ES335 ES363     
+  560 BED-130323065   1801        MARYLIN MAWTHOH                 BESE065 BESE066 ES331 ES334 ES335     
+                                                                  ES343 ES363     
+  561 BED-130323097   1801        RUNA A CHOUDHURY                BESE065 BESE066 ES334 ES335 ES363     
+  562 BED-130323120   1801        PAULA PAKYNTEIN                 BESE065 BESE066 ES334 ES335 ES363     
+  563 BED-130323137   1801        TROMILA KHRIAM                  BESE065 BESE066 ES334 ES335 ES363     
+  564 BED-130323169   1801        LAWEIBAKMEN SAWIAN              BESE065 BESE066 ES334 ES335 ES363     
+  565 BED-130323183   1801        NANCY M JYRWA                   BESE065 BESE066 ES334 ES335 ES363     
+  566 BED-130323248   1801        EMIKA MYRBOH                    BESE065 BESE066 ES334 ES335 ES363     
+  567 BED-130323255   1801        INDRAROI JYRWA                  BESE065 BESE066 ES334 ES335 ES363     
+  568 BED-130323270   1801        SAMELY MECA KHARKONGOR          BESE065 BESE066 ES331 ES334 ES335     
+                                                                  ES363     
+  569 BED-130323334   1801        SANGITA MOHANTA                 BESE065 BESE066 ES334 ES335 ES362     
+  570 BED-130323380   1801        GRACEFUL KHONGLAH               BESE065 BESE066 ES331 ES332 ES333     
+                                                                  ES334 ES335 ES343 ES344 ES363     
+  571 BED-130323413   1801        LUCIANA LYNGDOH                 BESE065 BESE066 ES334 ES335 ES363     
+  572 BED-130323438   1801        TERINA NONGDHAR                 BESE065 BESE066 ES331 ES334 ES335     
+                                                                  ES363     
+  573 BED-130323445   1801        PEACEFUL M KHONGWIR             BESE065 BESE066 ES334 ES335 ES363     
+  574 BED-130323460   1801        CLARALINDA KHARMALKI            BESE065 BESE066 ES334 ES335 ES341     
+                                                                  ES363     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   13
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1801                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  575 BED-130323477   1801        JULIANA THANGKHIEW              BESE065 BESE066 ES332 ES333 ES334     
+                                                                  ES335 ES363     
+  576 BED-130323517   1801        MERYLYNE MAJAW                  BESE065 BESE066 ES334 ES335 ES363     
+  577 BED-130323524   1801        DAKYNTHUP S KHONGLAM            BESE065 BESE066 ES331 ES334 ES335     
+                                                                  ES363     
+  578 BED-130323549   1801        DARITI SOHKHLET                 BESE065 BESE066 ES334 ES335 ES362     
+  579 BED-130323563   1801        SHANSUK THABAH                  BESE065 BESE066 ES334 ES335 ES363     
+  580 BED-130323570   1801        SOUGRAKPAM TIKENDRAJIT SINGH    BESE065 BESE066 ES334 ES335 ES362     
+  581 BED-130323588   1801        LILY BHANDARI                   BESE065 BESE066 ES333 ES334 ES335     
+                                                                  ES362     
+  582 BED-130323603   1801        ELOUZA D MARBANIANG             BESE065 BESE066 ES334 ES335 ES363     
+  583 BED-130323610   1801        ROCKY DOHTDONG                  BESE065 BESE066 ES334 ES335 ES364     
+  584 BED-130323628   1801        CLARA LYNGDOH                   BESE065 BESE066 ES334 ES335 ES363     
+  585 BED-130323635   1801        LHILHING MATE                   BESE065 BESE066 ES334 ES335 ES363     
+  586 BED-130323721   1801        ALISA H MYRTHONG                BESE065 BESE066 ES334 ES335 ES363     
+  587 BED-130323760   1801        ROBERT A LYNDEM                 BESE065 BESE066 ES331 ES332 ES333     
+                                                                  ES334 ES335 ES343 ES344 ES363     
+  588 BED-130323864   1801        SAROJ RAWAT                     BESE065 BESE066 ES331 ES333 ES334     
+                                                                  ES335 ES362     
+  589 BED-130323871   1801        UMESH C MOHANTA                 BESE065 BESE066 ES334 ES335 ES362     
+  590 BED-130323929   1801        KYRSHANLANG NONGBRI             BESE065 BESE066 ES331 ES334 ES335     
+                                                                  ES363     
+  591 BED-130323982   1801        LAVINIA MAGRITTA KHARKONGOR     BESE065 BESE066 ES331 ES334 ES335     
+                                                                  ES343 ES363     
+  592 BED-130324139   1801        NEETU M TARIANG                 BESE065 BESE066 ES334 ES335 ES363     
+  593 BED-130324311   1801        CHARLES M LYNGDOH               BESE065 BESE066 ES334 ES335 ES362     
+  594 BED-130324336   1801        MAWLYNNAI B KHARKONGOR          BESE065 BESE066 ES334 ES335 ES361     
+  595 BED-130324415   1801        MOHAMMAD JUNAID                 BESE065 BESE066 ES334 ES335 ES361     
+  596 BED-130324422   1801        LARRYCIA KHONGSIT               BESE065 BESE066 ES331 ES332 ES334     
+                                                                  ES335 ES361     
+  597 BED-130324430   1801        DOMINICA M NONGRUM              BESE065 BESE066 ES334 ES335 ES363     
+  598 BED-130324447   1801        BLOSTER RAMSIEJ                 BESE065 BESE066 ES334 ES335 ES361     
+  599 BED-130324461   1801        IAHUNLANG NONGKHLAW             BESE065 BESE066 ES334 ES335 ES363     
+  600 BED-130324479   1801        MELISA MAREEN MALNGIANG         BESE065 BESE066 ES334 ES335 ES363     
+  601 BED-130324486   1801        RUPALINDA KHARPRAN              BESE065 BESE066 ES333 ES334 ES335     
+                                                                  ES343 ES363     
+  602 BED-130324565   1801        MANISH KUMAR MISHRA             BESE065 BESE066 ES331 ES332 ES333     
+                                                                  ES334 ES335 ES341 ES342 ES362     
+  603 BED-130324572   1801        SANJIB KR BHATTACHARJEE         BESE065 BESE066 ES334 ES335 ES361     
+  604 BED-130324612   1801        MIN BAHADUR CHETTRI             ES331     
+  605 BED-130324620   1801        FLORA WAHLANG                   BESE065 BESE066 ES334 ES335 ES363     
+  606 MAPC-130536901  1801        ELSA SERENIA DKHAR              MPC004 MPC005 MPCL007   
+  607 BDP-131072530   1801        GEETA RAJAK                     BECE214 BSHF101 BSWE004 EPA03     
+                                                                  FEG01 FST01     
+  608 MEC-131449350   1801        SANJIT SHARMA                   MEC001 MEC002 MEC004    
+  609 BDP-131538377   1801        RELINGTON THOO                  BPSE212 BSHF101 EEC11 FEG02     
+  610 BDP-131538836   1801        ESUKLANG DKHAR                  BSHF101 ESO11 ESO12 FEG01 FEG02     
+  611 BSW-131539157   1801        ROMIAL CHAKMA                   BSWE002 BSWE004 FEG02 FST01     
+  612 BSW-131539211   1801        SHANKI KSIH                     BSWE002 BSWE004 FST01     
+  613 BDP-131539243   1801        PRASHANT SUNAR                  BECE002 BSHF101 ECO01 ECO02 FEG01     
+                                                                  FEG02     
+  614 BDP-131539250   1801        RAM BABU DAS                    ECO03 ECO05 ECO07 ECO12 ECO13     
+                                                                  ECO14 FST01     
+  615 BDP-131571719   1801        LALIT SUDEN                     BSHF101 EHD01 EHD03 ESO11 ESO12     
+                                                                  ESO14 FST01     
+  616 BDP-131572054   1801        UTTAM KUMAR BITT                BSWE004 EPA03 FST01     
+  617 MSO-131572093   1801        SONIA KHAJURIA                  MPS003 MSOE001 MSOE003 MSOE004   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   14
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1801                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  618 BDP-131631839   1801        AMRESH SHARMA                   BSHF101 ESO11 ESO12 FEG01 FEG02     
+  619 BSCN-131919845  1801        CHRISTINA HMANGTE               BNS106 BNS107 BNS108    
+  620 MEG-136058880   1801        POONAM KUMARI                   MEG01 MEG02 MEG03 MEG04     
+  621 MEC-136517391   1801        RAGHU CHANDEL                   MEC003    
+  622 PGDDM-136517417 1801        RITU THAPA                      MED004    
+  623 PGDDM-136517424 1801        JIT BAHADUR CHHETRI             MED004    
+  624 BPP-136614954   1801        AJAY KUMAR                      OMT101 PCO       
+  625 BPP-136616206   1801        PRIYA B SWER                    OSS101 PCO       
+  626 BPP-136617215   1801        RAJU ROUGPE                     PCO       
+  627 BPP-136617523   1801        CIMILIA DONNA THONGNI           OSS101    
+  628 BPP-136618310   1801        MUKESH K THAKUR                 OSS101 PCO       
+  629 BPP-136618682   1801        ABHIJIT DEB                     OSS101 PCO       
+  630 BPP-136619272   1801        DOLLY RONGPI                    PCO       
+  631 BPP-136619297   1801        RENU THAPA                      PCO       
+  632 BPP-136619842   1801        SIONAL THANGKHIEW               PCO       
+  633 BPP-136620919   1801        PRIYA BISWA                     OSS101    
+  634 BDP-136625814   1801        MOUSHUMI DHAR                   FEG01 FEG02     
+  635 BDP-136625932   1801        RESHMI MOJUMDAR                 ESO11 ESO12     
+  636 BDP-136625940   1801        FIDALIN LYNGKHOI                BEGE101 BSHF101 FEG01 FEG02     
+  637 BDP-136625989   1801        RINHOR VASHUM                   BEGE101 BPAE102   
+  638 BDP-136626024   1801        WANLAMPHRANG NONGKHLAW          BECE002 BSHF101 EEC11 FEG01 FEG02     
+  639 BDP-136626318   1801        JOSEPHINE DKHAR                 BSHF101 FEG01 FEG02     
+  640 BDP-136626325   1801        DEIVINA SUTNGA                  BSHF101   
+  641 BDP-136626340   1801        ANTHONIA LAKRA                  BSHF101   
+  642 BDP-136626633   1801        KENETH S SANGMA                 BEGE101 BEGE102 BSHF101 FEG01     
+                                                                  FEG02     
+  643 BDP-136626658   1801        DONBOKLANG KHARPOR              EPS11     
+  644 BDP-136626744   1801        AVREEN LYNGDOH MAWLIEH          BSHF101 ESO11 ESO12 FEG01 FEG02     
+  645 BDP-136626790   1801        MADHUMITA KUMARI                BSHF101 ESO11 ESO12 FEG01 FEG02     
+  646 BDP-136626894   1801        SUJATA GURUNG THAPA             ESO11 ESO12     
+  647 BDP-136627420   1801        DIL BISWAKARMA                  BSHF101 ERD01 FEG01     
+  648 BDP-136627699   1801        BRONSON VAI RANGLONG            BSHF101 FEG02     
+  649 BDP-136628099   1801        VINICI LALNUNPUIA DARLONG       BSHF101 EPS11 ESO12     
+  650 BDP-136628375   1801        BARBARA NONGKSEH                BSHF101 FEG02     
+  651 BDP-136628382   1801        RIHUNLANG MUTHOH                FEG01 FEG02     
+  652 BDP-136628479   1801        DULALI SARKAR                   FEG01 FEG02     
+  653 BDP-136628519   1801        S K HASIM                       BPAE102 EPA01     
+  654 BDP-136628620   1801        RAHUL JOSHI                     BSHF101   
+  655 BDP-136628787   1801        SHILPA PUN                      FEG01 FEG02     
+  656 BDP-136628920   1801        AMAR BAHADUR THAPA              BECE002 BSHF101 EEC11 FEG01 FEG02     
+  657 BDP-136628938   1801        SANIJAIJAI MARBANIANG           BSHF101 EHI02     
+  658 BDP-136628945   1801        VIJENDRA SINGH DHAKA            ESO11 ESO12     
+  659 BDP-136629377   1801        GAUROV LIMBU                    BEGE101   
+  660 BDP-136629789   1801        SEIMINTHANG                     FEG02     
+  661 BDP-136630031   1801        SANJEEV S SANGMA                EEC11     
+  662 BDP-136630246   1801        RITU SINGH                      BSHF101 EPS11 ESO12 FEG01 FEG02     
+  663 BDP-136630490   1801        SUMAN DEY                       BSHF101 ESO12     
+  664 BDP-136631080   1801        MONIKA NONGPLUH                 BEGE101   
+  665 BDP-136631105   1801        REETA B KHARPRAN                BPSE212 BSHF101 EPA01 FEG01 FEG02     
+  666 BDP-136631230   1801        WAHENGBAM ROHIT KUMAR SINGH     ESO11 ESO12 FEG02     
+  667 BDP-136631334   1801        GAVIN MARSH MUKHIM              BSHF101 EPS11 ESO12     
+  668 BDP-136631341   1801        NIRUPA KHARKONGOR               BSHF101   
+  669 BDP-136634204   1801        LALBOI SINGSON                  EHI02     
+  670 BDP-136634236   1801        SHAMIM                          BPAE102 BSHF101 EPA01 FEG01     
+  671 BDP-136634505   1801        PILLAR STONE TARIANG            EHI01 EHI02     
+  672 BDP-136634616   1801        SAINO SADANANDAN K S            BEGE101 BEGE102 BSHF101 FEG01     
+                                                                  FEG02     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   15
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1801                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  673 BDP-136634766   1801        MARK D SANGMA                   BEGE101   
+  674 BDP-136634949   1801        NORITINA BUHPHANG               BEGE101 FEG01 FEG02     
+  675 BDP-136635023   1801        BIPLOB PAUL                     EEC11     
+  676 BDP-136635070   1801        DURGESH PANDIT                  BSHF101 ECO01 EEC11     
+  677 BDP-136635110   1801        KHUSHBOO GUPTA                  BSHF101 ECO01 ECO02 EEC11 FEG01     
+                                                                  FEG02     
+  678 BDP-136635127   1801        TRESSA GUPTA                    BSHF101 ECO01 ECO02 EEC11 FEG01     
+                                                                  FEG02     
+  679 BDP-136635166   1801        DEARLESSTAR L PEINLANG          ECO01 ECO02 EEC11 FEG02     
+  680 BDP-136635206   1801        JOYDEEP GHOSH                   BSHF101 EEC11     
+  681 BDP-136635238   1801        KISHAN KR SARKI                 EEC11     
+  682 BDP-136635428   1801        SAMIR SUNAR                     BEGE102 BSHF101 ECO01 ECO02 FEG01     
+                                                                  FEG02     
+  683 BDP-136635442   1801        MINAKSHI DAS                    BSHF101 EEC11 FEG01 FEG02 FST01     
+  684 BDP-136635514   1801        LALI PUN                        ECO01 FEG01 FEG02 FST01     
+  685 BDP-136635585   1801        BISWAJIT CHANDA                 BSHF101 ECO01 ECO02 FEG01 FEG02     
+  686 MEC-136635980   1801        LONNA NONGSIEJ                  MEC001 MEC004 MEC105    
+  687 MEC-136636168   1801        DAPMAIN T MAWRIE                MEC002 MEC004 MEC105    
+  688 MEC-136636476   1801        SITA THAPA                      MEC002 MEC003 MEC004 MEC105    
+  689 MEC-136636610   1801        BARMIN DKHAR                    MEC001 MEC002 MEC003 MEC004    
+  690 MEC-136636666   1801        REMEMBER SHULLET                MEC001 MEC002 MEC003 MEC004    
+  691 MEC-136636673   1801        NANCY BARUA                     MEC002 MEC004 MEC105    
+  692 MEC-136636698   1801        KYNTIEWBORLANG L NONGRANG       MEC002 MEC004 MEC105    
+  693 MEC-136636713   1801        CARYSON KHARKONGOR              MEC002 MEC004 MEC105    
+  694 MEC-136636888   1801        PHIBANPYNBIANG DOHLING          MEC001 MEC002 MEC003 MEC004 MEC105    
+  695 MEC-136636895   1801        GOPAL SHARMA                    MEC001 MEC002 MEC003 MEC004 MEC105    
+  696 MARD-136637002  1801        KHAMBOK STAR RYNTATHIANG        MRD004 MRD101 MRD102 MRD103    
+  697 MARD-136637138  1801        ROLAND PYNSANKI KYNDIAH         MRD004 MRD101 MRD103    
+  698 MARD-136637399  1801        BIVIANA LYNDEM                  MRD004 MRD101 MRD102 MRD103    
+  699 MARD-136637518  1801        PYNDAPBIANG M SYIEM             MRD004 MRD101 MRD102 MRD103    
+  700 MARD-136637540  1801        ILENE M PAILA                   MRD004 MRD101 MRD102 MRD103    
+  701 MARD-136637650  1801        FORMOSTAR KHONGSHUN             MRD004    
+  702 MARD-136637675  1801        PHIRAP SURONG                   MRD004 MRD101 MRD102 MRD103    
+  703 MARD-136637722  1801        MERCY FULLY KHARBUKI            MRD101 MRD103    
+  704 MARD-136637761  1801        MEDARISHISHA SOHTUN             MRD004 MRD101 MRD102 MRD103    
+  705 MARD-136637872  1801        DECIAMI D LAMIN                 MRD004    
+  706 MARD-136637912  1801        TRUE SHYLLA                     MRD004 MRD101 MRD102 MRD103    
+  707 MARD-136637983  1801        KITBOKLANG MATLAI               MRD101 MRD102 MRD103    
+  708 MARD-136638115  1801        RICHARD MARING                  MRD004 MRD103    
+  709 MAH-136638147   1801        ELBINA THANGKHIEW               MHI01 MHI02 MHI04 MHI05     
+  710 MAH-136638201   1801        CORBANSTAR NONGSIEJ             MHI01 MHI02 MHI04 MHI05     
+  711 MAH-136638265   1801        BARBARA G S MALNGAING           MHI01 MHI04     
+  712 MAH-136638383   1801        GEONA DKHAR                     MHI01 MHI02 MHI04 MHI05     
+  713 MAH-136638462   1801        RIOLAN LAWAI                    MHI01 MHI02 MHI04 MHI05     
+  714 MAH-136638470   1801        PINKY DUTTA                     MHI04 MHI05     
+  715 MAH-136638487   1801        RINA VICTORIA NONGRUM           MHI01 MHI02 MHI04 MHI05     
+  716 MAH-136638527   1801        POMPY DEB                       MHI01 MHI02 MHI04 MHI05     
+  717 MAH-136638566   1801        H RIMIKY NONGPLUH               MHI01 MHI02 MHI04 MHI05     
+  718 MAH-136638573   1801        ASHISH RANJAN RAI               MHI01 MHI02 MHI04 MHI05     
+  719 MAH-136638580   1801        GRIMRA A SANGMA                 MHI01 MHI02 MHI04 MHI05     
+  720 MAH-136638691   1801        GENEVIEVE SHANGDIAR             MHI01 MHI04 MHI05     
+  721 MAH-136638756   1801        JEFFREY E DARNEI                MHI01 MHI02 MHI04 MHI05     
+  722 MAH-136638828   1801        APPLERICA MARY L NONGBSAP       MHI01 MHI02 MHI04 MHI05     
+  723 MAH-136638835   1801        JELINA RYNTATHIANG              MHI01 MHI02 MHI05     
+  724 MAH-136638842   1801        CORNESWELL NONGRANG             MHI01     
+  725 MAH-136638953   1801        C GENEVIEVE                     MHI01 MHI02 MHI04 MHI05     
+  726 MAH-136638960   1801        DARWIN LALMINGTHANG DARNEI      MHI01     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   16
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1801                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  727 MAH-136639006   1801        STEFERDWELL RYNJAH              MHI05     
+  728 MAH-136639038   1801        SHILARITY MAIROM                MHI01 MHI02 MHI04 MHI05     
+  729 MEG-136639400   1801        JEZREEL INRILYN RYNJAH          MEG01 MEG02     
+  730 MEG-136639679   1801        RELITA P LYNGDOH TALANG         MEG01 MEG02 MEG04     
+  731 MEG-136639758   1801        RICKY VINCENT SAWIAN            MEG01 MEG02     
+  732 MEG-136640319   1801        BANTY T SUCHIANG                MEG03     
+  733 MEG-136640365   1801        RODY TINGTHIANLEM               MEG01 MEG02 MEG03 MEG04     
+  734 MEG-136640380   1801        MEMORIALDA MEMO DYKES           MEG01 MEG02 MEG03 MEG04     
+  735 MEG-136640412   1801        MRIDULA BONIK                   MEG02 MEG03     
+  736 MEG-136640469   1801        THOIBINA RAMSIEJ                MEG01 MEG04     
+  737 MEG-136640530   1801        CATHERINE V DIENGDOH            MEG03 MEG04     
+  738 MEG-136640610   1801        SHAPHRANGSTAR L KHARKONGOR      MEG02 MEG03 MEG04     
+  739 MEG-136640673   1801        APARNA ROY                      MEG01 MEG02     
+  740 MEG-136640698   1801        SHABNAM PHUKAN                  MEG03 MEG04     
+  741 MCOM-136640849  1801        ROSHNI BISWA                    IBO01 IBO05 IBO06     
+  742 MCOM-136640935  1801        KHALIQUEZZAMAN KHAN TAREEN      IBO02 IBO03     
+  743 MCOM-136641002  1801        LESLEY SHANGPLIANG              IBO02 IBO03     
+  744 MCOM-136641200  1801        SABINA LIMBU                    IBO02 IBO03 IBO06     
+  745 MCOM-136641310  1801        EVASHISHA RYNJAH                IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  746 MCOM-136641439  1801        SARASWATT SUNAR                 IBO01 IBO02 IBO03 IBO06     
+  747 MCOM-136641518  1801        FELICTY MARBANIANG              IBO02 IBO03 IBO04 IBO05 IBO06     
+  748 MCOM-136641525  1801        RIKYNTI S KURBAH                IBO02 IBO03 IBO04 IBO05 IBO06     
+  749 MCOM-136641668  1801        RIDAPLANG L KHONGSTIA           IBO04 IBO05 IBO06     
+  750 MPA-136641793   1801        RAJESHWAR PRASAD                MPA011 MPA012 MPA013 MPA014    
+  751 MPA-136641840   1801        HIMANSHU KUMAR                  MPA012    
+  752 MPA-136641858   1801        SHILLA DEVI HAJONG              MPA011 MPA012 MPA013 MPA014    
+  753 MPA-136641944   1801        BAKMENLANG L NONGPLUH           MPA011 MPA012 MPA013 MPA014    
+  754 MPA-136642090   1801        ZIZIBEL K SANGMA                MPA011 MPA012 MPA013 MPA014    
+  755 MPA-136642108   1801        WICKHY K MARAK                  MPA012 MPA014    
+  756 MPA-136642147   1801        BOYJOHN HAOKIP                  MPA012    
+  757 MPA-136642154   1801        DAIAKMENSHISHA R LYNGDOH        MPA011 MPA012 MPA013 MPA014    
+  758 MPA-136642186   1801        BALASANTI SOHKHLET              MPA011 MPA012 MPA013 MPA014    
+  759 MPA-136642226   1801        BALAMBOKLANG KHARMALKI          MPA012    
+  760 MPS-136642724   1801        ROBIN SHANGPLIANG               MPS001 MPS002 MPS003 MPS004    
+  761 MPS-136642756   1801        SOMIRIN VASHUM                  MPS001 MPS002 MPS003 MPS004    
+  762 MPS-136642763   1801        CATHERINE SUTNGA                MPS001    
+  763 MPS-136642867   1801        DONNA NONGSIEJ                  MPS001 MPS002    
+  764 MPS-136643060   1801        SEDRINGSTAR MAKDOH              MPS002 MPS003    
+  765 MPS-136643124   1801        ALLAN D ROBERT SNAITANG         MPS001 MPS002 MPS003 MPS004    
+  766 MPS-136643575   1801        NGILONG RAJA TANGHA             MPS002    
+  767 MPS-136643582   1801        RIBEN KHONGLAH                  MPS001 MPS002 MPS003 MPS004    
+  768 MPS-136643820   1801        KRISME KANAI                    MPS002 MPS003 MPS004    
+  769 MPS-136643948   1801        HELPSON KH                      MPS002    
+  770 MPS-136643955   1801        MOAINLA JAMIR                   MPS001 MPS002 MPS003 MPS004    
+  771 MPS-136644008   1801        RELLINA SANGMA                  MPS001 MPS002 MPS003 MPS004    
+  772 MPS-136644133   1801        MARSILLINA D SHIRA              MPS001    
+  773 MSO-136644520   1801        ELMOLIN MARWEIN                 MSO001 MSO002 MSO003 MSO004    
+  774 MSO-136644663   1801        M BUMRENGLIN                    MSO001 MSO002 MSO003 MSO004    
+  775 MSO-136644814   1801        JOSEPH LALRAMLAWMA              MSO001 MSO002 MSO003 MSO004    
+  776 MSO-136644892   1801        MONIMA DEKA                     MSO002 MSO004    
+  777 MSO-136645017   1801        GENEVIEVE NGASAINAO             MSO001 MSO002 MSO003 MSO004    
+  778 MSO-136645246   1801        EASTERNROSE AHUMNAO             MSO001 MSO002    
+  779 MSO-136645260   1801        JOY MARY NONGKROT               MSO001 MSO002 MSO003 MSO004    
+  780 MSO-136645292   1801        CHUGAM R CH MARAK               MSO001 MSO003    
+  781 MAEDU-136645364 1801        GELTRUDIS MUKHIM                MES011 MES012 MES013 MES014 MES015    
+                                                                  MES016    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   17
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1801                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  782 MAEDU-136645404 1801        SHIRTA LAW                      MES012 MES014 MES016    
+  783 MAEDU-136645429 1801        KMENLANG STEN                   MES012 MES015 MES016    
+  784 MAEDU-136645443 1801        SUNITA WARJRI                   MES011 MES012 MES013    
+  785 MAEDU-136645450 1801        MAILIBON DOHLING                MES011 MES012 MES013 MES014 MES015    
+                                                                  MES016    
+  786 MAEDU-136645482 1801        RADHA THAPA                     MES011 MES012 MES013 MES014 MES015    
+                                                                  MES016    
+  787 MAEDU-136645490 1801        JENNIFER KHONGWAR               MES013 MES014 MES015    
+  788 MAEDU-136645554 1801        FASTMELA G GASHNGA              MES015 MES016    
+  789 MAEDU-136645640 1801        CHANDRA CHOUDHURY               MES011 MES012    
+  790 MAEDU-136645658 1801        SARINA THAPA                    MES012 MES013 MES015    
+  791 MAEDU-136645665 1801        FIDELITINA DHAR                 MES013 MES014 MES015    
+  792 MAEDU-136645672 1801        JASMINE N SANGMA                MES015 MES016    
+  793 MAEDU-136645680 1801        MOUMITA GHOSE                   MES011 MES012 MES013 MES014    
+  794 MAEDU-136645697 1801        SUSHMITA GHOSH                  MES014 MES015 MES016    
+  795 MAEDU-136645712 1801        ANGELICA STACY MYRTHONG         MES011 MES012 MES013 MES014 MES015    
+                                                                  MES016    
+  796 MAEDU-136645737 1801        BALAPOISALAN KHYNRIAM           MES012 MES013 MES014 MES016    
+  797 MAEDU-136645776 1801        CHANDANA ROY                    MES012 MES013 MES014 MES015 MES016    
+  798 MAEDU-136645809 1801        NEELAM DEVI PRASAI              MES014 MES015 MES016    
+  799 MAEDU-136645823 1801        NANDITA CHAKRABORTY             MES013 MES014 MES015    
+  800 MAEDU-136645830 1801        PHURIMAI KHONGLAM               MES013 MES014 MES015    
+  801 MAEDU-136645855 1801        SMRITI THAPA                    MES011 MES012 MES013 MES014 MES015    
+                                                                  MES016    
+  802 MAEDU-136645870 1801        SANTOSHI CHETTRI                MES011 MES012 MES013 MES014 MES015    
+                                                                  MES016    
+  803 MAEDU-136645927 1801        RASNA KHARWANLANG               MES011 MES013 MES014 MES015 MES016    
+  804 MAEDU-136646001 1801        KANDIRASI MARBANIANG            MES011 MES012 MES013 MES015    
+  805 MAEDU-136646080 1801        SILINDA WANNIANG                MES011 MES013 MES014 MES016    
+  806 MAEDU-136646097 1801        LANGMON PATWET                  MES012 MES013 MES014 MES015 MES016    
+  807 MAEDU-136646120 1801        PDIANGHUN LYNGDOH               MES011 MES012 MES013 MES014 MES015    
+                                                                  MES016    
+  808 MAEDU-136646334 1801        M NISA CECILIA                  MES012 MES014 MES016    
+  809 MAEDU-136646420 1801        DAAIKYNTI MYRTHONG              MES012 MES013 MES014 MES015 MES016    
+  810 MAEDU-136646445 1801        SHEETAL THAPA                   MES011 MES013 MES014 MES015 MES016    
+  811 MAEDU-136646452 1801        JOSHILA THAPA                   MES011 MES012 MES013 MES014 MES015    
+                                                                  MES016    
+  812 MAEDU-136646491 1801        JUBILEE NONGTDU                 MES014 MES015 MES016    
+  813 MAEDU-136646500 1801        DIORIST KHARUMNUID              MES011 MES012 MES013 MES014 MES015    
+                                                                  MES016    
+  814 MAEDU-136646549 1801        DURKI TARIANG                   MES011 MES013 MES014 MES015 MES016    
+  815 MAEDU-136646556 1801        KYRSOI RUPON                    MES014 MES015 MES016    
+  816 MAEDU-136646563 1801        AILAKSIS MARWEIN                MES011 MES012 MES013 MES014 MES015    
+                                                                  MES016    
+  817 MAEDU-136646642 1801        BANRIIANA DOHLING               MES012 MES015 MES016    
+  818 MAEDU-136646674 1801        GRACE M KHARIONG                MES012 MES013 MES014 MES015 MES016    
+  819 MAEDU-136646707 1801        SAGRI TIRKEY                    MES011 MES013 MES016    
+  820 MSW-136646800   1801        BASHISHA SHALLAM                MSW006    
+  821 MSW-136646832   1801        IAINEHLANG KURBAH               MSW001 MSW003 MSW005    
+  822 MSW-136646840   1801        CARIELYNE B KHARSYNTIEW         MSW006    
+  823 MSW-136646889   1801        EDWARD THMA                     MSW002 MSW003 MSW006    
+  824 MSW-136646896   1801        SARABINA WANNIANG               MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+  825 MSW-136646929   1801        EVARIST MYRSING                 MSW004 MSW005 MSW006    
+  826 MSW-136646936   1801        TANGCHINA J MARAK               MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+  827 MSW-136646943   1801        CELINA MASLAI                   MSW002 MSW003 MSW004 MSW005 MSW006    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   18
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1801                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  828 MSW-136646950   1801        REGINA MARY BADWAR              MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+  829 MSW-136647010   1801        MONICA ANDREA KHONGLAH          MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+  830 MSW-136647042   1801        LAVINIA DIENGDOH                MSW002 MSW004 MSW005 MSW006    
+  831 MSW-136647050   1801        POOJA SINGH                     MSW001 MSW004 MSW005 MSW006    
+  832 MSW-136647067   1801        WINKY SHULLAI                   MSW005 MSW006    
+  833 MSW-136647099   1801        SABRINA NONGKYNRIH              MSW001 MSW004 MSW005 MSW006    
+  834 MSW-136647139   1801        EDTHELEEN NICOLA RYNTATHIANG    MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+  835 MSW-136647160   1801        RAMHUNGBE MPAME                 MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+  836 MSW-136647178   1801        HUNGSUANEI MPAME                MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+  837 BSW-136647264   1801        ARTI LAMA                       BSHF101 BSWE001 FEG01 FEG02     
+  838 BSW-136647289   1801        MERILYN WAHLANG                 BSWE001   
+  839 BSW-136647343   1801        SHANBOR LYNGKHOI                BSWE001   
+  840 BSW-136647375   1801        LEMJUNGLA                       BSHF101 BSWE001   
+  841 BSW-136647382   1801        KITDOR BASAN                    BSHF101 BSWE001 FEG02     
+  842 BSW-136647390   1801        VANNLAL H THABAH                BSHF101 BSWE001 FEG01 FEG02     
+  843 BSW-136647408   1801        PATRICK MALNGIANG               BSWE001 FEG01 FEG02     
+  844 BSW-136647422   1801        HILARIUS KHARBIHKHIEW           BSHF101 BSWE001 FEG01 FEG02     
+  845 BSW-136647454   1801        ROBERT C SHYLLA                 BSHF101 BSWE001 FEG01 FEG02     
+  846 BSW-136647461   1801        FIRRALYNE R WAR                 BSHF101 BSWE001   
+  847 BSW-136647501   1801        JOHN CARDYLAND CAJEE            BSHF101 BSWE001 FEG01 FEG02     
+  848 BSW-136647540   1801        ANITA BASUMATARY                BSWE001 FEG01     
+  849 MCA-136647748   1801        RAGHAV SINGH BIST               MCS013 MCS014 MCS021 MCS022 MCS023    
+                                                                  MCS024 MCSL016 MCSL017 MCSL025   
+  850 MCA-136647906   1801        SUBIR KUMAR NATH                MCS012 MCS014 MCS021 MCS022 MCS023    
+                                                                  MCS024 MCS032 MCS034 MCS035 MCSL025   
+  851 BCA-136648012   1801        SUMLI SINHA                     BCS011 BCS031 FEG02 MCS013 MCS014    
+                                                                  MCS021    
+  852 BCA-136648076   1801        BANSHANLANG RYNJAH              BCS011 BCS012 BCSL013 ECO01 FEG02     
+  853 BCA-136648155   1801        PYNHUNLANG MAWROH               BCS011 BCS012 BCSL013 ECO01 FEG02     
+  854 BCA-136648241   1801        NITIN R WADEKAR                 BCS012 BCSL013 FEG02     
+  855 BCA-136648266   1801        VISHAL RASAILY                  BCS011 BCS031 FEG02 MCS011 MCS014    
+                                                                  MCS021    
+  856 BPP-136648614   1801        SEEMA KUMARI THAKUR             OSS101    
+  857 BPP-136649616   1801        ARTI KUMARI YADAV               OSS101 PCO       
+  858 MP-136650380    1801        ERICSON BANPYNSHAI NONGHULOO    MS05 MS06 MS07 MS08      
+  859 MP-136650398    1801        RANABIJOY BHATTACHARJEE         MS01 MS02      
+  860 BTS-136652915   1801        WANPHIRA MUKHIM                 BSHF101 TS01 TS02      
+  861 BTS-136653157   1801        KEHUSAP                         FEG01 FEG02 TS01 TS02      
+  862 MCOM-136653780  1801        DASKHEM KUPAR THABAH            IBO02 IBO03 IBO04     
+  863 MCOM-136653806  1801        V PHEOMI ZIMIK                  IBO02 IBO03 IBO04 IBO05 IBO06     
+  864 MADE-136654110  1801        LALCHARLIANI                    MDE412 MDE414    
+  865 MADE-136654127  1801        NAMEIRAKPAM SAMUNGOU SINGH      MDE411 MDE418    
+  866 MAPC-136654252  1801        MALOBICA DEY                    MPC001 MPC002 MPC003    
+  867 MAPC-136654284  1801        DASUKLANGLIN MAJAW              MPC001 MPC002 MPC003 MPC004 MPC005    
+                                                                  MPC006 MPCL007   
+  868 MTM-136654689   1801        RIKSILCHI R MARAK               MTM01 MTM04 MTM05 MTM08 TS02      
+                                                                  TS03 TS06      
+  869 MSDFSM-1366547291801        GOSPEL ROY KSHIAR               MFN001 MFN002 MFN003 MFN006 MFN008    
+                                                                  MFN010    
+  870 MSDFSM-1366547361801        MAUNDY C PASSAH                 MFN001 MFN002 MFN010    
+  871 MSDFSM-1366547431801        FOURLY NONGTDU                  MFN003 MFN006 MFN010    
+  872 MSDFSM-1366547501801        SUNEETA MANDAL                  MFN001 MFN002    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   19
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1801                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  873 MSDFSM-1366547681801        GEETA RAI                       MFN001 MFN002 MFN003 MFN008 MFN010    
+  874 MSDFSM-1366547821801        IBARIKORDOR LYNGDOH THAIANG     MFN001 MFN002    
+  875 MTM-136654901   1801        JAKRIMRA N SANGMA               MTM05     
+  876 MTM-136654919   1801        BADARI LYNGDOH PYNGROPE         MTM01 MTM02 MTM03     
+  877 MAAN-136654965  1801        LALRAMTHARA BIATE               MAN001 MAN002    
+  878 MAAN-136654980  1801        VICKEE AMANDA RYNTATHIANG       MAN002 MANI002   
+  879 MAAN-136655025  1801        MARBALISHA LYNGDOH NONGBRI      MAN002 MANI002   
+  880 BLS-136655182   1801        SAVING STAR KHARPHULI           BLS01 BLS02 BLS05 BLS06 BLS07     
+  881 BLS-136655208   1801        RUBY D SANGMA                   BLS01 BLS02 BLS03 BLS04 BLS05     
+                                                                  BLS06 BLS07 BLS3P BLS4P     
+  882 MSO-136655745   1801        GENEVA BAMON                    MSO001 MSO002 MSO004    
+  883 MSO-136655777   1801        RATI KANYA DEBBARMA             MSO001 MSO002 MSO003 MSO004    
+  884 MSO-136655784   1801        BANAMALI BENJAMIN DEBBARMA      MSO001 MSO002 MSO003 MSO004    
+  885 MSO-136655791   1801        TRIVANI SHARMA                  MSO003 MSO004    
+  886 MSO-136655888   1801        LARIHUN DOHLING                 MSO001 MSO003 MSO004    
+  887 MSO-136655935   1801        PHUNSEY PHUNICA M MARAK         MSO001 MSO002 MSO003 MSO004    
+  888 MSO-136655967   1801        BOMGE PARI                      MSO001 MSO002 MSO003 MSO004    
+  889 MSO-136655999   1801        DERICK STAR KHARKONGOR          MSO001 MSO002 MSO004    
+  890 MSO-136656152   1801        MARCHIBEL  D MARAK              MSO002    
+  891 MSO-136656160   1801        LEEHINA D MARAK                 MSO001    
+  892 MSO-136656256   1801        BANRIHUN NONGKYNRIH             MSO001 MSO002 MSO003 MSO004    
+  893 MSO-136656270   1801        FRENCES NAMPUI                  MSO001 MSO002 MSO004    
+  894 MSO-136656399   1801        H W RORMILA                     MSO002    
+  895 MSO-136656414   1801        GREACIADALA TANG                MSO001 MSO002 MSO003 MSO004    
+  896 MSO-136656446   1801        TUSITA DHAR                     MSO001 MSO002 MSO003 MSO004    
+  897 MSO-136656478   1801        ANITA RAI                       MSO001 MSO002 MSO003 MSO004    
+  898 MSO-136656682   1801        SNIKDHA CHOUDHURY               MSO001 MSO002 MSO003 MSO004    
+  899 MCOM-136656865  1801        ABHISHE MISHRA                  IBO02 IBO03     
+  900 MCOM-136657036  1801        BIOLA MAKDOH                    IBO02     
+  901 MCOM-136657043  1801        ODRILIA MYLLIEMNGAP             IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  902 MCOM-136657186  1801        MILKHA WIKINSON LAWAI           IBO02 IBO03     
+  903 MCOM-136657201  1801        PUJA DAS                        IBO02     
+  904 MCOM-136657240  1801        SHAHBAAZ HOQUE                  IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  905 MCOM-136657297  1801        HAMTA NONGSIEJ                  IBO06     
+  906 MCOM-136657369  1801        WARLIN NONGRUM                  IBO03 IBO05 IBO06     
+  907 MCOM-136657684  1801        PYNDAP LANG RYNTATHIANG         IBO01 IBO02 IBO03     
+  908 MEG-136658360   1801        JUDITH LYNGDOH                  MEG01 MEG02 MEG03 MEG04     
+  909 MEG-136658378   1801        SWETA G MOMIN                   MEG01 MEG02 MEG03 MEG04     
+  910 MEG-136658425   1801        IBAKORDOR BAREH                 MEG01 MEG02     
+  911 MEG-136658432   1801        DEEPA LAMA                      MEG03     
+  912 MEG-136658529   1801        LARIJANAI WANKHAR               MEG03 MEG04     
+  913 MEG-136658550   1801        MEWANSHAN KHARMAWPHLANG         MEG01 MEG04     
+  914 MEG-136658615   1801        MICHAEL PAMTHET                 MEG03     
+  915 MEG-136658740   1801        NAKHURU LANAH H                 MEG01 MEG02 MEG03 MEG04     
+  916 MEG-136658805   1801        W SHANBORLANG SWER              MEG01 MEG02 MEG03     
+  917 MEG-136658851   1801        ARCYLINDA SUTONG                MEG01 MEG03 MEG04     
+  918 MEG-136658869   1801        MUMTIMAI KHONGIANG              MEG03     
+  919 MEG-136658890   1801        FAVOUREENIA NONGBRI             MEG01 MEG02 MEG03 MEG04     
+  920 MEG-136659022   1801        PRENA LAMA                      MEG01 MEG02     
+  921 BDP-136659799   1801        HELYNA D SANGMA                 EPA01 FEG01 FEG02     
+  922 BDP-136659814   1801        SANJOY BHATTARAI                BPSE212 EPS11 FEG01 FEG02     
+  923 BDP-136660288   1801        MANOJ KUMAR                     BHDF101 BSHF101 EHI02 EPS11 FHD02     
+  924 BDP-136660500   1801        SENGSRANG W MOMIN               BPY003 BPY004 BSHF101 ESO11 FEG01     
+                                                                  FEG02     
+  925 BDP-136660532   1801        NAYNA LAHON WARJRI              EPA01 ESO12     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   20
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1801                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  926 MPS-136661082   1801        LINDAMARY WAHLANG               MPS001 MPS002 MPS003 MPS004    
+  927 MARD-136661423  1801        GOUTAM DAS                      MRD101    
+  928 MARD-136661462  1801        REJOYSING NONGSPUNG             MRD004 MRD101    
+  929 MARD-136661494  1801        SUMAY I SANGMA                  MRD004 MRD101 MRD102 MRD103    
+  930 MARD-136661502  1801        SILBINA MARAK                   MRD101    
+  931 MARD-136661606  1801        FERDINAND ROY MARBANIANG        MRD101    
+  932 PGDDM-136661914 1801        EBORMI S LYNGCHIANG             MED004    
+  933 PGDDM-136661953 1801        DONBORLANG CHYNE                MED004 MPA003    
+  934 MAPC-136662630  1801        DAMANBHA E NONGSTENG            MPC001 MPC002 MPCL007   
+  935 MAPC-136662661  1801        KHRAWNAM WARJRI                 MPC001 MPC002 MPC003 MPC004 MPC005    
+                                                                  MPC006    
+  936 BDP-136663918   1801        LILY DEB                        BSHF101 ESO11 ESO12 FEG01 FEG02     
+  937 BDP-136663971   1801        ROSHNA MUSAHARY                 BEGE101 BSHF101   
+  938 BDP-137612756   1801        SHIV KUMAR                      BHDF101 BSHF101 EHI01 EHI02 FHD02     
+  939 MHD-137719059   1801        DHANESHWAR YADAV                MHD02 MHD03 MHD04 MHD06     
+  940 BDP-138040329   1801        YUDHVIR SINGH JAMWAL            BHDF101 BSHF101 FHD02     
+  941 BPP-138040709   1801        GANGA DEVI                      OMT101 OSS101    
+  942 MEG-138040960   1801        AMIT KUMAR CHHETRI              MEG01 MEG02 MEG03 MEG04     
+  943 BDP-138041280   1801        ANIKET RAI                      BEGE102   
+  944 PGDDM-140130080 1801        LANU TENNYSON AIMOL             MPA001 MPA002 MPA003 MPA004 MPA005    
+                                                                  MPA006 MPA007    
+  945 BPP-141050097   1801        RAJA BARUAH                     OSS101    
+  946 BPP-141050714   1801        DARIHUN KHONGJEE                OSS101 PCO       
+  947 BPP-141050896   1801        JONATHAN L PACHUAU              OMT101    
+  948 BPP-141051139   1801        RONALDSON DKHAR                 PCO       
+  949 BPP-141051178   1801        AJAY THAPA                      OSS101 PCO       
+  950 BPP-141051408   1801        PARWATI KUMARI SINGH            OSS101    
+  951 BPP-141051415   1801        JYOTI CHAUDHARY                 OSS101    
+  952 BPP-141051501   1801        NITESH LOHAR                    OMT101    
+  953 BPP-141051540   1801        JOSHWA KHARAKOR                 OSS101 PCO       
+  954 BPP-141052273   1801        SREYASHEE N SANGMA              OSS101    
+  955 BDP-141052908   1801        V SEIMINLUN VAIPHEI             BPSE212 BSHF101 EPS11 FEG02     
+  956 BDP-141053125   1801        PHIBALARI KHARKONGOR            BSHF101 ESO11 ESO12 FEG01 FEG02     
+  957 BDP-141053330   1801        BHARAT NYODO                    BPAE102 BSHF101 EPA01 FEG01 FEG02     
+  958 BDP-141053458   1801        SUMITRA DEB                     FEG01 FEG02     
+  959 BDP-141053497   1801        JAY PRAKASH RAI                 BSHF101 EEC11 FEG01 FEG02     
+  960 BDP-141053583   1801        DEBORSHI CHAKRABORTY            BEGE101 BEGE102 BSHF101 FEG01     
+                                                                  FEG02     
+  961 BDP-141053924   1801        MEERA L MARSHILLONG             BPC001 BPC002 BPC003 BPC004 BSHF101   
+                                                                  FEG01 FEG02     
+  962 BDP-141054277   1801        BAPHIRA E NONGRUM               BSHF101 EHI01 ESO12 FEG01 FEG02     
+  963 BDP-141054284   1801        N SRIKRISHNA KANT               BEGE101 BSHF101 ESO12 FEG01 FEG02     
+  964 BDP-141054291   1801        SUMIT KUMAR                     BEGE101 BSHF101 ESO12 FEG01 FEG02     
+  965 BDP-141054300   1801        INDRAJ SINGH                    BPAE102 BSHF101 EPA01 FEG01 FEG02     
+  966 BDP-141054331   1801        MOHIT KUMAR                     BSHF101 EHI02 ESO11 FEG01 FEG02     
+  967 BDP-141054435   1801        JULIA KAJINI                    BEGE101 BEGE102 BSHF101 FEG01     
+                                                                  FEG02     
+  968 BDP-141054474   1801        TOBY BOSCO SHADAP               BPY001 BPY002 BSHF101 ESO12 FEG01     
+                                                                  FEG02     
+  969 BDP-141054539   1801        DARILANG I KA LAMARE            BSHF101 ESO11 ESO12 FEG01 FEG02     
+  970 BDP-141054553   1801        LYDIA D M MOMIN                 BPC001 BPC002 BPC003 BPC004 BSHF101   
+                                                                  FEG01 FEG02     
+  971 BDP-141054578   1801        DEEPMALA BASUMATARI             BEGE101 BEGE102 BSHF101 FEG01     
+                                                                  FEG02     
+  972 BDP-141054592   1801        BAIADALANG KHARKONGOR           BSHF101 EEG01 EEG02 FEG01 FEG02     
+  973 BDP-141054696   1801        LORIDA DKHAR                    BPY003 BPY004 BSHF101 ESO11 FEG01     
+                                                                  FEG02     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   21
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1801                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  974 BDP-141054768   1801        WANKYRSHAN KHARKONGOR           FEG01 FEG02     
+  975 MPS-141054965   1801        SHIMNIKA DKHAR                  MPS001 MPS002 MPS003 MPS004    
+  976 MPS-141054972   1801        RINTO PAUL K                    MPS001 MPS002 MPS003 MPS004    
+  977 MPS-141055089   1801        EASTER EVALYNE KHARBAMON        MPS001 MPS002 MPS003 MPS004    
+  978 MPS-141055594   1801        RAHUL KUMAR SINGH               MPS001 MPS002 MPS003 MPS004    
+  979 MEG-141055680   1801        STACY LALFAKZUALI SAILO         MEG01 MEG02 MEG03 MEG04     
+  980 MEG-141055698   1801        CHHABILAL SHARMA                MEG01 MEG02 MEG03 MEG04     
+  981 MEG-141055817   1801        NEETA TEJA                      MEG01 MEG02 MEG03 MEG04     
+  982 MEG-141055831   1801        RUBI KUMARI ROY                 MEG03 MEG04     
+  983 MEG-141055849   1801        JOHN LALCHHANCHHUAHA            MEG01 MEG02 MEG03 MEG04     
+  984 MEG-141055942   1801        JASMINE MARBANIANG              MEG01 MEG02     
+  985 MEG-141056066   1801        AMBIKA ALLEY                    MEG01 MEG02 MEG03 MEG04     
+  986 MEG-141056098   1801        SEEMALAL                        MEG01 MEG02     
+  987 MEG-141056113   1801        MRS ELA BAHIRVANI               MEG02 MEG03     
+  988 MSO-141056152   1801        ASHA LYNGDOH                    MSO001 MSO002 MSO003 MSO004    
+  989 MSO-141056177   1801        VIKRAM JUVING RAI DKHAR         MSO001 MSO003    
+  990 MSO-141056217   1801        NIBASHISHA MAWTHOH              MSO001 MSO002 MSO003 MSO004    
+  991 MSO-141056249   1801        RANIKA M MARAK                  MSO001 MSO002 MSO003 MSO004    
+  992 MSO-141056256   1801        IBASUKLANG SYNTENG UMWI         MSO001 MSO002 MSO003 MSO004    
+  993 MSO-141056270   1801        ASHISH KUMAR                    MSO001 MSO002 MSO003 MSO004    
+  994 MAH-141056708   1801        RAJESH KUMAR RAI                MHI04 MHI05     
+  995 MAH-141056722   1801        BANARI B TARIANG                MHI01 MHI02 MHI04 MHI05     
+  996 MARD-141057115  1801        LAKSHMI SHARMA                  MRD004 MRD101 MRD102 MRD103    
+  997 MARD-141057122  1801        SABINA T SANGMA                 MRD004 MRD101 MRD102 MRD103    
+  998 MARD-141057130  1801        KORDORSKHEM KHARKONGOR          MRD101 MRD102    
+  999 MARD-141057179  1801        BESTARROY NONGPLUH              MRD004 MRD101 MRD102 MRD103    
+ 1000 MARD-141057201  1801        BANKYRSHAN WARJRI               MRD004 MRD101 MRD102 MRD103    
+ 1001 MARD-141057219  1801        ROSEMINA THONGNI                MRD004 MRD101 MRD102 MRD103    
+ 1002 MARD-141057297  1801        RHIEDOLCY DIENGDOH              MRD004 MRD101 MRD102 MRD103    
+ 1003 MARD-141057351  1801        RONNIE RAPLANG LYNGDOH          MRD101 MRD102    
+ 1004 MARD-141057376  1801        BIKSON ROY MAWRIE               MRD004 MRD101 MRD102 MRD103    
+ 1005 MARD-141057383  1801        SANJENBAM MANAGERIA             MRD101 MRD103    
+ 1006 MARD-141057416  1801        SHNGAINBORLIN NONGSIEJ          MRD004    
+ 1007 MARD-141057423  1801        MERILIS SYNGKLI                 MRD004 MRD101 MRD102 MRD103    
+ 1008 MARD-141057430  1801        JYLLIEW MON MAIONG              MRD004 MRD101 MRD102 MRD103    
+ 1009 MCOM-141057620  1801        MOON MOON DEKA                  IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1010 MCOM-141057652  1801        MARIA ANGELICA D SILVA          IBO01 IBO06     
+ 1011 MCOM-141057660  1801        LAVINIA DIENGDOH                IBO01 IBO04 IBO05     
+ 1012 MCOM-141057717  1801        BARILIN MARBANIANG              IBO01 IBO04 IBO05     
+ 1013 MCOM-141057731  1801        TIEWBONSHAI SHANGDIAR           IBO01 IBO03 IBO04 IBO05 IBO06     
+ 1014 MCOM-141057749  1801        HABANTEI KHARBUKI               IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1015 MCOM-141057803  1801        TONY MAY DALANG SLONG           IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1016 MCOM-141057874  1801        HEIMONKI WAR                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+ 1017 MP-141058091    1801        RONNER FIRST SON SAWKMIE        MS05 MS06 MS07 MS08      
+ 1018 MP-141058100    1801        RAJKUMAR POLENDRO SANA          MS04 MS05 MS06      
+ 1019 MP-141058149    1801        DIPHRANBOR MARBANIANG           MS01 MS02 MS03 MS04      
+ 1020 MP-141058188    1801        DONBOKLANG SYIEMSADD            MS05 MS06 MS07 MS08      
+ 1021 DNA-141058321   1801        HAOBIJAM NESHITA DEVI           BNS011 BNS012 BNS013 BNS014    
+ 1022 DNA-141058339   1801        CHONGPI KIPGEN                  BNS011 BNS012 BNS013 BNS014    
+ 1023 DNA-141058360   1801        KHUMANTHEM A DEVI               BNS011 BNS012 BNS013 BNS014    
+ 1024 DNA-141058392   1801        M ATHINI MAO                    BNS011 BNS012 BNS013 BNS014    
+ 1025 DNA-141058400   1801        RIBHALIN NONGSPUNG              BNS011 BNS012 BNS013 BNS014    
+ 1026 MEC-141058529   1801        GARGI BHATTACHARJEE             MEC001 MEC004    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   22
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1801                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+ 1027 BDP-141058797   1801        HENRY SUMER                     BSHF101 ECO01 ECO02 EEC11 FEG01     
+                                                                  FEG02     
+ 1028 BDP-141058844   1801        KUSHAL SHARMA                   BSHF101 ECO01 ECO02 EEG01 FEG01     
+                                                                  FEG02     
+ 1029 BDP-141058883   1801        ASORPHI JANAI RIANG             BSHF101 ECO01 ECO02 EEC11 FEG01     
+                                                                  FEG02     
+ 1030 BDP-141058930   1801        ABHIJEET DAS                    BSHF101 ECO01 ECO02 EEC11 FEG01     
+                                                                  FEG02     
+ 1031 BDP-141058955   1801        FRANKIE SON SYNREM              BSHF101 ECO01 ECO02 EEC11 FEG01     
+                                                                  FEG02     
+ 1032 BDP-141058962   1801        DARINIA WAHLANG                 BECE002 BSHF101 ECO01 ECO02 FEG01     
+                                                                  FEG02     
+ 1033 BDP-141058970   1801        GERALD HOLT DYKES               BECE002 BSHF101 ECO01 ECO02 FEG01     
+                                                                  FEG02     
+ 1034 PGDDM-141059030 1801        PYNSHNGAINBORLANG WARLAITTHMA   MPA001 MPA002 MPA003    
+ 1035 MAEDU-141059133 1801        SPINLYNIA KHARKONGOR            MES011 MES012 MES013 MES014 MES015    
+                                                                  MES016    
+ 1036 MAEDU-141059172 1801        DEBABRATA DAS                   MES011 MES012 MES013 MES014    
+ 1037 MAEDU-141059197 1801        SOSTHINESS K WARSHONG           MES011 MES012 MES013 MES014 MES015    
+                                                                  MES016    
+ 1038 MAEDU-141059251 1801        MARBAN NONGPLUH                 MES011 MES012 MES013 MES014 MES015    
+                                                                  MES016    
+ 1039 MCA-141059276   1801        JOYDEEP DEY                     MCS021 MCS022 MCS023 MCS024 MCSL025   
+ 1040 MCA-141059290   1801        REZON STRONG SOHTUN SAWKMIE     MCS014 MCS021 MCS022 MCS023 MCS024    
+                                                                  MCSL025   
+ 1041 MCA-141059323   1801        CHARLES N KHARLYNGDOH           MCS014 MCS021 MCS022 MCS023 MCS024    
+                                                                  MCSL025   
+ 1042 BCA-141059394   1801        ARPHINUS R MARAK                BCS011 BCS012 BCSL013 BCSL021 BCSL022   
+                                                                  ECO01 ECO02 FEG02 MCS011 MCS012 MCS013 MCS015    
+ 1043 MSW-141059538   1801        WANSUK KYNDAIT                  MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+ 1044 MSW-141059552   1801        MARY LALREMRUATI                MSW001 MSW002 MSW003 MSW004 MSW005    
+                                                                  MSW006    
+ 1045 MHD-141059617   1801        NIBHA KUMARI                    MHD02 MHD03 MHD06     
+ 1046 MHD-141059624   1801        DAULAT RAM                      MHD03 MHD06     
+ 1047 MHD-141059631   1801        KAVITA PANT                     MHD02 MHD03 MHD04 MHD06     
+ 1048 MHD-141059649   1801        SHILA GURUNG SAHARIA            MHD02 MHD03 MHD04 MHD06     
+ 1049 MHD-141059663   1801        NISHA BISWA                     MHD02 MHD03 MHD04 MHD06     
+ 1050 MAPC-141059860  1801        UMESH LAMBA                     MPC001 MPC002 MPC003 MPC004 MPC005    
+                                                                  MPCL007   
+ 1051 MAPC-141059878  1801        CHRISBINA N ARENGH              MPC002 MPC004 MPC005    
+ 1052 MAPC-141059892  1801        CHINGSE M SANGMA                MPC001 MPC002 MPC003 MPC004 MPC005    
+                                                                  MPC006 MPCL007   
+ 1053 MAPC-141059932  1801        DZUTHOTSO TUNYI                 MPC001 MPC002 MPC003 MPC004 MPC005    
+                                                                  MPC006 MPCL007   
+ 1054 MAPC-141059964  1801        BLINCY HAYONG                   MPC001 MPC002 MPC003 MPC004 MPC005    
+                                                                  MPC006 MPCL007   
+ 1055 MAPC-141059971  1801        PHILIMON PATAM                  MPC001 MPC002 MPC003 MPC004 MPC005    
+                                                                  MPC006    
+ 1056 MAPC-141059989  1801        AGALLIASIS RYNTATHIANG          MPC001    
+ 1057 MPA-141059996   1801        ABHISHEK RANJAN                 MPA013 MPA014    
+ 1058 MPA-141060010   1801        AVNISH ANAND                    MPA011 MPA012 MPA013 MPA014    
+ 1059 MPA-141060027   1801        PORKEY CHYRMANG                 MPA011 MPA012 MPA013 MPA014    
+ 1060 MPA-141060034   1801        SHIV MANGAL SINGH GAUTAM        MPA011 MPA012 MPA013 MPA014    
+ 1061 MPA-141060041   1801        ALBERT JALA                     MPA011 MPA012 MPA013    
+ 1062 MPA-141060080   1801        TAPAS DEB BARMA                 MPA011 MPA012 MPA013 MPA014    
+ 1063 MPA-141060098   1801        ALDRETH FAMOUS RUBYSON KHARNAI  MPA011 MPA012 MPA013 MPA014    
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   23
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1801                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+ 1064 BSW-141060231   1801        MONARISA SHULLAI                BSHF101 BSWE001 FEG01 FEG02     
+ 1065 BSW-141060256   1801        BALARIHUN LYNGDOH               BSHF101 BSWE001 FEG01 FEG02     
+ 1066 BSW-141060263   1801        BADAHUN MYNSONG                 BSHF101 BSWE001 FEG01 FEG02     
+ 1067 BSW-141060288   1801        VUNGNGAIHTHANG                  BSHF101 BSWE001 FEG01 FEG02     
+ 1068 PGDDM-141060295 1801        WANPOIHUN MYNSO                 MPA001 MPA002 MPA003 MPA004 MPA005    
+                                                                  MPA006 MPA007    
+ 1069 PGDHE-141060335 1801        NIRMALA SHARMA                  MES101 MES102 MES103 MES104    
+ 1070 BLS-141060485   1801        SUSANA JYRWA                    BLS01 BLS02 BLS03 BLS04 BLS05     
+                                                                  BLS06 BLS07 BLS3P BLS4P     
+ 1071 CFN-141060589   1801        GEETA RAI                       CFN01 CFN02 CFN03     
+ 1072 CTE-141060819   1801        CHINGSE M SANGMA                CTE01 CTE02 CTE03 CTE04     
+ 1073 CTE-141060826   1801        CORDELIA NONGKYNRIH             CTE01 CTE02 CTE03 CTE04     
+ 1074 CTE-141060833   1801        SANRIKA NONGKYNRIH              CTE01 CTE02 CTE03 CTE04     
+ 1075 PGDRD-141060872 1801        SARAPHIA DKHAR                  MRD101 MRD102 MRD103 MRDE101   
+ 1076 PGDRD-141060880 1801        RONUNMAWII DARLONG              MRD101 MRD102 MRD103 MRDE101   
+ 1077 PGDRD-141060912 1801        FERGUSON WANKHAR                MRD101 MRD102 MRD103 RDD07     
+ 1078 MTM-141061075   1801        CARELYNDA LYNGDOH               MTM01 MTM02 MTM03 MTM04 MTM05     
+                                                                  MTM06 MTM07 MTM08 TS01 TS02 TS03 TS06      
+ 1079 DNHE-141061090  1801        BARSHA SONAR                    DNHE01    
+ 1080 PGDESD-1410611931801        MADANI T SYLLIANG               MED001 MED002 MED003 MED004 MED005    
+                                                                  MED006 MED007 MED008    
+ 1081 MAEDU-141061265 1801        VERNARA SHANGPLIANG             MES011 MES012 MES013 MES014 MES015    
+                                                                  MES016    
+ 1082 MAEDU-141061272 1801        WANPLI MARY LYNGDOH SAWKMIE     MES011 MES012 MES013 MES014 MES015    
+                                                                  MES016    
+ 1083 MAEDU-141061280 1801        JULIANA  KHARBYNGAR             MES011 MES012 MES013 MES014 MES015    
+                                                                  MES016    
+ 1084 MAEDU-141061376 1801        MARIA QUINTA WANKHAR            MES011 MES012 MES013 MES014 MES015    
+                                                                  MES016    
+ 1085 MAEDU-141061423 1801        VASTINAH KASAR                  MES011 MES012 MES013 MES014 MES015    
+                                                                  MES016    
+ 1086 BDP-141061430   1801        SABITA KUMARI YADAV             BSHF101 ECO02 EEC11 FEG01 FEG02     
+ 1087 BDP-141061470   1801        RAHUL SINGH                     BSHF101 ECO01 ECO02 EEC11 FEG01     
+                                                                  FEG02     
+ 1088 BDP-141061487   1801        MADHU NEWAR                     BSHF101 ECO01 ECO02 EEC11 FEG01     
+                                                                  FEG02     
+ 1089 MSO-141062471   1801        MAMTA KUMARI THAPA              MSO001 MSO002 MSO003 MSO004    
+ 1090 MAPC-141062679  1801        JACOB J VADAKENCHERY            MPC001 MPC002 MPC003 MPC004 MPC005    
+                                                                  MPC006    
+ 1091 BPP-141062765   1801        LALMINTHANG GUITE               OSS101 PCO       
+ 1092 BPP-141063101   1801        LAWRENCE DEBBARMA               OSS101 PCO       
+ 1093 BDP-141063498   1801        QUEENEST KHARKONGOR             BEGE101 BPSE212 BSHF101 FEG01     
+                                                                  FEG02     
+ 1094 BDP-141063538   1801        JACQUELINE M SHARMA             BEGE102 FEG01 FEG02     
+ 1095 BED-141063600   1801        SHIBAPROSAD CHAKRAVORTY         ES331 ES332 ES333 ES341 ES342     
+ 1096 BED-141063656   1801        SOHINI DAS                      ES331 ES332 ES333 ES341 ES344     
+ 1097 BED-141063670   1801        IBANDALIN NONGRUM               ES331 ES332 ES333 ES343 ES344     
+ 1098 BED-141063688   1801        REAGYSON SURONG                 ES331 ES332 ES333 ES341 ES342     
+ 1099 BED-141063735   1801        KH SOLOMON PANTIJIE             ES331 ES332 ES333 ES343 ES344     
+ 1100 BED-141063781   1801        DAIARISA RANGAD                 ES331 ES332 ES333 ES343 ES344     
+ 1101 BED-141063814   1801        SUMARLANG THANGKHIEW            ES331 ES332 ES333 ES343 ES344     
+ 1102 BED-141063839   1801        SUSIE MARY SWER                 ES331 ES332 ES333 ES341 ES344     
+ 1103 BED-141063878   1801        BALARIHOK PYNGROPE              ES331 ES332 ES333 ES341 ES342     
+ 1104 BED-141063892   1801        SHIVANGI CHAKRABORTY            ES331 ES332 ES333 ES341 ES344     
+ 1105 BED-141063918   1801        CHRISTINE LALDINPUII            ES331 ES332 ES333 ES343 ES344     
+ 1106 BED-141063932   1801        TANUSHRI MITRA                  ES331 ES332 ES333 ES342 ES344     
+ 1107 BED-141064056   1801        PRAQATTI  LAMA                  ES331 ES332 ES333 ES343 ES344     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   24
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1801                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+ 1108 BED-141064070   1801        PEARLY F TARIANG                ES331 ES332 ES333 ES343 ES344     
+ 1109 BED-141064135   1801        MOUTUSHI ROY                    ES331 ES332 ES333 ES341 ES342     
+ 1110 BED-141064150   1801        DARY MARBANIANG                 ES331 ES332 ES333 ES341 ES342     
+ 1111 BED-141064199   1801        JONALI SHARMA                   ES331 ES332 ES333 ES341 ES342     
+ 1112 BED-141064239   1801        SHOUGAIJAM PREMILA DEVI         ES331 ES332 ES333 ES341 ES342     
+ 1113 BED-141064246   1801        BAPHINLAMLYNTI KHARKONGOR       ES331 ES332 ES333 ES341 ES342     
+ 1114 BED-141064278   1801        DAMANBHA L NONGPIUR             ES331 ES332 ES333 ES343 ES344     
+ 1115 BED-141064285   1801        JESIE LYNGDOH                   ES331 ES332 ES333 ES343 ES344     
+ 1116 BED-141064292   1801        NAPHISABET NONGSIEJ             ES331 ES332 ES333 ES341 ES342     
+ 1117 BED-141064318   1801        DAVID D DIENGDOH                ES331 ES332 ES333 ES341 ES342     
+ 1118 BED-141064411   1801        SYNSHAR S SYIEM                 ES331 ES332 ES333 ES343 ES344     
+ 1119 BED-141064436   1801        SESHKANT RYMAL                  ES331 ES332 ES333 ES341 ES342     
+ 1120 BED-141064468   1801        SARALIN KHYRIEM B LAKHRA        ES331 ES332 ES333 ES343 ES344     
+ 1121 BED-141064515   1801        DAPLIN MARY THONGNI             ES331 ES332 ES333 ES341 ES344     
+ 1122 BED-141064522   1801        MELANCY SHYLLA                  ES331 ES332 ES333 ES343 ES344     
+ 1123 BED-141064530   1801        BANSIEWDOR KHARSYNTIEW          ES331 ES332 ES333 ES341 ES342     
+ 1124 BED-141064626   1801        DAMEESHA LYNGDOH                ES331 ES332 ES333 ES343 ES344     
+ 1125 BED-141064665   1801        EBORMI S LYNGCHIANG             ES331 ES332 ES333 ES341 ES342     
+ 1126 BED-141064769   1801        KIRAN THAKUR                    ES331 ES332 ES333 ES342 ES345     
+ 1127 BED-141064790   1801        SASMITA MAHARANA                ES331 ES332 ES333 ES342 ES344     
+ 1128 BED-141064809   1801        ARJUN PRASAD KHADAL             ES331 ES332 ES333 ES342 ES343     
+ 1129 BED-141064823   1801        EASTERIOUS MUKHIM               ES331 ES332 ES333 ES341 ES342     
+ 1130 BED-141064830   1801        RIMAECIA IAFIE THABAH           ES331 ES332 ES333 ES343 ES344     
+ 1131 BED-141064848   1801        NORBERT KHARKONGOR              ES331 ES332 ES333 ES342 ES344     
+ 1132 BED-141064887   1801        NILOY DAS                       ES331 ES332 ES333 ES341 ES342     
+ 1133 BED-141064894   1801        CHANDAN KUMAR RAY               ES331 ES332 ES333 ES341 ES342     
+ 1134 BED-141064902   1801        THOKCHOM IBETON                 ES331 ES332 ES333 ES341 ES344     
+ 1135 BED-141064927   1801        MAHAMAYA KUMAR                  ES331 ES332 ES333 ES344 ES345     
+ 1136 BED-141064980   1801        ANDRINA SWER                    ES331 ES332 ES333 ES341 ES342     
+ 1137 BED-141065001   1801        ELIZABETH W DIENGDOH            ES331 ES332 ES333 ES343 ES344     
+ 1138 BED-141065019   1801        ANTHONY RAI                     ES331 ES332 ES333 ES343 ES344     
+ 1139 BED-141065033   1801        TANYA MILICIA SHABONG           ES331 ES332 ES333 ES341 ES344     
+ 1140 BED-141065080   1801        BALARINA KHARMAWLONG            ES331 ES332 ES333 ES343 ES344     
+ 1141 BED-141065097   1801        IOANIS PYNGROPE                 ES331 ES332 ES333 ES342 ES343     
+ 1142 BED-141065183   1801        BABITA ROY                      ES331 ES332 ES333 ES343 ES344     
+ 1143 BED-141065190   1801        PURNIMA THAPA                   ES331 ES332 ES333 ES343 ES344     
+ 1144 BED-141065209   1801        KARTIKA CHNDRA MAHARANA         ES331 ES332 ES333 ES341 ES342     
+ 1145 BED-141065359   1801        EURANIA KHARMAWPHLANG           ES331 ES332 ES333 ES343 ES344     
+ 1146 BED-141065380   1801        RIDALIN M DHAR                  ES331 ES332 ES333 ES343 ES344     
+ 1147 BED-141065406   1801        RUPHAS N KHONGSIT               ES331 ES332 ES333 ES343 ES344     
+ 1148 BED-141065413   1801        NABANITA DHAR                   ES331 ES332 ES333 ES343 ES344     
+ 1149 BED-141065420   1801        NICKYSHA MARGRET MARBOH         ES331 ES332 ES333 ES343 ES344     
+ 1150 BED-141065452   1801        DECARIN GASHNGA                 ES331 ES332 ES333 ES343 ES344     
+ 1151 BED-141065500   1801        LARISA MARY KURBAH              ES331 ES332 ES333 ES343 ES344     
+ 1152 BED-141065517   1801        VICTORIA MAWLONG                ES331 ES332 ES333 ES343 ES344     
+ 1153 BED-141065549   1801        BANDASHISHA RAJEE               ES331 ES332 ES333 ES343 ES344     
+ 1154 BDP-141065699   1801        CAROLYNE ANN MAWTHOH            BEGE101 BEGE102 BSHF101 FEG01     
+                                                                  FEG02     
+ 1155 BDP-141065714   1801        RIDAHUN KHRIAM                  BSHF101 EPS11 ESO12 FEG01 FEG02     
+ 1156 MED-141065832   1801        SHWETA                          MES051 MES052 MES053    
+ 1157 MED-141065840   1801        BAPHINTIPLANG E MARBOH          MES051 MES052 MES053 MES054 MESE058   
+ 1158 MED-141065857   1801        LYDIA M PALA                    MES051 MES052 MES053 MES054    
+ 1159 MED-141065864   1801        SHIELD NEXTER KHARKONGOR        MES051 MES052 MES053 MES054 MESE058   
+ 1160 MED-141065896   1801        AIBAHUN DKHAR                   MES051 MES052 MES053 MES054 MESE057   
+ 1161 MED-141065911   1801        HARI NANDAN                     MES051 MES052 MES053 MES054 MESE057   
+ 1162 MED-141065929   1801        PAWAN P JAISWAL                 MES051 MES052 MES053 MES054 MESE057   
+ 1163 MED-141065936   1801        MARCUS LYNGKHOI SANGMA          MES051 MES052 MES053 MES054 MESE057   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   25
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1801                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+ 1164 MED-141065943   1801        CAREEN E G MARBANIANG           MES051 MES052 MES053 MES054 MESE058   
+ 1165 MED-141065982   1801        JAISON CYRIAC                   MES051 MES052 MES053    
+ 1166 MED-141066042   1801        ADRIAN L PARIAT                 MES051 MES052 MES053 MESE058   
+ 1167 MED-141066074   1801        PETER B LYNGDOH MAWPHLANG       MES051 MES052 MES053 MES054 MESE058   
+ 1168 MED-141066099   1801        PYNTNGEN A SHADAP               MES051 MES052 MES053 MES054 MESE057   
+ 1169 MAPC-141066107  1801        LAMLYNTI RUMNONG                MPC002 MPC003 MPC005 MPC006    
+ 1170 MAPC-141066114  1801        KRISHAN KANT DUBEY              MPC001 MPC002 MPC004    
+ 1171 BPP-141066264   1801        SITA GURUNG                     OSS101 PCO       
+ 1172 MPA-141543178   1801        SACHIN YADAV                    MPA011 MPA012 MPA013 MPA014    
+ 1173 MEG-143000407   1801        MANGAL SINGH THAKUR             MEG01 MEG02 MEG03 MEG04     
+ 1174 MP-143000439    1801        JIT BAHADUR CHHETRI             MS01 MS02 MS03 MS04 MS05      
+ 1175 PGDDM-143000446 1801        ANAND JALINDAR THORAT           MPA001 MPA002 MPA003    
+ 1176 PGDRD-143000478 1801        JOKHAN RAI                      MRD101 MRD102    
+ 1177 BED-143022030   1801        SURESH KUMAR K R                ES331 ES332 ES333 ES341 ES342     
+ 1178 BDP-143100086   1801        YUMNAM CHELAMBA SINGH           BEGE101 BEGE102 BSHF101 FEG01     
+                                                                  FEG02     
+ 1179 BDP-143100101   1801        RAJINDER KUMAR                  BEGE101 BEGE102 BSHF101 FEG01     
+                                                                  FEG02     
+ 1180 BDP-143100172   1801        RUPESH SINGH                    BEGE101 BEGE102 BSHF101 FEG01     
+                                                                  FEG02     
+ 1181 CIG-143100237   1801        UTTAM KUMAR BITT                NES101 NES102 NES103 NES104    
+ 1182 BDP-143100269   1801        SHAILENDER SINGH                BSHF101 ESO11 ESO12 FEG01 FEG02     
+ 1183 PGDRD-143100276 1801        SURENDRA NATH YADAV             MRD101 MRD102    
+ 1184 BSCN-144502740  1801        LENTHANG DIMKHONEM              BNS101 BNS102 BNS103 BNS104 BNS105    
+ 1185 BSCN-144503093  1801        MANGSATABAM NIRMALA             BNS101 BNS102 BNS103 BNS104 BNS105    
+ 1186 BSCN-144503441  1801        NGORU AMILA MONSANG             BNS101 BNS102 BNS103 BNS104 BNS105    
+ 1187 BSCN-144504396  1801        GIN LUN NIANG                   BNS101 BNS102 BNS103 BNS104 BNS105    
+ 1188 BPP-146155049   1801        CICILIA R MARAK                 OSS101 PCO       
+ 1189 BPP-146155056   1801        JASMINE MARAK                   OSS101 PCO       
+ 1190 BPP-146155063   1801        ROSMI NARZARY                   OSS101 PCO       
+ 1191 BPP-146155070   1801        SENGCHI K MARAK                 OSS101 PCO       
+ 1192 BPP-146155095   1801        MEENA CHAKRABORTY               OSS101 PCO       
+ 1193 BPP-146155751   1801        JUNU BASUMATARI                 OSS101 PCO       
+ 1194 BPP-146155973   1801        SANGEETA BARUAH                 OSS101 PCO       
+ 1195 BPP-146155998   1801        RAKHEE ROY                      OSS101 PCO       
+ 1196 BPP-146156001   1801        SHIVA CHETTRI                   OSS101 PCO       
+ 1197 BPP-146156151   1801        ANITA DHAR                      OSS101 PCO       
+ 1198 BPP-146156169   1801        POONAM PASWAN                   OSS101 PCO       
+ 1199 BPP-146156230   1801        PHAILIN LYNSHING                OSS101 PCO       
+ 1200 BPP-146156255   1801        DENZING SHERPA                  OSS101 PCO       
+ 1201 BPP-146156262   1801        LEENA THAPA                     OSS101 PCO       
+ 1202 BPP-146156270   1801        MAYA CHETTRI                    OSS101 PCO       
+ 1203 BPP-146156524   1801        ELLA NONGHLAW                   OSS101 PCO       
+ 1204 BPP-146156531   1801        NANU N MARAK                    OSS101 PCO       
+ 1205 BPP-146156667   1801        SUNANDA DEB                     OMT101 OSS101    
+ 1206 BPP-146156721   1801        SARITA RYMBAI                   OSS101 PCO       
+ 1207 BPP-146156753   1801        AMMAR BAHADUR ALE               OSS101 PCO       
+ 1208 BPP-146156818   1801        RAJU RIYANG                     OSS101 PCO       
+ 1209 BPP-146156968   1801        PRIYA ROY                       OSS101 PCO       
+ 1210 BPP-146156975   1801        GYATI AMPI                      OSS101 PCO       
+ 1211 BPP-146157042   1801        KABITA SHA                      OSS101 PCO       
+ 1212 BPP-146157099   1801        RUMA DEB                        OMT101 OSS101    
+ 1213 BPP-146157107   1801        UFICA NONGBET                   OSS101 PCO       
+ 1214 BPP-146157350   1801        RINKU KUMARI PRASAD             OSS101 PCO       
+ 1215 BPP-146157415   1801        RITA CHHETRI                    OSS101 PCO       
+ 1216 BPP-146157533   1801        SUMAN PAUL                      OSS101 PCO       
+ 1217 BPP-146157644   1801        REENA RANA                      OSS101 PCO       
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   26
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1801                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+ 1218 BPP-146157651   1801        PARMA THAKURI                   OSS101 PCO       
+ 1219 BPP-146157669   1801        SNEHA DHAR                      OSS101 PCO       
+ 1220 BPP-146157716   1801        MORNINGSTAR MAWSOR              OMT101 OSS101    
+ 1221 BPP-146158306   1801        ARUP BHATTACHARJEE              OSS101 PCO       
+ 1222 BPP-146158313   1801        ASHOK SHARMA                    OSS101 PCO       
+ 1223 BPP-146158352   1801        GAUTAM SUNAR                    OSS101 PCO       
+ 1224 BPP-146158391   1801        ANICKHA A. SANGMA               OSS101 PCO       
+ 1225 BPP-146158424   1801        SUJATA BARMAN                   OMT101 PCO       
+ 1226 BPP-146158449   1801        JYOTI BISWA                     OMT101 PCO       
+ 1227 BPP-146158535   1801        ASHA TALUKDAR                   OSS101 PCO       
+ 1228 BPP-146158550   1801        SUMIT SINHA                     OMT101 OSS101    
+ 1229 BPP-146158567   1801        RIKINA RYNGKHLEM                OMT101 OSS101    
+ 1230 BPP-146158882   1801        SARDA CHETTRI                   OSS101 PCO       
+ 1231 BPP-146158890   1801        PRABHAT BISWA                   OSS101 PCO       
+ 1232 BPP-146158915   1801        MONI TANTI                      OSS101 PCO       
+ 1233 BPP-146158930   1801        EKTA ROY                        OSS101 PCO       
+ 1234 BPP-146158954   1801        NASEEB SINGH                    OSS101 PCO       
+ 1235 BPP-146158979   1801        MINAKSHI ACHARJEE               OSS101 PCO       
+ 1236 BPP-146159229   1801        AKSHAY KUMAR MANGAL             OSS101 PCO       
+ 1237 BPP-146159250   1801        SAYANTANI PALIT                 OSS101 PCO       
+ 1238 BPP-146159268   1801        ANAMIKA BOLWARI MARAK           OSS101 PCO       
+ 1239 BPP-146159275   1801        KIDLEE NONGKHLAW                OSS101 PCO       
+ 1240 BPP-146159520   1801        KUSHAL NONGDHAR                 OSS101 PCO       
+ 1241 BPP-146159537   1801        PUSHPA NONGDHAR                 OSS101 PCO       
+ 1242 BPP-146159576   1801        MANJIT KAUR                     OSS101 PCO       
+ 1243 BPP-146159583   1801        SHILPA DEB                      OMT101 OSS101    
+ 1244 BPP-146159590   1801        PINAK PAUL                      OMT101 OSS101    
+ 1245 BPP-146159917   1801        PIJUSH SINHA                    OMT101 OSS101    
+ 1246 BPP-146160406   1801        RUKHSAR ALI                     OSS101 PCO       
+ 1247 BPP-146161264   1801        BISWAJIT BRAHMA                 OMT101 OSS101    
+ 1248 BPP-146161430   1801        PRAMOD KUAMR RAI                OSS101 PCO       
+ 1249 BPP-146161501   1801        LOK MAYA ALE                    OSS101 PCO       
+ 1250 BPP-146161866   1801        RICKY KHARKONGOR                OSS101 PCO       
+ 1251 BPP-146161873   1801        LOWRENCE M SANGMA               OSS101 PCO       
+ 1252 BPP-146161898   1801        DAVID DEBBARMA                  OSS101 PCO       
+ 1253 BPP-146161977   1801        ABRAHAM DEBBARMA                PCO       
+ 1254 BPP-146161991   1801        SURAJ KR MISHRA                 OSS101 PCO       
+ 1255 BPP-146162266   1801        ANNU A SANGMA                   OSS101 PCO       
+ 1256 BPP-146162280   1801        NOMITA ROI                      OSS101 PCO       
+ 1257 BPP-146162400   1801        CECILIA DHAR                    OMT101 OSS101    
+ 1258 BPP-146162417   1801        REDINGSION K MOMIN              OSS101 PCO       
+ 1259 BPP-146163053   1801        SUCHITRA B SYIEMLIEH            OSS101 PCO       
+ 1260 BPP-146163060   1801        EVANGELINE SYIEMLIEH            OSS101 PCO       
+ 1261 BPP-146163189   1801        HELBISON MOMIN                  OSS101 PCO       
+ 1262 BPP-146163211   1801        MOM CHANDA                      OSS101 PCO       
+ 1263 BPP-146163275   1801        MONA THAPA                      OSS101 PCO       
+ 1264 BPP-146163347   1801        JYOTI SINGH                     OMT101 OSS101    
+ 1265 BPP-146163386   1801        SUZZIE MARY NONGRUM             OSS101 PCO       
+ 1266 BPP-146163393   1801        BARISHISHA RYNDONG              OSS101 PCO       
+ 1267 BPP-146163551   1801        IANCHE A R MARAK                OSS101 PCO       
+ 1268 BPP-146163569   1801        KATO H JAKHA                    OSS101 PCO       
+ 1269 BPP-146163780   1801        JAMES ISAACS                    OSS101 PCO       
+ 1270 BPP-146163798   1801        BARSHA THAPA                    OSS101 PCO       
+ 1271 BPP-146163860   1801        SAMPA MODAK                     OSS101 PCO       
+ 1272 CTS-146181692   1801        RIEWBITLANG SYNJRI              TS01 TS02      
+ 1273 CFN-146181954   1801        RISALIN LYNGDOH                 CFN01 CFN02 CFN03     
+ 1274 BCA-146189024   1801        EVICIA GLADEEN SYIEMIONG        BCS011 BCS012 BCSL013 ECO01 FEG02     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   27
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 1801                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+ 1275 BCA-146189056   1801        SHEKHAR DAYAL SINGH             BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1276 BCA-146189070   1801        RAKESH PRASAD ROY               BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1277 BCA-146189095   1801        PHRANGSNGI BIAM                 BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1278 BCA-146189181   1801        GILBERT KHARSHIING              BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1279 BCA-146189214   1801        MUSTARROY TONGWAH               BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1280 BCA-146189221   1801        RIDAHUNSHA KHONGTHAW            BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1281 MCA-146190717   1801        WELFRANK THONGNIBAH             MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+ 1282 MCA-146190724   1801        MONALIZA NONGBRI                MCS011 MCS012 MCS013 MCS014 MCSL016   
+                                                                  MCSL017   
+ 1283 MCA-146190756   1801        EVALYNE NONGKYNRIH              MCS011 MCS014 MCS015 MCSL016   
+ 1284 MCA-146190770   1801        IBADAMONSHISHA RANGAT           MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+ 1285 MP-146195232    1801        DHARMENDRA KR YADAV             MS01 MS03 MS05 MS07      
+ 1286 MP-146195240    1801        MANISH AGRAWAL                  MS01 MS02 MS03 MS04      
+ 1287 MP-146195257    1801        ALFRED R WILSON LYNGDOH         MS01 MS02 MS03 MS04      
+ 1288 MP-146195264    1801        KAMAL KUMAR TANTI               MS01 MS02 MS03 MS04      
+ 1289 MP-146195271    1801        RAPBOR KHARNAIOR                MS01 MS02 MS03 MS04      
+ 1290 MP-146195304    1801        NILENDU DE                      MS08      
+ 1291 CDM-146195730   1801        DINESH RAY                      CDM01 CDM02     
+ 1292 CDM-146195748   1801        NAVIN KUMAR SHARMA              CDM01 CDM02     
+ 1293 CES-146202796   1801        ELERY HMAR                      AHE01 TS05      
+ 1294 BCA-146202947   1801        BARIKMENLANG MAWKON             BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1295 BPP-148195173   1801        JUGNU SHAJI                     OMT101 OSS101    
+ 1296 BPP-148195893   1801        KHEM RAJ HATILA                 OSS101    
+ 1297 MCA-148195901   1801        SHAIK APSAR ALI                 MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+ 1298 BCA-148198351   1801        H AMIT KUMAR SINGH              BCS011 BCS012 BCSL013 ECO01 FEG02     
+ 1299 CHR-148346132   1801        GAURAV YADAV                    CHR11 CHR12     
+        

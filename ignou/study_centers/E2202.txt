@@ -1,0 +1,822 @@
+
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    1
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 2202                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+    1 BCA-070759344   2202        MALTI THAKUR                    CS71      
+    2 MCA-070760696   2202        DEEPAK                          MCS043 MCS051 MCS053 MCSE004 MCSE011   
+    3 BDP-076356003   2202        MINAKSHI THAKUR                 ECO14     
+    4 MCA-082096726   2202        ITINDERPAL SINGH CHAWLA         MCS032 MCS033 MCS043 MCS051 MCS053    
+                                                                  MCSE003 MCSE004   
+    5 MCA-084440964   2202        BHARTI SHARMA                   MCS033    
+    6 MCA-084441823   2202        HIMANSHU DALMOTRA               MCS035 MCS043 MCS053    
+    7 MCA-084445497   2202        TEJINDER PAL SINGH              MCS051 MCSE004   
+    8 MCA-084448460   2202        JAGDEEP KAUR                    MCS033 MCS035 MCS053    
+    9 MCA-084448485   2202        JAGDEV SINGH                    MCS012 MCS014 MCS033 MCS041 MCS052    
+                                                                  MCSE003   
+   10 MP-091457720    2202        SALONY SEHGAL                   MS05      
+   11 BCA-092172965   2202        NAVEEN KUMAR                    BCS061P CS65 CS68P CS71 CS73      
+   12 MCA-092433669   2202        DHARMINDER SINGH                CS60 CS64 CS73 CS74 MCS031 MCS032    
+                                                                  MCS033 MCS034 MCS035 MCS041 MCS042 MCS043    
+   13 BDP-092442990   2202        PRITAM SINGH                    FST01     
+   14 BDP-092455016   2202        INDRAJIT KAUR                   ECO03 ECO07 FST01     
+   15 MCA-092455206   2202        SALONI THAKUR                   MCS021 MCS022 MCS034 MCS043 MCSE004   
+                                                                  MCSL017 MCSL036   
+   16 MCA-092458258   2202        MONIKA SHARMA                   MCS051    
+   17 MCA-092458265   2202        MEENU SHARMA                    MCS033    
+   18 BDP-094856617   2202        JASPREET SINGH BHARDWAJ         BSHF101 ECO07 ECO10 ECO11 ECO14     
+                                                                  EEC11 ESO12 FST01     
+   19 MCA-098144820   2202        PINKESH PANJU                   MCS051    
+   20 MCA-100094951   2202        SUNIL KUMAR                     MCS033 MCS043    
+   21 BCA-100095801   2202        JASPREET KAUR                   CS74      
+   22 MCA-100095807   2202        KIRANDEEP KAUR                  CS74 MCS033 MCS043 MCS051 MCS052    
+                                                                  MCS053    
+   23 MCA-100095818   2202        YOGESH KUMAR                    MCS024 MCS033 MCS043 MCS051 MCS053    
+                                                                  MCSE003 MCSE004 MCSE011   
+   24 MCA-100095822   2202        SOURABH KUMAR                   MCS051 MCSE003   
+   25 BCA-105128765   2202        GURMEET KAUR                    CS60 CS71 MTE03     
+   26 BDP-105128878   2202        PANKAJ KUMARI                   FST01     
+   27 BDP-105129211   2202        TEENA RANI                      ANC01     
+   28 BCA-105129358   2202        LAKHWINDER SINGH                BCS061 CS05 CS06 CS60 CS62 CS63      
+                                                                  CS63P CS64 CS68 CS70 CS71 FST01     
+   29 MCA-105129404   2202        MEENAKSHI                       MCS043 MCS051 MCS052 MCS053 MCSE003   
+                                                                  MCSE004 MCSE011 MCSL054   
+   30 BCA-105129484   2202        PARAS                           CS06 CS62 CS63 CS64 CS65 CS67      
+                                                                  CS68P CS70 CS71 CS72P     
+   31 BDP-105129670   2202        GURPREET SINGH                  ECO12 FST01     
+   32 MCA-105129932   2202        AJAY KUMAR                      MCS051    
+   33 MCA-105129954   2202        HARMEET KAUR                    MCS051    
+   34 MCA-105129955   2202        PAWANDEEP KAUR                  MCS051 MCSE004   
+   35 MEG-105130407   2202        BALJIT KAUR RANDHAWA            MEG02 MEG05 MEG07     
+   36 BDP-105130742   2202        LOVEDEEP                        ECO10 FST01     
+   37 BDP-105130766   2202        ARUN KUMAR                      FST01     
+   38 BCA-105130773   2202        ISHA                            BCS061 CS05 CS60 CS62 CS63 CS64      
+                                                                  CS70 CS71 CS72P CS73 CS74P MTE03     
+   39 MCA-105130779   2202        ARPANPREET KAUR                 MCS031 MCS035 MCS051    
+   40 MCA-105131352   2202        DALJIT KAUR                     MCSE004   
+   41 BCA-105131635   2202        SURJIT SINGH                    CS60 CS64 CS66 CS71 CS72 CS72P     
+                                                                  CS73 CS75 FST01     
+   42 BCA-105131716   2202        PRIYA KUMBHA                    CS06 CS611 CS611P CS612 CS63      
+                                                                  CS63P CS64 CS66 CS68 CS68P CS71 FHS01 FST01     
+   43 BCA-105131717   2202        SONI KUMARI                     BCS061 CS64 CS71 CS73 CS74 CS75      
+                                                                  MTE03     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    2
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 2202                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+   44 BCA-105131719   2202        SAAKSHI                         CS05 CS06 CS60 CS611P CS612 CS62      
+                                                                  CS63P CS64 CS68P CS71 CS72 CS72P CS73 CS74 CS74P FST01     
+   45 BEDSE-105261056 2202        SHWETA                          MMD013    
+   46 MCA-105561269   2202        PRIYANKA SHARMA                 MCS051 MCSE004   
+   47 MCA-105561286   2202        NEETIKA JOSHI                   MCS053 MCSE003 MCSE004   
+   48 MCA-105561294   2202        RAJITA                          MCSE004   
+   49 MCA-105561302   2202        GAGANDEEP SINGH                 MCS021 MCS031 MCS033 MCSE004   
+   50 MCA-105561305   2202        ARUN SHARMA                     MCSE004   
+   51 MCA-105561311   2202        PAYAL                           MCS024 MCS031 MCS043 MCS053 MCSE004   
+   52 MCA-105561312   2202        PALLAVI SHARMA                  MCS052 MCS053    
+   53 MCA-110686060   2202        RAMANDEEP KAUR                  MCS043    
+   54 MCA-110686471   2202        VARINDER KUMAR                  MCS051 MCSE003 MCSE004   
+   55 BCA-110689287   2202        AMIT SAHDEV                     BCS061 BCS061P CS05 CS06 CS62      
+                                                                  CS63 CS63P CS64 CS65 CS66 CS67 CS68 CS68P CS70 CS71 FST01     
+   56 MCA-110690385   2202        HARBHINDER KAUR                 MCS014 MCS021 MCS023 MCS031 MCS033    
+                                                                  MCS041 MCS042 MCS043 MCSL045   
+   57 BDP-110691649   2202        JEEVANJYOTI                     ESO13 FST01     
+   58 BDP-110692070   2202        KOMAL RANI                      ESO12 FPB01     
+   59 MCA-110692318   2202        MEENAKSHI                       MCS031 MCS033 MCS035 MCS043 MCS051    
+                                                                  MCSE003   
+   60 BCA-110694225   2202        LOVEPREET SINGH                 BSHF101 CS06 CS60 CS610 CS612     
+                                                                  CS62 CS62P CS63 CS64 CS65 CS66 CS67 CS68 CS70 CS75      
+   61 MED-110694289   2202        RAJINDER SINGH                  MES051 MES055    
+   62 BCA-110694651   2202        ROHIT KUMAR                     CS06 CS60 CS612 CS62 CS62P CS63      
+                                                                  CS63P CS64 CS65 CS67      
+   63 MCA-110695850   2202        MOHIT KUMAR JOSHI               MCS031 MCS032 MCS033 MCS035 MCS043    
+                                                                  MCS051 MCSE004   
+   64 MCA-110696727   2202        ABHINAV MAHAJAN                 MCS032 MCS034 MCS035 MCS051 MCSE004   
+   65 MP-110697238    2202        PRIYA SHARMA                    MS02 MS04 MS05 MS08 MS10      
+   66 MP-110698168    2202        JASROOP SINGH                   MS04      
+   67 BDP-111489770   2202        SHASHI KANT                     ACC01 ECO05 ECO07     
+   68 BDP-111542951   2202        MUSHTAQUE AHMAD KHAN            ACC01 ESO13 ESO14 ESO15 ESO16     
+                                                                  FST01     
+   69 MCA-114101218   2202        MOHANDEEP SINGH                 MCS051 MCS053 MCSE004   
+   70 MP-114166158    2202        CHANDNI KALRA                   MS05 MS08      
+   71 BCA-115300882   2202        RAKHI                           BCS031 BCS051 BCSL022 BCSL032 BCSL033   
+                                                                  BCSL043 BCSL044 ECO02 MCS012 MCS013 MCS014 MCS021 MCS022 MCS023 MCS024 MCSL016   
+   72 MCA-115300915   2202        ALKA                            MCS024 MCS035 MCS043 MCS051 MCS052    
+                                                                  MCS053 MCSE003 MCSE004 MCSE011   
+   73 MCA-115300922   2202        BHARAT BHUSHAN                  MCS012 MCS021 MCS023 MCS024 MCS031    
+                                                                  MCS032 MCS035 MCS042 MCS043 MCSL016 MCSL017 MCSL025 MCSL036 MCSL045 MCSL054   
+   74 MCA-115300954   2202        LAKSHAMI MAHAJAN                MCS023 MCS024 MCS032 MCS033 MCS035    
+                                                                  MCS042 MCS043 MCS051 MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+   75 MCA-116648200   2202        ROBIN VIJ                       MCSE003 MCSL054   
+   76 MCA-116648231   2202        GAGANDEEP MANAN                 MCS051 MCSE003 MCSL054   
+   77 MCA-116648786   2202        NISHAN SINGH                    MCS032 MCS043 MCS053 MCSE003   
+   78 MCA-116648801   2202        RANJIT SINGH                    MCS012 MCS021 MCS024 MCS031 MCS032    
+                                                                  MCS035 MCS051 MCS053 MCSE003 MCSE004   
+   79 MCA-116648819   2202        NAKUL POPLI                     MCSE003   
+   80 BDP-116648976   2202        RAMANDEEP KAUR                  AHE01 EEG06 EPS09 FST01     
+   81 MCA-116648990   2202        GAGAN DEEP                      MCSE003   
+   82 MCA-116649036   2202        SATNAM SINGH                    MCS042 MCS043 MCS051 MCSE003 MCSE004   
+   83 BDP-116650474   2202        SANDEEP AGGARWAL                ECO03 ECO08 ECO11 ECO14 FST01     
+   84 MCA-116650600   2202        HONEY KUMAR                     MCS012 MCS021 MCS022 MCS023 MCS031    
+                                                                  MCS032 MCS034 MCS041 MCS042 MCS043    
+   85 BDP-116650750   2202        SATINDER KAUR                   ESO15 ESO16     
+   86 MCA-116650830   2202        SUKHJINDER SINGH                MCS031 MCS051 MCS053 MCSE003 MCSE004   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    3
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 2202                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+   87 BCA-116651136   2202        HEENA                           BCS012 BCS041 BCS051 BCS052 BCS054    
+                                                                  BCS062 BCSL063 ECO02 MCS011 MCS013 MCS022 MCS024    
+   88 BCA-116652636   2202        SRISHTI MALHOTRA                BCS041 BCS051 BCS052 BCS054 BCS062    
+                                                                  BCSL063 MCS012 MCS022 MCS024    
+   89 BCA-116652786   2202        SAHIL SHARMA                    BCS051 BCS052 BCS053 BCS054 BCS062    
+                                                                  BCSL063 MCS021 MCS022 MCS024    
+   90 BCA-116652912   2202        MOHAMMAD ALI                    BCS054 ECO02 MCS013 MCS024    
+   91 MCA-116652944   2202        TRIPTI KHANNA                   MCS031 MCSE003 MCSE004   
+   92 MCA-116652951   2202        RABIA MAHAJAN                   MCS051 MCS053 MCSE003 MCSE004 MCSE011   
+   93 BDP-116653369   2202        KRITIKA                         ACS01 ECO08 ECO09 ECO10 ECO11     
+                                                                  ESO14     
+   94 MCA-116656515   2202        AMANDEEP SINGH                  MCS053 MCSE003   
+   95 BCA-116657072   2202        SANJAY KUMAR                    BCS012 BCS031 BCS041 BCS051 BCS054    
+                                                                  BCS062 MCS013 MCS023 MCS024    
+   96 BDP-116658637   2202        TEJSWANI KUMARI                 ANC01 BPY003    
+   97 BDP-116662121   2202        PARUL AGGARWAL                  ECO07 ECO08 ECO09 ECO12 ECO13     
+                                                                  FST01     
+   98 MCA-116663391   2202        KULJIT SINGH                    MCS014 MCS031 MCS035 MCS042 MCS043    
+                                                                  MCS051 MCS052 MCSE003 MCSE004   
+   99 MCA-116663417   2202        PREETI                          MCS051 MCSE003 MCSL054   
+  100 MP-116832556    2202        NARESH KUMAR                    MS29 MS94 MS97      
+  101 MEG-117146921   2202        KHUSHBOO JAIN                   MEG01 MEG05     
+  102 BDP-117322464   2202        NARESH KUMAR                    BEGE103 EHI05 EHI07 EPS07 EPS09     
+                                                                  FST01     
+  103 MCA-118152483   2202        POOJA                           MCS033 MCS035 MCS042 MCS043 MCS052    
+                                                                  MCS053 MCSE003 MCSL017 MCSL054   
+  104 MCA-118152509   2202        PINKI DEVI                      MCS043    
+  105 MAPC-118509967  2202        HARPAL SINGH                    MPCE021 MPCE025 MPCE026   
+  106 MCA-119022123   2202        ANKUSH SETH                     BCS041 BCS054 BCS062 MCS024 MCS031    
+                                                                  MCS032 MCS033 MCS034 MCS035 MCSL036   
+  107 MCA-119032242   2202        MONIKA                          MCS024 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCSL036   
+  108 MCA-119034633   2202        DEEP SHIKHA                     MCS051 MCSE003   
+  109 MCA-119101924   2202        NEHA CHADHA                     MCSE003 MCSE004 MCSE011   
+  110 MCA-119102166   2202        HIRDEPREET SINGH                MCS031 MCS032 MCS051 MCS052 MCS053    
+                                                                  MCSE011   
+  111 MCA-119108450   2202        GURPREET SINGH                  MCSE003   
+  112 MCA-119108705   2202        ROHIT CHOPRA                    MCS043 MCS051 MCS053 MCSE003 MCSE004   
+                                                                  MCSE011 MCSL054   
+  113 BDP-120085283   2202        RAJESH KUMAR                    ANC01 EPA05 EPA06 ESO11     
+  114 BDP-121287986   2202        DAVINDER SINGH                  ACS01 EHI01 EHI03 EHI04 EHI06     
+                                                                  FST01     
+  115 MP-121368469    2202        VISHAL MEHRA                    MS91 MS94      
+  116 MP-121432120    2202        MANPREET KAUR                   MS45      
+  117 MP-121432138    2202        PRIYANKA PASSI                  MS45      
+  118 MP-121432564    2202        VISHAL KUMAR MAHAJAN            MS08 MS11 MS44 MS46 MS95      
+  119 MP-121432643    2202        RAHUL RAI                       MS04 MS08 MS10 MS46 MS91      
+  120 MP-121433527    2202        ARPAN AGGARWAL                  MS01 MS91 MS92      
+  121 MAH-121433566   2202        SARITA SHARMA                   MPSE004   
+  122 MCA-121433573   2202        SAROJ BALA                      MCSE003 MCSE004 MCSL054   
+  123 MP-121434772    2202        DEEPIKA SHARMA                  MS44 MS45 MS46 MS95 MS96      
+  124 BDP-121434923   2202        SURINDER KUMARI                 ESO11 FST01     
+  125 BDP-121435402   2202        REENA                           CTE03 CTE05 EEC10 EHD03 EHI05     
+                                                                  EHI06 FST01     
+  126 BDP-121435617   2202        AJAY KUMAR                      ACS01 ANC01 EHI05 ESO16     
+  127 BDP-121435774   2202        JASDEEP KAUR                    CTE03 CTE05 EEC10 EHI05 EHI06     
+  128 MP-121436705    2202        POOJA KUNDRA                    MS03 MS06      
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    4
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 2202                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  129 BDP-121436769   2202        MUKESH KUMAR                    FST01     
+  130 MP-121437760    2202        SONIA                           MS45      
+  131 MP-121437840    2202        ASHA RANI                       MS44 MS45 MS46 MS97      
+  132 MP-122605499    2202        RAWAT BHAVANA SHYAMSINH         MS04 MS94      
+  133 MBACT-122887340 2202        MANBIR KAUR                     MCTE023 MCTE024   
+  134 MCA-124518639   2202        KUNAL                           MCS012 MCS031 MCS032 MCS034    
+  135 MCA-124518685   2202        AMANDEEP KAUR                   MCS013 MCS024 MCS033 MCS041 MCS042    
+                                                                  MCS043 MCSL045   
+  136 MP-124518993    2202        SAMITA SHARMA                   MS08 MS09 MS21 MS23 MS26      
+  137 MP-124558141    2202        LOVE SHARMA                     MS91 MS94      
+  138 PGPDSEMR-125420481                      2202        SUNITA                          MMD014 MMDE033 MMDE034 MMDE035   
+  139 MCA-126189053   2202        AMANDEEP SINGH                  MCS031 MCS032 MCS033 MCS034 MCS035    
+                                                                  MCS041 MCS042 MCS043 MCSL036 MCSL045   
+  140 BDP-126189322   2202        ANCHAL                          BECE214 EHD01 EHD03 FST01     
+  141 BDP-126189845   2202        NIRMAL SINGH                    ERD01 ESO11 ESO12 ESO13 ESO14     
+                                                                  FST01     
+  142 BCA-126189970   2202        GAGANDEEP KAUR                  BCS012 BCS051 BCS052 BCS053 BCS054    
+                                                                  BCS055 BCSL056 BCSL057 BCSL058 MCS011 MCS023 MCS024    
+  143 BDP-126190556   2202        RAJKUMAR                        ECO03 ECO05 ECO13 ECO14     
+  144 MP-126190889    2202        HARMEET KAUR                    MS09 MS11 MS91      
+  145 BDP-126192961   2202        AMARJIT                         BECE214 BHDE108 EHI03 FST01     
+  146 MCA-126193609   2202        RISHAB PATHAK                   MCS051 MCS052 MCS053 MCSE003 MCSE004   
+                                                                  MCSE011 MCSL054   
+  147 MCA-126193648   2202        KANIKA BANSAL                   CS60 MCS011 MCS013 MCS014 MCS021    
+                                                                  MCS022 MCS031    
+  148 MCA-126193655   2202        KANWARDEEP SINGH                MCS011 MCS013 MCS022 MCS024 MCS031    
+                                                                  MCS032 MCS033 MCS034    
+  149 MCA-126193670   2202        RANBIR SINGH                    MCS011 MCS012 MCS014 MCS021 MCS022    
+                                                                  MCS023 MCS024    
+  150 MCA-126193687   2202        MANDEEP KAUR                    MCS033 MCS041 MCS042 MCS043 MCSL045   
+  151 MCA-126193702   2202        TIMMY SHARMA                    MCS021 MCS033 MCS042 MCS051 MCS052    
+                                                                  MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+  152 MCA-126193780   2202        SAHIL SHARMA                    MCS011 MCS013 MCS021 MCS031 MCS032    
+                                                                  MCS033 MCS041 MCS042 MCS043 MCSL036 MCSL045   
+  153 MCA-126193798   2202        GURPREET SINGH                  MCS042 MCS051 MCS052 MCS053 MCSE003   
+                                                                  MCSE004 MCSE011 MCSL054   
+  154 MCA-126193806   2202        NISHU DUGGAL                    MCS024 MCS033 MCS051 MCS052 MCS053    
+                                                                  MCSE003 MCSE004 MCSE011 MCSL054   
+  155 MCA-126193949   2202        DILJOT KAUR                     MCS031 MCS041 MCS042 MCS043    
+  156 MCA-126193956   2202        MANPREET KAUR                   MCS051 MCS052 MCS053 MCSE003 MCSE004   
+                                                                  MCSE011 MCSL054   
+  157 MCA-126193988   2202        AMANPREET KAUR                  MCS024 MCS042 MCS051 MCS052 MCS053    
+                                                                  MCSE003 MCSE004 MCSE011 MCSL054   
+  158 MCA-126193995   2202        MEENU BALA                      MCS024 MCS032 MCS042 MCS043 MCS051    
+                                                                  MCS052 MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+  159 MCA-126194009   2202        ANU SHARMA                      MCS024 MCS051 MCS052 MCS053 MCSE003   
+                                                                  MCSE004 MCSE011 MCSL054   
+  160 MCA-126195208   2202        GURDEV SINGH PADAM              MCS042 MCS051 MCS052 MCS053 MCSE003   
+                                                                  MCSE004 MCSE011 MCSL054   
+  161 BCA-126195215   2202        GURVINDER KAUR                  BCS051 BCS052 BCS053 BCS054 BCS055    
+                                                                  BCSL056 BCSL057 BCSL058 MCS024    
+  162 BCA-126195380   2202        LOVEPREET KAUR                  BCS041 BCS051 BCS052 BCS053 BCS054    
+                                                                  BCS055 BCSL056 BCSL057 BCSL058 MCS024    
+  163 BEDSEHI-126195405                      2202        SHEETAL BALA                    MMDE029   
+  164 BEDSEHI-126195594                      2202        RIMPI SAMRIA                    MMD013 MMDE019 MMDE029 MMDE030   
+  165 BDP-126196407   2202        KAWALJIT KAUR                   FST01     
+  166 BEDSEHI-126197337                      2202        GEETA DEVI                      MMDE029   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    5
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 2202                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  167 MCA-126197566   2202        GAGAN                           MCS042 MCS051 MCS052 MCS053 MCSE003   
+                                                                  MCSE004 MCSE011 MCSL054   
+  168 MCA-126197677   2202        JATINDER SINGH                  MCS011 MCS013 MCS021 MCS023 MCS024    
+                                                                  MCS033 MCS041 MCS042 MCS043 MCSL036 MCSL045   
+  169 MCA-126197684   2202        TAJINDER SINGH                  MCS021 MCS022 MCS024    
+  170 MCA-126197700   2202        HARPREET SINGH                  MCS032 MCS033 MCS041 MCS042 MCS043    
+                                                                  MCSL045   
+  171 MCA-126197717   2202        VISHAL SHARMA                   MCS021 MCS022 MCS023 MCS024 MCS031    
+                                                                  MCS032 MCS033 MCS034 MCS035 MCSL036   
+  172 MCA-126197770   2202        SIMRANJEET SINGH                MCS021 MCS024 MCS041 MCS042 MCS043    
+                                                                  MCSL045   
+  173 MCA-126197803   2202        RITIKA JUNEJA                   MCS051 MCS052 MCS053 MCSE003 MCSE004   
+                                                                  MCSE011 MCSL054   
+  174 MCA-126197810   2202        RADHA                           MCS051 MCS052 MCS053 MCSE003 MCSE004   
+                                                                  MCSE011 MCSL054   
+  175 MCA-126197835   2202        DEEPAKJOT SINGH                 MCS042 MCS051 MCS052 MCS053 MCSE003   
+                                                                  MCSE004 MCSE011 MCSL054   
+  176 MCA-126198195   2202        ANUPREET KAUR GROVER            MCS051 MCS052 MCS053 MCSE003 MCSE004   
+                                                                  MCSE011 MCSL054   
+  177 MP-126198203    2202        NARINDER KUMAR SHARMA           MS46 MS95      
+  178 MCA-126198314   2202        MANPREET KAUR                   MCS024    
+  179 MCA-126198701   2202        SONAM SHARMA                    MCS031 MCS032 MCS033 MCS034 MCS035    
+  180 MCA-126198726   2202        SUKHWINDERPAL SINGH             MCS011 MCS014 MCS022 MCS024 MCS041    
+                                                                  MCS042 MCS043 MCSL045   
+  181 BCA-126198851   2202        RAHUL PRASHAR                   BCS041 BCS051 BCS052 BCS053 BCS054    
+                                                                  BCS055 BCSL056 BCSL057 BCSL058 ECO02 MCS012 MCS023    
+  182 MCA-126201111   2202        GURPREET KAUR                   MCS024 MCS033 MCS035 MCS042 MCS043    
+                                                                  MCSL045   
+  183 BDP-126202328   2202        SONIA                           FST01     
+  184 BDP-126202596   2202        GOURAV                          EHD01 FST01     
+  185 BDP-126202819   2202        KAJAL BHALLA                    BPSE212 EHD03 FST01     
+  186 MCA-126204758   2202        DEEPAK SINGH                    MCS033 MCS043 MCS051 MCS052 MCS053    
+                                                                  MCSE003 MCSE004 MCSE011 MCSL054   
+  187 MCA-126204772   2202        VISHAL DHINGRA                  MCS051 MCS052 MCS053 MCSE003 MCSE004   
+                                                                  MCSE011 MCSL054   
+  188 MCA-126204797   2202        SAPNA SHARMA                    MCS041 MCS042 MCS043 MCS051 MCS052    
+                                                                  MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+  189 MCA-126204805   2202        SHAMLI MAHAJAN                  MCS041 MCS051 MCS052 MCS053 MCSE003   
+                                                                  MCSE004 MCSE011 MCSL054   
+  190 BDP-126205158   2202        KAWALJIT KAUR                   BEGE105 EHI03 ESO12     
+  191 MEG-126206253   2202        LAYEEQA BASHIR                  MEG05 MEG07 MEG10 MEG11     
+  192 MEG-126206260   2202        SHABNAM                         MEG01 MEG05 MEG07 MEG10 MEG11     
+  193 MSO-126206364   2202        BHAWNA KASHYAP                  MPS003 MSO002 MSOE001 MSOE003 MSOE004   
+  194 MSO-126206429   2202        RAJINDER PAL KAUR               MSOE001 MSOE002 MSOE003 MSOE004   
+  195 MHD-126206776   2202        RAMAN KAINTH                    MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  196 MCA-126206959   2202        HARMAN SINGH GROVER             MCS022 MCS041 MCS042 MCS043 MCSL045   
+  197 BCA-126207001   2202        ANKURDEEP KAUR                  BCS042 BCS051 BCS052 BCS053 BCS054    
+                                                                  BCS055 BCSL056 BCSL057 BCSL058 MCS024    
+  198 MCA-126207080   2202        SABIA                           MCS012 MCS024 MCS032 MCS035    
+  199 MCA-126207097   2202        AMARPREET SINGH                 MCS031 MCS033 MCS035 MCS051 MCS052    
+                                                                  MCS053 MCSE003 MCSE004 MCSE011 MCSL054   
+  200 MCA-126207105   2202        GURDEEP SINGH                   MCS024 MCS031 MCS033 MCS041 MCS042    
+                                                                  MCS043 MCSL045   
+  201 MCA-126207144   2202        ANKUSH SHARMA                   MCS012 MCS013 MCS014 MCS021 MCS023    
+                                                                  MCS024 MCS031 MCS033    
+  202 MARD-127154133  2202        RAJBIR SINGH RAJU               MRD101 MRD103 MRDE003 MRDE101 RDD06     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    6
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 2202                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  203 MCA-127631545   2202        KANIKA                          MCS051 MCS052 MCS053 MCSE003 MCSE004   
+                                                                  MCSE011 MCSL054   
+  204 MCA-127631878   2202        RAJBIR KAUR                     MCS051 MCS052 MCS053 MCSE004 MCSE011   
+                                                                  MCSL054   
+  205 MCA-127631900   2202        PALWINDER KAUR                  MCS051 MCS052 MCS053 MCSE003 MCSE004   
+                                                                  MCSE011 MCSL054   
+  206 MCA-127631918   2202        HARPREET KAUR                   MCS051 MCS052 MCS053 MCSE004 MCSL054   
+  207 MCA-127631932   2202        MANDEEP KAUR                    MCS051 MCS052 MCS053 MCSE003 MCSL054   
+  208 MCA-127631940   2202        SHIVANI                         MCS021 MCS024 MCS051 MCS052 MCS053    
+                                                                  MCSE003 MCSE004 MCSE011 MCSL054   
+  209 MCA-127632017   2202        RADHA RANI                      MCS051 MCS052 MCS053 MCSE003 MCSE004   
+                                                                  MCSE011 MCSL054   
+  210 MCA-127632142   2202        GURMEET KAUR                    MCS011 MCS013 MCS021 MCS024 MCS031    
+  211 MCOM-127632482  2202        MANDEEP KAUR                    MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  212 BCA-127633040   2202        KAWALJIT KAUR                   BCS011 BCS012 BCS031 BCSL013 BCSL032   
+                                                                  BCSL033 BCSL034 MCS014 MCS021 MCS023    
+  213 BCA-127633072   2202        MANDEEP KAUR                    BCS011 BCS031 BCSL013 BCSL032 BCSL033   
+                                                                  BCSL034 ECO02 MCS011 MCS012 MCS014 MCS021 MCS023    
+  214 MCA-127641245   2202        GAUTAM                          MCS021 MCS024 MCS051 MCS052 MCS053    
+                                                                  MCSE003 MCSE004 MCSE011 MCSL054   
+  215 MCOM-127641260  2202        ARSHDEEP KAUR                   MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  216 BDP-128016488   2202        AJAY KUMAR BHARTI               EHD01 ESO13 ESO14     
+  217 BDP-130051828   2202        VIKAS KUMAR                     EPA03 EPA04 ESO11 FST01     
+  218 BDP-130053591   2202        ANIL KUMAR                      EPA03 EPA04 ESO11 FST01     
+  219 BDP-130383211   2202        NAVNEET SINGH                   BPSE212 EHI03 EPA04 FST01     
+  220 MCA-130409060   2202        PAWANDEEP KAUR                  MCS041 MCS042 MCS043 MCSL025   
+  221 BDP-130409170   2202        ANITA                           BEGE105 EHD03 ESO11 FST01     
+  222 MCA-130409496   2202        NEHA SHARMA                     MCS033 MCS041 MCS042 MCS043 MCSL045   
+  223 MAPC-130409820  2202        JASWINDER SINGH                 MPCE021 MPCE022 MPCE023 MPCE024   
+  224 BDP-130410745   2202        PARMJIT KAUR                    EHI03 EHI04 ESO12 FST01     
+  225 MAPY-130410760  2202        VED PARKASH                     MPY001 MPYE001 MPYE002 MPYE004 MPYE005   
+                                                                  MPYE006   
+  226 MCOM-130410903  2202        MANPREET KAUR                   MCO01 MCO03 MCO04 MCO05 MCO06     
+                                                                  MCO07     
+  227 MP-130411224    2202        PARVESH                         MS45 MS46 MS91 MS94 MS95      
+  228 BDP-130411747   2202        SURBHI                          BHDF101 EHD05 EHD06 EHI03 FHD02     
+                                                                  FST01     
+  229 MP-130412960    2202        TANVI                           MS05 MS10 MS44 MS46      
+  230 BED-130414814   2202        VICKEY                          BESE065 BESE066 ES334 ES335 ES364     
+  231 BED-130414964   2202        KULDIP RAI                      BESE065 BESE066 ES334 ES335 ES364     
+  232 MED-130415088   2202        RAVNEET KAUR                    MES051 MES055 MES056 MESE060   
+  233 MEG-130415128   2202        NAVTEJ SINGH                    MEG01 MEG02 MEG04     
+  234 MCA-130415325   2202        AMANDEEP SINGH                  MCS024 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  235 MP-130416040    2202        RAJAN SHARMA                    MS09 MS45 MS46      
+  236 BDP-130416413   2202        PRIYA                           FST01     
+  237 MHD-130416438   2202        NEHA KUMARI                     MHD01 MHD05 MHD07 MHD13 MHD14     
+                                                                  MHD15 MHD16     
+  238 BED-130417368   2202        ANJU BALA                       BESE065 BESE066 ES334 ES335 ES363     
+  239 BED-130417709   2202        KAMALBIR SINGH                  BESE065 BESE066 ES334 ES335 ES364     
+  240 MCA-130418599   2202        NANCY SHARMA                    MCS041 MCS042 MCS043 MCSL045   
+  241 BED-130418771   2202        GURINDERJIT KAUR                BESE065 BESE066 ES334 ES335 ES363     
+  242 MPA-130419931   2202        GURBIR SINGH                    MPA016 MPA018    
+  243 MPS-130419963   2202        VIJAY KUMAR                     MED008 MGPE007 MGPE008 MPSE001 MPSE004   
+                                                                  MPSE006 MPSE007 MPSE008   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    7
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 2202                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  244 BED-130420864   2202        SARBJIT KAUR                    BESE065 BESE066 ES334 ES335 ES364     
+  245 BED-130420896   2202        SEEMA SHARMA                    BESE065 BESE066 ES334 ES335 ES363     
+  246 BED-130420904   2202        DALBIR SINGH                    BESE065 BESE066 ES334 ES335 ES364     
+  247 BED-130420975   2202        SUKHWINDER KAUR                 BESE065 BESE066 ES334 ES335 ES363     
+  248 BPP-130483041   2202        PURAN SINGH                     PCO       
+  249 BED-130870394   2202        AMITA TRIPATHI                  BESE065 BESE066 ES334 ES335 ES344     
+                                                                  ES361     
+  250 MCA-131806391   2202        JATINDER KAUR                   MCS012 MCS041 MCS042 MCS043 MCSL045   
+  251 MCA-131806599   2202        NEEHARIKA MEHRA                 MCS033 MCS034 MCS041 MCS042 MCS043    
+                                                                  MCSL045   
+  252 MCA-135390117   2202        HARSHBIR SINGH                  MCS011 MCS021 MCS022 MCS023 MCS024    
+                                                                  MCSL025   
+  253 DDT-135392475   2202        PAWAN DEEP SINGH                BPVI011 BPVI014 BPVI017   
+  254 MPS-136007900   2202        AMANPREET KAUR                  MPS001    
+  255 MCA-136008173   2202        PREM BHAJAN SINGH               MCS012 MCS013 MCS021 MCS022 MCS023    
+                                                                  MCS024 MCSL025   
+  256 MSO-136008284   2202        MALKIT KAUR                     MSO001 MSO002 MSO003 MSO004    
+  257 MCA-136009230   2202        ROSY                            MCS031 MCS032 MCS033 MCS034 MCS035    
+                                                                  MCSL036   
+  258 BDP-136009261   2202        VISHAL                          BSHF101 ECO01 ECO02 EEC11     
+  259 MP-136010345    2202        JASKIRAN KAUR                   MS09 MS11 MS44 MS95      
+  260 BCA-136011118   2202        GURJEET SINGH                   BCS031 BCSL032 BCSL033 BCSL034 ECO01     
+                                                                  ECO02 MCS011 MCS014 MCS021 MCS023    
+  261 MCA-136011132   2202        RAMANJEET KAUR                  MCS024 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  262 MP-136011433    2202        SUNIL KUMAR                     MS02 MS05 MS07 MS08 MS09      
+  263 BCA-136013420   2202        AJAY KUMAR                      BCS031 BCSL032 BCSL033 BCSL034 ECO02     
+                                                                  MCS011 MCS014 MCS021 MCS023    
+  264 MCA-136013673   2202        NANCY                           MCS013 MCS014 MCS015 MCS022 MCS023    
+                                                                  MCS024 MCSL016 MCSL017   
+  265 BDP-136013935   2202        VIKAS BHATIA                    CHE05     
+  266 MEG-136014747   2202        LINO SANTIAGO                   MEG01 MEG02 MEG03     
+  267 BDP-136016314   2202        RAHI SAGGAR                     BSHF101 ECO01 ECO02 FHD02     
+  268 BDP-136018855   2202        POOJA RANI                      BHDF101 BSHF101 FHD02     
+  269 MCA-136018887   2202        VINOD KUMAR                     MCS011 MCS014 MCS021 MCS023 MCS024    
+                                                                  MCS031 MCS032 MCS033 MCS034 MCS035 MCSL036   
+  270 MP-136018902    2202        ARUN KUMAR                      MS09 MS10 MS11 MS44      
+  271 MP-136019065    2202        NEERAJ GUPTA                    MS06 MS07 MS08 MS09      
+  272 MCA-136019936   2202        ALISHA MAHAJAN                  MCS031 MCS032 MCS033 MCS034 MCS035    
+                                                                  MCSL036   
+  273 MCA-136019943   2202        PALVI ANGURAL                   MCS024 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  274 MCA-136019975   2202        CHETANYA KUMAR CHOUDHARY        MCS024 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  275 MCA-136019982   2202        PAWANDEEP KAUR                  MCS024 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  276 MCA-136020077   2202        HARSH BAJAJ                     MCS024 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  277 MCA-136020084   2202        ABHIJEET KAUR                   MCS024 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  278 MCA-136020091   2202        RITIKA                          MCS024 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  279 MCA-136020156   2202        MANPREET KAUR                   MCS011 MCS014 MCS021 MCS024 MCS031    
+                                                                  MCS032 MCS033 MCS034 MCS035 MCSL036   
+  280 MCA-136020163   2202        PALAK SHARMA                    MCS013 MCS014 MCS021 MCS024 MCS031    
+                                                                  MCS032 MCS033 MCS034 MCS035 MCSL036   
+  281 MCA-136020170   2202        TANIYA CHOUDHARY                MCS024 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    8
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 2202                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  282 MCA-136020235   2202        MADHVI SANAN                    MCS011 MCS014 MCS021 MCS022 MCS031    
+                                                                  MCS032 MCS033 MCS034 MCS035 MCSL036   
+  283 MCA-136021180   2202        RAHUL BAJAJ                     MCS024 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  284 MCOM-136021197  2202        GAGANDEEP SINGH                 IBO03     
+  285 BDP-136021309   2202        JASPREET KAUR                   BEGE101 BSHF101 FEG02     
+  286 MCA-136021670   2202        GURVEEN KAUR                    MCS024 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  287 MCA-136021688   2202        VIPAN KUMAR                     MCS021 MCS023 MCS024 MCS031 MCS032    
+                                                                  MCS033 MCS034 MCS035 MCSL036   
+  288 MCA-136021695   2202        REKHA                           MCS024 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  289 MCA-136021710   2202        DIMPLE KAUR                     MCS011 MCS021 MCS023 MCS024 MCS031    
+                                                                  MCS032 MCS033 MCS034 MCS035 MCSL036   
+  290 MCA-136021774   2202        RAGHAV KHURANA                  MCS024 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  291 MCA-136021781   2202        SOURAV KUMAR                    MCS024 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  292 MCA-136022830   2202        HARKIRAT KAUR                   MCS021 MCS022 MCS023 MCS024 MCSL025   
+  293 MCA-136023359   2202        RANJANA PAL                     MCS024 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  294 MCA-136023406   2202        SARBJIT SINGH                   MCS011 MCS021 MCS022 MCS023 MCS024    
+                                                                  MCSL025   
+  295 MCA-136023413   2202        VEERPRATAP SINGH                MCS011 MCS021 MCS022 MCS023 MCS024    
+  296 MCA-136023642   2202        LAKSHDEEP KAUR                  MCS031 MCS032 MCS033 MCS034 MCS035    
+                                                                  MCSL036   
+  297 MCA-136023721   2202        VISHAL VERMA                    MCS011 MCS012 MCS013 MCS021 MCS023    
+                                                                  MCS024 MCSL025   
+  298 BDP-136024329   2202        PREETI                          BHDF101 BSHF101 ESO11 ESO12     
+  299 BDP-136024612   2202        SHILPA                          BEGE101 ESO12     
+  300 MCA-136025109   2202        BHAVNEET KAUR                   MCS024 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  301 MCA-136025116   2202        ANKITA                          MCS024 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  302 MCA-136025488   2202        MOHIT KAPOOR                    MCS011 MCS012 MCS014 MCS021 MCS023    
+                                                                  MCS024 MCSL025   
+  303 MCA-136025495   2202        PALLVI                          MCS021 MCS024 MCS031 MCS032 MCS033    
+                                                                  MCS034 MCS035 MCSL036   
+  304 MCA-136025510   2202        DAVINDER SINGH                  MCS011 MCS024 MCS031 MCS032 MCS033    
+                                                                  MCS034 MCS035 MCSL025 MCSL036   
+  305 MCA-136025685   2202        AMANDEEP SINGH                  MCS031 MCS032 MCS033 MCS034 MCS035    
+                                                                  MCSL025 MCSL036   
+  306 MCA-136025836   2202        AJAY SHARMA                     MCS021 MCS024 MCS031 MCS032 MCS033    
+                                                                  MCS034 MCS035 MCSL036   
+  307 MCA-136025850   2202        DAVINDER SINGH                  MCS024 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  308 BDP-136025961   2202        SHAMLI BEDI                     BSHF101 ECO01 ECO02 EHD01 FEG02     
+                                                                  FHD02     
+  309 MCA-136026480   2202        RASHMI MEHTA                    MCS024 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  310 BDP-136026648   2202        MANJU                           BPSE212 BSHF101 EEC11     
+  311 MCA-136026766   2202        KIRAN BIR KAUR                  MCS024 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  312 MCA-136026773   2202        SHEELY SURI                     MCS024 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  313 MCA-136026780   2202        UMANG                           MCS021 MCS024 MCS031 MCS032 MCS033    
+                                                                  MCS034 MCS035 MCSL036   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :    9
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 2202                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  314 MCA-136026798   2202        PRIYA SHARMA                    MCS012 MCS021 MCS022 MCS023 MCS024    
+                                                                  MCSL025   
+  315 BCOMAF-1360269492202        PALAK AGGARWAL                  AED01 FHS01     
+  316 BDP-136028111   2202        MEENU                           EPS11 ESO12     
+  317 BDP-136028175   2202        VIKRAM JIT                      BHDF101 BSHF101 ERD01 FHD02     
+  318 MCA-136028659   2202        PARAMPREET SINGH                MCS021 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  319 BCA-136028777   2202        GURSIMAR SINGH ARORA            BCS031 BCSL032 BCSL033 BCSL034 MCS014    
+                                                                  MCS021 MCS023    
+  320 MCA-136029106   2202        SHARANJIT KAUR                  MCS024 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  321 MCA-136029113   2202        ANITA MEHRA                     MCS021 MCS024 MCS031 MCS032 MCS033    
+                                                                  MCS034 MCS035 MCSL036   
+  322 MCA-136029675   2202        SONU KALRA                      MCS021 MCS024 MCS031 MCS032 MCS033    
+                                                                  MCS034 MCS035 MCSL036   
+  323 MCA-136029682   2202        NARINDERPAL SINGH               MCS011 MCS012 MCS021 MCS022 MCS023    
+                                                                  MCS024 MCSL025   
+  324 BDP-136029905   2202        SUKHRAJ SINGH                   BPSE212 BSHF101   
+  325 BDP-136029937   2202        JUGRAJ SINGH                    BPSE212 BSHF101 FHD02     
+  326 MCA-136029969   2202        AJIT KUMAR MISHRA               MCS021 MCS024 MCS031 MCS032 MCS033    
+                                                                  MCS034 MCS035 MCSL025 MCSL036   
+  327 MCA-136030021   2202        RANJEET KAUR                    MCS024 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  328 MCA-136030308   2202        GURPREET SINGH                  MCS023 MCS024 MCS031 MCS032 MCS033    
+                                                                  MCS034 MCS035 MCSL036   
+  329 MCA-136030315   2202        HARPREET SINGH                  MCS013 MCS024 MCS031 MCS032 MCS033    
+                                                                  MCS034 MCS035 MCSL036   
+  330 MCA-136030347   2202        DIVAY KHANNA                    MCS024 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  331 MCA-136030458   2202        HARJIT KAUR                     MCS024 MCS031 MCS032 MCS033 MCS034    
+                                                                  MCS035 MCSL036   
+  332 BDP-137133659   2202        KARANBIR SINGH                  BPAE102 BSHF101 EPA01 FEG01 FEG02     
+  333 MCA-141261187   2202        SHIWANI SHARMA                  BCS012 MCS011 MCS012 MCS013 MCS014    
+                                                                  MCS021 MCS022 MCS023 MCS024 MCSL025   
+  334 MCOM-141262092  2202        AASHA RANI                      IBO01 IBO02     
+  335 MP-141262963    2202        ABHISHEK MEHRA                  MS01 MS03 MS04 MS05 MS06 MS07      
+                                                                  MS08      
+  336 MPS-141263291   2202        BIHARI LAL                      MPS001 MPS002 MPS003 MPS004    
+  337 MSO-141263671   2202        ANJU BALA                       MSO001 MSO002 MSO003 MSO004    
+  338 CPAHM-141263689 2202        ASHWANI KUMAR                   OMU001 OVA001 OVA002    
+  339 MP-141263696    2202        ABISHEK BEDI                    MS06 MS08 MS10 MS11      
+  340 BED-141263886   2202        MAMTA MEHTA                     ES331 ES332 ES333 ES343 ES345     
+  341 BED-141263933   2202        AMANDIP SINGH                   ES331 ES332 ES333 ES343 ES344     
+  342 MP-141264706    2202        GURWINDER KAUR                  MS02 MS04 MS06 MS08      
+  343 BDP-141265113   2202        BARJINDER SINGH                 BSHF101 EHD02 EHI01 FHD02 FPB01     
+  344 BED-141265367   2202        BALJIT KAUR                     ES331 ES332 ES333 ES343 ES345     
+  345 BED-141265500   2202        MEENA SHARMA                    ES331 ES332 ES333 ES343 ES344     
+  346 BED-141265518   2202        NAVNEET KAUR                    ES331 ES332 ES333 ES343 ES345     
+  347 BED-141265636   2202        RAVNEET KAUR                    ES331 ES332 ES333 ES343 ES345     
+  348 BED-141265690   2202        SULAKHANI                       ES331 ES332 ES333 ES343 ES345     
+  349 BED-141265779   2202        HARNAM SINGH                    ES331 ES332 ES333 ES341 ES342     
+  350 BED-141266011   2202        NEELAM BALA                     ES331 ES332 ES333 ES341 ES342     
+  351 BED-141266154   2202        ISHA MAHAJAN                    ES331 ES332 ES333 ES344 ES345     
+  352 BED-141266161   2202        ANIL SHARMA                     ES331 ES332 ES333 ES343 ES345     
+  353 BED-141266193   2202        PRABHJOT SINGH                  ES331 ES332 ES333 ES343 ES345     
+  354 BED-141266201   2202        CHANDAN DEVI                    ES331 ES332 ES333 ES343 ES345     
+  355 BED-141266226   2202        PREETI MAHAJAN                  ES331 ES332 ES333 ES343 ES344     
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   10
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 2202                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  356 BED-141266559   2202        RAMANJIT KAUR                   ES331 ES332 ES333 ES343 ES345     
+  357 BED-141266566   2202        NIRMALJIT KAUR                  ES331 ES332 ES333 ES343 ES345     
+  358 BED-141266573   2202        SUKHJIT KAUR                    ES331 ES332 ES333 ES343 ES345     
+  359 BED-141266874   2202        KARAMJIT KAUR                   ES331 ES332 ES333 ES343 ES345     
+  360 BED-141266960   2202        BALJEET KAUR                    ES331 ES332 ES333 ES343 ES345     
+  361 BED-141266978   2202        REKHA SHARMA                    ES331 ES332 ES333 ES343 ES345     
+  362 BED-141267091   2202        SARITA SHARMA                   ES331 ES332 ES333 ES343 ES344     
+  363 BLS-141268348   2202        RAJNI SHINGARI                  BLS01 BLS02 BLS03 BLS04 BLS05     
+                                                                  BLS06 BLS07 BLS3P BLS4P     
+  364 BCA-141268441   2202        GURPREET KAUR                   BCS011 BCSL013 BCSL021   
+  365 MCA-141268656   2202        KARAN VERMA                     MCS011 MCS021 MCS022 MCS023 MCS024    
+                                                                  MCSL025   
+  366 MCA-141268670   2202        RITIKA ARORA                    MCS011 MCS021 MCS022 MCS023 MCS024    
+                                                                  MCSL025   
+  367 MPS-141268940   2202        AMANPREET KAUR                  MPS001 MPS002 MPS003 MPS004    
+  368 MEG-141269751   2202        FOUZIA FARHANA                  MEG03 MEG04     
+  369 MEG-141270423   2202        LOYD MINTO                      MEG01 MEG02 MEG03 MEG04     
+  370 MEG-141271156   2202        ROMA                            MEG01 MEG02 MEG03 MEG04     
+  371 BED-141271346   2202        BABITA DEVI                     ES331 ES332 ES333 ES343 ES345     
+  372 BED-141271353   2202        RAJWANT KAUR                    ES331 ES332 ES333 ES343 ES345     
+  373 BED-141271392   2202        GURWINDER KAUR                  ES331 ES332 ES333 ES343 ES345     
+  374 BED-141271504   2202        NARESH KUMAR                    ES331 ES332 ES333 ES343 ES345     
+  375 BED-141271608   2202        JEEWAN JYOTI                    ES331 ES332 ES333 ES342 ES344     
+  376 BED-141271780   2202        NARINDER SINGH                  ES331 ES332 ES333 ES342 ES345     
+  377 BED-141271797   2202        HARPREET KAUR                   ES331 ES332 ES333 ES343 ES345     
+  378 MSO-141272513   2202        NELAM KUMARI                    MSO001 MSO002 MSO003 MSO004    
+  379 MCA-141272617   2202        NAVEEN KUMAR                    MCS021 MCS022 MCS023 MCS024 MCSL025   
+  380 MEG-141273095   2202        SONIA ROOJAM                    MEG01 MEG02 MEG03 MEG04     
+  381 MHD-141273135   2202        VIKRANT GUPTA                   MHD02 MHD03 MHD04 MHD06     
+  382 MCA-141273436   2202        KARAN MAHAJAN                   MCS021 MCS022 MCS023 MCS024 MCSL025   
+  383 MCA-141273443   2202        NUPUR VERMA                     BCS012 MCS013 MCS021 MCS022 MCS023    
+                                                                  MCS024 MCSL025   
+  384 BED-141273902   2202        ARCHANA DEVI                    ES331 ES332 ES333 ES343 ES345     
+  385 BED-141273941   2202        ROMPAL KAUR                     ES331 ES332 ES333 ES343 ES344     
+  386 BDP-141274137   2202        PREETI BALA                     BSHF101 EHI01 ESO12 FHD02 FPB01     
+  387 MCA-141274144   2202        JAPINDERJIT  KAUR               MCS021 MCS022 MCS023 MCS024 MCSL025   
+  388 MEG-141274460   2202        SADIA AFROZ                     MEG01 MEG02     
+  389 MHD-141274785   2202        PARDEEP SINGH                   MHD02 MHD03 MHD04 MHD06     
+  390 MCOM-141274871  2202        MANDEEP KAUR                    IBO01 IBO02 IBO03 IBO04 IBO05     
+                                                                  IBO06     
+  391 MEG-141275390   2202        RAMANDEEP KAUR                  MEG01 MEG02 MEG03 MEG04     
+  392 MSO-141275709   2202        SAVITA                          MSO001 MSO002 MSO003 MSO004    
+  393 CIT-141276202   2202        JASPREET SINGH                  CIT01 CITL001   
+  394 CIS-141276306   2202        SANDEEP SINGH                   BLP001 BLP004 BLPI002 BLPI003   
+  395 CIS-141276320   2202        DARSHAN KUMAR                   BLP001 BLP004 BLPI002 BLPI003   
+  396 CIS-141276338   2202        NARESH KUMAR                    BLP001 BLP004 BLPI002 BLPI003   
+  397 MCA-142388237   2202        PAWAN KUMAR                     MCS021 MCS022 MCS023 MCS024 MCSL025   
+  398 BDP-143011510   2202        BINOD KUMAR                     BEGE101 BHDF101 BSHF101 EHI02     
+                                                                  FHD02     
+  399 PGDRD-143030757 2202        HARJINDER SINGH                 MRD101 MRD102 MRD103 MRDE101   
+  400 MCA-146416803   2202        SHIVA SHARMA                    MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  401 MCA-146417045   2202        RAGHU MAHAJAN                   MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  402 MCA-146417440   2202        ANIL SHARMA                     MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  403 MCA-146418290   2202        SANJAY KUMAR                    MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   11
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 2202                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  404 MCA-146419619   2202        DHEERAJ KUMAR SINGH             MCS011 MCS012 MCS013 MCS014 MCS015    
+  405 MCA-146419783   2202        JOBANPREET SINGH                MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  406 MCA-146420233   2202        SUCHA SINGH                     MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  407 MCA-146420297   2202        VARINDER KAUR                   MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  408 MCA-146420835   2202        SAPNA                           MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  409 BCA-146421210   2202        SANDEEP KAUR                    BCS011 BCS012 BCSL013 ECO01 FEG02     
+  410 MCA-146421726   2202        SHARANDEEP KAUR                 MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  411 BCA-146423135   2202        GOLDY MASIH                     BCS011 BCS012 BCSL013 ECO01 FEG02     
+  412 MCA-146423522   2202        SANGEETA                        MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  413 MCA-146424674   2202        JASMINDER SINGH                 MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  414 MCA-146424753   2202        SAHEZPREET SINGH                MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  415 MCA-146425304   2202        SWEETY TULI                     MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  416 MCA-146425597   2202        GURMEET KAUR                    MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  417 MCA-146425612   2202        SURINDER SINGH                  MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  418 BCA-146425669   2202        KAWALPAL SINGH                  BCS011 BCS012 BCSL013 ECO01 FEG02     
+  419 MCA-146425984   2202        GAGANDEEP SINGH                 MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  420 MCA-146426338   2202        NEHA                            MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  421 MCA-146426391   2202        JAGANJOT KAUR                   MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  422 MCA-146426424   2202        MANPREET KAUR                   MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  423 MCA-146426503   2202        JASPAL SINGH                    MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  424 MCA-146426614   2202        SIMMI                           MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  425 MCA-146426653   2202        RADHIKA ARORA                   MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  426 MCA-146426993   2202        ATUL JABALIA                    MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  427 MCA-146427014   2202        SUNIL VERMA                     MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  428 MCA-146427046   2202        NEETUPAL KAUR                   MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  429 MCA-146427060   2202        BALJINDER SINGH                 MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  430 MCA-146427078   2202        SAHIL SHARMA                    MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  431 MCA-146427623   2202        AMARJEET KAUR                   MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  432 MP-146427727    2202        AMIT SHARMA                     MS01 MS02 MS03      
+  433 MCA-146428657   2202        SAVITA                          MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  434 MCA-146428689   2202        SUNAINA SHARMA                  MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   12
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 2202                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  435 MCA-146429040   2202        SOMBIR SINGH                    MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  436 MCA-146429057   2202        RAJWINDER SINGH                 MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  437 MCA-146429064   2202        SUKHPREET KAUR                  MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  438 MCA-146429412   2202        MALKIT SINGH                    MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  439 MCA-146429777   2202        SHEETAL MAHAJAN                 MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  440 MCA-146429784   2202        NEHA                            MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  441 MCA-146429831   2202        NAVPREET KAUR                   MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  442 MCA-146430123   2202        SHIVANI                         MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  443 BCA-146430241   2202        YAKOOB MASIH                    BCS011 BCS012 BCSL013 ECO01 FEG02     
+  444 MCA-146430391   2202        VIKAS GUPTA                     MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  445 MCA-146430424   2202        KAMALJIT KAUR                   MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  446 MCA-146430463   2202        NEHA MEHTA                      MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  447 MCA-146431053   2202        RAVI BHATTI                     MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  448 MCA-146431544   2202        GAGAN DEEP                      MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  449 MCA-146431576   2202        NAVDEEP KAUR                    MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  450 MCA-146431662   2202        RAGHU TULI                      MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  451 MCA-146431710   2202        RASHMI SAREEN                   MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  452 MCA-146431766   2202        HONEY                           MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  453 MCA-146431780   2202        MEERA SHARMA                    MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  454 MCA-146431820   2202        BHAWNA SHARMA                   MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  455 MCA-146432062   2202        RAHUL SHARMA                    MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  456 MCA-146433064   2202        HARAT MALLI                     MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  457 CIS-146433208   2202        RAM PAL                         BLP001 BLP004 BLPI002 BLPI003   
+  458 CIS-146433222   2202        BISHAMBER SINGH                 BLP001 BLP004 BLPI002 BLPI003   
+  459 CIS-146433230   2202        VARINDER SHARMA                 BLP001 BLP004 BLPI002 BLPI003   
+  460 CIS-146433247   2202        SOM RAJ                         BLP001 BLP004 BLPI002 BLPI003   
+  461 MCA-146433570   2202        JASPREET KAUR                   MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  462 MCA-146433587   2202        RAINA MEHRA                     MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  463 CIS-146434453   2202        ASHISH SHARMA                   BLP001 BLP004 BLPI002 BLPI003   
+  464 MCA-146435161   2202        RAVI                            MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  465 MCA-146435272   2202        SHRUTI SHARMA                   MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  466 MCA-146435376   2202        ANITA                           MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+        
+                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY                 PAGE :   13
+      EXAMINATION CENTRE WISE LIST OF EXAMINEES TERM-END EXAMINATION, DECEMBER 2014 
+                               CENTRE : 2202                                    DATE :26/11/14 15:16:37
+
+------------------------------------------------------------- ---------------------------------------------------
+S.NO  ENR.NO.         CENTRE      NAME                           COURSES OPTED
+------------------------------------------------------------  ----------------------------------------------------
+  467 MCA-146435455   2202        PAVANDEEP KAUR                  MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  468 BCA-146435470   2202        VISHAL ARORA                    BCS011 BCS012 BCSL013 ECO01 FEG02     
+  469 MCA-146435527   2202        SHILANI KHANNA                  MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  470 MCA-146435559   2202        AMANDEEP SINGH                  MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  471 MCA-146436006   2202        DALJIT KAUR                     MCS012 MCS014 MCS015 MCSL016 MCSL017   
+  472 MCA-146436084   2202        VANDANA SHARMA                  MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  473 MCA-146438278   2202        MANPREET KAUR                   MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  474 MCA-146438769   2202        SHABNAM                         MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  475 MCA-146438823   2202        SANJAY KUMAR                    MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  476 MCA-146438855   2202        AMANBIR SINGH SANDHU            MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  477 MP-146439120    2202        JASPREET SINGH                  MS01 MS02 MS03 MS04      
+  478 MCA-146439595   2202        GURJANT SINGH                   MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  479 MCA-146439603   2202        GURWAIL SINGH                   MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  480 MP-146439667    2202        TANNIA MEHTA                    MS02 MS03 MS04 MS06      
+  481 MCA-146439681   2202        RISHI SOOD                      MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  482 MCA-146440281   2202        RAJWINDER KAUR                  MCS011 MCS012 MCS013 MCS014 MCS015    
+                                                                  MCSL016 MCSL017   
+  483 ASSO-AS1456420  2202        HARMINDER SINGH                 EHD01 EHD03     
+  484 ASSO-AS1456509  2202        VIJAY KUMAR                     EHD01 EHD03     
+        
